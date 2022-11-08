@@ -11,8 +11,8 @@ def get_year(input):
     """
     Regex to extract start and end year from an input string with year format YYYY-YYYY
     """
-    year = re.findall(r'\d{4}-\d{4}', input)
-    return year[0].split('-')
+    year = re.findall(r'\d{4}', input)
+    return year
 
 def aer_jpe_preprocess(raw_filepath, output_filepath):
     """
@@ -41,17 +41,21 @@ keep national affiliation with institution
 double check the UCs
 """
 
-
-def find_mac_substring(input):
+def aer_regex(input_filepath, output_filepath):
     """
-    Regex to find the substring "mac" given an input string
+    Regex to extract names and years from an input file
     """
-    mac = re.findall(r'mac', input)
-    return mac
+    with open(input_filepath, 'r', encoding="utf8") as f:
+        with open(output_filepath, 'w', encoding="utf8") as f2:
+            for line in f:
+                name = get_name(line)
+                year = get_year(line)
+                print(name, year)
+                # f2.write(name[0] + ',' + year[0] + '\n')
 
 
 def main():
     # restud_preprocess("restud_raw.csv", "restud.csv")
-    print(find_mac_substring("macaroni"))
+    aer_regex("./../pdf/10.1257_aer.112.1.i.txt", "./../pdf/processed_10.1257_aer.112.1.i.txt")
 
 main()
