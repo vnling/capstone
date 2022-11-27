@@ -4,7 +4,8 @@ def get_name(input):
     """
     Regex to extract name from an input string
     """
-    name = re.findall(r'^[A-Z][a-z]+ [A-Z][a-z]+', input)
+    regex = r"[A-Z][a-z]+ [A-Z][a-z]+" #([-'][A-Z][a-z-']+)?
+    name = re.findall(regex, input)
     return name
 
 def get_year(input):
@@ -49,10 +50,17 @@ def aer_regex(input_filepath, output_filepath):
         with open(output_filepath, 'w', encoding="utf8") as f2:
             for line in f:
                 name = get_name(line)
-                year = get_year(line)
-                print(name, year)
-                # f2.write(name[0] + ',' + year[0] + '\n')
+                for n in name:
+                    f2.write(n + '\n')
 
+"""
+22/11/22 TODO:
+- generate a processed file containing name + year of issue
+    - regex should be able to find year, look for "January 2022" style of date and extract year
+- the names are not being properly processed because of the odd spacing
+    - look into pdf to text conversion, can i enforce more spacing? A: no
+    - considerations: hyphenated names, middle names, initials, O'Reilly, MacAllen etc.
+"""
 
 def main():
     # restud_preprocess("restud_raw.csv", "restud.csv")
