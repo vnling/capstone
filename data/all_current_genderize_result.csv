@@ -92,7 +92,7 @@ Asher Wolinsky,2019,2023,Northwestern University,male,0.99
 Marina Agranov,2021,2024,California Institute of Technology,female,0.99
 David Ahn,2020,2023,Washington University in St. Louis,male,1.0
 Treb Allen,2017,2023,Dartmouth College,male,0.89
-Eduardo Azevedo,2020,2023,The Wharton School, University of Pennsylvania,male,1.0
+Eduardo Azevedo,2020,2023,University of Pennsylvania,male,1.0
 Marco Bassetto,2019,2025,Federal Reserve Bank of Minneapolis,male,1.0
 Lorenzo Caliendo,2019,2025,Yale University,male,1.0
 Gabriel Carroll,2021,2024,University of Toronto,male,1.0
@@ -105,7 +105,7 @@ Rebecca Diamond,2019,2025,Stanford University ,female,1.0
 David Dillenberger,2021,2024,University of Pennsylvania ,male,1.0
 Chris Edmond,2020,2023,University of Melbourne,male,0.92
 Matthew Elliott,2022,2025,Cambridge University ,male,1.0
-Benjamin Faber,2019,2025,University of California, Berkeley ,male,1.0
+Benjamin Faber,2019,2025,University of California Berkeley ,male,1.0
 Jesús Fernández-Villaverde,2017,2023,University of Pennsylvania ,male,1.0
 Claudio Ferraz,2020,2023,University of British Columbia and Pontifícia Universidade Católica do Rio,male,1.0
 Guillaume Fréchette,2015,2024,New York University ,male,1.0
@@ -115,7 +115,7 @@ Rachel Griffith,2020,2023,University of Manchester     ,female,1.0
 Stefan Hoderlein,2018,2024,Emory University ,male,1.0
 Loukas Karabarbounis,2020,2023,University of Minnesota     ,male,1.0
 Jakub Kastl,2019,2025,Princeton University ,male,1.0
-Patrick Kline,2018,2024,University of California, Berkeley ,male,1.0
+Patrick Kline,2018,2024,University of California Berkeley ,male,1.0
 Michal Kolesár,2022,2025,Princeton University ,male,0.98
 Ivana Komunjer,2021,2024,Georgetown University ,female,1.0
 Felix Kubler,2009,2024,University of Zurich,male,1.0
@@ -125,15 +125,15 @@ Jia Li,2018,2024,Singapore Management University,female,0.65
 Qingmin Liu,2021,2024,Columbia University ,male,1.0
 Elena Manresa,2022,2025,New York University ,female,1.0
 Nour Meddahi,2020,2023,Toulouse School of Economics,female,0.56
-Moritz Meyer-ter-Vehn,2020,2023,University of California, Los Angeles     ,male,1.0
-Anna Mikusheva,2020,2023,Massachusetts Institute of Technology     ,female,0.99
+Moritz Meyer-ter-Vehn,2020,2023,University of California Los Angeles,male,1.0
+Anna Mikusheva,2020,2023,Massachusetts Institute of Technology,female,0.99
 Benjamin Moll,2021,2024,London School of Economics ,male,1.0
 Andriy Norets,2018,2024,Brown University ,male,1.0
 Marzena Rostek,2015,2024,University of Wisconsin‐Madison ,female,0.99
 Eran Shmaya,2022,2025,Stony Brook University ,male,0.97
 Zheng (Michael) Song,2018,2024,Chinese University of Hong Kong,male,0.98
-Jón Steinsson,2022,2025,University of California, Berkeley ,male,1.0
-Johannes Stroebel,2020,2023,New York University, Stern School of Business     ,male,1.0
+Jón Steinsson,2022,2025,University of California Berkeley ,male,1.0
+Johannes Stroebel,2020,2023,New York University,male,1.0
 Tomasz Strzalecki,2019,2025,Harvard University ,male,1.0
 Vasilis Syrgkanis,2022,2025,Microsoft Research New England ,male,1.0
 Aleh Tsyvinski,2018,2024,Yale University ,male,0.8
@@ -225,7 +225,7 @@ Fabian Waldinger,,,University of Munich,male,1.0
 Thomas Chaney,,,University of Southern California; Sciences Po,male,1.0
 Andrea Galeotti,,,London Business School,female,0.82
 Bård Harstad,,,University of Oslo,male,1.0
-Nir Jaimovich,,,University of California, San Diego,male,1.0
+Nir Jaimovich,,,University of California San Diego,male,1.0
 Katrine Loken,,,Norwegian School of Economics,female,1.0
 Kurt Mitman,,,IIES, Stockholm University,male,1.0
 Francesca Molinari,,,Cornell University,female,1.0
@@ -292,7 +292,7 @@ Gabriel Chodorow-Reich,,,Harvard University,male,1.0
 Chao Fu,,,University of Wisconsin-Madison,male,0.86
 Myrto Kalouptsidi,,,Harvard University,female,0.92
 Navin Kartik,,,Columbia University,male,1.0
-Patrick Kline,,,University of California, Berkeley,male,1.0
+Patrick Kline,,,University of California Berkeley,male,1.0
 Fuhito Kojima,,,University of Tokyo,male,1.0
 Matteo Maggiori,,,Stanford Graduate School of Business,male,1.0
 Anna Mikusheva,,,MIT,female,0.99

@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import io
 
 def download_pdf(url, filename):
-    response = requests.get(pdf_url)
+    response = requests.get(url)
     file = open(filename + ".pdf", 'wb')
     file.write(response.content)
     file.close()
@@ -15,11 +15,12 @@ soup = BeautifulSoup(page_content, "html.parser")
 
 # Get the links to the issues
 article_links = set()
-l = soup.find('article')
-p = l.find_all('a')
-for link in p:
-    article_link = link.get('href')
-    article_links.add(article_link)
+l = soup.find_all('article')
+for article in l:
+    p = article.find_all('a')
+    for article_link in p:
+        href = article_link.get('href')
+        article_links.add(href)
 
 # Get the links to the articles
 pdf_links = set()
@@ -35,8 +36,12 @@ for url in article_links:
         link_to_access = "https://www.aeaweb.org" + link.get('href')
         doi = link_to_access.split("=")[-1]
         pdf_links.add(doi)
+# print(pdf_links)
 
 # Access each pdf link and save the pdf
 for doi in pdf_links:
     pdf_url = "https://pubs.aeaweb.org/doi/pdfplus/" + doi
-    download_pdf(pdf_url, "_".join(doi.split("/"))) # windows doesn't like / in filenames
+    filename = doi.replace("/", "_")
+    filename = "./../pdf/" + filename
+    print(filename)
+    download_pdf(pdf_url, filename) # windows doesn't like / in filenames
