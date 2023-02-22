@@ -1,9 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import io
+import random
 
 def download_pdf(url, filename):
-    response = requests.get(url)
+    print(url)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0', 'Accept-Language': 'en-US,en;q=0.5', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,/;q=0.8'}
+    response = requests.get(url, headers=headers)
     file = open(filename + ".pdf", 'wb')
     file.write(response.content)
     file.close()
@@ -43,5 +46,5 @@ for doi in pdf_links:
     pdf_url = "https://pubs.aeaweb.org/doi/pdfplus/" + doi
     filename = doi.replace("/", "_")
     filename = "./../pdf/" + filename
-    print(filename)
-    download_pdf(pdf_url, filename) # windows doesn't like / in filenames
+    sleep(random.randint(10, 100)/10)
+    download_pdf(pdf_url, filename) # windows doesn't like / in filenamesprnpr
