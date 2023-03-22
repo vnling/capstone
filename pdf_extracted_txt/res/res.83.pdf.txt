@@ -1,0 +1,166 @@
+Front Matter
+Source: The Review of Economic Studies , January 2016, Vol. 83, No. 1 (294) (January
+2016)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/43868454
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Review of Economic Studies
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:28:54 UTC
+All use subject to https://about.jstor.org/terms
+
+83(1) 294
+
+Marie-LaureAlain,ClaireChamboleandPatrickRey1
+Search Deterrence
+
+Mark Armstrong and Jidong Zhou 26
+The Sunk-Cost Fallacy in Penny Auctions
+
+Ned Augenblick 58
+Trade Induced Technical Change? The Impact of Chinese Imports on Innovation,
+IT and Productivity
+
+Nicholas Bloom, Mirko Draca and John Van Reenen 87
+HIV/AIDS-related Expectations and Risky Sexual Behaviour in Malawi
+Adeline Delavande and Hans-Peter Kohler 1 18
+
+Pricing Network Effects
+
+Itay P. Fainmesser and Andrea Galeotti 16
+Patent Rights and Innovation Disclosure
+
+Hugo A. Hopenhayn and Francesco Squintani 1
+Does Africa Need a Rotten Kin Theorem? Experimental Evidence from Village Economies
+Pamela Jakiela and Owen Ozier 23 1
+
+Policy Influence and Private Returns from Lobbying in the Energy Sector
+
+Karam Kang 269
+Inference for Games with Many Players
+Konrad Menzel 306
+
+Order-Driven Markets are Almost Competitive
+
+Klaus Ritzberger 338
+Differential Fertility, Human Capital, and Development
+
+Tom S. Vogl 365
+A Tractable Monetary Model under General Preferences
+
+Tsz-Nga Wong 402
+
+IVerticalTheTradeITSearchPricngHIV/AIDS-relatdPaten PolicyDoesInfernceOrde -DrivenDif erntialATractbleandSunk-CostAfricaInducedRightsInfluenc Productiv yDetr enc NetworkIntegrationforFertil y,MonetaryNedGamesandMarketsTechnicalF lacyandEf ectsIn ovationaExpectaionsa RotenPrivatewithHuman ModelareinSourceChange?Pen yManyAlmostKinReturnsCapital,DisclosureunderofTheorm?andPlayersAuctionsCompeti veTheHold-upGenralRiskyfromandImpact
+January
+
+fl[^J
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:28:54 UTC
+All use subject to https://about.jstor.org/terms
+
+M
+
+Pļ
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The review was started in 1933 by a group of young British and American Economists. It is published by The Rev
+
+Studies Ltd, whose object is to encourage research in theoretical and applied economics, especially by young econ
+publish the results in The Review of Economic Studies.
+EDITORIAL COMMITTEE
+
+Managing Editors
+
+Jerome Adda, Bocconi University Botond Köszegi, Central European University
+
+Nicola Gennaioli, Bocconi University Áureo de Paula, University College London
+Gita Gopinath, Harvard University Michèle Tertilt, University of Mannheim
+Christian Hellwig, Toulouse University
+
+Journal Manager
+Annika Andreasson, IIES, Stockholm University
+
+Secretary and Business Manager
+Christopher Bowdler, University of Oxford
+
+Foreign Editors
+
+Peter Arcidiacono, Duke University Alessandro Pavan, Northwestern University
+Andrew Atkeson, University of California, Los Angeles Andres Santos, University of California, San Diego
+
+Francisco Buera, University of California, Los Angeles Ilya Segal, Stanford University
+Arnaud Costinot, Massachusetts Institute of Technology Marciano Siniscalchi, Northwestern University
+
+Dave Donaldson, Massachusetts Institute of Technology Bruno Strulovici, Northwestern University
+Pascaline Dupas, Stanford University Andrew Sweeting, University of Maryland
+Mikhail Golosov, Princeton University Ebonya Washington, Yale University
+
+Guido Lorenzoni, Massachusetts Institute of Technology Pierre-Olivier Weill, University of California, Los An
+
+Magne Mogstad, University of Chicago Pierre Yared, Columbia University
+Ulrich Müller, Princeton University
+Editorial Board
+
+Kjetil Storesletten (Chair), University of Oslo
+
+Alp Atakan, Koc University Jeremy Lise, University College London
+
+Stéphane Bonhomme, University of Chicago Katrine Loken, University of Bergen
+Francesco Caselli, London School of Economics Kalina M anova, University of Oxford
+Thomas Chaney, University of Toulouse Alberto Martin, CREI, Universität Pompeu Fabra
+Syngjoo Choi, University College London Ian Martin, London School of Economics
+Nicolas Coeurdacier, Sciences Po Guy Michaels, London School of Economics
+David Dorn, University of Zurich Gerard Padró i Miquel, London School of Economics
+Mike Elsby, University of Edinburgh Elias Papaioannou, London Business School
+Nicola Fuchs-Schündeln, Goethe University Frankfurt Daniel Paravisini, London School of Economics
+Andrea Galeotti, University of Essex Maria Petrova, Universität Pompeu FabrA
+Alfred Galichon, Sciences Po Guillaume Plantin, University of Toulouse
+
+Gino Gancia, CREI, Universität Pompeu Fabra Imran Rasul, University College London
+Alessandro Gavazza, London School of Economics Philipp Schmidt-Dengler, University of Vienna
+Alex Gershkov, Hebrew University of Jerusalem Uta Schoenberg, University College London
+Marina Halac, University of Warwick Jakub Steiner, CERGE-EI
+Rema Hanna, University of Zurich Adam Szeidl, Central European University
+Bàrd Harstad, University of Oslo Balázs Szentes, University College London
+Xavier d'HAULTFOEUiLLE, CREST-ENSAE Silvana Tenreyro, London School of Economics
+Nagore Iriberri, Universität Pompeu Fabra Olivier Tercieux, Paris School of Economics
+
+Keyu Jin, London School of Economics Marko Terviö, Aalto University
+Philipp Kircher, University of Edinburgh Dimitri Vayanos, London School of Economics
+
+Peter Kondor, Central European University Frederic Vermeulen, University of Leuven
+Miklós Koren, Central European University Fabian Waldinger, University of Warwick
+Dennis Kristensen, University College London Georg Weizsäcker, Humboldt University
+Camille Landais, London School of Economics Mirko Wiederholt, Goethe University Frankfurt
+Ottowi
+
+»
+
+*.,
+
+T
+
+a
+
+.
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:28:54 UTC
+All use subject to https://about.jstor.org/terms
+
+,r-n.
+
+......
+
+D
+
+

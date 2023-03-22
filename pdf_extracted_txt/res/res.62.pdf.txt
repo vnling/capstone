@@ -1,0 +1,109 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 62, No. 1 (Jan., 1995)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2297838
+Accessed: 17-02-2023 12:28 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:11 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 62(1) No. 210 STUDIES
+
+Competition and Regulation in Vertically Related Markets John Vickers I
+Estimating Markups and Market Conduct with Multidimensional Product Attributes
+Robert C. Feenstra and James A. Levinsohn 19
+
+Markov-Perfect Industry Dynamics: A Framework for Empirical Work
+Richard Ericson and Ariel Pakes 53
+
+The Economics of Hubs: The Case of Monopoly
+
+Ken Hendricks, Michele Piccione and Guofu Tan 83
+Arbitrage and Existence of Equilibrium in Infinite Asset Markets
+Donald J. Brown and Jan Werner 101
+
+Learning, Matching and Growth Derek Laing, Theodore Palivos and Ping Wang 115
+Infrastructure, Growth and the Two Dimensions of Industrial Policy
+Moshe Justman 131
+
+Accepted
+
+Manuscripts
+
+January 1995
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:11 UTC
+All use subject to https://about.jstor.org/terms
+
+159
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is
+published by The Review of Economic Studies Ltd., whose object is to encourage research in
+theoretical and applied economics, especially by young economists, and to publish the results in the
+Review of Economic Studies.
+The Review also administers a travel fund to enable young economists or econometricians
+travelling either to or from the U.K. to present papers at conferences and workshops. Applications
+should be made to the Business Manager, Dr. Alan Hamlin, Department of Economics, University
+of Southampton, Southampton S017 1BJ.
+Subscription Rates for 1995 are:
+Institutions (1 year) ?70 (US$127)
+Individuals (1 year) ?24 (US$44)
+Individuals (3 years) ?55 (US$100)
+Students (1 year) ?12 (US$22)
+
+Students (4 years) ?25 (US$45)
+Back Volumes from Vol. 53 are also available at these prices. Single issues cost ?12 (US$24).
+The index for Vols. 26-48 costs ?15 (US$30). Cheques should be made payable to The Review of
+Economic Studies Ltd., and sent to The Review of Economic Studies Ltd., Journal Subscriptions
+Department, Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, U.K. Reprints of Vols. 152 can be obtained from Kraus Reprint and Periodicals, Route 100, Millwood, N.Y. 10546, U.S.A.
+Editorial Committee
+Joint Managing Editors M. ARELLANO T. BORGERS I. D. JEWITT
+
+Assistant Editors 0. ATTANASIO M. MEYER
+Production Editor J. A. BEATH
+Foreign Editors R. BtNABOU D. DIAMOND D. FUDENBERG B. HONORP
+
+Business Manager A. HAMLIN
+Editorial Board
+
+C. R. BEAN (Chairman)
+K. ABADIR E. VAN DAMME A. MANNING K. SCHMIDT
+P. AGHION M. DEWATRIPONT C. MEGHIR E. SENTANA
+M. ARMSTRONG J. Dow J. H. MOORE H. SHIN
+G. BERTOLA C. HARRIS D. QUAH J. THOMAS
+P. BOLTON P. KLEMPERER P. REY J. TIROLE
+
+D. CANNING B. LOCKWOOD A. ROELL J. VICKERS
+P. WEIL
+
+Copyright (D 1995, The Review of Economic Studies Limited
+
+The appearance of the fee codes in this journal indicates the copyright owner's consent that
+of the article may be made for personal or internal use on the following conditions. The copier
+pay the stated per-copy fee through the Copyright Clearance Center Inc., P.O. Box 8891, Boston,
+Mass 02114, U.S.A. for copying beyond that permitted by Sections 107 and 108 of the U.S. Copyright
+Law. For territories outside North America, permission should be sought direct from the copyright
+holder. This consent does not extend to other kinds of copying, such as copying for general distribution, for advertising and promotional purposes, for creating new collective works, or for resale.
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of Economic
+Studies Ltd., Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, U.K.
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+U.S. Mailing: Second class postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
+of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
+07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:11 UTC
+All use subject to https://about.jstor.org/terms
+
+

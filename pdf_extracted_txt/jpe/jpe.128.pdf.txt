@@ -1,0 +1,232 @@
+JOURNAL OF
+
+POLITICAL ECONOMY
+
+Journal of Political Economy
+
+Edited by
+HARALD UHLIG, LEAD EDITOR
+
+JAMES J. HECKMAN
+Emir Kamenica
+GREG KAPLAN
+
+JOHN LIST
+MAGNE MOGSTAD
+CHAD SYVERSON
+
+In cooperation with other members of the Department of Economics
+and the Booth School of Business of the University of Chicago,
+outside referees, and the following associate editors:
+Anna Dreber
+Almenberg
+Itamar Drechsler
+David Green
+Edwin Leuven
+Pietro Ortoleva
+
+Parag Pathak
+Valerie Ramey
+Gautam Rao
+Albrecht Ritschl
+Esteban Rossi-Hansberg
+Joseph Shapiro
+
+Johannes Stroebel
+Francesco Trebbi
+Bertil Tungodden
+Jonathan Vogel
+Christopher Walters
+
+Managing Editor: CONNIE FRITSCHE
+Production Editor: ED MARTIN
+Editorial Assistants: LINFEI LI AND MANISHA RATAKONDA
+The Journal of Political Economy (ISSN 0022-3808) is published monthly by the University of Chicago Press, 1427 E. 60th Street, Chicago, IL 60637-2902.
+Individual subscription rates for 2020: $100 print + electronic, $90 print-only, $75
+e-only. Institutional print + electronic and e-only subscription rates are tiered according to
+an institution’s type and research output: $588 to $1,440 print + electronic, $511 to $1,252
+e-only. Institutional print-only is $787. Additional taxes and/or postage for non-U.S. subscriptions may apply. For additional rates, including full run access, single copy rates, and
+reduced rates for students, visit www.journals.uchicago.edu/journals/jpe/about. Free or
+deeply discounted access is available in most developing nations through the Chicago
+Emerging Nations Initiative (www.journals.uchicago.edu/ceni). Please direct subscription, back-issue requests, and address changes to The University of Chicago Press, Subscription Fulfillment, 1427 E. 60th Street, Chicago, IL 60637-2902. Telephone: (773) 7533347 or toll-free in the United States and Canada (877) 705-1878. Fax: (773) 753-0811 or
+toll-free (887) 705-1879. Email: subscriptions@press.uchicago.edu.
+Postmaster: Send address changes to Journal of Political Economy, The University of Chicago Press, Subscription Fulfillment, 1427 E. 60th Street, Chicago, IL 60637-2902. Periodical postage paid in Chicago and additional mailing offices.
+Complete information for contributors can be found at http://www.journals
+.uchicago.edu/JPE. Manuscripts may be submitted via Editorial Manager at http://
+jpolec.edmgr.com.
+Copying beyond Fair Use: Articles may be copied or otherwise reused without permission
+only to the extent permitted by Sections 107 and 108 of the U.S. Copyright Law. Permission
+to copy articles for personal, internal, classroom, or library use may be obtained from the
+Copyright Clearance Center (www.copyright.com). For all other uses, such as copying for
+general distribution, for advertising or promotional purposes, for creating new collective
+works, or for resale, please contact Permissions Coordinator, Journals Division, University
+of Chicago Press, 1427 E. 60th Street, Chicago­, IL 60637-2902 USA. Fax: (773) 834-3489.
+Email: journalpermissions@press.uchicago.edu. Articles in the public domain may be
+used without permission, but it is customary to contact the author.
+q2020 by The University of Chicago. All rights reserved.
+The paper used in this publication meets the minimum requirements of American National
+Standard for Information Sciences—Permanence of Paper for Printed Library Materials,
+ANSI Z39.48-1984.`
+V™ 
+
+acknowledges the assistance of:
+Jerome Adda
+Sumit Agarwal
+Alberto Alesina
+Franklin Allen
+Treb Allen
+Omar Al-Ubaydli
+Diego Amador
+David Andolfatto
+David Arseneau
+Enghin Atalay
+Adrien Auclert
+Ghazala Azmat
+Nicholas Barberis
+Marco Battaglini
+Christian Bayer
+Sascha Becker
+Martin Beraja
+Dirk Bergemann
+V. Bhaskar
+Javier Bianchi
+Teodora Boneva
+Pedro Bordalo
+Michael Bordo
+Ethan Bueno de Mesquita
+Aline Butikofer
+John Campbell
+Clément Carbonnier
+David Chan
+Kerwin Charles
+Gabe Chodorow-Reich
+Eugene Choo
+Steve Cicala
+Robert Clark
+John Cochrane
+Mike Conlin
+Chris Conlon
+Patricia Cortes
+Peter Cramton
+Brendan Daley
+Lancelot Henry de Frahan
+Mariacristina De Nardi
+Eddie Dekel
+Marco Del Negro
+Klaus Desmet
+Angela Dills
+Michael Dinerstein
+Will Dobbie
+Gary Dushnitsky
+Piotr Dworczak
+Ross Emmett
+Michael Ewens
+Natalia Fabra
+
+David Figlio
+Raymond Fisman
+Nicola Fuchs-Schuendeln
+Xavier Gabaix
+Garance Genicot
+Matthew Gentzkow
+George Georgiadis
+Gene Grossman
+Zachary Grossman
+Robert Hall
+William Hanlon
+Glenn Harrison
+J. Henderson
+Kyle Herkenhoff
+Jonas Hjort
+Justin Holz
+Richard Hornbeck
+Lars Hornuf
+Tanjim Hossain
+Christopher House
+Daniel Hungerman
+Sebastian Infante
+Pamela Jakiela
+Akshaya Jha
+Boyan Jovanovic
+Phillip Jung
+Ben Keys
+Alan Krause
+Ilan Kremer
+Kurt Lavetti
+Benjamin Lester
+Arthur Lewbel
+Fei Li
+Qi Li
+Ethan Lieber
+Mikael Lindahl
+Ilse Lindenlaub
+Ce Liu
+Lee Lockwood
+Katrine Loken
+Michael Lovenheim
+Erzo Luttmer
+Rocco Macchiavello
+Giovanni Mastrobuoni
+Filip Matejka
+Steven Mello
+Xin Meng
+Konrad Menzel
+Margaret Meyer
+Moritz Meyer-ter-Vehn
+Sidharth Moktan
+Jack Mountjoy
+
+Toshihiko Mukoyama
+David Neumark
+J. Peter Nilsson
+Georg Noldeke
+Emily Oster
+Erkut Ozbay
+Matthew Panhans
+Eduardo Perez-Richet
+Eric Plug
+Luis Rayo
+Jean-Marc Robin
+Arthur Robson
+Guillaume Rocheteau
+Matthias Rodemeier
+Mauricio Romero
+Nikolai Roussanov
+Sutanuka Roy
+Nicholas Ryan
+Evan Sadler
+Sally Sadoff
+Kota Saito
+Yuval Salant
+Laura Salisbury
+Andres Santos
+Michael Sattinger
+David Schoenherr
+Daniel Schunk
+Johannes Schwarzer
+Adam Shapiro
+Moses Shayo
+David Silver
+Andrzej Skrzypacz
+Stefanie Stantcheva
+Amanda Starc
+Tomasz Strzalecki
+Jan Stuhler
+Rebecca L. Thornton
+Petra Todd
+Joseph Vavra
+Carlos Vegh
+Miguel Villas-Boas
+Hans Voth
+Joel Waldfogel
+John Wallis
+Simon Weber
+Ralph Winter
+Gavin Wright
+Danny Yagan
+M. Bumin Yenmez
+Dennis Zhang
+Jin Zhou
+Ekaterina Zhuravskaya
+
+

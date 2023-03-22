@@ -1,0 +1,141 @@
+The Quarterly Journal of Economics
+Board of Editors
+
+Associate Editors
+
+Isaiah Andrews
+Andrew Atkeson
+David Atkin
+Nicholas Barberis
+Timothy Besley
+Nicholas Bloom
+Pascaline Dupas
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+
+Gerard Padró i Miquel
+Brent Neiman
+Matthew Notowidigdo
+Nathan Nunn
+Edward O’Donoghue
+Emily Oster
+Amanda Pallais
+Valerie Ramey
+Stephen Redding
+
+Bruce Sacerdote
+Jesse M. Shapiro
+Jón Steinsson
+Tomasz Strzalecki
+Amir Sufi
+Silvana Tenreyro
+John Van Reenen
+Hans-Joachim Voth
+Ebonya Washington
+David Yanagizawa-Drott
+
+In association with the Harvard Department of Economics and Invited Readers.
+Production Editor
+
+Thomas H. Baranga
+
+Volume 136, Number 1 (February 2021)
+© 2021 The President and Fellows of Harvard College. All rights reserved.
+Statement on dissemination of data: The QJE strongly urges authors to make their data
+available for public use, and the QJE web site can be used for this purpose. This availability is
+important for replication and extension of research findings. We also recognize that good incentives for generating and assembling data entail an interval of private use and that sometimes
+this private use extends beyond the first application of the data in an initial article. However,
+in the longer run, the creator of a data set is also benefited by wide dissemination use, and citation of
+the data that have been generated.
+
+Downloaded from https://academic.oup.com/qje/issue/136/1 by New York University user on 16 February 2023
+
+Robert J. Barro Lawrence F. Katz Nathan Nunn Andrei Shleifer Stefanie Stantcheva
+
+Subscriptions
+A subscription to The Quarterly Journal of Economics comprises 4 issues. Prices include dispatch by Standard Air. Airmail rates
+are available on request. The Quarterly Journal of Economics’ Advance Access contains papers that have recently been accepted
+but have not yet been included within an issue. Advance Access is updated daily.
+Annual Subscription Rate (Volume 136, 4 issues, 2021)
+Corporate
+Print and online access: £751/$1160/€867
+Print edition only: £693/$1070/€800
+Site-wide online access only: £550/$849/€633
+Institutional
+Print and online access: £620/$929/€694
+Print edition only: £555/$856/€639
+Site-wide online access only: £440/$680/€507
+Please note: UK£ rate applies to UK and Rest of World, except US and Canada (US$) and Europe (Eur€). There are other subscription
+rates available; for a complete listing, please visit http://www.oxfordjournals.org/our_journals/qje/access_purchase/price_list.html.
+Full prepayment in the correct currency is required for all orders. Payment should be in US dollars for orders being delivered to
+the USA or Canada; euros for orders being delivered within Europe (excluding the UK); GBP sterling for orders being delivered
+elsewhere (i.e., not being delivered to USA, Canada, or Europe). All orders should be accompanied by full payment and sent to your
+nearest OUP Journals office. Subscriptions are accepted for complete volumes only. Orders are regarded as firm, and payments
+are not refundable. Our prices include dispatch by Standard Air. Claims must be notified within four months of despatch/order
+date (whichever is later). Subscriptions in the EEC may be subject to European VAT. If registered, please supply details to avoid
+unnecessary charges. For subscriptions that include online versions, a proportion of the subscription price may be subject to UK
+VAT. Subscribers in Canada, please add GST to the prices quoted. Personal rate subscriptions are only available if payment is made
+by personal cheque or credit card, delivery is to a private address, and is for personal use only.
+The current year and two previous years’ issues are available from Oxford Journals. Previous volumes can be obtained from the
+Periodicals Service Company, 11 Main Street, Germantown, NY 12526, USA. E-mail: psc@periodicals.com. Email: psc@periodicals.
+com. Tel: (518) 537-4700. Fax: (518) 537-5899.
+Contact information
+Journals Customer Service Department, Oxford Journals, Great Clarendon Street, Oxford OX2 6DP, UK. E-mail: jnls.cust.serv@
+oxfordjournals.org. Tel: +44 (0)1865 353907. Fax: + 44 (0)1865 353485. In the Americas, please contact: Journals Customer
+Service Department, Oxford Journals, 2001 Evans Road, Cary, NC 27513, USA. E-mail: jnlorders@oxfordjournals.org. Tel: (800)
+852-7323 (toll-free in USA/Canada) or (919) 677-0977. Fax: (919) 677-1714. In Japan, please contact: Journals Customer Service
+Department, Oxford Journals, 4-5-10-8F Shiba, Minato-ku, Tokyo, 108-8386, Japan. E-mail: custserv.jp@oxfordjournals.org. Tel:
+(81) 3 5444 5858. Fax: (81) 3 3454 2929.
+Methods of payment
+Payment should be made: by cheque (to Oxford Journals, Cashiers Office, Great Clarendon Street, Oxford, OX2 6DP, UK); by
+bank transfer [to Barclays Bank Plc, Oxford Office, Oxford (bank sort code 20-65-18) (UK); overseas only Swift code BARC
+GB22 (GB£ Sterling Account no. 70299332, IBAN GB89BARC20651870299332; US$ Dollars Account no. 66014600, IBAN
+GB27BARC20651866014600; EU€ EURO Account no. 78923655, IBAN GB16BARC20651878923655]; or by credit card (MasterCard,
+Visa, Switch, or American Express).
+Postal information
+The Quarterly Journal of Economics (ISSN 0033-5533) is published 4 times {February, May, August, November} by Oxford
+University Press, 2001 Evans Road, Cary, NC 27513-2009, USA. Periodicals postage is paid at Cary, NC 27513-2009 and additional
+mailing offices. POSTMASTER: Send all address changes to the Quarterly Journal of Economics, Journals Customer Service
+Department, Oxford University Press, 2001 Evans Road, Cary, NC 27513-2009.
+Oxford Journals environmental and ethical policies
+Oxford Journals, a division of Oxford University Press, is committed to working with the global community to bring the highest
+quality research to the widest possible audience. Oxford Journals will protect the environment by implementing environmentally
+friendly policies and practices wherever possible. Please see http://www.oxfordjournals.org/ethicalpolicies.html for further
+information on environmental and ethical policies.
+Digital object identifiers
+For information on dois and to resolve them, please visit www.doi.org.
+Permissions
+For information on how to request permissions to reproduce articles or information from this journal, please visit www.
+oxfordjournals.org/permissions.
+Advertising
+Advertising, inserts, and artwork enquiries should be addressed to Advertising and Special Sales, Oxford Journals, Oxford
+University Press, Great Clarendon Street, Oxford, OX2 6DP, UK. Tel: +44 (0)1865 354767; Fax: +44 (0)1865 353774; E-mail:
+jnlsadvertising@oxfordjournals.org.
+Disclaimer
+Statements of fact and opinion in the articles in The Quarterly Journal of Economics are those of the respective authors and
+contributors and not of The Quarterly Journal of Economics or Oxford University Press. Neither Oxford University Press nor The
+Quarterly Journal of Economics make any representation, express or implied, in respect of the accuracy of the material in this
+journal and cannot accept any legal responsibility or liability for any errors or omissions that may be made. The reader should make
+her or his own evaluation as to the appropriateness or otherwise of any experimental technique described.
+Copyright © 2021 The President and Fellows of Harvard College. All rights reserved.
+Submission Guidelines
+All material to be considered for publication in The Quarterly Journal of Economics should be submitted in electronic form via the
+journal’s online submission system at https://editorialexpress.com/cgi-bin/e-editor/e-submit_v7.cgi?dbase=qje.
+Full instructions for manuscript preparation and submission can be found at
+http://www.qje.oxfordjournals.org.
+Indexing/Abstracting.
+All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by
+any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission of the publisher or a
+license permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd, 90 Tottenham Court Road, London
+W1P 9HE.
+Typeset by Aptara, Noida, India
+Printed by The Sheridan Press, Hanover, PA, USA.
+Oxford University Press is a department of the University of Oxford. It furthers the University’s objective of excellence in research,
+scholarship, and education by publishing worldwide.
+
+QJECON_136_1_Cover.indd Sec1:3
+
+21/12/20 7:08 PM
+
+

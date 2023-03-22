@@ -1,0 +1,360 @@
+Front Matter
+Source: The Quarterly Journal of Economics , Feb., 2003, Vol. 118, No. 1 (Feb., 2003)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/25053896
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Quarterly Journal of Economics
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:32:52 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY
+JOURNAL OF
+
+ECONOMICS
+FOUNDED 1886
+
+Volume CXVIII February 2003 Issue 1
+ARTICLES
+
+Thomas Piketty and Emmanuel Saez
+Income Inequality in the United States, 1913-1998 1
+
+John A. List
+
+Does Market Experience Eliminate Market Anomalies? 41
+
+Dan Ariely, George Loewenstein, and Drazen Prelec
+
+"Coherent Arbitrariness": Stable Demand Curves without Stable
+Preferences 73
+
+Paul Gompers, Joy Ishii, and Andrew Metrick
+Corporate Governance and Equity Prices 107
+
+David H. Autor and Mark G. Duggan
+
+The Rise in the Disability Rolls and the Decline in Unemployment 157
+
+Jakob Svensson
+
+Who Must Pay Bribes and How Much? Evidence from a Cross Section
+
+of
+
+Firms
+
+Rafael
+
+La
+
+207
+
+Porta,
+
+Guillermo
+
+Related
+
+Lending
+
+Christopher
+
+Macroeconomic
+
+D.
+
+Role
+
+of
+
+-
+
+231
+
+Carroll
+
+Expectations
+
+Forecasters 269
+Igal Hendel and
+
+The
+
+Florencio
+
+Zamarripa
+
+o
+
+Alessandro
+
+Commitment
+
+Insurance 299
+Per-Anders Edin,
+
+in
+
+Peter
+
+Dy
+
+Fr
+
+Ethnic Enclaves and the Econo
+from a Natural Experiment 3
+
+PUBLISHED
+
+BY
+
+THE
+
+MIT
+
+QJE 118(1) 1-357
+ISSN 0033-5533
+
+PRESS
+
+(2003)
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:32:52 UTC
+All use subject to https://about.jstor.org/terms
+
+FO
+
+No.
+
+4
+
+The Quarterly Journal of Economics
+Board of Editors
+
+Edward L. Glaeser
+
+Alberto Alesina
+
+Lawrence F. Katz
+
+Associate Editors
+
+George Akerlof
+Susan C. Athey
+
+David Baron
+
+Marianne Bertrand
+John Bound
+Andrew Caplin
+Judith Chevalier
+
+Janet Currie
+
+Dennis Epple
+
+Ernst Fehr
+Claudia Goldin
+Oliver Hart
+Charles Jones
+Michael Kremer
+
+Eliana La Ferrara
+Bruce Sacerdote
+Jeremy Stein
+Richard Thaler
+Jaume Ventura
+Michael Waldman
+Alwyn Young
+
+In association with the Harvard Department of Economics and Invited Readers.
+
+Assistant Editor
+
+Harriet E. Hoffman
+
+Volume 118, Number 1 (February 2003)
+The Quarterly Journal of Economics (ISSN 0033-5533 E-ISSN 1531-4650) is published four
+
+times per year (February, May, August, November) by The MIT Press, Five Cambridge Center,
+
+Cambridge, Massachusetts 02142-1407. Copyright 2003 by the President and Fellows of
+
+Harvard College and the Massachusetts Institute of Technology. All rights reserved. Repro
+
+duction or translation of any part of the work beyond that permitted by Sections 107 or 108 of
+the United States Copyright Law without the permission of the copyright owner is unlawful.
+Permission to photocopy articles for internal or personal use or the internal or personal use
+of specific clients is granted by the copyright owner for libraries and other users registered
+
+with the Copyright Clearance Center (CCC), provided that the per-copy fee of $10.00 is paid
+directly to CCC, 222 Rosewood Drive, Danvers, MA 01923. The fee code for users of the CCC's
+Transactional Reporting Service is 0033-5533/03 $10.00. For those organizations that have
+been granted a photocopy license with CCC, a separate system of payment has been arranged.
+Address all other inquiries to Subsidiary Rights Manager, MIT Press Journals, Five Cam
+bridge Center, Cambridge, MA 02142. Fax: (617) 258-5028; e-mail: journals-rights@mit.edu.
+The contents of this Journal are included by the following:
+Abstracts of Location Analysis, America: History and Life, Business Periodicals Index, Current
+Contents/Social and Behavioral Sciences, Current Mathematical Publications, Economic Lit
+erature Index, Expanded Academic Index, Historical Abstracts, Human Resources Abstracts,
+Index of Economic Articles, International Bibliography of Periodical Literature, Journal of
+Economic Literature, Journal of Real Estate Literature, Lexis Nexis, Mathematical Reviews,
+MathSci, Research Papers in Economics, Sage Public Administration Abstracts, Sage Urban
+Studies Abstracts, Social Sciences Citation Index, Social Sciences Index, Social Work Research
+& Abstracts, Wilson Business Abstracts, and Work Related Abstracts.
+An electronic, full-text version o? Quarterly Journal of Economics is available from the MIT
+
+Press.
+
+Subscription rates: Electronic only?Individuals $40.00, Students/retired $25.00, Institu
+tions $171.00. Canadians add 7% GST. Print and Electronic?Individuals $44.00, Students/
+
+retired $28.00, Institutions $190.00. Outside the U.S. and Canada add $24.00 for postage and
+
+handling. Canadians add 7% GST. Current issues are $48.00. Back issue rates: Individuals
+$24.00, Institutions $48.00. Outside the U.S. and Canada add $5.00 per issue for postage and
+
+handling. Canadians add 7% GST. Mail subscription and address changes to MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407; (617) 253-2889; fax: (617)
+577-1545; e-mail: journals-orders? mit.edu. Claims for missing issues will be honored free of
+charge if made within three months after the publication date of the issue. Claims may be
+emailed to journals-claims@mit.edu. Prices subject to change without notice.
+
+Postmaster: Send address changes to The Quarterly Journal of Economics, MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407. Periodicals Postage paid at
+Boston, MA, and at additional postal offices.
+Advertising and mailing list inquiries may be addressed to: Marketing Dept, MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407; (617) 253-2866; fax (617)
+258-5028; e-mail: journals-info@mit.edu.
+Books, periodicals, and manuscripts should be addressed to THE QUARTERLY JOUR
+NAL OF ECONOMICS, Littauer Center, Harvard University, Cambridge, Massachusetts
+02138. Three copies of manuscripts should be submitted in clear double-spaced typewritten
+copy. The use of recycled paper is encouraged. Manuscripts of more than forty-five double
+spaced typed pages in length are not ordinarily considered for publication. Copies of manu
+scripts that have not been accepted for publication are not ordinarily returned to the author.
+Offprints may be ordered by authors prior to publication, prepaid.
+
+Business Correspondence should be addressed to The MIT Press Journals, Five Cam
+
+bridge Center, Cambridge, MA 02142. http://mitpress.mit.edu/qje
+
+? 2003 by the President and Fellows of Harvard College and
+The Massachusetts Institute of Technology
+printed in United States of America
+
+? This publication is printed on acid-free paper.
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:32:52 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY JOURNAL
+
+OF ECONOMICS
+
+ARTICLES
+
+Thomas PnoETTY and Emmanuel Saez
+
+Income Inequality in the United States, 1913-1998 1
+
+John A List
+
+Does Market Experience Eliminate Market Anomalies? 41
+
+Dan Arhsly, George Loewenstein, and Drazen Prelec
+
+"Coherent Arbitrariness": Stable Demand Curves without Stable
+Preferences 73
+
+Paul Gompers, Joy Ishii, and Andrew Metrick
+Corporate Governance and Equity Prices 107
+
+Davto H. Autor and Mark G. Duggan
+
+The Rise in the Disability Rolls and the Decline in Unemployment 157
+
+Jakob Svensson
+
+Who Must Pay Bribes and How Much? Evidence from a Cross Section
+
+of
+Firms
+Rafael
+La
+
+207
+Porta,
+
+GUELLERMO
+
+Related
+
+Lending
+
+Christopher
+
+Macroeconomic
+
+D.
+
+Role
+
+of
+
+231
+
+Car
+
+Expecta
+
+Forecasters
+269
+Igal
+Hendel
+and
+
+The
+
+Flo
+
+ZaMARRD?
+
+Ales
+
+Commitmen
+
+Insurance
+299
+Per-Anders
+Edin,
+
+Ethnic
+Enclaves
+from
+a
+Natural
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:32:52 UTC
+All use subject to https://about.jstor.org/terms
+
+Pet
+
+and
+th
+Experi
+
+

@@ -1,0 +1,616 @@
+The American
+Economic Review
+ARTICLES
+Quamrul Ashraf and Oded Galor
+The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic
+	Development
+Yeon-Koo Che, Wouter Dessein, and Navin Kartik
+Pandering to Persuade
+Parag A. Pathak and Tayfun Sönmez
+School Admissions Reform in Chicago and England: Comparing Mechanisms by their
+	Vulnerability to Manipulation
+Suresh Naidu and Noam Yuchtman
+Coercive Contract Enforcement: Law and the Labor Market in Nineteenth Century
+Industrial Britain
+Matthew Grennan
+Price Discrimination and Bargaining: Empirical Evidence from Medical Devices
+Liran Einav, Amy Finkelstein, Stephen P. Ryan, Paul Schrimpf, and Mark R. Cullen
+Selection on Moral Hazard in Health Insurance
+Meghan R. Busse, Christopher R. Knittel, and Florian Zettelmeyer
+Are Consumers Myopic? Evidence from New and Used Car Purchases
+Michael Frakes
+The Impact of Medical Liability Standards on Regional Variations in Physician
+Behavior: Evidence from the Adoption of National-Standard Rules
+Philippe Aghion, John Van Reenen, and Luigi Zingales
+Innovation and Institutional Ownership
+Eric Bartelsman, John Haltiwanger, and Stefano Scarpetta
+Cross-Country Differences in Productivity: The Role of Allocation and Selection
+Stefan Buehler and Dennis L. Gärtner
+	Making Sense of Nonbinding Retail-Price Recommendations
+Antonio Cabrales, Olivier Gossner, and Roberto Serrano
+Entropy and the Value of Information for Investors
+Miklós Koren and Silvana Tenreyro
+Technological Diversification
+J. Michelle Brock, Andreas Lange, and Erkut Y. Ozbay
+	Dictating the Risk: Experimental Evidence on Giving in Risky Environments
+Geoffrey R. Dunbar, Arthur Lewbel, and Krishna Pendakur
+Children’s Resources in Collective Households: Identification, Estimation, and an
+Application to Child Poverty in Malawi
+SHORTER PAPERS: R. Fernández; C. Cotton; M. Sutter, M. G. Kocher, D. Glätzle-Rützler, and S. T. Trautmann;
+
+R. Gibson, C. Tanner, and A. F. Wagner; R. Di Tella and J. Dubra; A. Alesina, G.-M. Angeletos, and G. Cozzi
+
+FEBRUARY 2013
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+President
+CLAUDIA GOLDIN, Harvard University
+
+President-elect
+• Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+• Printed at RR Donnelley Company, Jefferson
+City, Missouri, USA
+• Registered in the US Patent and Trademark Office®
+• Copyright© 2013 by the American Eco­nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+• No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+WILLIAM D. NORDHAUS, Yale University
+
+Vice Presidents
+RAQUEL FERNáNDEZ, New York University
+PAUL R. MILGROM, Stanford University
+
+Members
+MONIKA PIAZZESI, Stanford University
+MICHAEL WOODFORD, Columbia University
+ANIL K KASHYAP, University of Chicago
+ROSA L. MATZKIN, University of California at Los Angeles
+AMY N. FINKELSTEIN, Massachusetts Institute of Technology
+JONATHAN LEVIN, Stanford University
+
+Ex Officio Members
+CHRISTOPHER A. SIMS, Princeton University
+ORLEY C. ASHENFELTER, Princeton University
+
+Appointed Members
+Editor, The American Economic Review
+PINELOPI KOUJIANOU GOLDBERG, Yale University
+
+Editor, The Journal of Economic Literature
+JANET M. CURRIE, Princeton University
+
+Editor, The Journal of Economic Perspectives
+DAVID H. AUTOR, Massachusetts Institute of Technology
+
+Editor, American Economic Journal: Applied Economics
+ESTHER DUFLO, Massachusetts Institute of Technology
+
+Editor, American Economic Journal: Economic Policy
+ALAN J. AUERBACH, University of California at Berkeley
+
+Editor, American Economic Journal: Macroeconomics
+JOHN LEAHY, New York University
+
+Editor, American Economic Journal: Microeconomics
+ANDREW POSTLEWAITE, University of Pennsylvania
+
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), February 2013, Vol. 103, No. 1. The AER
+is published seven times a year (February, April,
+May, June, August, October, and December) by the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Annual fees
+for regular membership are: $20.00, $30.00, or
+$40.00, depending on income. Further information on subscriptions and the American Economic
+Association can be found at www.vanderbilt.edu/
+AEA/. Periodical postage paid at Nashville, TN
+and at additional mailing offices. POSTMASTER:
+Send address changes to The American Economic
+Review, 2014 Broadway, Suite 305, Nashville, TN
+37203. Printed in the USA.
+
+OTHER OFFICERS
+Editor, Resources for Economists
+WILLIAM GOFFE, State University of New York at Oswego
+
+Director of AEA Publication Services
+JANE EMILY VOROS, Pittsburgh
+
+Managing Director of EconLit Product Design and Content
+
+The American Economic Association (AEA)
+welcomes all AEA members to view its webcasts of selected
+2013 Annual Meeting Panel Discussions.
+The webcasts feature discussions on:
+
+• Sovereign Debt Crises and Policies: History and Future Prospects
+January 4, 2013
+Moderator: Olivier Blanchard
+Panelists: Simon Johnson, Kenneth Rogoff, and Thomas Sargent
+• Health Insurance and Government Mandates: A Session to Honor
+Amy Finkelstein, John Bates Clark Medalist for 2012
+January 5, 2013
+Moderator: Amitabh Chandra
+Panelists: Amy Finkelstein, Martin Feldstein, Jonathan Gruber,
+and Jonathan Skinner
+• Models or Muddles: How the Press Covers Economics and the
+Economy
+January 5, 2013
+Moderator: Alan Blinder
+Panelists: Tyler Cowen, Adam Davidson, Kelly Evans, Chrystia Freeland,
+and David Wessel
+• Reﬂections on the 100th Anniversary of the Federal Reserve
+January 5, 2013
+Moderator: Alan Blinder
+Panelists: Robert E. Lucas, Jr.; Carmen Reinhart and Kenneth Rogoff;
+Christina D. Romer and David H. Romer; Charles Plosser; Donald Kohn
+• What Do Economists Think about Major Public Policy Issues?
+January 5, 2013
+Moderator: Anil Kashyap
+Panelists: Roger Gordon and Gordon B. Dahl; Luigi Zingales; Paul
+Krugman; Monika Piazzesi; Robert Hall; David Wessel; Justin Wolfers
+Visit http://www.aeaweb.org/webcasts/2013/index.php to view this year’s webcasts.
+The 2009, 2010, 2011, and 2012 webcasts are also available.
+
+STEVEN L. HUSTED, University of Pittsburgh
+
+Assistant Secretary-Treasurer
+JOHN J. SIEGFRIED, Vanderbilt University
+and University of Adelaide
+
+Counsel
+TERRY CALVANI, Freshfields Bruckhaus Deringer LLP
+Washington, DC
+
+ADMINISTRATORS
+Administrative Director
+REGINA H. MONTGOMERY
+
+Convention Manager
+MARLENE HIGHT
+
+More than 125 Years of Encouraging Economic Research
+
+THE
+
+AMERICAN
+
+Editor
+Pinelopi Koujianou
+Goldberg
+Coeditors
+marianne bertrand
+martin eichenbaum
+hilary hoynes
+LUIGI PISTAFERRI
+Debraj Ray
+larry samuelson
+andrzej skrzypacz
+Managing Editor
+Steven M. Stelling
+Assistant Managing Editor
+Kelly Markel
+
+Board of Editors
+
+Mark Aguiar
+Pol Antràs
+Sandra Black
+Simon Board
+Craig Burnside
+Ariel Burstein
+Steven Callander
+Gary Charness
+Sylvain Chassang
+Dora Costa
+Miguel Costa-Gomes
+Dirk Engelmann
+Hanming Fang
+Emmanuel Farhi
+Timothy Feddersen
+Michael Fishman
+William Fuchs
+Gautam Gowrisankaran
+David Green
+Veronica Guerrieri
+Igal Hendel
+Ali Hortaçsu
+Shachar Kariv
+Navin Kartik
+Brian Knight
+Botond Kőszegi
+Ilan Kremer
+Arvind Krishnamurthy
+Jonathan Levin
+Gilat Levy
+Hamish Low
+Shelly Lundberg
+Matthew Mitchell
+Dilip Mookherjee
+Giuseppe Moscarini
+Philip Oreopoulos
+Rohini Pande
+Jonathan Parker
+Parag Pathak
+Nina Pavcnik
+Fabrizio Perri
+Ricardo Reis
+Jesse Rothstein
+Fiona Scott Morton
+Rajiv Sethi
+Amir Sufi
+Christopher Timmins
+Sarah Turner
+Eric Verhoogen
+Lise Vesterlund
+Leeat Yariv
+
+ECONOMIC
+
+REVIEW
+
+February 2013
+volume 103, number 1
+
+Articles
+The “Out of Africa” Hypothesis, Human Genetic
+Diversity, and Comparative Economic
+Development
+Quamrul Ashraf and Oded Galor1
+Pandering to Persuade
+Yeon-Koo Che, Wouter Dessein, and Navin Kartik47
+School Admissions Reform in Chicago and
+England: Comparing Mechanisms by their
+Vulnerability to Manipulation
+Parag A. Pathak and Tayfun Sönmez80
+Coercive Contract Enforcement: Law and the Labor
+Market in Nineteenth Century Industrial Britain
+Suresh Naidu and Noam Yuchtman107
+Price Discrimination and Bargaining:
+Empirical Evidence from Medical Devices
+Matthew Grennan145
+Selection on Moral Hazard in Health Insurance
+Liran Einav, Amy Finkelstein, Stephen P. Ryan,
+Paul Schrimpf, and Mark R. Cullen178
+Are Consumers Myopic? Evidence from New and
+Used Car Purchases
+Meghan R. Busse, Christopher R. Knittel,
+and Florian Zettelmeyer220
+The Impact of Medical Liability Standards on
+Regional Variations in Physician Behavior:
+Evidence from the Adoption of NationalStandard Rules
+Michael Frakes257
+Innovation and Institutional Ownership
+Philippe Aghion, John Van Reenen,
+and Luigi Zingales277
+Cross-Country Differences in Productivity:
+The Role of Allocation and Selection
+Eric Bartelsman, John Haltiwanger,
+and Stefano Scarpetta305
+Making Sense of Nonbinding Retail-Price
+Recommendations
+Stefan Buehler and Dennis L. Gärtner335
+
+Entropy and the Value of Information for Investors
+Antonio Cabrales, Olivier Gossner, and Roberto Serrano360
+Technological Diversification
+
+Miklós Koren and Silvana Tenreyro378
+
+Dictating the Risk: Experimental Evidence on Giving in Risky Environments
+J. Michelle Brock, Andreas Lange, and Erkut Y. Ozbay415
+Children’s Resources in Collective Households: Identification, Estimation,
+and an Application to Child Poverty in Malawi
+Geoffrey R. Dunbar, Arthur Lewbel, and Krishna Pendakur438
+Shorter Papers
+Cultural Change as Learning: The Evolution of Female Labor Force
+Participation over a Century
+Submission Fees and Response Times in Academic Publishing
+
+Raquel Fernández472
+Christopher Cotton501
+
+Impatience and Uncertainty: Experimental Decisions Predict Adolescents’ Field Behavior
+Matthias Sutter, Martin G. Kocher, Daniela Glätzle-Rützler, and Stefan T. Trautmann510
+Preferences for Truthfulness: Heterogeneity among and within Individuals
+Rajna Gibson, Carmen Tanner, and Alexander F. Wagner532
+Fairness and Redistribution: Comment
+
+Rafael Di Tella and Juan Dubra549
+
+Fairness and Redistribution: Reply
+Alberto Alesina, George-Marios Angeletos, and Guido Cozzi554
+
+Information on how to submit a manuscript is available online:
+http://www.aeaweb.org/aer/submissions.php
+It is the policy of The American Economic Review to publish papers only if the data used in
+the analysis are clearly and precisely documented and are readily available to any researcher
+for purposes of replication. Details of the computations sufficient to permit replication must
+be provided. The Editor should be notified at the time of submission if the data used in a paper
+are proprietary or if, for some other reason, the requirements above cannot be met.
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+President
+CLAUDIA GOLDIN, Harvard University
+
+President-elect
+• Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+• Printed at RR Donnelley Company, Jefferson
+City, Missouri, USA
+• Registered in the US Patent and Trademark Office®
+• Copyright© 2013 by the American Eco­nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+• No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+WILLIAM D. NORDHAUS, Yale University
+
+Vice Presidents
+RAQUEL FERNáNDEZ, New York University
+PAUL R. MILGROM, Stanford University
+
+Members
+MONIKA PIAZZESI, Stanford University
+MICHAEL WOODFORD, Columbia University
+ANIL K KASHYAP, University of Chicago
+ROSA L. MATZKIN, University of California at Los Angeles
+AMY N. FINKELSTEIN, Massachusetts Institute of Technology
+JONATHAN LEVIN, Stanford University
+
+Ex Officio Members
+CHRISTOPHER A. SIMS, Princeton University
+ORLEY C. ASHENFELTER, Princeton University
+
+Appointed Members
+Editor, The American Economic Review
+PINELOPI KOUJIANOU GOLDBERG, Yale University
+
+Editor, The Journal of Economic Literature
+JANET M. CURRIE, Princeton University
+
+Editor, The Journal of Economic Perspectives
+DAVID H. AUTOR, Massachusetts Institute of Technology
+
+Editor, American Economic Journal: Applied Economics
+ESTHER DUFLO, Massachusetts Institute of Technology
+
+Editor, American Economic Journal: Economic Policy
+ALAN J. AUERBACH, University of California at Berkeley
+
+Editor, American Economic Journal: Macroeconomics
+JOHN LEAHY, New York University
+
+Editor, American Economic Journal: Microeconomics
+ANDREW POSTLEWAITE, University of Pennsylvania
+
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), February 2013, Vol. 103, No. 1. The AER
+is published seven times a year (February, April,
+May, June, August, October, and December) by the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Annual fees
+for regular membership are: $20.00, $30.00, or
+$40.00, depending on income. Further information on subscriptions and the American Economic
+Association can be found at www.vanderbilt.edu/
+AEA/. Periodical postage paid at Nashville, TN
+and at additional mailing offices. POSTMASTER:
+Send address changes to The American Economic
+Review, 2014 Broadway, Suite 305, Nashville, TN
+37203. Printed in the USA.
+
+OTHER OFFICERS
+Editor, Resources for Economists
+WILLIAM GOFFE, State University of New York at Oswego
+
+Director of AEA Publication Services
+JANE EMILY VOROS, Pittsburgh
+
+Managing Director of EconLit Product Design and Content
+
+The American Economic Association (AEA)
+welcomes all AEA members to view its webcasts of selected
+2013 Annual Meeting Panel Discussions.
+The webcasts feature discussions on:
+
+• Sovereign Debt Crises and Policies: History and Future Prospects
+January 4, 2013
+Moderator: Olivier Blanchard
+Panelists: Simon Johnson, Kenneth Rogoff, and Thomas Sargent
+• Health Insurance and Government Mandates: A Session to Honor
+Amy Finkelstein, John Bates Clark Medalist for 2012
+January 5, 2013
+Moderator: Amitabh Chandra
+Panelists: Amy Finkelstein, Martin Feldstein, Jonathan Gruber,
+and Jonathan Skinner
+• Models or Muddles: How the Press Covers Economics and the
+Economy
+January 5, 2013
+Moderator: Alan Blinder
+Panelists: Tyler Cowen, Adam Davidson, Kelly Evans, Chrystia Freeland,
+and David Wessel
+• Reﬂections on the 100th Anniversary of the Federal Reserve
+January 5, 2013
+Moderator: Alan Blinder
+Panelists: Robert E. Lucas, Jr.; Carmen Reinhart and Kenneth Rogoff;
+Christina D. Romer and David H. Romer; Charles Plosser; Donald Kohn
+• What Do Economists Think about Major Public Policy Issues?
+January 5, 2013
+Moderator: Anil Kashyap
+Panelists: Roger Gordon and Gordon B. Dahl; Luigi Zingales; Paul
+Krugman; Monika Piazzesi; Robert Hall; David Wessel; Justin Wolfers
+Visit http://www.aeaweb.org/webcasts/2013/index.php to view this year’s webcasts.
+The 2009, 2010, 2011, and 2012 webcasts are also available.
+
+STEVEN L. HUSTED, University of Pittsburgh
+
+Assistant Secretary-Treasurer
+JOHN J. SIEGFRIED, Vanderbilt University
+and University of Adelaide
+
+Counsel
+TERRY CALVANI, Freshfields Bruckhaus Deringer LLP
+Washington, DC
+
+ADMINISTRATORS
+Administrative Director
+REGINA H. MONTGOMERY
+
+Convention Manager
+MARLENE HIGHT
+
+More than 125 Years of Encouraging Economic Research
+
+The American Economic Review
+
+Sophisticated analyses. Intuitive software.
+
+The American
+Economic Review
+ARTICLES
+Quamrul Ashraf and Oded Galor
+The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic
+	Development
+Yeon-Koo Che, Wouter Dessein, and Navin Kartik
+Pandering to Persuade
+Parag A. Pathak and Tayfun Sönmez
+School Admissions Reform in Chicago and England: Comparing Mechanisms by their
+	Vulnerability to Manipulation
+Suresh Naidu and Noam Yuchtman
+Coercive Contract Enforcement: Law and the Labor Market in Nineteenth Century
+Industrial Britain
+Matthew Grennan
+Price Discrimination and Bargaining: Empirical Evidence from Medical Devices
+
+» Vector autoregression and
+cointegration models (VARs and VECs)
+
+» Fixed- and random-effects models
+with robust standard errors
+
+» Univariate and multivariate
+ARCH/GARCH
+
+» Marginal effects and average
+partial effects
+
+» State-space, dynamic factor, and
+unobserved components models
+
+» Business calendars: handle trading
+dates, holidays, ...
+
+» Limited dependent variables: counts,
+multinomial and ordered choices,
+selection
+
+» Haver Analytics database support
+» Mata matrix programming language
+» And more...
+
+Stata is a complete, integrated statistical package that provides everything you need for
+data analysis, data management, and graphics. With a point-and-click interface, an intuitive
+command syntax, and online help, Stata is easy to use, fast, and accurate.
+
+Need more reasons to make the switch to Stata?
+
+stata.com/aer
+stata.com • info@stata.com • 1-800-782-8272
+
+Liran Einav, Amy Finkelstein, Stephen P. Ryan, Paul Schrimpf, and Mark R. Cullen
+Selection on Moral Hazard in Health Insurance
+Meghan R. Busse, Christopher R. Knittel, and Florian Zettelmeyer
+Are Consumers Myopic? Evidence from New and Used Car Purchases
+Michael Frakes
+The Impact of Medical Liability Standards on Regional Variations in Physician
+Behavior: Evidence from the Adoption of National-Standard Rules
+Philippe Aghion, John Van Reenen, and Luigi Zingales
+Innovation and Institutional Ownership
+Eric Bartelsman, John Haltiwanger, and Stefano Scarpetta
+Cross-Country Differences in Productivity: The Role of Allocation and Selection
+
+volume 103, number 1
+
+» Excel® import and export
+
+february 2013
+
+» Flexible GMM estimation
+
+Stefan Buehler and Dennis L. Gärtner
+	Making Sense of Nonbinding Retail-Price Recommendations
+Antonio Cabrales, Olivier Gossner, and Roberto Serrano
+Entropy and the Value of Information for Investors
+Miklós Koren and Silvana Tenreyro
+Technological Diversification
+J. Michelle Brock, Andreas Lange, and Erkut Y. Ozbay
+	Dictating the Risk: Experimental Evidence on Giving in Risky Environments
+Geoffrey R. Dunbar, Arthur Lewbel, and Krishna Pendakur
+Children’s Resources in Collective Households: Identification, Estimation, and an
+Application to Child Poverty in Malawi
+SHORTER PAPERS: R. Fernández; C. Cotton; M. Sutter, M. G. Kocher, D. Glätzle-Rützler, and S. T. Trautmann;
+
+R. Gibson, C. Tanner, and A. F. Wagner; R. Di Tella and J. Dubra; A. Alesina, G.-M. Angeletos, and G. Cozzi
+
+FEBRUARY 2013
+
+

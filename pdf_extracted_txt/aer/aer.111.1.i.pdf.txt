@@ -1,0 +1,482 @@
+The American
+Economic Review
+ARTICLES
+MAURICIO ULATE
+Going Negative at the Zero Lower Bound: The Effects of Negative Nominal Interest Rates
+THORSTEN ROGALL
+Mobilizing the Masses for Genocide
+JESSE PERLA, CHRISTOPHER TONETTI, AND MICHAEL E. WAUGH
+Equilibrium Technology Diffusion, Trade, and Growth
+CHRISTOPHER AVERY AND PARAG A. PATHAK
+The Distributional Consequences of Public School Choice
+FELIX J. BIERBRAUER, PIERRE C. BOYER, AND ANDREAS PEICHL
+Politically Feasible Reforms of N
+­ onlinear Tax Systems
+BRIAN BAUGH, ITZHAK ­BEN-DAVID, HOONSUK PARK, AND JONATHAN A. PARKER
+Asymmetric Consumption Smoothing
+UFUK AKCIGIT, HARUN ALP, AND MICHAEL PETERS
+Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries
+JOSHUA SCHWARTZSTEIN AND ADI SUNDERAM
+Using Models to Persuade
+ANDREAS I. MUELLER, JOHANNES SPINNEWIJN, AND GIORGIO TOPA
+Job Seekers’ Perceptions and Employment Prospects: Heterogeneity, Duration
+Dependence, and Bias
+THOMAS WINBERRY
+Lumpy Investment, Business Cycles, and Stimulus Policy
+
+JANUARY 2021
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+•  Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+•  P rinted at LSC Communications, Owensville,
+Missouri, USA
+•  Registered in the US Patent and Trademark Office®
+•  
+Copyright© 2021 by the American Eco­
+nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+•  No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), January 2021, Vol. 111, No. 1. The
+AER is published 12 times a year by the American
+Economic Association, 2014 Broadway, Suite 305,
+Nashville, TN 37203. Annual fees for regular membership are: $24.00, $34.00, or $44.00, depending
+on income; for an additional fee, you can receive
+this journal, or any of the Association’s journals, in
+print. Further information on subscriptions and the
+American Economic Association can be found at
+www.vanderbilt.edu/AEA/. Periodical postage paid
+at Nashville, TN and at additional mailing offices.
+POSTMASTER: Send address changes to The
+American Economic Review, 2014 Broadway, Suite
+305, Nashville, TN 37203. Printed in the USA.
+
+President
+DAVID CARD, University of California, Berkeley
+President-elect
+CHRISTINA D. ROMER, University of California, Berkeley
+Vice Presidents
+KERWIN KOFI CHARLES, Yale University
+SHELLY LUNDBERG, University of California, Santa Barbara
+Members
+MARTHA BAILEY, University of California, Los Angeles
+SUSANTO BASU, Boston College
+SANDRA E. BLACK, Columbia University
+LISA D. COOK, Michigan State University
+MELISSA S. KEARNEY, University of Maryland
+EMI NAKAMURA, University of California, Berkeley
+Ex Officio Members
+BEN S. BERNANKE, The Brookings Institution
+JANET YELLEN, The Brookings Institution
+
+The AEA Website
+
+Tools for your success!
+
+A convenient resource for students, economists,
+educators, and more.
+
+Appointed Members
+Editor, The American Economic Review
+ESTHER DUFLO, Massachusetts Institute of Technology
+Editor, The American Economic Review: Insights
+AMY FINKELSTEIN, Massachusetts Institute of Technology
+Editor, The Journal of Economic Literature
+STEVEN N. DURLAUF, University of Chicago
+Editor, The Journal of Economic Perspectives
+HEIDI WILLIAMS, Stanford University
+Editor, American Economic Journal: Applied Economics
+BENJAMIN OLKEN, Massachusetts Institute of Technology
+Editor, American Economic Journal: Economic Policy
+ERZO F.P. LUTTMER, Dartmouth College
+Editor, American Economic Journal: Macroeconomics
+SIMON GILCHRIST, New York University
+Editor, American Economic Journal: Microeconomics
+LEEAT YARIV, Princeton University
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+OTHER OFFICERS
+Director of AEA Publication Services
+ELIZABETH R. BRAUNSTEIN
+Counsel
+LAUREN M. GAFFNEY, Bass, Berry & Sims PLC
+Nashville, TN
+
+ADMINISTRATORS
+Director of Finance and Administration
+BARBARA H. FISER
+Convention Manager
+GWYN LOFTIS
+
+• Research News
+• Job Openings
+• Journal Articles
+• Conferences
+• Guides for Students
+and Much More!
+
+www.aeaweb.org
+
+THE
+
+AMERICAN
+
+Editor
+ESTHER DUFLO
+Coeditors
+SYLVAIN CHASSANG
+STEFANO DELLAVIGNA
+LIRAN EINAV
+JEFFREY ELY
+MIKHAIL GOLOSOV
+PIERRE-OLIVIER GOURINCHAS
+CHINHUI JUHN
+HENRIK KLEVEN
+EMI NAKAMURA
+PIETRO ORTOLEVA
+Board of Editors
+NAGEEB ALI
+MANUEL AMADOR
+ISAIAH ANDREWS
+DAVID ATKIN
+NED AUGENBLICK
+EDUARDO AZEVEDO
+MARTHA BAILEY
+HESKI BAR-ISAAC
+DANIEL BENJAMIN
+AISLINN BOHREN
+LEAH BOUSTAN
+ARIEL BURSTEIN
+STEVEN CALLANDER
+GABRIEL CARROLL
+ALESSANDRA CASELLA
+ARUN CHANDRASEKHAR
+SYLVAIN CHASSANG
+ARNAUD COSTINOT
+GORDON DAHL
+GEOFFROY DE CLIPPEL
+MATTHIAS DOEPKE
+FEDERICO ECHENIQUE
+GEORGY EGOROV
+PATRICK FRANCOIS
+MICHAEL GRUBB
+MARINA HALAC
+BÅRD HARSTAD
+NAGORE IRIBERRI
+OLEG ITSKHOKI
+ŞEBNEM KALEMLI-ÖZCAN
+LOUKAS KARABARBOUNIS
+BRIAN KNIGHT
+BOTOND KÖSZEGI
+ARVIND KRISHNAMURTHY
+QINGMIN LIU
+GUIDO LORENZONI
+JENS LUDWIG
+FILIP MATĚJKA
+ELLEN MCGRATTAN
+ALISDAIR MCKAY
+MORITZ MEYER-TER-VEHN
+BRENT NEIMAN
+RYAN OPREA
+PHILIP OREOPOULOS
+JUAN ORTNER
+AMANDA PALLAIS
+ANTONIO PENTA
+EDUARDO PEREZ-RICHET
+FABRIZIO PERRI
+THOMAS PHILIPPON
+RONNY RAZIN
+ESTEBAN ROSSI-HANSBERG
+EMMANUEL SAEZ
+VASILIKI SKRETA
+KATHRYN SPIER
+CHARLES SPRENGER
+JAKUB STEINER
+BRUNO STRULOVICI
+TOMASZ STRZALECKI
+AMIR SUFI
+JUSTIN SYDNOR
+BALÁZS SZENTES
+ALIREZA TAHBAZ-SALEHI
+JUUSSO TOIKKA
+FRANCESCO TREBBI
+ALEH TSYVINSKI
+JOHN VAN REENEN
+NICO VOIGTLANDER
+PIERRE YARED
+Managing Editor
+STEVEN M. STELLING
+Assistant Managing Editor
+MATTHEW A. ROBERSON
+
+ECONOMIC
+
+REVIEW
+
+January 2021
+volume 111, number 1
+
+Going Negative at the Zero Lower Bound: The
+Effects of Negative Nominal Interest Rates
+Mauricio Ulate1
+
+Mobilizing the Masses for Genocide
+Thorsten Rogall41
+
+Equilibrium Technology Diffusion, Trade, and
+Growth
+Jesse Perla, Christopher Tonetti, and
+Michael E. Waugh73
+
+The Distributional Consequences of Public School
+Choice
+Christopher Avery and Parag A. Pathak129
+
+Politically Feasible Reforms of ­Nonlinear Tax
+Systems
+Felix J. Bierbrauer, Pierre C. Boyer,
+and Andreas Peichl153
+
+Asymmetric Consumption Smoothing
+Brian Baugh, Itzhak ­Ben-David, Hoonsuk Park,
+and Jonathan A. Parker192
+
+Lack of Selection and Limits to Delegation:
+Firm Dynamics in Developing Countries
+Ufuk Akcigit, Harun Alp, and Michael Peters231
+
+Using Models to Persuade
+Joshua Schwartzstein and Adi Sunderam276
+
+Job Seekers’ Perceptions and Employment Prospects: Heterogeneity, Duration
+Dependence, and Bias
+Andreas I. Mueller, Johannes Spinnewijn, and Giorgio Topa
+Lumpy Investment, Business Cycles, and Stimulus Policy
+
+Thomas Winberry
+
+324
+
+364
+
+Information on how to submit a manuscript is available online:
+https://www.aeaweb.org/aer/submissions.php
+It is the policy of the American Economic Review to publish papers only if the data used in the
+analysis are clearly and precisely documented and are readily available to any researcher for
+purposes of replication. Details of the computations sufficient to permit replication must be
+provided. The Editor should be notified at the time of submission if the data used in a paper
+are proprietary or if, for some other reason, the requirements above cannot be met.
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+•  Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+•  P rinted at LSC Communications, Owensville,
+Missouri, USA
+•  Registered in the US Patent and Trademark Office®
+•  
+Copyright© 2021 by the American Eco­
+nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+•  No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), January 2021, Vol. 111, No. 1. The
+AER is published 12 times a year by the American
+Economic Association, 2014 Broadway, Suite 305,
+Nashville, TN 37203. Annual fees for regular membership are: $24.00, $34.00, or $44.00, depending
+on income; for an additional fee, you can receive
+this journal, or any of the Association’s journals, in
+print. Further information on subscriptions and the
+American Economic Association can be found at
+www.vanderbilt.edu/AEA/. Periodical postage paid
+at Nashville, TN and at additional mailing offices.
+POSTMASTER: Send address changes to The
+American Economic Review, 2014 Broadway, Suite
+305, Nashville, TN 37203. Printed in the USA.
+
+President
+DAVID CARD, University of California, Berkeley
+President-elect
+CHRISTINA D. ROMER, University of California, Berkeley
+Vice Presidents
+KERWIN KOFI CHARLES, Yale University
+SHELLY LUNDBERG, University of California, Santa Barbara
+Members
+MARTHA BAILEY, University of California, Los Angeles
+SUSANTO BASU, Boston College
+SANDRA E. BLACK, Columbia University
+LISA D. COOK, Michigan State University
+MELISSA S. KEARNEY, University of Maryland
+EMI NAKAMURA, University of California, Berkeley
+Ex Officio Members
+BEN S. BERNANKE, The Brookings Institution
+JANET YELLEN, The Brookings Institution
+
+The AEA Website
+
+Tools for your success!
+
+A convenient resource for students, economists,
+educators, and more.
+
+Appointed Members
+Editor, The American Economic Review
+ESTHER DUFLO, Massachusetts Institute of Technology
+Editor, The American Economic Review: Insights
+AMY FINKELSTEIN, Massachusetts Institute of Technology
+Editor, The Journal of Economic Literature
+STEVEN N. DURLAUF, University of Chicago
+Editor, The Journal of Economic Perspectives
+HEIDI WILLIAMS, Stanford University
+Editor, American Economic Journal: Applied Economics
+BENJAMIN OLKEN, Massachusetts Institute of Technology
+Editor, American Economic Journal: Economic Policy
+ERZO F.P. LUTTMER, Dartmouth College
+Editor, American Economic Journal: Macroeconomics
+SIMON GILCHRIST, New York University
+Editor, American Economic Journal: Microeconomics
+LEEAT YARIV, Princeton University
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+OTHER OFFICERS
+Director of AEA Publication Services
+ELIZABETH R. BRAUNSTEIN
+Counsel
+LAUREN M. GAFFNEY, Bass, Berry & Sims PLC
+Nashville, TN
+
+ADMINISTRATORS
+Director of Finance and Administration
+BARBARA H. FISER
+Convention Manager
+GWYN LOFTIS
+
+• Research News
+• Job Openings
+• Journal Articles
+• Conferences
+• Guides for Students
+and Much More!
+
+www.aeaweb.org
+
+ADVANCE YOUR CAREER
+
+Join or Renew
+Your AEA Membership Today!
+
+www.aeaweb.org/membership
+
+MAURICIO ULATE
+Going Negative at the Zero Lower Bound: The Effects of Negative Nominal Interest Rates
+THORSTEN ROGALL
+Mobilizing the Masses for Genocide
+
+CHRISTOPHER AVERY AND PARAG A. PATHAK
+The Distributional Consequences of Public School Choice
+FELIX J. BIERBRAUER, PIERRE C. BOYER, AND ANDREAS PEICHL
+Politically Feasible Reforms of N
+­ onlinear Tax Systems
+BRIAN BAUGH, ITZHAK ­BEN-DAVID, HOONSUK PARK, AND JONATHAN A. PARKER
+Asymmetric Consumption Smoothing
+UFUK AKCIGIT, HARUN ALP, AND MICHAEL PETERS
+Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries
+
+volume 111, number 1
+
+Starting at only $24, a membership is a
+smart and easy way to stay abreast of
+all the latest research and news in
+economics you need to know.
+
+ARTICLES
+
+JESSE PERLA, CHRISTOPHER TONETTI, AND MICHAEL E. WAUGH
+Equilibrium Technology Diffusion, Trade, and Growth
+
+January 2021
+
+✓ Collaboration
+✓ Career Services
+✓ Peer Recognition
+✓ Learning Resources
+✓ Prestigious Research
+✓ Member Communications
+✓ Member Savings
+
+The American Economic Review
+
+Whether you are a student, an established economist, or an
+emerging scholar in your field, our member resources can be
+an important part of your success
+
+The American
+Economic Review
+
+JOSHUA SCHWARTZSTEIN AND ADI SUNDERAM
+Using Models to Persuade
+ANDREAS I. MUELLER, JOHANNES SPINNEWIJN, AND GIORGIO TOPA
+Job Seekers’ Perceptions and Employment Prospects: Heterogeneity, Duration
+Dependence, and Bias
+THOMAS WINBERRY
+Lumpy Investment, Business Cycles, and Stimulus Policy
+
+JANUARY 2021
+
+

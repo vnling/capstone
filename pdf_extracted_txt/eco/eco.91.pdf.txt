@@ -1,0 +1,151 @@
+JIAYING GU AND ROGER KOENKER: Invidious Comparisons: Ranking and Selection as Compound Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+KEISUKE HIRANO: A Comment on: “Invidious Comparisons: Ranking and Selection as Compound
+Decisions” by Jiaying Gu and Roger Koenker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PATRICK KLINE: A Comment on: “Invidious Comparisons: Ranking and Selection as Compound
+Decisions” by Jiaying Gu and Roger Koenker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MAGNE MOGSTAD, JOSEPH P. ROMANO, AZEEM M. SHAIKH, AND DANIEL WILHELM: A Comment on: “Invidious Comparisons: Ranking and Selection as Compound Decisions” by Jiaying
+Gu and Roger Koenker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JIAYING GU AND ROGER KOENKER: Reply to: Comments on “Invidious Comparisons: Ranking
+and Selection as Compound Decisions” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NATALIE BAU AND ADRIEN MATRAY: Misallocation and Capital Market Integration: Evidence
+From India . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PIETRO TEBALDI, ALEXANDER TORGOVITSKY, AND HANBIN YANG: Nonparametric Estimates
+of Demand in the California Health Insurance Exchange . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JEAN-FRANÇOIS HOUDE, PETER NEWBERRY, AND KATJA SEIM: Nexus Tax Laws and Economies
+of Density in E-Commerce: A Study of Amazon’s Fulfillment Center Network . . . . . . . . . . . .
+FRANCESCA PARISE AND ASUMAN OZDAGLAR: Graphon Games: A Statistical Framework for
+Network Games and Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JOACHIM HUBMER: The Race Between Preferences and Technology . . . . . . . . . . . . . . . . . . . . . . . . . . .
+TIMOTHY CHRISTENSEN AND BENJAMIN CONNAULT: Counterfactual Sensitivity and Robustness
+ZHENG FANG, ANDRES SANTOS, AZEEM M. SHAIKH, AND ALEXANDER TORGOVITSKY: Inference for Large-Scale Linear Systems With Known Coefficients . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2021–2022 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2021–2022 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . . .
+
+VOL. 91, NO. 1 — January 2023
+
+1
+43
+47
+
+53
+61
+67
+107
+147
+191
+227
+263
+299
+329
+331
+349
+361
+367
+379
+383
+
+14680262, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA911FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+GUIDO W. IMBENS, Graduate School of Business and Dept. of Economics, Stanford University, 655 Knight Way,
+Stanford, CA 94305-5015, U.S.A.; imbens@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@comcast.net
+DIRECTOR OF PUBLICATIONS
+MARY BETH BELLANDO-ZANIBONI, Cowles Foundation, Yale University, 30 Hillhouse Avenue, New Haven, CT
+06511, U.S.A.; econometrica@econometricsociety.org
+CO-EDITORS
+ORIANA BANDIERA, London School of Economics and Political Science, Houghton Street, London WC2A 2AE;
+o.bandiera@econometricsociety.org
+DAVE DONALDSON, Dept. of Economics, Massachusetts Institute of Technology, E52-554, 50 Memorial Drive, Cambridge, MA 02142, U.S.A.; donaldson@econometricsociety.org
+MARINA HALAC, Dept. of Economics, Yale University, 30 Hillhouse Avenue, New Haven, CT 06520-8281, U.S.A.;
+marina.halac@econometricsociety.org
+KATE HO, Dept. of Economics, Princeton University, Julis Romo Rabinowitz Building, Princeton, NJ 08544, U.S.A.;
+kate.ho@econometricsociety.org
+CHARLES I. JONES, Graduate School of Business, Stanford University, 655 Knight Way, Stanford, CA 94305-5015,
+U.S.A.; chadj@econometricsociety.org
+BARTON L. LIPMAN, Dept. of Economics, Boston University, 270 Bay State Road, Boston, MA 02215, U.S.A.;
+blipman@econometricsociety.org
+ASHER WOLINSKY, Dept. of Economics, Northwestern University, 2211 Campus Drive, 3rd Floor, Evanston, IL
+60208, U.S.A.; wolinsky@econometricsociety.org
+ASSOCIATE EDITORS
+MARINA AGRANOV, California Institute of Technology IVANA KOMUNJER, Georgetown University
+DAVID AHN, Washington University in St. Louis
+FELIX KUBLER, University of Zurich
+TREB ALLEN, Dartmouth College
+ELIANA LA FERRARA, Università Bocconi
+EDUARDO AZEVEDO, University of Pennsylvania
+STEPHAN LAUERMANN, Universität Bonn
+MARCO BASSETTO, Federal Reserve Bank of
+JIA LI, Singapore Management University
+Minneapolis
+QINGMIN LIU, Columbia University
+LORENZO CALIENDO, Yale University
+ELENA MANRESA, New York University
+GABRIEL CARROLL, University of Toronto
+NOUR MEDDAHI, Toulouse School of Economics
+KATHERINE CASEY, Stanford University
+MORITZ MEYER-TER-VEHN, University of California,
+MATIAS D. CATTANEO, Princeton University
+Los Angeles
+ANNA MIKUSHEVA, Massachusetts Institute of
+DENIS CHETVERIKOV, University of California,
+Los Angeles
+Technology
+ERNESTO DAL BÓ, University of California,
+BENJAMIN MOLL, London School of Economics
+Berkeley
+ANDRIY NORETS, Brown University
+JAN DE LOECKER, KU Leuven
+MARZENA ROSTEK, University of Wisconsin–Madison
+REBECCA DIAMOND, Stanford University
+ZHENG MICHAEL SONG, The Chinese University of
+DAVID DILLENBERGER, University of Pennsylvania
+Hong Kong, Hong Kong
+ERAN SHMAYA, Stony Brook University
+CHRIS EDMOND, University of Melbourne
+MATTHEW ELLIOTT, Cambridge University
+JÓN STEINSSON, University of California, Berkeley
+BENJAMIN FABER, University of California, Berkeley
+JOHANNES STROEBEL, New York University
+JESÚS FERNÁNDEZ-VILLAVERDE, University of
+BRUNO STRULOVICI, Northwestern University
+Pennsylvania
+TOMASZ STRZALECKI, Harvard University
+CLAUDIO FERRAZ, University of British Columbia
+VASILIS SYRGKANIS, Stanford University
+and Pontifícia Universidade Católica do Rio
+ALEH TSYVINSKI, Yale University
+GUILLAUME FRÉCHETTE, New York University
+JOHN VAN REENEN, London School of Economics
+AMANDA FRIEDENBERG, University of Michigan
+LAURA VELDKAMP, Columbia University
+XAVIER GABAIX, Harvard University
+FRANK VERBOVEN, KU Leuven
+RACHEL GRIFFITH, University of Manchester
+RAKESH VOHRA, University of Pennsylvania
+LOUKAS KARABARBOUNIS, University of Minnesota
+MATTHEW J. WISWALL, University of Wisconsin–Madison
+JAKUB KASTL, Princeton University
+DAVID YANAGIZAWA-DROTT, University of Zürich
+PATRICK KLINE, University of California, Berkeley
+ALI YURUKOGLU, Stanford University
+MICHAL KOLESÁR, Princeton University
+Information on MANUSCRIPT SUBMISSION is provided on the last page.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA911FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

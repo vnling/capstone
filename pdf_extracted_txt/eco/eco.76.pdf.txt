@@ -1,0 +1,140 @@
+LARS LJUNGQVIST AND THOMAS J. SARGENT: Two Questions about European Unemploy-
+
+ment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JAMES C. COX, DANIEL FRIEDMAN, AND VJOLLCA SADIRAJ: Revealed Altruism . . . . . . . . . . . .
+
+1
+31
+
+IGNACIO PALACIOS-HUERTA AND OSCAR VOLIJ: Experientia Docet: Professionals Play Min-
+
+imax in Laboratory Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+YING CHEN, NAVIN KARTIK, AND JOEL SOBEL: Selecting Cheap-Talk Equilibria . . . . . . . . . . .
+KATSUTOSHI WAKAI: A Model of Utility Smoothing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+71
+117
+137
+
+NOTES AND COMMENTS:
+JAMES H. STOCK AND MARK W. WATSON: Heteroskedasticity-Robust Standard Errors
+
+for Fixed Effects Panel Data Regression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+YIXIAO SUN, PETER C. B. PHILLIPS, AND SAINAN JIN: Optimal Bandwidth Selection in
+Heteroskedasticity–Autocorrelation Robust Testing . . . . . . . . . . . . . . . . . . . . . . . .
+YINGYAO HU AND SUSANNE M. SCHENNACH: Instrumental Variable Treatment of
+Nonclassical Measurement Error Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+195
+
+ANNOUNCEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2006–2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2006–2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . . .
+
+217
+225
+227
+235
+241
+247
+257
+261
+
+VOL. 76, NO. 1 — January, 2008
+
+155
+175
+
+14680262, 2008, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.0012-9682.2008.00815.x by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+STEPHEN MORRIS, Dept. of Economics, Princeton University, Fisher Hall, Prospect Avenue, Princeton,
+NJ 08544-1021, U.S.A.; morris@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+DARON ACEMOGLU, Dept. of Economics, MIT, E52-380B, 50 Memorial Drive, Cambridge, MA 021421347, U.S.A.; daron@econometricsociety.org
+STEVEN BERRY, Dept. of Economics, Yale University, 37 Hillhouse Ave./P.O. Box 8264, New Haven,
+CT 06520-8264, U.S.A.; berry@econometricsociety.org
+DAVID K. LEVINE, Dept. of Economics, Washington University in St. Louis, St. Louis, MO 63130-4899,
+U.S.A.; levine@econometricsociety.org
+WHITNEY K. NEWEY, Dept. of Economics, MIT, E52-262D, 50 Memorial Dr., Cambridge, MA 02142,
+U.S.A.; wnewey@mit.edu
+LARRY SAMUELSON, Dept. of Economics, Yale University, New Haven, CT 06520-8281, U.S.A.;
+samuelson@econometricsociety.org
+HARALD UHLIG, Dept. of Economics, University of Chicago, 1126 East 59th Street, Chicago, IL 60637,
+U.S.A.; huhlig@uchicago.edu
+ASSOCIATE EDITORS
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+DONALD W. K. ANDREWS, Yale University
+JUSHAN BAI, New York University
+MICHELE BOLDRIN, Washington University
+in St. Louis
+J. DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+LARRY G. EPSTEIN, Boston University
+FARUK GUL, Princeton University
+JINYONG HAHN, University of California,
+Los Angeles
+PHILIP HAILE, Yale University
+BRUCE E. HANSEN, University of Wisconsin–
+Madison
+GUIDO IMBENS, Harvard University
+PHILIPPE JEHIEL, Paris School of Economics
+and University College London
+MICHAEL KEANE, University of Technology,
+Sydney
+YUICHI KITAMURA, Yale University
+PER KRUSELL, Princeton University and
+Stockholm University
+OLIVER LINTON, London School of Economics
+BARTON LIPMAN, Boston University
+
+THIERRY MAGNAC, Toulouse School
+of Economics
+GEORGE J. MAILATH, University of Pennsylvania
+DAVID MARTIMORT, IDEI-GREMAQ,
+Université des Sciences Sociales de Toulouse
+STEVEN A. MATTHEWS, University of Pennsylvania
+ROSA L. MATZKIN, University of California,
+Los Angeles
+BENNY MOLDOVANU, University of Bonn
+LEE OHANIAN, University of California,
+Los Angeles
+WOJCIECH OLSZEWSKI, Northwestern University
+WOLFGANG PESENDORFER, Princeton University
+ERIC RENAULT, University of North Carolina,
+Chapel Hill
+PHILIP J. RENY, University of Chicago
+JEAN-MARC ROBIN, Université de Paris 1 and
+University College London
+UZI SEGAL, Boston College
+CHRIS SHANNON, University of California,
+Berkeley
+NEIL SHEPHARD, Oxford University
+MARCIANO SINISCALCHI, Northwestern University
+ELIE TAMER, Northwestern University
+ASHER WOLINSKY, Northwestern University
+
+EDITORIAL ASSISTANT: MARY BETH BELLANDO, Dept. of Economics, Princeton University, Fisher
+Hall, Princeton, NJ 08544-1021, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided in the last two pages.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2008, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.0012-9682.2008.00815.x by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

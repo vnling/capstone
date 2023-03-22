@@ -1,0 +1,144 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 70, No. 1 (Jan., 2003)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/3648608
+Accessed: 17-02-2023 12:26 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:19 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 70(1) No. 242
+
+STUDIES
+
+Stage Financing and the Role of Convertible Securities
+Francesca Comelli and Oved Yosha 1
+
+Nonparametric Estimation of Sample Selection Models
+Mitali Das, Whitney K. Newey and Francis Vella 33
+Contracting Productivity Growth Patrick Francois and Joanne Roberts 59
+Group Formation in Risk-Sharing Arrangements
+
+Garance Genicot and Debraj Ray 87
+Empirical Implications of Equilibrium Bidding in First-Price, Symmetric, Common Value Auctions Kenneth Hendricks, Joris Pinkse and Robert H. Porter 115
+
+Incomplete Simultaneous Discrete Response Model with Multiple Equilibria
+Elie Tamer 147
+
+Productivity Dynamics with Technology Choice: An Application
+Assembly Johannes Van Biesebroeck 167
+
+January 2003
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:19 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The Review was started in 1933 by a group of young British and American Economists. It is p
+The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and appli
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+MARK ARMSTRONG, Nuffield College, Oxford HIDEHIKO ICHIMURA, University College London
+JAMES DOW, London Business School
+
+FABRIZIO ZILIBOTTI, University College London
+
+Secretary and Business Manager
+IAN TONKS, University of Bristol
+
+Foreign Editors
+
+SUSAN ATHEY, Stanford University
+
+PINELOPI KOUJIANOU GOLDBERG, Yale University
+
+ABHIJIT BANERJEE, Massachusetts Institute of
+
+GEORGE MAILATH, University of Pennsylvania
+STEPHEN MORRIS, Yale University
+
+Technology
+MARTIN CRIPPS, Washington University
+
+KIMINORI MATSUYAMA, Northwestern University
+
+GARY B. GORTON, University of Pennsylvania
+
+JOSE-VICTOR Rios-RULL, University of
+Pennsylvania
+
+itorial Board
+
+HYUN SONG SHIN (Chairman), London School of Economics
+JEROME ADDA, University College London
+
+THOMAS MARIOTTI, London School of Economics
+
+MANUEL ARELLANO, CEMFI
+
+ABHINAY MUTHOO, University of Essex
+
+DAVID MYATT, St. Catherine's College, Oxford
+ORAZIO ATTANASIO, University College London
+
+TIMOTHY BESLEY, London School of EconomicsMARCO OTTAVIANI, London Business School
+BRUNO BIAIS, University of Toulouse
+
+MARTIN PESENDORFER, London School of Economics
+
+XIAOHONG CHEN, London School of EconomicsANDREA PRAT, London School of Economics
+ANTONIO CICCONE, Universitat Pompeu Fabra SVEN RADY, University of Munich
+MELVYN COLES, University of Essex
+
+ROHIT RAHI, London School of Economics
+
+BERNARD SALANIE, CREST
+FRANCESCA CORNELLI, London Business School
+
+ENRIQUE SENTANA, CEMFI
+MAITREESH GHATAK, London School of Economics
+RACHEL GRIFFITH, Institute for Fiscal Studies and
+NEIL SHEPHARD, Nuffield College, Oxford
+University College London
+DENIS GROMB, London Business School
+PHILIPPE JEHIEL, CERAS, Paris and
+
+University College London
+ANKE KESSLER, University of Bonn
+GILAT LEVY, London School of Economics
+
+RAN SPIEGLER, Tel Aviv University
+KJETIL STORESLETTEN, Stockholm University
+HARALD UHLIG, Humboldt University of Berlin
+
+JUUSO VALIMAKI, Helsinki School of Economics
+and University of Southampton
+
+GIANLUCA VIOLANTE, University College London
+
+OLIVER B. LINTON, London School of Economics
+
+Please see inside the back cover of this issue for information on the Review website (www.restud.com),
+
+subscription rates and submission of articles.
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:19 UTC
+All use subject to https://about.jstor.org/terms
+
+

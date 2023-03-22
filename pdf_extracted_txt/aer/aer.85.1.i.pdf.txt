@@ -1,0 +1,344 @@
+American Economic Association
+
+Front Matter
+Source: The American Economic Review, Vol. 85, No. 1 (Mar., 1995)
+Published by: American Economic Association
+Stable URL: https://www.jstor.org/stable/2117992
+Accessed: 15-02-2023 08:30 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Economic Association is collaborating with JSTOR to digitize, preserve and extend
+access to The American Economic Review
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+ARTICLES
+AMARTYA SEN Rationality and Social Choice
+TIMOTHY BESLEY AND ANNE CASE
+
+Incumbent Behavior: Vote-Seeking, Tax-Setting, and
+Yardstick Competition
+
+STEPHEN COATE Altruism, the Samaritan's Dilemma, and Government
+Transfer Policy
+THEODORE C. BERGSTROM
+
+On the Evolution of Altruistic Ethical Rules for Siblings
+JONATHAN CAVE AND STEPHEN W. SALANT
+
+Cartel Quotas Under Majority Rule
+ROBERT J. BARRO, N. GREGORY MANKIW, AND XAVIER SALA-I-MARTIN
+
+Capital Mobility in Neoclassical Models of Growth
+MARVIN GOODFRIEND AND JOHN McDERMOTT
+
+Early Development
+JOSEPH A. RITTER
+
+The Transition from Barter to Fiat Money
+
+CARL E. WALSH Optimal Contracts for Central Bankers
+ALAN C. STOCKMAN AND LINDA L. TESAR
+
+Tastes and Technology in a Two-Country Model of the
+Business Cycle: Explaining International Comovements
+
+JOHN SHEA Union Contracts and the Life-Cycle/Permanent-Income
+Hypothesis
+
+NELSON C. MARK Exchange Rates and Fundamentals: Evidence on LongHorizon Predictability
+JEFFREY C. FUHRER AND GEORGE R. MOORE
+
+Monetary Policy Trade-offs and the Correlation between
+Nominal Interest Rates and Real Output
+ANDREW METRICK
+
+A Natural Experiment in "Jeopardy!"
+SHORTER PAPERS: D. Clark and J. Thomas; R. G. Cummings, G. W. Harrison, and
+E. E. Rutstrom; V. Bhaskar and M. Khan; M. D. Shapiro and J. Slemrod; C. Bonham and
+R. Cohen; M. P. Keane and D. E. Runkle.
+
+MARCH 1995
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+Officers
+President
+
+VICTOR R. FUCHS
+Stanford University
+President-elect
+ANNE 0. KRUEGER
+Stanford University
+Vice-Presidents
+
+GEORGE A. AKERLOF
+Brookings Institution
+STANLEY FISCHER
+International Monetary Fund and
+
+Massachusetts Institute of Technology
+
+*Printed at Banta Company, Menasha,
+Wisconsin, U.S.A.
+* Copyright ? American Economic Association 1995. All rights reserved.
+*No responsibility for the views expressed
+by authors in this Review is assumed by the
+editors or the publishers, The American
+
+Economic Association.
+
+Correspondence relating to advertising,
+business matters, permissions to quote, back
+issues, subscriptions, and changes of address, should be sent to the American Economic Association, 2014 Broadway, Suite
+
+305, Nashville, TN 37203. Change of address notice must be received at least six (6)
+weeks prior to the publication month. A
+membership or subscription paid twice is
+automatically extended for an additional
+year unless otherwise requested.
+
+THE AMERICAN ECONOMIC REVIEW
+
+(ISSN 0002-8282), March 1995, Vol. 85,
+No. 1, is published five times a year (March,
+May, June, September, December) by the
+American Economic Association, 2014
+Broadway, Suite 305, Nashville, TN 37203.
+Annual fees for regular membership, of
+which 30 percent is for a year's subscription
+
+to this journal, are: $50.00, $60.00, or $70.00
+depending on income. A membership also
+includes the Journal of Economic Literature
+and the Journal of Economic Perspectives.
+In countries other than the U.S.A., add
+$23.00 for extra postage. Information on
+becoming a member can be found at the
+back of this journal. Second-class postage
+paid at Nashville, TN and at additional
+mailing offices. POSTMASTER: Send address changes to the American Economic
+Review, 2014 Broadway, Suite 305,
+Nashville, TN 37203.
+
+Secretary-Treasurer
+C. ELTON HINSHAW
+Vanderbilt University
+
+Editor of The American Economic Review
+ORLEY C. ASHENFELTER
+Princeton University
+
+Editor of The Journal of Economic Literature
+JOHN PENCAVEL
+Stanford University
+
+Editor of The Journal of Economic Perspectives
+CARL SHAPIRO
+
+University of California-Berkeley
+Executive Committee
+
+Elected Members of the Executive Committee
+WILLIAM A. DARITY, JR.
+University of North Carolina
+RICHARD L. SCHMALENSEE
+Massachusetts Institute of Technology
+DONALD J. BROWN
+Stanford University
+DONALD N. McCLOSKEY
+University of Iowa
+REBECCA M. BLANK
+Northwestern University
+JOHN E. ROEMER
+
+University of California-Davis
+EX OFFICIO Members
+ZVI GRILICHES
+Harvard University
+AMARTYA SEN
+Harvard University
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC REVIEW
+Editor
+
+ORLEY ASHENFELTER
+Co-Editors
+
+DENNIS N. EPPLE
+R. PRESTON McAFEE
+
+March 1995
+VOLUME 85, NUMBER 1
+
+KENNETH D. WEST
+Articles
+
+Managing Editor
+
+J. DAVID BALDWIN
+Board of Editors
+ALAN J. AUERBACH
+KYLE W. BAGWELL
+DAVID P. BARON
+
+REBECCA M. BLANK
+TIMOTHY F. BRESNAHAN
+JOHN Y. CAMPBELL
+
+H. LORNE CARMICHAEL
+
+STEPHEN G. CECCHETITI
+LAWRENCE J. CHRISTIANO
+STEVEN N. DURLAUF
+NANCY GALLINI
+
+ROGER H. GORDON
+ROBERT H. HAVEMAN
+ROBERT J. HODRICK
+R. MARK ISAAC
+ADAM B. JAFFE
+PAUL. L. JOSKOW
+JOHN H. KAGEL
+JOHN F. KENNAN
+JOHN McMILLAN
+PAUL R. MILGROM
+
+ROBERT H. PORTER
+
+Rationality and Social Choice Amartya Sen 1
+Incumbent Behavior: Vote-Seeking, TaxSetting, and Yardstick Competition
+Timothy Besley and Anne Case 25
+
+Altruism, the Samaritan's Dilemma,r and Government Transfer Policy Stephen Coate 46
+On the Evolution of Altruistic Ethical Rules for
+Siblings Theodore C. Bergstrom 58
+Cartel Quotas Under Majority Rule
+Jonathan Cave and Stephen W. Salant 82
+Capital Mobility in Neoclassical Models of
+
+Growth Robert J. Barro,
+N. Gregory Mankiw, and Xavier Sal
+Early Development
+
+Marvin Goodfriend and John McDermott 116
+The Transition from Barter to Fiat Money
+Joseph A. Ritter 134
+Optimal Contracts for Central Bankers
+Carl E. Walsh 150
+Tastes and Technology in a Two-Country Model
+of the Business Cycle: Explaining International Comovements
+
+Alan C. Stockman and Linda Tesar 168
+
+Union Contracts and the Life-Cycle/PermanentIncome Hypothesis John Shea 186
+
+JOHN ROBERTS
+PAUL ROMER
+
+SUZANNE A. SCOTCHMER
+MATTHEW D. SHAPIRO
+GARY R. SOLON
+
+Exchange Rates and Fundamental: Evidence on
+Long-Horizon Predictability Nelson C. Mark 201
+Monetary Policy Trade-offs and the Correlation
+
+JEREMY STEIN
+
+between Nominal Interest Rates and Real
+Output Jeffrey C. Fuhrer and George R. Moore 219
+
+HAL R. VARIAN
+
+W. KIP VISCUSI
+CARL E. WALSH
+DAVID W. WILCOX
+
+A Natural Experiment in "Jeopardy!"
+Andrew Metrick 240
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+Shorter Papers
+
+Probabilistic Voting, Campaign Contributions, and Efficiency
+Derek Clark and Jonathan Thomas 254
+
+Homegrown Values and Hypothetical Surveys: Is the Dichotomous-Choice Approach
+Incentive-Compatible?
+
+Ronald G. Cummings, Glenn W. Harrison, and E. Elisabet Rutstrom 260
+Privatization and Employment: A Study of the Jute Industry in Bangladesh
+V. Bhaskar and Mushtaq Khan 267
+
+Consumer Response to the Timing of Income: Evidence from a Change in Tax
+Withholding Matthew D. Shapiro and Joel Slemrod 274
+Testing the Rationality of Price Forecasts:
+
+Comment Carl Bonham and Richard Cohen 284
+Reply Michael P. Keane and David E. Runkle 290
+
+The following Statement of Ownership, Management, and Circulation
+requirements, as contained in 39 U.S. Code 3685. The American Econom
+
+published by the American Economic Association, a nonprofit scientific org
+Suite 305, Nashville, Davidson County, TN 37203-2418. The Editor is Pro
+Economic Review, 209 Nassau Street, Princeton, NJ 08542-4607. During t
+
+number of copies printed for each issue was 28,548; the average paid c
+
+distribution, 133; the average number of copies distributed, 26,040. Correspon
+issue published nearest to the filing date: total number of copies printed, 29,3
+free distribution, 119; total distribution, 25,811.
+
+*Submit manuscripts (4 copies), single-sided, double-spa
+Orley Ashenfelter, Editor, AER, 209 Nassau Street,
+Princeton, NJ 08542-4607.
+
+Manuscripts of more than 50 pages are generally not considered for
+publication.
+
+*Authorship should be identified only on a removable cover page; the
+anonymous text should begin on the following page.
+
+.Submission fee: $50 for members; $100 for nonmembers. Please pay
+with a check or money order payable in United States dollars. Foreign
+(including Canadian) payments must be in the form of a check drawn
+on a United States bank payable in United States dollars.
+.Style guides will be provided upon request.
+
+It is the policy of the American Economic Review to publish papers
+
+only if the data used in the analysis are clearly and precisely
+
+documented and are readily available to any researcher for purposes of
+replication. Details of the computations sufficient to permit replication
+
+must be provided. The Editor should be notified at the time of
+
+submission if the data used in a paper are proprietary, or if, for some
+
+other reason, the above requirements cannot be met.
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+Number 96 of a series of photographs of past presidents of the Association
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:30:12 UTC
+All use subject to https://about.jstor.org/terms
+
+

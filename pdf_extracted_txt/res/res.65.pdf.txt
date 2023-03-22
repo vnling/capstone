@@ -1,0 +1,125 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 65, No. 1 (Jan., 1998)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2567000
+Accessed: 17-02-2023 12:27 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:38 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REV-IEW OF
+
+ECONOMIC
+Vol. 65(1) No. 222 STUDIES
+
+Standard Auctions with Financially Constrained Bidders
+Yeon-Koo Che and Ian Gale I
+
+Economic Dynamics with Learning: New Stability Results
+George W. Evans and Seppo Honkapohja 23
+
+The Effect of Work Experience on Female Wages and Labour Supply
+Sumru Altug and Robert A. Miller 45
+
+Optimal Pricing with Costly Adjustment: Evidence from Retail-Grocery Stores
+Margaret E. Slade 87
+
+Measurement Error with Accounting Constraints: Point and Interval Estimation for
+Latent Data with an Application to U.K. Gross Domestic Product
+
+Richard J. Smith. Martin R. Weale and Steven E. Satchell 109
+Informational Constraints and the Overlapping Generations Model: Folk and AntiFolk
+
+Theorems
+
+V.
+
+Bhaskar
+
+135
+
+Innovation and Bureaucracy Under Soft and Hard Budget Constraints
+Yingyi Qian and Chenggang Xu 151
+
+A General Characterization of Optimal Income Tax Enforcemenit
+Parkash Chander and Louis L. Wilde 165
+
+January 1998
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:38 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is
+published by The Review of Economic Studies Ltd., whose object is to encourage research in
+theoretical and applied economics, especially by young economists, and to publish the results in the
+Review of Economic Studies.
+
+The Review also administers a travel fund to enable young economists or econometricians
+travelling either to or from the U.K. to present papers at conferences and workshops. Applications
+should be made to the Business Manager, Prof. Ian Tonks, Department of Economics, University
+of Bristol, Bristol, BS8 ITH.
+
+Subscription Rates for 1998 are:
+Institutions (1 year) ?91 (US$164)
+Individuals (1 year) ?29 (US$52)
+Individuals (3 years) ?66 (US$119)
+
+Students (1 year) ?16 (US$29)
+Students (4 years) ?30 (US$54)
+
+Back Volumes from Vol. 60 are also available at these prices. Single issues cost ?12 (US$24).
+The index for Vols. 26-48 costs ?15 (US$30). Cheques should be made payable to The Review of
+
+Economic Studies Ltd., and sent to The Review of Economic Studies Ltd., Blackwell Publishers
+Journals, PO Box 805, 108 Cowley Road, Oxford, OX4 IFH,U.K. Reprints of Vols. 1-59 can be
+obtained from Periodical Service Company, 11 Main Street, Germanstown, NY 12526, U.S.A.
+Editorial Committee
+
+Joint Managing Editors M. ARELLANO P. BOLTON H. S. SHIN
+Assistant Editors M. ARMSTRONG H. UHLIG K. SCHMIDT
+
+Production Editor G. D. MYLES
+Foreign Editors R. BENABOU J. COCHRANE S. DURLAUF B. HONORt
+G. MAILATH R. PORTER
+
+Business Manager I. TONKS
+Editorial Board
+
+I. D. JEWITT (Chairman)
+K. ABADIR M. COLES C. MEGHIR P. REY
+
+0. ATTANASIO M. CRIPPS M. MEYER E. SENTANA
+G. BERTOLA M. DEWATRIPONT G. NOLDEKE N. SHEPHARD
+
+T. BESLEY J. Dow M. PICCIONE E. VON THADDEN
+T. BORGERS E. G. J. LUTTMER D. QUAH J. VAN REENEN
+D. CANNING D. MARTIMORT R. RAHI P. WEIL
+
+Copyright C) 1998, The Review of Economic Stud
+The appearance of the fee codes in this journal indicates the copyright owner's consent that copies
+of the article may be made for personal or internal use on the following conditions. The copier must
+pay the stated per-copy fee through the Copyright Clearance Center Inc., P.O. Box 8891, Boston,
+Mass 02114, U.S.A. for copying beyond that permitted by Sections 107 and 108 of the U.S. Copyright
+Law. For territories outside North America, permission should be sought direct from the copyright
+holder. This consent does not extend to other kinds of copying, such as copying for general distribution, for advertising and promotional purposes, for creating new collective works, or for resale.
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of Economic
+Studies Ltd., Blackwell Publishers Journals, PO Box 805, 108 Cowley Road, Oxford OX4 IFH, U.K.
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+
+U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
+of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
+07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:38 UTC
+All use subject to https://about.jstor.org/terms
+
+

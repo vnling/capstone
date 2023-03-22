@@ -1,0 +1,227 @@
+Front Matter
+Source: The Quarterly Journal of Economics , Feb., 2004, Vol. 119, No. 1 (Feb., 2004)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/25098675
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Quarterly Journal of Economics
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:21:49 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERL
+JOURNAL OF
+ECONOMICS
+FOUNDED 1886
+
+Volume CXIX February 2004 Issue 1
+ARTICLES
+
+Carmen M. Reinhart and Kenneth S. Rogoff
+
+The Modern History of Exchange Rate Arrangements:
+A Reinterpretation 1
+
+John A. List
+
+The Nature and Extent of Discrimination in the Marketplace:
+Evidence from the Field 49
+
+Timothy Besley and Robin Burgess
+
+Can Labor Regulation Hinder Economic Performance?
+Evidence from India 91
+
+Antonio E. Bernardo and Ivo Welch
+
+Liquidity and Financial Market Runs 135
+
+Barry Nalebuff
+
+Bundling as an Entry Barrier 159
+
+David Str?mberg
+
+Radio's Impact on Public Spending 189
+MUHAMET YlLDIZ
+
+Waiting to Persuade 223
+Marianne Bertrand, Esther Duflo, and Sendhdl Mullainathan
+
+How Much Should We Trust Differences-In-Differences Estimates? 249
+
+Dirk Niepelt
+
+The Fiscal Myth of the Price Level 277
+
+Jay C. Shambaugh
+
+The Effect of Fixed Exchange Rates on Monetary Policy 301
+
+PUBLISHED FOR HARVARD UNIVERSITY
+BY THE MIT PRESS, CAMBRIDGE, MASSAC
+QJE 119(1) 1-352 (2004)
+
+ISSN 0033-5533
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:21:49 UTC
+All use subject to https://about.jstor.org/terms
+
+No. 476
+
+The Quarterly Journal of Economics
+Board of Editors
+
+Alberto Alesina Edward L. Glaeser Lawrence F. Katz
+Associate Editors
+
+George Akerlof Janet Currie Eliana La Ferrara
+Susan C. Athey William Easterly Robert Margo
+David Baron Dennis Epple Bruce Sacerdote
+Marianne Bertrand Ernst Fehr Jeremy Stein
+John Bound Claudia Goldin Richard Thaler
+
+Andrew Caplin Charles Jones Michael Waldman
+Michael Kremer Alwyn Young
+In association with the Harvard Department of Economics and Invited Readers.
+
+Assistant Editor
+
+Harriet E. Hoffman
+Volume 119, Number 1 (February 2004)
+The Quarterly Journal of Economics (ISSN 0033-5533 E-ISSN 1531-4650) is published four
+
+times per year (February, May, August, November) by The MIT Press, Five Cambridge Center,
+
+Cambridge, Massachusetts 02142-1407. Copyright 2004 by the President and Fellows of
+Harvard College and the Massachusetts Institute of Technology. All rights reserved. Repro
+
+duction or translation of any part of the work beyond that permitted by Sections 107 or 108 of
+the United States Copyright Law without the permission of the copyright owner is unlawful.
+Permission to photocopy articles for internal or personal use or the internal or personal use
+of specific clients is granted by the copyright owner for libraries and other users registered
+
+with the Copyright Clearance Center (CCC), provided that the per-copy fee of $10.00 is paid
+directly to CCC, 222 Rosewood Drive, Danvers, MA 01923. The fee code for users of the CCC's
+Transactional Reporting Service is 0033-5533/04 $10.00. For those organizations that have
+been granted a photocopy license with CCC, a separate system of payment has been arranged.
+
+Address all other inquiries to Subsidiary Rights Manager, MIT Press Journals, Five Cam
+bridge Center, Cambridge, MA 02142. Fax: (617) 258-5028; e-mail: journals-rights@mit.edu.
+The contents of this Journal are included by the following:
+
+ABI/Inform, Business Periodicals Index, Contents of Recent Economics Journals, Current
+Contents/Social and Behavioral Sciences, Economic Literature Index, Index of Economic Arti
+cles in Journals and Collected Volumes, Journal of Economic Literature, LexisNexis, Social
+Sciences Citation Index/Social SciSearch, Social Sciences Index, and Wilson Business Ab
+stracts. For a complete list of Abstracting/Indexing information, please go to the journal's
+homepage http ://mi tpr es s. mit. edu/qj e
+
+An electronic, full-text version of Quarterly Journal of Economics is available from the MIT
+
+Press.
+
+Subscription rates: Electronic only?Individuals $42.00, Students/retired $25.00, Institu
+tions $198.00. Canadians add 7% GST. Print and Electronic?Individuals $47.00, Students/
+retired $28.00, Institutions $220.00. Outside the U.S. and Canada add $24.00 for postage and
+handling. Canadians add 7% GST. Current issues are $56.00. Back issue rates: Individuals
+$28.00, Institutions $56.00. Outside the U.S. and Canada add $5.00 per issue for postage and
+
+handling. Canadians add 7% GST. Mail subscription and address changes to MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407; (617) 253-2889; fax: (617)
+577-1545; e-mail: journals-orders@toit.edu. Claims for missing issues will be honored free of
+charge if made within three months after the publication date of the issue. Claims may be
+emailed to journals-claims@mit.edu. Prices subject to change without notice.
+
+Postmaster: Send address changes to The Quarterly Journal of Economics, MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407. Periodicals Postage paid at
+Boston, MA, and at additional postal offices.
+Advertising and mailing list inquiries may be addressed to: Marketing Dept., MIT Press
+Journals, Five Cambridge Center, Cambridge, MA 02142-1407; (617) 253-2866; fax (617)
+258-5028; e-mail: journals-info@mit.edu.
+
+Books, periodicals, and manuscripts should be addressed to THE QUARTERLY JOUR
+NAL OF ECONOMICS, Littauer Center, Harvard University, Cambridge, Massachusetts
+02138. Three copies of manuscripts should be submitted in clear double-spaced typewritten
+copy. The use of recycled paper is encouraged. Manuscripts of more than forty-five double
+spaced typed pages in length are not ordinarily considered for publication. Copies of manu
+scripts that have not been accepted for publication are not ordinarily returned to the author.
+Offprints may be ordered by authors prior to publication, prepaid.
+
+Business Correspondence should be addressed to The MIT Press Journals, Five Cam
+
+bridge Center, Cambridge, MA 02142. http://mitpress.mit.edu/qje
+
+? 2004 by the President and Fellows of Harvard College and
+The Massachusetts Institute of Technology
+printed in United States of America
+
+? This publication is printed on acid-free paper.
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:21:49 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY JOURNAL
+OF ECONOMICS
+
+ARTICLES
+
+Carmen M. Reinhart and Kenneth S. Rogoff
+
+The Modern History of Exchange Rate Arrangements:
+
+A Reinterpretation 1
+
+John A. List
+
+The Nature and Extent of Discrimination in the Marketplace:
+Evidence from the Field 49
+
+Timothy Besley and Robin Burgess
+
+Can Labor Regulation Hinder Economic Performance?
+Evidence from India 91
+
+Antonio E. Bernardo and Ivo Welch
+
+Liquidity and Financial Market Runs 135
+
+Barry Nalebuff
+
+Bundling as an Entry Barrier 159
+
+David Str?mberg
+
+Radio's Impact on Public Spending 189
+
+Muhamet Yildiz
+
+Waiting to Persuade 223
+Marianne Bertrand, Esther Duflo, and Sendhil Mullainathan
+
+How Much Should We Trust Differences-In-Differences Estimates? 249
+
+Dirk Ndzpelt
+
+The Fiscal Myth of the Price Level 277
+
+Jay C. Shambaugh
+
+The Effect of Fixed Exchange Rates on Monetary Policy 301
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:21:49 UTC
+All use subject to https://about.jstor.org/terms
+
+

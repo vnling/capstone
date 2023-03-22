@@ -1,0 +1,141 @@
+ARUN G. CHANDRASEKHAR, HORACIO LARREGUY, AND JUAN PABLO XANDRI: Testing Models
+
+of Social Learning on Networks: Evidence From Two Experiments . . . . . . . . . . . . . . .
+DARON ACEMOGLU AND PABLO D. AZAR: Endogenous Production Networks . . . . . . . . . . . .
+FRANCISCO J. BUERA AND EZRA OBERFIELD: The Global Diffusion of Ideas . . . . . . . . . . . . .
+ANDREAS FAGERENG, LUIGI GUISO, DAVIDE MALACRINO, AND LUIGI PISTAFERRI: Heterogeneity and Persistence in Returns to Wealth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LAURA LIU, HYUNGSIK ROGER MOON, AND FRANK SCHORFHEIDE: Forecasting With Dynamic Panel Data Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LORENZ HARTMANN: Savage’s P3 Is Redundant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ORAZIO ATTANASIO AND ELENA PASTORINO: Nonlinear Pricing in Village Economies . . . .
+ALBERTO ABADIE, SUSAN ATHEY, GUIDO W. IMBENS, AND JEFFREY M. WOOLDRIDGE: Sampling-Based versus Design-Based Uncertainty in Regression Analysis . . . . . . . . . . . .
+ISABEL TREVINO: Informational Channels of Financial Contagion . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2018–2019 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2018–2019 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . .
+
+VOL. 88, NO. 1 — January 2020
+
+1
+33
+83
+115
+171
+203
+207
+265
+297
+337
+339
+351
+361
+365
+377
+381
+
+14680262, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA881FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+GUIDO W. IMBENS, Graduate School of Business and Dept. of Economics, Stanford University, 655 Knight Way,
+Stanford, CA 94305-5015, U.S.A.; imbens@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@comcast.net
+CO-EDITORS
+DAVE DONALDSON, Dept. of Economics, Massachusetts Institute of Technology, The Morris and Sophie Chang
+Building, E52-554, 50 Memorial Drive, Cambridge, MA 02142, U.S.A.; donaldson@econometricsociety.org
+CHARLES I. JONES, Graduate School of Business, Stanford University, 655 Knight Way, Stanford, CA 94305-5015,
+U.S.A.; chadj@econometricsociety.org
+BARTON L. LIPMAN, Dept. of Economics, Boston University, 270 Bay State Road, Room 558, Boston, MA 02215,
+U.S.A.; blipman@econometricsociety.org
+ALESSANDRO LIZZERI, Dept. of Economics, New York University, 19 West 4th Street, Office 606, New York, NY
+10012, U.S.A.; alizzeri@econometricsociety.org
+ULRICH K. MÜLLER, Dept. of Economics, Princeton University, Julis Romo Rabinowitz Building, Princeton, NJ
+08544, U.S.A.; umueller@econometricsociety.org
+AVIV NEVO, The Perelman Center for Political Science and Economics, 133 South 36th Street, Philadelphia, PA
+19104, U.S.A.; anevo@econometricsociety.org
+ASHER WOLINSKY, Dept. of Economics, Northwestern University, 2211 Campus Drive, 3rd Floor, Evanston, IL
+60208, U.S.A.; wolinsky@econometricsociety.org
+ASSOCIATE EDITORS
+STEFAN HODERLEIN, Amazon
+ALBERTO ABADIE, Massachusetts Institute of
+Technology
+MICHAEL JANSSON, University of California, Berkeley
+JAKUB KASTL, Princeton University
+JAAP ABBRING, Tilburg University
+TREB ALLEN, Dartmouth College
+PATRICK KLINE, University of California, Berkeley
+MANUEL AMADOR, Federal Reserve Bank of
+FELIX KUBLER, University of Zurich
+Minneapolis and University of Minnesota
+JIA LI, Duke University
+HANNO LUSTIG, Stanford University
+ANDRES ARADILLAS-LOPEZ, The Pennsylvania
+State University
+MASSIMO MARINACCI, Università Bocconi
+ANDREW MCLENNAN, University of Queensland
+MARCO BASSETTO, Federal Reserve Bank of
+Minneapolis
+SERENA NG, Columbia University
+ANDRIY NORETS, Brown University
+FRANCIS BLOCH, University Paris 1 and
+Paris School of Economics
+ELIAS PAPAIOANNOU, London Business School
+MARZENA ROSTEK, University of Wisconsin–Madison
+NICHOLAS BLOOM, Stanford University
+ERIC BUDISH, University of Chicago
+ANDRES SANTOS, University of California,
+LORENZO CALIENDO, Yale University
+Los Angeles
+MATIAS D. CATTANEO, Princeton University
+TODD SARVER, Duke University
+XIAOHONG CHEN, Yale University
+ILYA R. SEGAL, Stanford University
+DENIS CHETVERIKOV, University of California,
+AZEEM M. SHAIKH, University of Chicago
+Los Angeles
+NEIL SHEPHARD, Harvard University
+ZHENG MICHAEL SONG, The Chinese University of
+ERNESTO DAL BÓ, University of California,
+Berkeley
+Hong Kong, Hong Kong
+MELISSA DELL, Harvard University
+TOMASZ STRZALECKI, Harvard University
+REBECCA DIAMOND, Stanford University
+VIKTOR TODOROV, Northwestern University
+PASCALINE DUPAS, Stanford University
+ALEH TSYVINSKI, Yale University
+BENJAMIN FABER, University of California, Berkeley
+NICOLAS VIEILLE, HEC Paris
+JESÚS FERNÁNDEZ-VILLAVERDE, University of
+RAKESH VOHRA, University of Pennsylvania
+Pennsylvania
+PIERRE-OLIVIER WEILL, University of California,
+Los Angeles
+GUILLAUME FRÉCHETTE, New York University
+BAS J. M. WERKER, Tilburg University
+AMANDA FRIEDENBERG, University of Arizona
+XAVIER GABAIX, Harvard University
+MATTHEW J. WISWALL, University of Wisconsin–Madison
+MARINA HALAC, Yale University
+ALEXANDER WOLITZKY, Massachusetts Institute of
+KEISUKE HIRANO, The Pennsylvania State
+Technology
+LEEAT YARIV, Princeton University
+University
+PUBLICATIONS MANAGER: MARY BETH BELLANDO-ZANIBONI, Cowles Foundation, Yale University, 30 Hillhouse Avenue, New Haven, CT 06511, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided on the last page.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA881FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

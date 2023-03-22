@@ -1,0 +1,138 @@
+Front Matter
+Source: The Review of Economic Studies , January 2010, Vol. 77, No. 1 (January 2010)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/40587617
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Review of Economic Studies
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:23:45 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+
+STUDIES
+
+Vol. 77(1) No. 270
+
+Jane Martin: Special Tribute 1
+
+Dynamic Matching and Evolving Reput
+Axel Anderson and Lones Smith 3
+
+Competitive Non-linear Pricing and Bundling
+
+Mark Armstrong and John Vickers 30
+The Swing Voter's Curse in the Laboratory
+
+Marco Battaglini, Rebecca B. Morton and Thomas R. Palf
+Managerial Skills Acquisition and the Theory of Economic Development
+
+Paul Beaudry and Patrick Francois 90
+
+Non-Parametric Identification and Estimation of Truncated Regression Mo
+
+Songnian Chen 127
+Millian Efficiency with Endogenous Fertility
+
+J. Ignacio Conde-Ruiz, Eduardo L. Giménez and Mikel Pérez-Nievas 154
+Multi-Product Firms and Flexible Manufacturing in the Global Economy
+
+Carsten Eckel and J. Peter Neary 1 88
+Network Games
+
+Andrea Galeotti, Sanjeev Goyal, Matthew O. Jackson,
+
+Fernando Vega-Redondo and Leeat Yariv 2 1 8
+On-the-Job Search, Mismatch and Efficiency
+
+Pieter A. Gautier, Coen N. Teulings and Aico van Vuuren 245
+Pairwise-Difference Estimation of a Dynamic Optimization Model
+
+Han Hong and Matthew Shum 273
+Optimal Monetary Policy with Uncertain Fundamentals and
+
+Dispersed Information Guido Lorenzoni 305
+Quantile Maximization in Decision Theory Marzena Rostek 339
+
+Dynamic Kidney Exchange M. Utku Ünver 372
+Erratum
+
+January
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:23:45 UTC
+All use subject to https://about.jstor.org/terms
+
+415
+
+2010
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The Review was started in 1933 by a group of young British and American Economists. It i
+
+The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and ap
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+Bruno Biais, University of Toulouse Marco Ottaviani, London Business School
+Imran Rasul, University College London Enrique Sentana, CEMFI
+Kjetil Storesletten, University of Oslo
+
+Secretary and Business Manager
+Christopher Wallace, Trinity College, Oxford
+
+Foreign Editors
+
+Donald Andrews, Yale University David S Lee, Princeton University
+
+Marco Battaglini, Princeton University Jonathan Levin, Stanford University
+Dirk Bergemann, Yale University Marc Melitz, Princeton University
+Matthias Doepke, Northwestern University Aviv Nevo, Northwestern University
+Ray Fisman, Columbia University Debraj Ray, New York University
+Burton Hollifield, Carnegie Mellon University Martin Schneider, Stanford University
+Ilan Kremer, Stanford University Muhamet Yildiz, Massachusetts Institute of
+Per Krusell, Princeton University Technology
+
+Editorial Board
+
+Mark Armstrong (Chairman), University College London
+
+Jaap Abbring, VU University Amsterdam Simon Lee, University College London
+Jerome Adda, University College London David Myatt, University of Oxford
+V. Bhaskar, University College London Bent Nielsen, Nuffield College, Oxford
+Francesco Caselli, London School of Economics Martin Pesendorfer, London School of Economics
+Valentina Corradi, University of Warwick Guillaume Plantin, London Business School
+Amil Dasgupta, London School of Economics Andrea Prat, London School of Economics
+Andrea Galeotti, Essex University Hélène Rey, London Business School
+Gino Gancia, CREI, Universität Pompeu Fabra Bernard S alanié, Columbia University
+Luis Garicano, London School of Economics Ran Spiegler, University College London
+Alex Gershkov, Hebrew University of Jerusalem Balazs Szentes, University College London
+Mattreesh Ghatak, London School of Economics Silvana Tenreyro, London School of Economics
+Rachel Griffith, Institute for Fiscal Studies and Marko Terviq Helsinki School of Economics
+University College London Juuso Välimäki, Helsinki School of Economics and
+John Hassler, IIES, Stockholm University University of Southampton
+Christian Hellwig, University California, Dimitri Vayanos, London School of Economics
+Los Angeles Frederic Vermeulen, Tilburg University
+Steffen Huck, University College London Georg Weizsäcker, London School of Economics
+Philipp Kircher, Oxford University Fabrizio Zilibotti, University of Zurich
+Felix Kübler, University of Pennsylvania
+Please see inside the back cover of this issue for information on the Review website (www.restud.com),
+subscription rates and submission of articles.
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12: Jan 1976 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+

@@ -1,0 +1,330 @@
+ARTICLES
+ROBERT W. FOGEL
+
+Catching Up with the Economy
+AARON TORNELL AND PHILIP R. LANE
+
+The Voracity Effect
+HUW LLOYD-ELLIS
+
+Endogenous Technological Change and Wage Inequality
+FRANCESCO CASELLI
+
+Technological Revolutions
+TED O’DONOGHUE AND MATTHEW RABIN
+
+Doing It Now or Later
+YEON-KOO CHE AND DONALD B. HAUSCH
+
+Cooperative Investments and the Value of Contracting
+MARTIN LETTAU AND HARALD UHLIG
+
+Rules of Thumb versus Dynamic Programming
+JEREMY BULOW AND PAUL KLEMPERER
+
+The Generalized War of Attrition
+GIOVANNI MAGGI
+
+The Role of Multilateral Institutions in International Trade
+Cooperation
+KYLE BAGWELL AND ROBERT W. STAIGER
+
+An Economic Theory of GATT
+JORDI GALÍ
+
+Technology, Employment, and the Business Cycle: Do Technology
+Shocks Explain Aggregate Fluctuations?
+
+CATHERINE J. MORRISON PAUL AND DONALD S. SIEGEL
+
+Scale Economies and Industry Agglomeration Externalities: A
+Dynamic Cost Function Approach
+
+SHORTER PAPERS: A. Corns and A. Schotter; C. Camerer and D. Lovallo; J. C. Cox,
+S. H. Dinkin, and V. L. Smith; C. M. Campbell, J. H. Kagel, and D. Levin; I. Bohnet and
+B. S. Frey; E. Hoffman, K. McCabe, and V. L. Smith; R. M. W. J. Beetsma and H. Jensen.
+
+MARCH 1999
+
+/ 3y15 fm Mp 1 Wednesday Dec 15 07:19 AM LP–AER fm
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+Officers
+
+President
+D. GALE JOHNSON
+University of Chicago
+President-elect
+DALE W. JORGENSON
+Harvard University
+• Composed by CJS-Tapsco, Akron, Pennsylvania, U.S.A.
+• Printed at Banta Company, Menasha, Wisconsin,
+U.S.A.
+• Copyright q 1999 by the American Economic
+Association. Permission to make digital or hard
+copies of part or all of this work for personal or
+classroom use is granted without fee provided that
+copies are not made or distributed for profit or direct commercial advantage and that copies show
+this notice on the first page or initial screen of a
+display along with the full citation, including the
+name of the author. Copyrights for components of
+this work owned by others than AEA must be honored. Abstracting with credit is permitted. To copy
+otherwise, to republish, to post on servers, to redistribute to lists, or to use any component of this
+work in other works, requires prior specific permission and/or a fee. Permissions may be requested from the American Economic Association, 2014 Broadway, Suite 305, Nashville, TN
+37203.
+• No responsibility for the views expressed by authors in this Review is assumed by the editors or
+the publishers, The American Economic Association.
+
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent
+to the American Economic Association, 2014
+Broadway, Suite 305, Nashville, TN 37203.
+Change of address notice must be received at least
+six (6) weeks prior to the publication month. A
+membership or subscription paid twice is automatically extended for an additional year unless
+otherwise requested.
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), March 1999, Vol. 89, No. 1, is published five times a year (March, May, June, September, December) and every four years it is
+published six times a year (twice in December) by
+the American Economic Association, 2014 Broadway, Suite 305, Nashville, TN 37203. Annual fees
+for regular membership, of which 30 percent is for
+a year’s subscription to this journal, are: $56.00,
+$67.00, or $78.00, depending on income. A membership also includes subscriptions to The Journal
+of Economic Literature and The Journal of Economic Perspectives. In countries other than the
+U.S.A., add $23.00 for extra postage. Information
+on becoming a member can be found on the last
+page of this journal. Periodical postage paid at
+Nashville, TN and at additional mailing offices.
+POSTMASTER: Send address changes to the
+American Economic Review, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+
+Vice-Presidents
+ALAN J. AUERBACH
+University of California-Berkeley
+MARJORIE B. McELROY
+Duke University
+Secretary
+JOHN J. SIEGFRIED
+Vanderbilt University
+Treasurer
+C. ELTON HINSHAW
+Vanderbilt University
+Editor of The American Economic Review
+ORLEY ASHENFELTER
+Princeton University
+Editor of The Journal of Economic Literature
+JOHN McMILLAN
+University of California-San Diego
+Editor of The Journal of Economic Perspectives
+ALAN B. KRUEGER
+Princeton University
+Executive Committee
+
+Elected Members of the Executive Committee
+RACHEL McCULLOCH
+Brandeis University
+PAUL M. ROMER
+Stanford University
+ANGUS S. DEATON
+Princeton University
+LAURENCE J. KOTLIKOFF
+Boston University
+GENE M. GROSSMAN
+Princeton University
+NANCY L. ROSE
+Massachusetts Institute of Technology
+EX OFFICIO Members
+ARNOLD C. HARBERGER
+University of California-Los Angeles
+ROBERT W. FOGEL
+University of Chicago
+
+/ 3y15 fm Mp 2 Wednesday Dec 15 07:19 AM LP–AER fm
+
+THE
+
+AMERICAN
+
+Editor
+ORLEY ASHENFELTER
+Co-Editors
+DENNIS N. EPPLE
+R. PRESTON MCAFEE
+MATTHEW D. SHAPIRO
+Managing Editor
+LYNN FLEISHER
+
+ECONOMIC
+
+REVIEW
+
+March 1999
+VOLUME 89, NUMBER 1
+
+Articles
+Catching Up with the Economy
+
+Board of Editors
+
+Robert W. Fogel
+
+1
+
+The Voracity Effect
+Aaron Tornell and Philip R. Lane
+
+22
+
+Endogenous Technological Change and Wage
+Inequality
+Huw Lloyd-Ellis
+
+47
+
+Technological Revolutions
+
+Francesco Caselli
+
+78
+
+Doing It Now or Later
+Ted O’Donoghue and Matthew Rabin
+
+103
+
+Cooperative Investments and the Value of Contracting
+Yeon-Koo Che and Donald B. Hausch
+
+125
+
+Rules of Thumb versus Dynamic Programming
+Martin Lettau and Harald Uhlig
+
+148
+
+The Generalized War of Attrition
+Jeremy Bulow and Paul Klemperer
+
+175
+
+The Role of Multilateral Institutions in International Trade Cooperation
+Giovanni Maggi
+
+190
+
+An Economic Theory of GATT
+Kyle Bagwell and Robert W. Staiger
+
+215
+
+Technology, Employment, and the Business Cycle:
+Do Technology Shocks Explain Aggregate
+Fluctuations?
+Jordi Galı́
+
+249
+
+Scale Economies and Industry Agglomeration Externalities: A Dynamic Cost Function Approach
+Catherine J. Morrison Paul and Donald S. Siegel
+
+272
+
+DAVID P. BARON
+SUSANTO BASU
+THEODORE C. BERGSTROM
+TIMOTHY J. BESLEY
+FRANCINE D. BLAU
+CHARLES C. BROWN
+ALLAN DRAZEN
+TIMOTHY S. FUERST
+JEFFREY C. FUHRER
+DON FULLERTON
+JORDI GALÍ
+MARTIN S. GAYNOR
+GORDON H. HANSON
+CHARLES A. HOLT
+ADAM B. JAFFE
+PAUL L. JOSKOW
+TRACY R. LEWIS
+PAUL R. MILGROM
+ROBERT A. MOFFITT
+CHRISTINA H. PAXSON
+WOLFGANG PESENDORFER
+VALERIE A. RAMEY
+SERGIO T. REBELO
+JENNIFER F. REINGANUM
+PETER C. REISS
+RICHARD E. ROMANO
+DAVID H. ROMER
+DAVID E. M. SAPPINGTON
+ANDREW R. SCHOTTER
+GARY SOLON
+ROBERT W. STAIGER
+CURTIS R. TAYLOR
+W. KIP VISCUSI
+CARL E. WALSH
+DAVID N. WEIL
+KENNETH D. WEST
+MICHAEL D. WOODFORD
+RANDALL WRIGHT
+
+/ 3y15 fm Mp 3 Wednesday Dec 15 07:19 AM LP–AER fm
+
+Shorter Papers
+Can Affirmative Action Be Cost Effective? An Experimental Examination of PricePreference Auctions
+Allan Corns and Andrew Schotter
+Overconfidence and Excess Entry: An Experimental Approach
+Colin Camerer and Dan Lovallo
+The Winner’s Curse and Public Information in Common Value Auctions:
+Comment
+James C. Cox, Samuel H. Dinkin, and Vernon L. Smith
+Reply
+Colin M. Campbell, John H. Kagel, and Dan Levin
+Social Distance and Other-Regarding Behavior in Dictator Games:
+Comment
+Iris Bohnet and Bruno S. Frey
+Reply
+Elizabeth Hoffman, Kevin McCabe, and Vernon L. Smith
+Optimal Inflation Targets, ‘‘Conservative’’ Central Banks, and Linear Inflation Contracts:
+Comment
+Roel M. W. J. Beetsma and Henrik Jensen
+
+• Submit manuscripts (4 copies), single-sided, double-spaced, to:
+Orley Ashenfelter, Editor, AER, 209 Nassau Street,
+Princeton, NJ 08542-4601.
+• Authorship should be identified only on a removable cover page; the
+anonymous text should begin on the following page.
+• Submission fee: $50 for members; $100 for nonmembers. Please pay with
+a check or money order payable in United States dollars. Foreign (including
+Canadian) payments must be in the form of a check drawn on a United
+States bank payable in United States dollars.
+• Style guides will be provided upon request.
+• Manuscripts longer than 50 pages are rarely accepted for publication.
+
+It is the policy of the American Economic Review to publish papers only
+if the data used in the analysis are clearly and precisely documented and
+are readily available to any researcher for purposes of replication. Details
+of the computations sufficient to permit replication must be provided. The
+Editor should be notified at the time of submission if the data used in a
+paper are proprietary, or if, for some other reason, the above requirements
+cannot be met.
+
+/ 3y15 fm Mp 4 Wednesday Dec 15 07:19 AM LP–AER fm
+
+291
+306
+319
+325
+335
+340
+342
+
+Number 100 of a series of photographs of past presidents of the Association
+
+/ 3y15 fm Mp 5 Wednesday Dec 15 07:19 AM LP–AER fm
+
+/ 3y15 fm Mp 6 Wednesday Dec 15 07:19 AM LP–AER fm
+
+

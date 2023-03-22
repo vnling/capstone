@@ -1,0 +1,128 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 61, No. 1 (Jan., 1994)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2297871
+Accessed: 17-02-2023 12:28 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:24 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 61(1) No. 206 STUDIES
+
+Editorial
+
+Announcements
+
+1
+
+Accuracy in Simulations Wouter J. Den Haan and Albert Marcet 3
+
+Diffusion of Technical Change and the Decomposition of Output into Trend and
+Cycle Marco Lippi and Lucrezia Reichlin 19
+Informational
+
+Cycles
+
+Joseph
+
+Zeira
+
+31
+
+Monopolistic Competition with Endogenous Specialization Martin L. Weitzman 45
+Consumer Demand and the Life-Cycle Allocation of Household Expenditures
+Richard Blundell, Martin Browning and Costas Meghir 57
+Foreign Direct Investment and the Risk of Expropriation
+Jonathan Thomas and Tim Worrall 81
+
+Renegotiation and Optimality in Agency Contracts Ching-To Albert Ma 109
+Insider Trading without Normality Jean-Charles Rochet and Jean-Luc Vila 131
+Advertising and Coordination Kyle Bagwell and Garey Ramey 153
+Jobs and Chocolate: Samuelsonian Surpluses in Dynamic Models of Unemployment
+Carl Davidson, Lawrence Martin and Steven Matusz 173
+Accepted
+
+Manuscripts
+
+January 1994
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:24 UTC
+All use subject to https://about.jstor.org/terms
+
+193
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is
+published by The Review of Economic Studies Ltd., whose object is to encourage research in
+theoretical and applied economics, especially by young economists, and to publish the results in the
+Review of Economic Studies.
+
+The Review also administers a travel fund to enable young economists or econometricians
+travelling either to or from the U.K. to present papers at conferences and workshops. Applications
+should be made to the Business Manager, Dr. Alan Hamlin, Department of Economics, University
+of Southampton, Southampton S09 5NH.
+Subscription Rates for 1994 are:
+Institutions (1 year) ?68 (US$124)
+Individuals (1 year) ?24 (US$44)
+
+Individuals (3 years) ?55 (US$100)
+Students (1 year) ?12 (US$22)
+
+Students (4 years) ?25 (US$45)
+Back Volumes from Vol. 53 are also available at these prices. Single issues cost ?12 (US$24).
+The index for Vols. 26-48 costs ?15 (US$30). Cheques should be made payable to The Review of
+Economic Studies Ltd., and sent to The Review of Economic Studies Ltd., Journal Subscriptions
+Department, Basil Blackwell Ltd., 108 Cowley Road, Oxford OX4 IJF, U.K. Reprints of Vols. 152 can be obtained from Kraus Reprint and Periodicals, Route 100, Millwood, N.Y. 10546, U.S.A.
+Editorial Committee
+
+Joint Managing Editors M. ARELLANO M. DEWATRIPONT I. D. JEWITT
+Assistant Editors T. BORGERS C. MEGHIR M. MEYER
+
+Production Editor J. A. BEATH
+
+Foreign Editors R. BENABOU D. DIAMOND D. FUDENBERG B. HONOREt
+Business Manager A. HAMLIN
+Editorial Board
+
+C. R. BEAN (Chairman)
+K. ABADIR E. VAN DAMME A. MANNING K. SCHMIDT
+P. AGHION J. Dow J. H. MOORE R. J. SMITH
+M. ARMSTRONG C. HARRIS D. QUAH J. THOMAS
+G. BERTOLA M. J. KEEN P. REY J. TIROLE
+P. BOLTON P. KLEMPERER G. RIDDER J. VICKERS
+D. CANNING B. LOCKWOOD A. ROELL P. WEIL
+
+Copyright C 1994, The Review of Economic Studies L
+
+The appearance of the fee codes in this journal indicates
+of the article may be made for personal or internal use on the following conditions. The copier must
+pay the stated per-copy fee through the Copyright Clearance Center Inc., P.O. Box 8891, Boston,
+Mass 02114, U.S.A. for copying beyond that permitted by Sections 107 and 108 of the U.S. Copyright
+
+Law. For territories outside North America, permission should be sought direct from the copyright
+holder. This consent does not extend to other kinds of copying, such as copying for general distribution, for advertising and promotional purposes, for creating new collective works, or for resale.
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of Economic
+Studies Ltd., c/o Basil Blackwell Ltd., 108 Cowley Road, Oxford OX4 1JF, U.K.
+
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+U.S. Mailing: Second class postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
+
+of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
+
+07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:28:24 UTC
+All use subject to https://about.jstor.org/terms
+
+

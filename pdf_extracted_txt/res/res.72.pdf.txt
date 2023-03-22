@@ -1,0 +1,173 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 72, No. 1 (Jan., 2005)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/3700680
+Accessed: 17-02-2023 12:24 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:51 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 72(1) No. 250
+
+STUDIES
+
+Semiparametric Difference-in-Differences Estimators Alberto Abadie I
+Optimal Taxation when Consumers Have Endogenous Benchmark Levels of
+Consumption Andrew B. Abel 21
+Special Interests and Technological Change
+
+Giorgio Bellettini and Gian
+
+Compensating Variation and Hicksian C
+
+Utility Models that are Nonlinear in Inc
+Karlstrim
+
+57
+
+Wages, Experience and Seniority Christian Dustmann and Costas Meghir 77
+Engines of Liberation
+
+Jeremy Greenwood, Ananth Seshadri and Mehmet Yorukoglu 109
+
+Outsourcing in a Global Economy Gene M. Grossman and Elhanan Helpman 135
+Fiscal Policy with Heterogeneous Agents and Incomplete Markets
+Jonathan Heathcote 161
+
+The Relationship Between Education and Adult Mortality in the United Stat
+
+Adriana Lleras-Muney 189
+Money and Prices Under Uncertainty
+
+Tomoyuki Nakajima and Herakles Polemarchakis 223
+Meetings with Costly Participation: An Empirical Analysis
+
+Matthew Turner and Quinn Weninger 247
+Environmental Protection: A Theory of Direct and Indirect Competition for
+Political
+
+January 2005
+
+Influence
+
+Zhihao
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:51 UTC
+All use subject to https://about.jstor.org/terms
+
+Yu
+
+269
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The Review was started in 1933 by a group of young British and American Economists. It is publish
+The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied eco
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+MAITREESH GHATAK, London School of Economics BERNARD SALANIE, CREST-
+
+Juuso V ALIMX.KI, Helsinki School of Economics and University of Southampto
+
+FABRIZIO ZILIBOTTI, IIES, Stockholm University
+
+Secretary and Business Manager
+CHRISTOPHER WALLACE, Trinity College, Oxford
+
+Foreign Editors
+DIRK BERGEMANN, Yale University
+
+KIMINORI MATSUYAMA, Northwestern
+
+MARTIN CRIPPS, Washington UniversityUniversity
+DEBRAJ RAY, New York University
+GARY B. GORTON, University of Pennsylvania
+
+PER KRUSELL, Princeton University
+
+JOS&-VICTOR RioS-RULL,
+
+of Pennsylvania
+PINELOPI KOUJIANOU GOLDBERG, YaleUniversity
+University
+
+Editorial Board
+
+MARK ARMSTRONG (Chairman), University College London
+JAAP ABBRING, Free University, Amsterdam
+ABHINAY MUTHOO, University of Essex
+
+JEROME ADDA, University College London DAVID MYATT, St. Catherine's College, Oxford
+BENT NIELSEN, Nuffield College, Oxford
+ORAZIO ATTANASIO, University College London
+
+V. BHASKAR, Essex University
+
+MARCO OTTAVIANI, London Business School
+
+BRUNO BIAIS, University of Toulouse
+
+MARTIN PESENDORFER, London School of Economics
+
+ANTONIO CICCONE, Universitat Pompeu Fabra
+ANDREA PRAT, London School of Economics
+MELVYN COLES, University of Essex
+
+SVEN RADY, University of Munich
+
+FRANCESCA CORNELLI, London Business School
+
+ROHIT RAHI, London School of Economics
+
+VALENTINA CORRADI, Queen Mary,
+
+ENRIQUE SENTANA, CEMFI
+
+University of London
+
+ERIK EYSTER, London School of Economics
+
+NEIL SHEPHARD, Nuffield College, Oxford
+
+HYUN SONG SHIN, London School of Economics
+
+RACHEL GRIFFITH, Institute for Fiscal Studies and RAN SPIEGLER, Tel Aviv University
+University College London
+JOHN HASSLER, lIES, Stockholm University
+
+KJETIL STORESLETTEN, University of Oslo,
+IHES, Stockholm University and CEPR
+
+STEFFEN HUCK, University College London
+
+HARALD UHLIG, Humboldt University of Berlin
+
+GILAT LEVY, London School of Economics
+
+DIMITRI VAYANOS, London School of Economics
+
+OLIVER B. LINTON, London School of Economics JAUME VENTURA, CREI, Universitat Pompeu Fabra
+THOMAS MARIOTTI, London School of Economics GEORG WEIZSX.CKER, London School of Economics
+
+Please see inside the back cover of this issue for information on the Review website (www.restud.com),
+subscription rates and submission of articles.
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:51 UTC
+All use subject to https://about.jstor.org/terms
+
+

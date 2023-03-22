@@ -1,0 +1,135 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 66, No. 1, Special Issue: Contracts (Jan., 1999)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2566944
+Accessed: 17-02-2023 12:27 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 66(1) No. 226
+
+STUDIES
+
+SPECIAL ISSUE: CONTRACTS
+Introduction
+
+1
+
+The Theory of Moral Hazard and Unobservable Behaviour: Part I J. A. Mirrlees 3
+
+Nash Equilibrium and Welfare Optimality Eric Maskin 23
+Implementation and Renegotiation Eric Maskin and John Moore 39
+
+Complexity and Renegotiation: A Foundation for Incomplete Contracts Ilya Segal 57
+Unforeseen Contingencies and Incomplete Contracts Eric Maskin and Jean Tirole 83
+Foundations of Incomplete Contracts Oliver Hart and John Moore 115
+
+Two Remarks on the Property-Rights Literature Eric Maskin and Jean Tirole 139
+Price Discrimination by a Many-Product Firm Mark Armstrong 151
+Managerial Incentive Problems: A Dynamic Perspective Bengt Holmstrom 169
+
+The Economics of Career Concerns, Part I: Comparing Information Structures
+Mathias Dewatripont, Ian Jewitt and Jean Tirole 183
+
+The Economics of Career Concerns, Part II: Application to Missions and
+Accountability of Government Agencies
+Mathias Dewatripont, Ian Jewitt and Jean Tirole 199
+
+January 1999
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is
+published by The Review of Economic Studies Ltd., whose object is to encourage research in
+theoretical and applied economics, especially by young economists, and to publish the results in the
+
+Review of Economic Studies.
+The Review also administers a travel fund to enable young economists or econometricians
+travelling either to or from the U.K. to present papers at conferences and workshops. Applications
+
+should be made to the Business Manager, Prof. Ian Tonks, Department of Economics, University
+of Bristol, Bristol, BS8 ITH.
+Subscription Rates for 1999 are:
+Institutions (1 year) OECD ?100 (US $180) Non-OECD ?50 (US $90)
+Individuals (1 year) ?30 (US $54)
+Individuals (3 years) ?70 (US $126)
+
+Students (1 year) ?16 (US $29)
+Students (4 years) ?30 (US $54)
+Back Volumes from Vol. 60 are also available at these prices. Single issues cost ?12 (US $24).
+
+The index for Vols. 26-48 costs ?15 (US $30). Cheques should be made payable to The Review of
+Economic Studies Ltd., and sent to The Review of Economic Studies Ltd., Blackwell Publishers
+Journals, PO Box 805, 108 Cowley Road, Oxford, OX4 1FH, U.K. Reprints of Vols. 1-59 can be
+
+obtained from Periodical Service Company, 11 Main Street, Germanstown, NY 12526, U.S.A.
+Editorial Committee
+
+Joint Managing Editors 0. ATTANASIO P. BOLTON H. S. SHIN
+Assistant Editors M. ARMSTRONG K. SCHMIDT E. SENTANA H. UHLIG
+Production Editor G. D. MYLES
+
+Foreign Editors A. BANERJI R. BENABOU S. DURLAUF G. IMBENS
+G. MAILATH S. MORRIS R. PORTER C. PRENDAGAST
+
+Business Manager I. TONKS
+Editorial Board
+
+I. D. JEWITT (Chairmnan)
+K. ABADIR F. CORNELLI D. MARTIMORT R. RAHI
+M. ARELLANO M. CRIPPS C. MEGHIR J. VAN REENEN
+G. BERTOLA M. DEWATRIPONT M. MEYER N. SHEPHARD
+T. BESLEY J. GALI G. NOLDEKE E. VON THADDEN
+
+T. BORGERS P. JEHIEL J. PADILLA P. WEIL
+M. COLES E. G. J. LUTTMER M. PICCIONE
+
+Copyright ? 1999, The Review of Economic Studies Limited
+The appearance of the fee codes in this journal indicates the copyright owner's consent that copies
+of the article may be made for personal or internal use on the following conditions. The copier must
+pay the stated per-copy fee through the Copyright Clearance Center Inc., P.O. Box 8891, Boston,
+Mass 02114, U.S.A. for copying beyond that permitted by Sections 107 and 108 of the U.S. Copyright
+Law. For territories outside North America, permission should be sought direct from the copyright
+holder. This consent does not extend to other kinds of copying, such as copying for general distribution, for advertising and promotional purposes, for creating new collective works, or for resale.
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of Economic
+Studies Ltd., Blackwell Publishers Journals, PO Box 805, 108 Cowley Road, Oxford OX4 1FH, U.K.
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+
+U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
+of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
+07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
+All use subject to https://about.jstor.org/terms
+
+Change of Address
+
+From the 1st January, 1999 the address for correspondence has changed to:
+Dr. H. S. Shin
+
+Review of Economic Studies
+
+Nuffield College
+New Road
+Oxford
+OXI INF
+U.K.
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
+All use subject to https://about.jstor.org/terms
+
+

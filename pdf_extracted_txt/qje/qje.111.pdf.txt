@@ -1,0 +1,236 @@
+Front Matter
+Source: The Quarterly Journal of Economics , Feb., 1996, Vol. 111, No. 1 (Feb., 1996)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2946654
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Quarterly Journal of Economics
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:37:40 UTC
+All use subject to https://about.jstor.org/terms
+
+THiE
+
+QUARTERLY
+JOURNAL OF
+ECONOMICS
+FOUNDED 1886
+
+Volume CXI February 1996 Issue 1
+
+ARTICLES
+LINDA BABCOCK, XIANGHONG WANG, AND GEORGE LOEWENSTEIN
+Choosing the Wrong Pond: Social Comparisons in Negotiations That
+Reflect a Self-Serving
+
+Bias
+
+TILMAN EHRBECK AND ROBERT WALDMANN
+Why Are Professional Forecasters Biased? Agency versus Behavioral
+Explanations
+
+1
+
+21
+
+RONALD D. FISCHER AND PABLO SERRA
+Income Inequality and Choice of Free Trade in a Model of
+Intraindustry
+Trade
+
+41
+
+MARTIN J. OSBORNE AND AL SLWTINSKI
+A Model of Political Competition with Citizen-Candidates 65
+DALE BALLOU
+Do Public Schools Hire the Best Applicants? 97
+
+RAQUEL FERNANDEZ AND RICHARD ROGERSON
+Income Distribution, Communities, and the Quality of Public
+Education
+
+135
+
+GERARD P. CACHON AND COLIN F. CAMERER
+Loss-Avoidance and Forward Induction in Experimental Coordination
+Games
+
+165
+
+JOHN VAN REENEN
+The Creation and Capture of Rents: Wages and Innovation in a Panel
+of
+U.
+K.
+Companies
+
+195
+
+DAVID G. BLANCHFLOWER, ANDREW J. OSWALD, AND PETER SANFEY
+Wages, Profits, and Rent-Sharing
+
+227
+
+ARTHUR FisHmAN
+Search with Learning and Price Adjustment Dynamics 253
+
+MAGNUS BLOMSTROM, ROBERT E. LIPSEY, AND MARIO ZEJAN
+
+Is Fixed Investment the Key to Economic Growth? 269
+
+PUBLISHED FOR HARVARD UNIVERSITY
+BY THE MIT PRESS, CAMBRIDGE, MASSACHUSETTS
+QJE 111(1) 1-276 (1996)
+
+ISSN
+
+0033-5533
+
+No.
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:37:40 UTC
+All use subject to https://about.jstor.org/terms
+
+444
+
+The Quarterly Journal of Economics
+Board of Editors
+
+Olivier J. Blanchard Lawrence F. Katz Andrei Schleifer
+Associate Editors
+
+George Akerlof Robert Gibbons David Romer
+Alberto Alesina Claudia Goldin Julio Rotemberg
+
+George J. Borjas Gene Grossman Jeremy Stein
+Colin Camerer Oliver Hart Richard Thaler
+Janet Currie Alan B. Krueger Michael Woodford
+Rudiger Dornbusch Michael H. Riordan Alwyn Young
+
+In association with the Harvard Department of Economics and Invited Readers.
+Assistant Editor
+
+Harriet E. Hoffman
+The Quarterly Journal of Economics (ISSN 0033-5533) is published four times per year
+(February, May, August, November) by The MIT Press, 55 Hayward Street, Cambridge, Massachusetts 02142. Volume 111, Number 1 (February 1996). Copyright ? 1996 by the President
+and Fellows of Harvard College and The Massachusetts Institute of Technology. All rights
+reserved. Reproduction or translation of any part of the work beyond that permitted by Sections 107 or 108 of the United States Copyright Law without the permission of the copyright
+owner is unlawful. Second Class Postage paid at Boston, MA and at additional postal offices.
+The contents of this Journal are included by the following:
+Abstracts of Location Analysis, America: History and Life, Anbar Abstracts, Business Periodicals Index, Current Contents/Social and Behavioral Sciences, Current Mathematical Publications, Economic Literature Index, Expanded Academic Index, Financial Services Review,
+Historical Abstracts, Human Resources Abstracts, Index of Economic Articles, International
+Bibliography of Periodical Literature, Journal of Economic Literature, Mathematical Reviews,
+MathSci, Reader's Guide to Periodical Literature, Sage Public Administration Abstracts, Sage
+Urban Studies Abstracts, Social Sciences Citation Index, Social Sciences Index, Social Sciences
+Source, Social Work Research & Abstracts, Wilson Business Abstracts, and Work Related
+Abstracts.
+
+Permission to photocopy articles for internal or personal use or the internal or personal
+use of specific clients is granted by the copyright owner for libraries and other users registered
+
+with the Copyright Clearance Center (CCC), provided that the per-copy fee of $8.00 is paid
+
+directly to CCC, 222 Rosewood Drive, Danvers, MA 01923. The fee code for users of the CCC's
+Transactional Reporting Service is 0033-5533/95 $8.00. For those organizations that have
+been granted a photocopy license with CCC, a separate system of payment has been arranged.
+Address all other inquiries to Subsidiary Rights Manager, MIT Press Journals, 55 Hayward
+St., Cambridge, MA 02142. E-mail: journals-rights~mit.edu.
+Subscription Rates: Students/Retired: $22.00, Individuals $36.00, Institutions $106.00.
+Outside the U.S. $18.00 for postage and handling. Canadians add additional 7% GST. Current
+
+issues are $28.00. Back issues are: Individuals $14.00, Institutions $28.00. Outside the U.S.
+add $5.00 per issue for postage and handling. Canadians add additional 7% GST. Mail subscription and address changes to MIT Press Journals, 55 Hayward St., Cambridge, MA 02142.
+(617) 253-2889; e-mail: journals-orderslmit.edu. Claims for missing issues will be honored
+
+free of charge if made within three months after the publication date of the issue. Prices
+subject to change without notice.
+Postmaster: Send address changes to The Quarterly Journal of Economics, MIT Press
+Journals, 55 Hayward Street, Cambridge, MA 02142.
+Advertising and mailing list inquiries may be addressed to: Marketing Manager, MIT
+Press Journals, 55 Hayward Street, Cambridge, MA 02142. (617) 253-2866. E-mail: journals-
+
+info~mit.edu.
+
+Books, periodicals, and manuscripts should be addressed to THE QUARTERLY JOURNAL OF ECONOMICS, Littauer Center, Harvard University, Cambridge, Massachusetts
+02138. Three copies of manuscripts should be submitted in clear double-spaced typewritten
+
+copy. The use of recycled paper is encouraged. Manuscripts of more than forty-five doublespaced typed pages in length are not ordinarily considered for publication. Copies of manuscripts that have not been accepted for publication are not ordinarily returned to the author.
+Offprints may be ordered by authors prior to publication, prepaid.
+Business Correspondence should be addressed to The MIT Press Journals, 55 Hayward
+Street, Cambridge, MA 02142.
+COPYRIGHT ? 1996 BY THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE AND
+THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+PRINTED IN UNITED STATES OF AMERICA
+
+i This publication is printed on acid-free paper.
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:37:40 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY JOURNAL
+OF ECONOMICS
+
+ARTICLES
+LINDA BABCOCK, XIANGHONG WANG, AND GEORGE LOEWENSTEIN
+Choosing the Wrong Pond: Social Comparisons in Negotiations That
+Reflect a Self-Serving Bias 1
+TILMAN EHRBECK AND ROBERT WALDMANN
+Why Are Professional Forecasters Biased? Agency versus Behavioral
+Explanations
+21
+RONALD D. FISCHER AND PABLO SERRA
+Income Inequality and Choice of Free Trade in a Model of
+
+Intraindustry
+
+Trade
+
+41
+
+MARTIN J. OSBORNE AND AL SLWINSKI
+
+A Model of Political Competition with Citizen-Candidates 65
+DALE BALLOU
+
+Do Public Schools Hire the Best Applicants? 97
+RAQUEL FERNANDEZ AND RICHARD ROGERSON
+Income Distribution, Communities, and the Quality of Public
+
+Education
+
+135
+
+GERARD P. CACHON AND COLIN F. CAMERER
+Loss-Avoidance and Forward Induction in Experimental Coordination
+Games
+165
+JOHN VAN REENEN
+The Creation and Capture of Rents: Wages and Innovation in a Panel
+of
+U.
+K.
+Companies
+195
+
+DAVID G. BLANCHFLOWER, ANDREW J. OSWALD, AND PETER SANFEY
+Wages, Profits, and Rent-Sharing 227
+ARTHUR FisHmAN
+Search with Learning and Price Adjustment Dynamics 253
+MAGNUS BLOMSTROM, ROBERT E. LIPSEY, AND MARIO ZEJAN
+Is Fixed Investment the Key to Economic Growth? 269
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:37:40 UTC
+All use subject to https://about.jstor.org/terms
+
+

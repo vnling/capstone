@@ -1,0 +1,185 @@
+ALP SIMSEK: Belief Disagreements and Collateral Constraints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+
+IAN MARTIN: The Lucas Orchard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+55
+
+STELIOS MICHALOPOULOS AND ELIAS PAPAIOANNOU: Pre-Colonial Ethnic Institutions and Contemporary African Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+113
+
+FEDERICO ECHENIQUE, SANGMOK LEE, MATTHEW SHUM, AND M. BUMIN YENMEZ: The Revealed Preference Theory of Stable and Extremal Stable Matchings . . . . . . . . . . . . . . . . . . . . . .
+
+153
+
+RON HOLZMAN AND HERVÉ MOULIN: Impartial Nominations for a Prize . . . . . . . . . . . . . . . . . . . . . .
+
+173
+
+ALEX GERSHKOV, JACOB K. GOEREE, ALEXEY KUSHNIR, BENNY MOLDOVANU, AND XIANWEN
+SHI: On the Equivalence of Bayesian and Dominant Strategy Implementation . . . . . . . . . . .
+
+197
+
+RAPHAEL GODEFROY AND EDUARDO PEREZ-RICHET: Choosing Choices: Agenda Selection
+With Uncertain Issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+221
+
+TSOGBADRAL GALAABAATAR AND EDI KARNI: Subjective Expected Utility With Incomplete
+Preferences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+255
+
+NOTES AND COMMENTS:
+JUSHAN BAI: Fixed-Effects Dynamic Panel Models, a Factor Analytical Method . . . . . . . . .
+
+285
+
+JINYONG HAHN AND GEERT RIDDER: Asymptotic Variance of Semiparametric Estimators
+With Generated Regressors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+315
+
+DAVID S. AHN AND TODD SARVER: Preference for Flexibility and Random Choice . . . . . . .
+
+341
+
+KERRY BACK AND SHMUEL BARUCH: Strategic Liquidity Provision in Limit Order Markets
+
+363
+
+BRUNO BIAIS, DAVID MARTIMORT, AND JEAN-CHARLES ROCHET: Corrigendum to “Competing Mechanisms in a Common Value Environment” . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+393
+
+ANNOUNCEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+407
+
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+409
+
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+411
+
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+423
+
+REPORT OF THE EDITORS 2011–2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+431
+
+ECONOMETRICA REFEREES 2011–2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+435
+
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+445
+
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . . .
+
+449
+
+VOL. 81, NO. 1 — January 2013
+
+14680262, 2013, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA811FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+DARON ACEMOGLU, Dept. of Economics, Massachusetts Institute of Technology, E52-380B, 50 Memorial
+Drive, Cambridge, MA 02142-1347, U.S.A.; daron@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+LARS PETER HANSEN, Dept. of Economics, University of Chicago, 1126 East 59th Street, Chicago, IL
+60637, U.S.A.; lhansen@econometricsociety.org
+MATTHEW O. JACKSON, Dept. of Economics, Stanford University, 579 Serra Mall, Stanford, CA 943056072, U.S.A; jacksonm@econometricsociety.org
+PHILIPPE JEHIEL, Dept. of Economics, Paris School of Economics, 48 Bd Jourdan, 75014 Paris, France;
+University College London, U.K.; jehiel@econometricsociety.org
+JEAN-MARC ROBIN, Dept. of Economics, Sciences Po, 28 rue des Saints Pères, 75007 Paris, France; University College London, U.K.; jmrobin@econometricsociety.org
+JOEL SOBEL, Dept. of Economics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA
+92093, U.S.A.; jsobel@econometricsociety.org
+ELIE TAMER, Dept. of Economics, Northwestern University, 2001 Sheridan Road, Evanston, IL 60208,
+U.S.A.; tamer@econometricsociety.org
+ASSOCIATE EDITORS
+ALBERTO ABADIE, Harvard University
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+PATRICK BAYER, Duke University
+DIRK BERGEMANN, Yale University
+NICHOLAS BLOOM, Stanford University
+YEON-KOO CHE, Columbia University
+VICTOR CHERNOZHUKOV, Massachusetts
+Institute of Technology
+DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+JIANQING FAN, Princeton University
+XAVIER GABAIX, New York University
+MIKHAIL GOLOSOV, Princeton University
+PATRIK GUGGENBERGER, University of
+California, San Diego
+FARUK GUL, Princeton University
+PHILIP HAILE, Yale University
+YORAM HALEVY, University of British
+Columbia
+JOHANNES HÖRNER, Yale University
+MICHAEL JANSSON, University of California,
+Berkeley
+PETER KLENOW, Stanford University
+FELIX KUBLER, University of Zurich
+JONATHAN LEVIN, Stanford University
+
+OLIVER LINTON, Cambridge University
+BART LIPMAN, Boston University
+THOMAS MARIOTTI, Toulouse School of
+Economics (GREMAQ and IDEI)
+DAVID MARTIMORT, Paris School of Economics–
+EHESS
+ROSA L. MATZKIN, University of California,
+Los Angeles
+ANDREW MCLENNAN, University of Queensland
+FRANCESCA MOLINARI, Cornell University
+SUJOY MUKERJI, University of Oxford
+ULRICH MÜLLER, Princeton University
+WOJCIECH OLSZEWSKI, Northwestern University
+MICHAEL OSTROVSKY, Stanford University
+JORIS PINKSE, Pennsylvania State University
+BENJAMIN POLAK, Yale University
+ERIC RENAULT, Brown University
+SUSANNE M. SCHENNACH, Brown University
+ANDREW SCHOTTER, New York University
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute
+of Technology
+ASHER WOLINSKY, Northwestern University
+TAO ZHA, Federal Reserve Bank of Atlanta
+and Emory University
+
+EDITORIAL COORDINATOR: MARY BETH BELLANDO-ZANIBONI, Dept. of Economics, New York
+University, 19 West 4th Street, New York, NY 10012, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided on the last page.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2013, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA811FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

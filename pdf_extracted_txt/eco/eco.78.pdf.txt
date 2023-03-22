@@ -1,0 +1,159 @@
+TIMOTHY BESLEY AND TORSTEN PERSSON: State Capacity, Conflict, and Development . . .
+
+1
+
+MATTHEW GENTZKOW AND JESSE M. SHAPIRO: What Drives Media Slant? Evidence From
+
+U.S. Daily Newspapers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+35
+
+BRUNO BIAIS, THOMAS MARIOTTI, JEAN-CHARLES ROCHET, AND STÉPHANE VILLENEUVE:
+
+Large Risks, Limited Liability, and Dynamic Moral Hazard . . . . . . . . . . . . . . . . . . . . . .
+DONALD W. K. ANDREWS AND GUSTAVO SOARES: Inference for Parameters Defined by
+Moment Inequalities Using Generalized Moment Selection . . . . . . . . . . . . . . . . . . . . .
+GARY CHAMBERLAIN:
+Binary Response Models for Panel Data: Identification and
+Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JOSEPH P. ROMANO AND AZEEM M. SHAIKH: Inference for the Identified Set in Partially
+Identified Econometric Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MARK ARMSTRONG AND JOHN VICKERS: A Model of Delegated Project Choice . . . . . . . . . .
+RENÉ CALDENTEY AND ENNIO STACCHETTI: Insider Trading With a Random Deadline . . .
+DAVID RAHMAN AND ICHIRO OBARA: Mediated Partnerships . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ALESSANDRO CITANNA AND PAOLO SICONOLFI:
+Recursive Equilibrium in Stochastic
+Overlapping-Generations Economies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NOTES AND COMMENTS:
+JOHN E. STOVALL: Multiple Temptations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+73
+119
+159
+169
+213
+245
+285
+309
+349
+
+PEDRO CARNEIRO, JAMES J. HECKMAN, AND EDWARD VYTLACIL: Evaluating Marginal
+
+Policy Changes and the Average Effect of Treatment for Individuals at the
+Margin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+BRENDAN K. BEARE: Copulas and Temporal Dependence . . . . . . . . . . . . . . . . . . . . . . . .
+
+377
+395
+
+ANNOUNCEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2008–2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2008–2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . . .
+
+411
+413
+415
+425
+433
+437
+447
+451
+
+VOL. 78, NO. 1 — January, 2010
+
+14680262, 2010, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA781FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+STEPHEN MORRIS, Dept. of Economics, Princeton University, Fisher Hall, Prospect Avenue, Princeton,
+NJ 08544-1021, U.S.A.; morris@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+DARON ACEMOGLU, Dept. of Economics, MIT, E52-380B, 50 Memorial Drive, Cambridge, MA 021421347, U.S.A.; daron@econometricsociety.org
+WOLFGANG PESENDORFER, Dept. of Economics, Princeton University, Fisher Hall, Prospect Avenue,
+Princeton, NJ 08544-1021, U.S.A.; wpesendorfer@econometricsociety.org
+JEAN-MARC ROBIN, Maison des Sciences Economiques, Université Paris 1 Panthéon–Sorbonne,
+106/112 bd de l’Hôpital, 75647 Paris Cedex 13, France and University College London, U.K.;
+jmrobin@econometricsociety.org
+LARRY SAMUELSON, Dept. of Economics, Yale University, 20 Hillhouse Avenue, New Haven, CT 065208281, U.S.A.; samuelson@econometricsociety.org
+JAMES H. STOCK, Dept. of Economics, Harvard University, Littauer M-24, 1830 Cambridge Street, Cambridge, MA 02138, U.S.A.; jstock@econometricsociety.org
+HARALD UHLIG, Dept. of Economics, University of Chicago, 1126 East 59th Street, Chicago, IL 60637,
+U.S.A.; uhlig@econometricsociety.org
+ASSOCIATE EDITORS
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JAMES ANDREONI, University of California,
+San Diego
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+DIRK BERGEMANN, Yale University
+XIAOHONG CHEN, Yale University
+VICTOR CHERNOZHUKOV, Massachusetts
+Institute of Technology
+J. DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+HALUK ERGIN, Washington University
+in St. Louis
+MIKHAIL GOLOSOV, Yale University
+FARUK GUL, Princeton University
+JINYONG HAHN, University of California,
+Los Angeles
+PHILIP A. HAILE, Yale University
+MICHAEL JANSSON, University of California,
+Berkeley
+PHILIPPE JEHIEL, Paris School of Economics
+and University College London
+PER KRUSELL, Princeton University and
+Stockholm University
+FELIX KUBLER, University of Zurich
+
+OLIVER LINTON, London School of Economics
+BART LIPMAN, Boston University
+THIERRY MAGNAC, Toulouse School of Economics
+(GREMAQ and IDEI)
+GEORGE J. MAILATH, University of Pennsylvania
+DAVID MARTIMORT, IDEI-GREMAQ,
+Université des Sciences Sociales de Toulouse
+STEVEN A. MATTHEWS, University of
+Pennsylvania
+ROSA L. MATZKIN, University of California,
+Los Angeles
+LEE OHANIAN, University of California,
+Los Angeles
+WOJCIECH OLSZEWSKI, Northwestern University
+NICOLA PERSICO, New York University
+BENJAMIN POLAK, Yale University
+PHILIP J. RENY, University of Chicago
+SUSANNE M. SCHENNACH, University of Chicago
+UZI SEGAL, Boston College
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+ELIE TAMER, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute
+of Technology
+ASHER WOLINSKY, Northwestern University
+
+EDITORIAL ASSISTANT: MARY BETH BELLANDO, Dept. of Economics, Princeton University, Fisher
+Hall, Princeton, NJ 08544-1021, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided in the last two pages.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2010, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA781FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

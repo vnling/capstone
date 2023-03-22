@@ -1,0 +1,474 @@
+The American
+Economic Review
+ARTICLES
+SETH D. ZIMMERMAN
+Elite Colleges and Upward Mobility to Top Jobs and Top Incomes
+CHIARA CRISCUOLO, RALF MARTIN, HENRY G. OVERMAN,
+AND JOHN VAN REENEN
+Some Causal Effects of an Industrial Policy
+MARIANA GARCÍA-SCHMIDT AND MICHAEL WOODFORD
+Are Low Interest Rates Deflationary? A Paradox of Perfect-Foresight Analysis
+MICHELA GIORCELLI
+The Long-Term Effects of Management and Technology Transfers
+DONALD R. DAVIS AND JONATHAN I. DINGEL
+A Spatial Knowledge Economy
+JOHN M. ABOWD AND IAN M. SCHMUTTE
+An Economic Analysis of Privacy Protection and Statistical Accuracy as Social Choices
+BHAVEN SAMPAT AND HEIDI L. WILLIAMS
+How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome
+ADNAN Q. KHAN, ASIM IJAZ KHWAJA, AND BENJAMIN A. OLKEN
+Making Moves Matter: Experimental Evidence on Incentivizing Bureaucrats
+through Performance-Based Postings
+SEBASTIAN DI TELLA
+Optimal Regulation of Financial Intermediaries
+OLIVIER COIBION, YURIY GORODNICHENKO, AND GEE HEE HONG
+The Cyclicality of Sales, Regular and Effective Prices: Business Cycle and Policy
+Implications: Reply
+
+JANUARY 2019
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+•  Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+•  P rinted at LSC Communications, Owensville,
+Missouri, USA
+•  Registered in the US Patent and Trademark Office®
+•  
+Copyright© 2019 by the American Eco­
+nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+•  No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), January 2019, Vol. 109, No. 1. The
+AER is published 12 times a year by the American
+Economic Association, 2014 Broadway, Suite 305,
+Nashville, TN 37203. Annual fees for regular membership are: $22.00, $32.00, or $42.00, depending
+on income; for an additional fee, you can receive
+this journal, or any of the Association’s journals, in
+print. Further information on subscriptions and the
+American Economic Association can be found at
+www.vanderbilt.edu/AEA/. Periodical postage paid
+at Nashville, TN and at additional mailing offices.
+POSTMASTER: Send address changes to The
+American Economic Review, 2014 Broadway, Suite
+305, Nashville, TN 37203. Printed in the USA.
+
+President
+BEN S. BERNANKE, The Brookings Institution
+President-elect
+JANET L. YELLEN, The Brookings Institution
+Vice Presidents
+LAWRENCE F. KATZ, Harvard University
+DAVID H. ROMER, University of California, Berkeley
+Members
+NICHOLAS BLOOM, Stanford University
+ERICA FIELD, Duke University
+ADRIANA LLERAS-MUNEY, University of California, Los Angeles
+BETSEY STEVENSON, University of Michigan
+MARTHA BAILEY, University of Michigan
+SUSANTO BASU, Boston College
+Ex Officio Members
+ALVIN E. ROTH, Stanford University
+OLIVIER BLANCHARD, Peterson Institute for International Economics
+
+ADVANCES IN RESEARCH
+TRANSPARENCY
+The AEA RCT Registry for randomized controlled trials
+
+Appointed Members
+Editor, The American Economic Review
+ESTHER DUFLO, Massachusetts Institute of Technology
+Editor, The American Economic Review: Insights
+AMY FINKELSTEIN, Massachusetts Institute of Technology
+Editor, The Journal of Economic Literature
+STEVEN N. DURLAUF, University of Chicago
+Editor, The Journal of Economic Perspectives
+ENRICO MORETTI, University of California at Berkeley
+Editor, American Economic Journal: Applied Economics
+ALEXANDRE MAS, Princeton University
+Editor, American Economic Journal: Economic Policy
+MATTHEW D. SHAPIRO, University of Michigan
+Editor, American Economic Journal: Macroeconomics
+SIMON GILCHRIST, New York University
+Editor, American Economic Journal: Microeconomics
+JOHANNES HÖRNER, Yale University
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+Now containing 2,100+ studies from over 124+ countries!
+
+OTHER OFFICERS
+Editor, Resources for Economists
+WILLLIAM GOFFE, Pennsylvania State University
+Director of AEA Publication Services
+JANE EMILY VOROS, Pittsburgh
+Managing Director of EconLit Product Design and Content
+STEVEN L. HUSTED, University of Pittsburgh
+Counsel
+TERRY CALVANI, Freshfields Bruckhaus Deringer LLP
+Washington, DC
+
+ADMINISTRATORS
+Director of Finance and Administration
+BARBARA H. FISER
+Convention Manager
+GWYN LOFTIS
+
+FREE
+!
+ACCESS
+
+THE CENTRAL SOURCE OF RCTs DEDICATED
+TO ECONOMICS AND SOCIAL SCIENCES
+
+www.socialscienceregistry.org
+
+THE
+
+AMERICAN
+
+Editor
+ESTHER DUFLO
+Coeditors
+ROLAND BÉNABOU
+STEFANO DELLAVIGNA
+LIRAN EINAV
+JEFFREY ELY
+MIKHAIL GOLOSOV
+GITA GOPINATH
+HENRIK KLEVEN
+THOMAS LEMIEUX
+EMI NAKAMURA
+DEBRAJ RAY
+Board of Editors
+NAGEEB ALI
+MANUEL AMADOR
+DAVID ATKIN
+MARTHA BAILEY
+HESKI BAR-ISAAC
+PAUL BEAUDRY
+DANIEL BENJAMIN
+LEAH BOUSTAN
+CRAIG BURNSIDE
+ARIEL BURSTEIN
+STEVEN CALLANDER
+ALESSANDRA CASELLA
+SYLVAIN CHASSANG
+ARNAUD COSTINOT
+GORDON DAHL
+GEOFFROY DE CLIPPEL
+MATTHIAS DOEPKE
+FEDERICO ECHENIQUE
+MICHAEL GRUBB
+MARINA HALAC
+BÅRD HARSTAD
+GUIDO IMBENS
+ŞEBNEM KALEMLI-ÖZCAN
+LOUKAS KARABARBOUNIS
+NAVIN KARTIK
+BRIAN KNIGHT
+BOTOND KŐSZEGI
+ARVIND KRISHNAMURTHY
+GUIDO LORENZONI
+JENS LUDWIG
+ELLEN MCGRATTAN
+ALISDAIR MCKAY
+MORITZ MEYER-TER-VEHN
+BRENT NEIMAN
+PHILIP OREOPOULOS
+PIETRO ORTOLEVA
+AMANDA PALLAIS
+JONATHAN PARKER
+FABRIZIO PERRI
+THOMAS PHILIPPON
+RONNY RAZIN
+ESTEBAN ROSSI-HANSBERG
+JESSE ROTHSTEIN
+EMMANUEL SAEZ
+RAJIV SETHI
+VASILIKI SKRETA
+KATHRYN SPIER
+CHARLES SPRENGER
+STEFANIE STANTCHEVA
+JAKUB STEINER
+TOMASZ STRZALECKI
+AMIR SUFI
+JUSTIN SYDNOR
+BALÁZS SZENTES
+FRANCESCO TREBBI
+ALEH TSYVINSKI
+JOHN VAN REENEN
+PIERRE YARED
+Managing Editor
+STEVEN M. STELLING
+Assistant Managing Editor
+MATTHEW A. ROBERSON
+
+ECONOMIC
+
+REVIEW
+
+January 2019
+volume 109, number 1
+
+Elite Colleges and Upward Mobility to Top Jobs
+and Top Incomes
+Seth D. Zimmerman1
+Some Causal Effects of an Industrial Policy
+Chiara Criscuolo, Ralf Martin,
+Henry G. Overman, and John Van Reenen48
+Are Low Interest Rates Deflationary? A Paradox of
+Perfect-Foresight Analysis
+Mariana García-Schmidt and Michael Woodford86
+The Long-Term Effects of Management and
+Technology Transfers
+Michela Giorcelli121
+A Spatial Knowledge Economy
+Donald R. Davis and Jonathan I. Dingel153
+An Economic Analysis of Privacy Protection and
+Statistical Accuracy as Social Choices
+John M. Abowd and Ian M. Schmutte171
+How Do Patents Affect Follow-On Innovation?
+Evidence from the Human Genome
+Bhaven Sampat and Heidi L. Williams203
+Making Moves Matter: Experimental Evidence on
+Incentivizing Bureaucrats through
+Performance-Based Postings
+Adnan Q. Khan, Asim Ijaz Khwaja,
+and Benjamin A. Olken
+
+237
+
+Optimal Regulation of Financial Intermediaries
+
+Sebastian Di Tella271
+
+The Cyclicality of Sales, Regular and Effective Prices: Business Cycle and Policy
+Implications: Reply
+Olivier Coibion, Yuriy Gorodnichenko, and Gee Hee Hong314
+
+Information on how to submit a manuscript is available online:
+https://www.aeaweb.org/aer/submissions.php
+It is the policy of the American Economic Review to publish papers only if the data used in the
+analysis are clearly and precisely documented and are readily available to any researcher for
+purposes of replication. Details of the computations sufficient to permit replication must be
+provided. The Editor should be notified at the time of submission if the data used in a paper
+are proprietary or if, for some other reason, the requirements above cannot be met.
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+•  Typeset by American Economic Association Publications, Pittsburgh, Pennsylvania, USA
+•  P rinted at LSC Communications, Owensville,
+Missouri, USA
+•  Registered in the US Patent and Trademark Office®
+•  
+Copyright© 2019 by the American Eco­
+nomic
+Association. Permission to make digital or hard
+copies of part or all of American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation, including the name of the author.
+Copyrights for components of this work owned by
+others than AEA must be honored. Abstracting
+with credit is permitted. The author has the right to
+republish, post on servers, redistribute to lists and
+use any component of this work in other works. For
+others to do so requires prior specific permission
+and/or a fee. Permissions may be requested from the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+•  No responsibility for the views expressed by authors
+in this Review is assumed by the editors or the publishers, The American Economic Association.
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent to the
+American Economic Association, 2014 Broadway,
+Suite 305, Nashville, TN 37203. Change of address
+notice must be received at least six (6) weeks prior
+to the publication month. A membership or subscription paid twice is automatically extended for
+an additional year unless otherwise requested.
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), January 2019, Vol. 109, No. 1. The
+AER is published 12 times a year by the American
+Economic Association, 2014 Broadway, Suite 305,
+Nashville, TN 37203. Annual fees for regular membership are: $22.00, $32.00, or $42.00, depending
+on income; for an additional fee, you can receive
+this journal, or any of the Association’s journals, in
+print. Further information on subscriptions and the
+American Economic Association can be found at
+www.vanderbilt.edu/AEA/. Periodical postage paid
+at Nashville, TN and at additional mailing offices.
+POSTMASTER: Send address changes to The
+American Economic Review, 2014 Broadway, Suite
+305, Nashville, TN 37203. Printed in the USA.
+
+President
+BEN S. BERNANKE, The Brookings Institution
+President-elect
+JANET L. YELLEN, The Brookings Institution
+Vice Presidents
+LAWRENCE F. KATZ, Harvard University
+DAVID H. ROMER, University of California, Berkeley
+Members
+NICHOLAS BLOOM, Stanford University
+ERICA FIELD, Duke University
+ADRIANA LLERAS-MUNEY, University of California, Los Angeles
+BETSEY STEVENSON, University of Michigan
+MARTHA BAILEY, University of Michigan
+ROLAND G. FRYER, JR., Harvard University
+Ex Officio Members
+ROBERT J. SHILLER, Yale University
+ALVIN E. ROTH, Stanford University
+
+ADVANCES IN RESEARCH
+TRANSPARENCY
+The AEA RCT Registry for randomized controlled trials
+
+Appointed Members
+Editor, The American Economic Review
+ESTHER DUFLO, Massachusetts Institute of Technology
+Editor, The American Economic Review: Insights
+AMY FINKELSTEIN, Massachusetts Institute of Technology
+Editor, The Journal of Economic Literature
+STEVEN N. DURLAUF, University of Chicago
+Editor, The Journal of Economic Perspectives
+ENRICO MORETTI, University of California at Berkeley
+Editor, American Economic Journal: Applied Economics
+ALEXANDRE MAS, Princeton University
+Editor, American Economic Journal: Economic Policy
+MATTHEW D. SHAPIRO, University of Michigan
+Editor, American Economic Journal: Macroeconomics
+SIMON GILCHRIST, New York University
+Editor, American Economic Journal: Microeconomics
+JOHANNES HÖRNER, Yale University
+Secretary-Treasurer
+PETER L. ROUSSEAU, Vanderbilt University
+
+Now containing 2,100+ studies from over 124+ countries!
+
+OTHER OFFICERS
+Editor, Resources for Economists
+WILLLIAM GOFFE, Pennsylvania State University
+Director of AEA Publication Services
+JANE EMILY VOROS, Pittsburgh
+Managing Director of EconLit Product Design and Content
+STEVEN L. HUSTED, University of Pittsburgh
+Counsel
+TERRY CALVANI, Freshfields Bruckhaus Deringer LLP
+Washington, DC
+
+ADMINISTRATORS
+Director of Finance and Administration
+BARBARA H. FISER
+Convention Manager
+GWYN LOFTIS
+
+FREE
+!
+ACCESS
+
+THE CENTRAL SOURCE OF RCTs DEDICATED
+TO ECONOMICS AND SOCIAL SCIENCES
+
+www.socialscienceregistry.org
+
+The American Economic Review
+
+NOW WITH WEEKLY UPDATES!
+
+ECONOMICS
+RESEARCH
+STARTS
+HERE
+Easily Access An Essential
+Economics Library:
+
+>> 1.5 million bibliographic records spanning
+130 years, with nearly 70,000 additions per year
+>> Optional full-text of over 500 economics
+journals including all journals published
+by the American Economic Association
+
+The American
+Economic Review
+ARTICLES
+SETH D. ZIMMERMAN
+Elite Colleges and Upward Mobility to Top Jobs and Top Incomes
+CHIARA CRISCUOLO, RALF MARTIN, HENRY G. OVERMAN,
+AND JOHN VAN REENEN
+Some Causal Effects of an Industrial Policy
+MARIANA GARCÍA-SCHMIDT AND MICHAEL WOODFORD
+Are Low Interest Rates Deflationary? A Paradox of Perfect-Foresight Analysis
+
+January 2019
+
+>> Indexes of journal articles, working papers,
+PhD dissertations, book reviews, conference
+proceedings, and collective volume articles
+>> International coverage includes journals
+published in 74 countries
+… includes data sets, JEL classifications,
+and frequent updates of all the latest
+economic research
+
+MICHELA GIORCELLI
+The Long-Term Effects of Management and Technology Transfers
+DONALD R. DAVIS AND JONATHAN I. DINGEL
+A Spatial Knowledge Economy
+JOHN M. ABOWD AND IAN M. SCHMUTTE
+An Economic Analysis of Privacy Protection and Statistical Accuracy as Social Choices
+BHAVEN SAMPAT AND HEIDI L. WILLIAMS
+How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome
+
+volume 109, number 1
+
+www.econlit.org
+
+Alternate with tagline
+2-color
+
+ADNAN Q. KHAN, ASIM IJAZ KHWAJA, AND BENJAMIN A. OLKEN
+Making Moves Matter: Experimental Evidence on Incentivizing Bureaucrats
+through Performance-Based Postings
+SEBASTIAN DI TELLA
+Optimal Regulation of Financial Intermediaries
+OLIVIER COIBION, YURIY GORODNICHENKO, AND GEE HEE HONG
+The Cyclicality of Sales, Regular and Effective Prices: Business Cycle and Policy
+Implications: Reply
+
+JANUARY 2019
+
+

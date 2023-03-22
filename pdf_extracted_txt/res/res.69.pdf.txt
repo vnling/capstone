@@ -1,0 +1,159 @@
+Front Matter
+Source: The Review of Economic Studies , Jan., 2002, Vol. 69, No. 1 (Jan., 2002)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2695950
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Review of Economic Studies
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:26:31 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 69(1) No. 238 STUDIES
+
+Escaping Nash Inflation In-Koo Cho, Noah Williams and Thomas J. Sargent I
+Labour Relations and Asset Returns Jean-Pierre Danthine and John B. Donaldson 41
+The Sullying Effect of Recessions Gadi Barlevy 65
+On Endogenously Staggered Prices V. Bhaskar 97
+An Optimal IPO Mechanism
+Bruno Biais, Peter Bossaerts and Jean-Charles Rochet 117
+Taste Variation in Discrete Choice Models
+Andrew Chesher and J.M.C. Santos Silva 147
+
+Using Stock Price Information to Regulate Firms Antoine Faure-Grimaud 169
+On the Evaluation of Economic Mobility Peter Gottschalk and Enrico Spolaore 191
+Informal Insurance Arrangements with Limited Commitment: Theory and Evidence
+from Village Economies
+Ethan Ligon, Jonathan P. Thomas and Tim Worrall 209
+Trade Liberalization, Exit, and Productivity Improvements: Evidence from
+Chilean Plants Nina Pavcnik
+
+245
+
+Nonlinear Pricing with Random Participation
+Jean-Charles Rochet and Lars A. Stole 277
+
+January 2002
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:26:31 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is published
+by The Review of Economic Studies Ltd., whose object is to encourage research in theoretical and applied
+economics, especially by young economists, and to publish the results in the Review of Economic Studies.
+Subscription Rates for 2002 are:
+Annual Subscription Europe The Americas Rest of the World
+Institutional (OECD Countries) ?100.00 $180.00 $180.00
+Institutional (Non-OECD Countries) ?50.00 $90.00 ?50.00
+Personal ?30.00 $54.00 ?30.00
+Student ?16.00 $29.00 ?16.00
+Multiple Year Subscription Europe The Americas Rest of the World
+Three-Year Personal Rate ?70.00 $126.00 ?70.00
+Four-Year Student Rate ?30.00 $54.00 ?30.00
+
+Single issues from the current and previous two volumes are available from Blackwell Publishers
+Journals at a cost of ?12 ($24) for each issue. Cheques should be made payable to The Review of Economic
+Studies Ltd., and sent to The Review of Economic Studies Ltd., Blackwell Publishers Journals, PO Box
+805, 108 Cowley Road, Oxford OX4 1FH, U.K. Earlier issues may be obtained from Periodicals Service
+
+Company, 11 Main Street, Germantown, NY 12526, U.S.A. Tel: 001 518 537 4700. Fax: 001 518 537 5899,
+Email psc@backsets.com
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+MARK ARMSTRONG, Nuffield College, Oxford ORAzio ATTANASIO, University College London
+JAMES Dow, London Business School
+Assistant Editors
+
+MICHELE PICCIONE, London School of Economics ENRIQUE SENTANA, CEMFI, Spain
+HARALD UHLIG, Humboldt University of Berlin
+Production Editor
+
+GARETH MYLES, University of Exeter
+Business Manager
+
+Web Editor
+
+IAN TONKS, University of Bristol
+
+GIOVANNI L. VIOLANTE, University College London
+Foreign Editors
+
+SUSAN ATHEY, Stanford University
+
+GEORGE MAILATH, University of Pennsylvania
+
+ABHIJIT BANERJEE, Massachusetts Institute of
+
+STEPHEN MORRIS, Yale University
+JOSE-VICTOR Rios-RULL, University of
+Pennsylvania
+
+Technology
+
+PATRICK BOLTON, Princeton University
+PINELOPI KoUJIANou GOLDBERG, Yale University
+
+Editorial Board
+
+HYUN SONG SHIN (Chairman), London School of Economics
+MANUEL ARELLANO, CEMFI, Spain
+TIMOTHY BESLEY, London School of Economics
+BRUNO BIAIS, University of Toulouse
+ANTONIO CICCONE, University Pompeu Fabra
+MELVYN COLES, University of Essex
+FRANCESCA CORNELLI, London Business School
+MARTIN CRIPPS, University of Washington in St Louis
+DENNIS GROMB, London Business School
+HIDEHIKO ICHIMURA, University College London
+PHILLIPPE JEHIEL, University College London
+ANKE KESSLER, University of Bonn
+GILAT LEVY, London School of Economics
+OLIVER LINTON, London School of Economics
+
+THOMAS MARIOTTI, London School of Economics
+DAVID MARTIMORT, University of Toulouse
+ABHINAY MUTHOO, University of Essex
+MARCO OTTAVIANI, London Business School
+ANDREA PRAT, London School of Economics
+SVEN RADY, University of Munich
+
+ROHIT RAHI, London School of Economics
+JOHN VAN REENEN, University College London
+BERNARD SALANIt, CREST, France
+KLAUS SCHMIDT, University of Munich
+
+NEIL SHEPHARD, Nuffield College, Oxford
+
+JUUSO VALIMAKI, University of Southampton
+
+FABRIZIO ZILIBOrrI, Stockholm University
+
+Copyright ? 2002. The Review of Economic Studies Limited
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of
+Economic Studies Ltd., Blackwell Publishers Journals, PO Box 805, 108 Cowley Road, Oxford OX4
+1FH, U.K.
+
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to
+
+Review of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Ave
+
+Avenel, NJ 07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from
+31.215.134.233 on Fri, 17 Feb 2023 12:26:31 UTC
+All use subject to https://about.jstor.org/terms
+
+

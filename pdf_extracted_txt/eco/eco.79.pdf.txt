@@ -1,0 +1,135 @@
+FRANCISCO J. BUERA, ALEXANDER MONGE-NARANJO, AND GIORGIO E. PRIMICERI: Learning
+
+the Wealth of Nations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+TOMASZ STRZALECKI: Axiomatic Foundations of Multiplier Preferences . . . . . . . . . . . . . . .
+FERNANDO ALVAREZ AND ROBERT SHIMER: Search and Rest Unemployment . . . . . . . . . . . .
+
+1
+47
+75
+
+The Distribution of Wealth and
+Fiscal Policy in Economies With Finitely Lived Agents . . . . . . . . . . . . . . . . . . . . . . . . . .
+TAVNEET SURI: Selection and Comparative Advantage in Technology Adoption . . . . . . . .
+JOHN KENNAN AND JAMES R. WALKER: The Effect of Expected Income on Individual
+Migration Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+THOMAS J. HOLMES: The Diffusion of Wal-Mart and Economies of Density . . . . . . . . . . . .
+
+211
+253
+
+ANNOUNCEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2009–2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2009–2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . . .
+
+303
+307
+309
+319
+327
+331
+341
+345
+
+JESS BENHABIB, ALBERTO BISIN, AND SHENGHAO ZHU:
+
+VOL. 79, NO. 1 — January, 2011
+
+123
+159
+
+14680262, 2011, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA791FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+STEPHEN MORRIS, Dept. of Economics, Princeton University, Fisher Hall, Prospect Avenue, Princeton,
+NJ 08544-1021, U.S.A.; morris@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+DARON ACEMOGLU, Dept. of Economics, MIT, E52-380B, 50 Memorial Drive, Cambridge, MA 021421347, U.S.A.; daron@econometricsociety.org
+PHILIPPE JEHIEL, Dept. of Economics, Paris School of Economics, 48 Bd Jourdan, 75014 Paris, France;
+University College London, U.K.; jehiel@econometricsociety.org
+WOLFGANG PESENDORFER, Dept. of Economics, Princeton University, Fisher Hall, Prospect Avenue,
+Princeton, NJ 08544-1021, U.S.A.; wpesendorfer@econometricsociety.org
+JEAN-MARC ROBIN, Dept. of Economics, Sciences Po, 28 rue des Saints Pères, 75007 Paris, France and
+University College London, U.K.; jmrobin@econometricsociety.org
+JAMES H. STOCK, Dept. of Economics, Harvard University, Littauer M-26, 1830 Cambridge Street, Cambridge, MA 02138, U.S.A.; jstock@econometricsociety.org
+ASSOCIATE EDITORS
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JAMES ANDREONI, University of California,
+San Diego
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+DIRK BERGEMANN, Yale University
+YEON-KOO CHE, Columbia University
+XIAOHONG CHEN, Yale University
+VICTOR CHERNOZHUKOV, Massachusetts
+Institute of Technology
+J. DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+HALUK ERGIN, Duke University
+JIANQING FAN, Princeton University
+MIKHAIL GOLOSOV, Yale University
+FARUK GUL, Princeton University
+JINYONG HAHN, University of California,
+Los Angeles
+PHILIP A. HAILE, Yale University
+JOHANNES HORNER, Yale University
+MICHAEL JANSSON, University of California,
+Berkeley
+PER KRUSELL, Stockholm University
+FELIX KUBLER, University of Zurich
+OLIVER LINTON, London School of Economics
+BART LIPMAN, Boston University
+
+THIERRY MAGNAC, Toulouse School of Economics
+(GREMAQ and IDEI)
+DAVID MARTIMORT, IDEI-GREMAQ,
+Université des Sciences Sociales de Toulouse,
+Paris School of Economics
+STEVEN A. MATTHEWS, University of
+Pennsylvania
+ROSA L. MATZKIN, University of California,
+Los Angeles
+SUJOY MUKERJI, University of Oxford
+LEE OHANIAN, University of California,
+Los Angeles
+WOJCIECH OLSZEWSKI, Northwestern University
+NICOLA PERSICO, New York University
+JORIS PINKSE, Pennsylvania State University
+BENJAMIN POLAK, Yale University
+PHILIP J. RENY, University of Chicago
+SUSANNE M. SCHENNACH, University of Chicago
+ANDREW SCHOTTER, New York University
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+ELIE TAMER, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute
+of Technology
+ASHER WOLINSKY, Northwestern University
+
+EDITORIAL ASSISTANT: MARY BETH BELLANDO, Dept. of Economics, Princeton University, Fisher
+Hall, Princeton, NJ 08544-1021, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided in the last two pages.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2011, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA791FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

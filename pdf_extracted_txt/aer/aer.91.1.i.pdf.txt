@@ -1,0 +1,354 @@
+ARTICLES
+DALE W. JORGENSON
+
+Information Technology and the U.S. Economy
+JOHN T. WARNER AND SAUL PLEETER
+
+The Personal Discount Rate: Evidence from Military Downsizing
+Programs
+MARA FACCIO, LARRY H. P. LANG, AND LESLIE YOUNG
+
+Dividends and Expropriation
+SHLOMO BENARTZI AND RICHARD H. THALER
+
+Naive Diversification Strategies in Defined Contribution Saving Plans
+JOHN Y. CAMPBELL AND LUIS M. VICEIRA
+
+Who Should Buy Long-Term Bonds?
+ANDREW B. ABEL
+
+The Effects of Investing Social Security Funds in the Stock Market
+When Fixed Costs Prevent Some Households from Holding Stocks
+MICHELE BOLDRIN, LAWRENCE J. CHRISTIANO, AND JONAS D. M. FISHER
+
+Habit Persistence, Asset Returns, and the Business Cycle
+JESS BENHABIB, STEPHANIE SCHMITT-GROHÉ, AND MARTÍN URIBE
+
+Monetary Policy and Multiple Equilibria
+OLIVIER BLANCHARD AND PEDRO PORTUGAL
+
+What Hides Behind an Unemployment Rate: Comparing
+Portuguese and U.S. Labor Markets
+THOMAS D. JEITSCHKO AND CURTIS R. TAYLOR
+
+Local Discouragement and Global Collapse: A Theory of
+Coordination Avalanches
+ALESSANDRO LIZZERI AND NICOLA PERSICO
+
+The Provision of Public Goods Under Alternative Electoral Incentives
+RICHARD JENSEN AND MARIE THURSBY
+
+Proofs and Prototypes for Sale: The Licensing of University Inventions
+MARTIN L. WEITZMAN
+
+Gamma Discounting
+SHORTER PAPERS: W. J. Collins; R. H. Steckel and J. M. Prince; F. Grubb; D. M. Maki; K. L. Dewenter and
+P. H. Malatesta; R. Di Tella, R. J. MacCulloch, and A. J. Oswald; E. Leuven and H. Oosterbeek; and M. Hashimoto.
+
+MARCH 2001
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+Officers
+
+President
+SHERWIN ROSEN
+University of Chicago
+President-elect
+ROBERT E. LUCAS, JR.
+University of Chicago
+● Typeset by CPC-Tapsco, Akron, Pennsylvania,
+
+U.S.A.
+● Printed at Banta Company, Menasha, Wisconsin,
+U.S.A.
+● Copyright © 2001 by the American Economic
+
+Association. Permission to make digital or hard
+copies of part or all of this work for personal or
+classroom use is granted without fee provided that
+copies are not made or distributed for profit or
+direct commercial advantage and that copies show
+this notice on the first page or initial screen of a
+display along with the full citation, including the
+name of the author. Copyrights for components of
+this work owned by others than AEA must be
+honored. Abstracting with credit is permitted. To
+copy otherwise, to republish, to post on servers, to
+redistribute to lists, or to use any component of this
+work in other works, requires prior specific permission and/or a fee. Permissions may be requested
+from the American Economic Association, 2014
+Broadway, Suite 305, Nashville, TN 37203.
+● No responsibility for the views expressed by
+authors in this Review is assumed by the editors or
+the publishers, The American Economic Association.
+
+Correspondence relating to advertising, business
+matters, permissions to quote, back issues, subscriptions, and changes of address, should be sent
+to the American Economic Association, 2014
+Broadway, Suite 305, Nashville, TN 37203.
+Change of address notice must be received at least
+six (6) weeks prior to the publication month. A
+membership or subscription paid twice is automatically extended for an additional year unless otherwise requested.
+THE AMERICAN ECONOMIC REVIEW (ISSN
+0002-8282), March 2001, Vol. 91, No. 1, is published
+five times a year (March, May, June, September,
+December) and every four years it is published six
+times a year (twice in December) by the American
+Economic Association, 2014 Broadway, Suite 305,
+Nashville, TN 37203. Annual fees for regular membership, of which 30 percent is for a year’s subscription to this journal, are: $59.00, $71.00, or $83.00,
+depending on income. A membership also includes
+subscriptions to The Journal of Economic Literature
+and The Journal of Economic Perspectives. In countries other than the U.S.A., add $26.00 for extra postage. Information on becoming a member can be
+found on the last page of this journal. Periodical
+postage paid at Nashville, TN and at additional mailing offices. POSTMASTER: Send address changes to
+the American Economic Review, 2014 Broadway,
+Suite 305, Nashville, TN 37203.
+
+Vice-Presidents
+JAGDISH BHAGWATI
+Columbia University
+OLIVER E. WILLIAMSON
+University of California-Berkeley
+Secretary-Treasurer
+JOHN J. SIEGFRIED
+Vanderbilt University
+Editor of The American Economic Review
+ORLEY ASHENFELTER
+Princeton University
+Editor of The Journal of Economic Literature
+JOHN McMILLAN
+Stanford University
+Editor of The Journal of Economic Perspectives
+ALAN B. KRUEGER
+Princeton University
+Executive Committee
+
+Elected Members of the Executive Committee
+GENE M. GROSSMAN
+Princeton University
+NANCY L. ROSE
+Massachusetts Institute of Technology
+JAMES J. HECKMAN
+University of Chicago
+NANCY L. STOKEY
+University of Chicago
+JAMES M. POTERBA
+Massachusetts Institute of Technology
+CHRISTINA D. ROMER
+University of California-Berkeley
+EX OFFICIO Members
+D. GALE JOHNSON
+University of Chicago
+DALE W. JORGENSON
+Harvard University
+Counsel
+TERRY CALVANI
+Pillsbury & Winthrop
+
+THE
+
+AMERICAN
+
+ECONOMIC
+
+REVIEW
+
+Editor
+ORLEY ASHENFELTER
+Co-Editors
+TIMOTHY J. BESLEY
+R. PRESTON MCAFEE
+VALERIE A. RAMEY
+
+March 2001
+VOLUME 91, NUMBER 1
+
+Managing Editor
+LYNN FLEISHER
+
+Articles
+
+Board of Editors
+
+Information Technology and the U.S. Economy
+Dale W. Jorgenson
+
+1
+
+The Personal Discount Rate: Evidence from Military
+Downsizing Programs
+John T. Warner and
+Saul Pleeter
+
+33
+
+Dividends and Expropriation
+Mara Faccio,
+Larry H. P. Lang, and Leslie Young
+
+54
+
+Naive Diversification Strategies in Defined Contribution Saving Plans
+Shlomo Benartzi and
+Richard H. Thaler
+
+79
+
+Who Should Buy Long-Term Bonds?
+John Y. Campbell and Luis M. Viceira
+
+99
+
+The Effects of Investing Social Security Funds in the
+Stock Market When Fixed Costs Prevent Some
+Households from Holding Stocks Andrew B. Abel
+
+128
+
+Habit Persistence, Asset Returns, and the Business
+Cycle Michele Boldrin, Lawrence J. Christiano,
+and Jonas D. M. Fisher
+
+149
+
+Monetary Policy and Multiple Equilibria
+Jess Benhabib, Stephanie Schmitt-Grohé, and
+Martı́n Uribe
+
+167
+
+What Hides Behind an Unemployment Rate: Comparing Portuguese and U.S. Labor Markets
+Olivier Blanchard and Pedro Portugal
+
+187
+
+Local Discouragement and Global Collapse: A Theory
+of Coordination Avalanches
+Thomas D. Jeitschko and Curtis R. Taylor
+
+208
+
+The Provision of Public Goods Under Alternative
+Electoral Incentives
+Alessandro Lizzeri and
+Nicola Persico
+
+225
+
+Proofs and Prototypes for Sale: The Licensing of
+University Inventions
+Richard Jensen and
+Marie Thursby
+
+240
+
+Gamma Discounting
+
+260
+
+JAMES ANDREONI
+THEODORE C. BERGSTROM
+FRANCINE D. BLAU
+CHARLES C. BROWN
+ANNE C. CASE
+JUDITH A. CHEVALIER
+ALLAN DRAZEN
+DENNIS N. EPPLE
+SCOTT FREEMAN
+TIMOTHY S. FUERST
+JEFFREY C. FUHRER
+DON FULLERTON
+JORDI GALÍ
+MICHELLE R. GARFINKEL
+MARTIN S. GAYNOR
+DAVID GENESOVE
+GORDON H. HANSON
+CHARLES A. HOLT
+PETER N. IRELAND
+PETER J. KLENOW
+KAREN K. LEWIS
+TRACY R. LEWIS
+ROBERT A. MARGO
+ENRIQUE G. MENDOZA
+GILBERT E. METCALF
+ROBERT A. MOFFITT
+WOLFGANG PESENDORFER
+MICHAEL R RANSOM
+SERGIO T. REBELO
+JENNIFER F. REINGANUM
+PETER C. REISS
+MICHAEL H. RIORDAN
+RICHARD E. ROMANO
+DAVID H. ROMER
+ANDREW R. SCHOTTER
+MATTHEW D. SHAPIRO
+ROBERT W. STAIGER
+CURTIS R. TAYLOR
+M. SCOTT TAYLOR
+DANIEL R. VINCENT
+
+Martin L. Weitzman
+
+Shorter Papers
+Race, Roosevelt, and Wartime Production: Fair Employment in World War II Labor Markets
+William J. Collins
+Tallest in the World: Native Americans of the Great Plains in the Nineteenth Century
+Richard H. Steckel and Joseph M. Prince
+The Market Evaluation of Criminality: Evidence from the Auction of British Convict Labor
+in America, 1767–1775
+Farley Grubb
+Household Debt and the Tax Reform Act of 1986
+Dean M. Maki
+State-Owned and Privately Owned Firms: An Empirical Analysis of Profitability, Leverage,
+and Labor Intensity
+Kathryn L. Dewenter and Paul H. Malatesta
+Preferences over Inflation and Unemployment: Evidence from Surveys of Happiness
+Rafael Di Tella, Robert J. MacCulloch, and Andrew J. Oswald
+Firm-Specific Human Capital as a Shared Investment:
+Comment
+Edwin Leuven and Hessel Oosterbeek
+Reply
+Masanori Hashimoto
+
+● Submit manuscripts (4 copies), single-sided, double-spaced, to:
+
+Orley Ashenfelter, Editor, AER, 209 Nassau Street,
+Princeton, NJ 08542-4601.
+● Authorship should be identified only on a removable cover page; the
+
+anonymous text should begin on the following page.
+● Submission fee: $75 for members; $150 for nonmembers. Please pay with
+
+a check or money order payable in United States dollars. Foreign (including
+Canadian) payments must be in the form of a check drawn on a United States
+bank payable in United States dollars.
+● Style guides will be provided upon request.
+● Manuscripts longer than 50 pages are rarely accepted for publication.
+
+It is the policy of the American Economic Review to publish papers only if
+the data used in the analysis are clearly and precisely documented and are
+readily available to any researcher for purposes of replication. Details of the
+computations sufficient to permit replication must be provided. The Editor
+should be notified at the time of submission if the data used in a paper are
+proprietary, or if, for some other reason, the above requirements cannot be
+met.
+
+272
+287
+295
+305
+320
+335
+342
+348
+
+Number 102 of a series of photographs of past presidents of the Association
+
+This article has been cited by:
+1. Juliane Maria Begenau, Juliana Salomao. 2014. Firm Financing Over the Business Cycle. SSRN
+Electronic Journal . [Crossref]
+2. Michael Nwogugu. 2003. The Communications/Information-Differential Theory of the Corporate
+Entity and Financial Distress. SSRN Electronic Journal . [Crossref]
+
+

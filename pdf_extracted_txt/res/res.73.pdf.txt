@@ -1,0 +1,153 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 73, No. 1 (Jan., 2006)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/3700614
+Accessed: 17-02-2023 12:24 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:42 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 73(1) No. 254
+
+STUDIES
+
+Dynamic Optimal Taxation with Private Information
+
+Stefania Albanesi and Christopher Sleet
+
+Minorities and Endogenous Segregation Jan Eeckhout 31
+
+Fair Income Tax Marc Fleurbaey and Franqois Maniquet 55
+Das Human-Kapital: A Theory of the Demise of the Class Structure
+
+Oded Galor and Omer Moav 85
+
+On the Origins of Property Rights: Conflict and Production in the
+
+State of Nature Catherine Hafer 119
+
+Asymmetric Cycles Boyan Jovanovic 145
+Does Income Inequality Lead to Consumption Inequality?
+
+Evidence and Theory Dirk Krueger and Fabrizio Perri 163
+
+Deep Habits Morten Ravn, Stephanie Schmitt-Groh6 and Martin Uri
+The Concept of Income in a General Equilibrium
+
+J.A. Sefton and M.R. Weale 219
+
+Financial Deepening, Inequality, and Growth: A Model-Based
+
+Quantitative Evaluation Robert M. Townsend and Kenichi Ueda
+
+January 2006
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:42 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The Review was started in 1933 by a group of young British and American Economists. It is pu
+The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applie
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+EDITORIAL COMMITTEE
+Joint Managing Editors
+
+MAITREESH GHATAK, London School of Economics ANDREA PRAT, London School of Eco
+BERNARD SALANIt, Columbia University
+
+Juuso VALIMAKI, Helsinki School of Economics and University of Southampton
+FABRIZIO ZILIBOTTI, IIES, Stockholm University
+
+Secretary and Business Manager
+CHRISTOPHER WALLACE, Trinity College, Oxford
+
+Foreign Editors
+DONALD ANDREWS, Yale University
+
+PER KRUSELL, Princeton University
+
+DIRK BERGEMANN, Yale University
+
+PINELOPI KOUJIANOU GOLDBERG, Yale University
+
+MARTIN CRIPPS, Washington University
+
+KIMINORI MATSUYAMA, Northwestern
+
+University
+GARY B. GORTON, University of Pennsylvania
+DEBRAJ
+RAY, New York University
+NARAYANA KOCHERLAKOTA, University of
+Minnesota
+
+Editorial Board
+
+MARK ARMSTRONG (Chairman), University College London
+JAAP ABBRING, Free University, Amsterdam OLIVER B. LINTON, London School of Economics
+
+JEROME ADDA, University College London
+
+THOMAS MARIOTTI, London School of Economics
+
+V. BHASKAR, University College London
+
+ABHINAY MUTHOO, University of Essex
+
+BRUNO BIAIS, University of Toulouse
+
+DAVID MYATT, St. Catherine's College, Oxford
+FRANCESCO CASELLI, London School of Economics
+BENT NIELSEN, Nuffield College, Oxford
+ANTONIO CICCONE, Universitat Pompeu Fabra
+MARCO OTTAVIANI, London Business School
+
+MELVYN COLES, University of Essex
+
+MARTIN PESENDORFER, London School of Economics
+FRANCESCA CORNELLI, London Business School
+SVEN RADY, University of Munich
+VALENTINA CORRADI, Queen Mary,
+ENRIQUE SENTANA, CEMFI
+University of London
+HYUN SONG SHIN, London School of Economics
+ERIK EYSTER, London School of Economics
+RAN SPIEGLER, Tel Aviv University
+RACHEL GRIFFITH, Institute for Fiscal Studies and
+KJETIL STORESLETTEN, University of Oslo,
+University College London
+
+lIES, Stockholm University and CEPR
+
+JOHN HASSLER, IHES, Stockholm University
+
+STEFFEN HUCK, University College London
+
+HARALD UHLIG, Humboldt University of Berlin
+
+DIMITRI VAYANOS, London School of Economics
+CHRISTIAN JULLIARD, London School of Economics
+GILAT LEVY, London School of Economics
+
+GEORG WEIZSACKER, London School of Economics
+
+Please see inside the back cover of this issue for information on the Review website (www.restu
+subscription rates and submission of articles.
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:24:42 UTC
+All use subject to https://about.jstor.org/terms
+
+

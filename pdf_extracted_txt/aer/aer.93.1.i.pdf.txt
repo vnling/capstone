@@ -1,0 +1,449 @@
+Front Matter
+Source: The American Economic Review , Mar., 2003, Vol. 93, No. 1 (Mar., 2003)
+Published by: American Economic Association
+Stable URL: https://www.jstor.org/stable/3132158
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+is collaborating with JSTOR to digitize, preserve and extend access to The American Economic
+Review
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+ARTICLES
+ROBERT E. LUCAS, JR.
+
+Macroeconomic Priorities
+JUDITH A. CHEVALIER, ANIL K KASHYAP, AND PETER E. ROSSI
+
+Why Don't Prices Rise During Periods of Peak Demand?
+Evidence from Scanner Data
+TORBEN G. ANDERSEN, TIM BOLLERSLEV, FRANCIS X. DIEBOLD, AND CLARA VEGA
+
+Micro Effects of Macro Announcements: Real-Time Price
+
+Discovery in Foreign Exchange
+JEAN IMBS AND ROMAIN WACZIARG
+
+Stages of Diversification
+JOHN HASSLER, JOSE V. RODRiGUEZ MORA, KJETIL STORESLETTEN, AND
+FABRIZIO ZILIBOTTI
+
+The Survival of the Welfare State
+ALBERTO ABADIE AND JAVIER GARDEAZABAL
+
+The Economic Costs of Conflict: A Case Study of the Basque
+Country
+VINCENT P. CRAWFORD
+
+Lying for Strategic Advantage: Rational and Boundedly Rational
+Misrepresentation of Intentions
+ARTHUR J. ROBSON AND HILLARD S. KAPLAN
+
+The Evolution of Human Life Expectancy and Intelligence in
+Hunter-Gatherer Economies
+JAMES E. ANDERSON AND ERIC VAN WINCOOP
+
+Gravity with Gravitas: A Solution to the Border Puzzle
+JULIE AGNEW, PIERLUIGI BALDUZZI, AND ANNIKA SUNDEN
+
+Portfolio Choice and Trading in a Large 401(k) Plan
+W. BENTLEY MACLEOD
+
+Optimal Contracting with Subjective Evaluation
+SHORTER PAPERS: N. Marceau and M. Smart; J. Komlos; S. Jain and S. W. Mukand; C. E. Walsh;
+
+S. M. Dynarski; V. A. Ginsburgh and J. C. van Ours; E. J. Miravete; C. Wei; M. J. Kamstra, L. A. Kramer,
+and M. D. Levi; J. E. L6pez-C6rdova and C. M. Meissner; B. D. Bernheim, L. Forni, J. Gokhale, and
+L. J. Kotlikoff; D. Masclet, C. Noussair, S. Tucker, and M.-C. Villeval; M. D. Shapiro and J. Slemrod;
+
+C.-T. Hsieh; M. Stephens Jr.; B. Dupor and W.-F. Liu; F. D. Blau, L. M. Kahn, J. Y. Moriarty, and
+
+A. P. Souza; C. C. de Fontenay anid J. S. Gans; L. A. Stole and J. Zwiebel; E. Y. Amiran and D. A. Hagen;
+W. M. Hanemann.
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+Officers
+
+President
+PETER A. DIAMOND
+
+Massachusetts Institute of Technology
+President-elect
+
+MARTIN S. FELDSTEIN
+
+Harvard University
+National Bureau of Economic Research
+Vice-Presidents
+JONATHAN EATON
+
+New York University
+* Typeset by CPC DPS-Ephrata Division, PennsylJOHN SHOVEN
+
+vania, U.S.A.
+
+Stanford University
+
+* Printed at Banta Company, Menasha, Wisconsin,
+U.S.A.
+
+Secretary-Treasurer
+JOHN J. SIEGFRIED
+
+* Copyright ? 2003 by the American Economic
+Association. Permission to make digital or hard
+copies of part or all of this work for personal or
+classroom use is granted without fee provided that
+copies are not made or distributed for profit or
+direct commercial advantage and that copies show
+this notice on the first page or initial screen of a
+display along with the full citation, including the
+name of the author. Copyrights for components of
+this work owned by others than AEA must be
+honored. Abstracting with credit is permitted. To
+copy otherwise, to republish, to post on servers, to
+redistribute to lists, or to use any component of this
+
+work in other works, requires prior specific permis-
+
+sion and/or a fee. Permissions may be requested
+from the American Economic Association, 2014
+
+Broadway, Suite 305, Nashville, TN 37203.
+* No responsibility for the views expressed by
+authors in this Review is assumed by the editors or
+the publishers, The American Economic Associa-
+
+Vanderbilt University
+Executive Director
+
+WILLIAM W. DAMON
+
+Vanderbilt University
+Editor of The American Economic Review
+BEN S. BERNANKE
+
+Princeton University
+Editor of The Journal of Economic Literature
+JOHN McMILLAN
+
+Stanford University
+
+Editor of The Journal of Economic Perspectives
+ANDREI SHLEIFER
+
+Harvard University
+Executive Committee
+
+Elected Members of the Executive Committee
+
+tion.
+
+JAMES M. POTERBA
+Correspondence relating to advertising, business
+Massachusetts Institute of Technology
+matters, permissions to quote, back issues, subCHRISTINA D. ROMER
+scriptions, and changes of address, should be sent
+to the American Economic Association, 2014
+University of California-Berkeley
+Broadway, Suite 305, Nashville, TN 37203.
+MARK R. ROSENZWEIG
+Change of address notice must be received at least
+Harvard University
+six (6) weeks prior to the publication month. A
+MARIANNE BAXTER
+membership or subscription paid twice is automatically extended for an additional year unless otherBoston University
+wise requested.
+
+ELLEN R. McGRATTAN
+
+Federal Reserve Bank of Minneapolis
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+MAURICE OBSTFELD
+0002-8282), March 2003, Vol. 93, No. 1, is published
+
+University of California-Berkeley
+
+five times a year (March, May, June, September,
+December) by the American Economic Association,EX OFFICIO Members
+2014 Broadway, Suite 305, Nashville, TN 37203.
+ROBERT E. LUCAS, JR.
+Annual fees for regular membership, of which 30
+percent is for a year's subscription to this journal, are:
+
+$62.00, $74.00, or $87.00, depending on income. A
+membership also includes subscriptions to The Journal of Economic Literature and The Journal of Economic Perspectives. In countries other than the
+U.S.A., add $30.00 for extra postage. Information on
+becoming a member can be found on the last page of
+this journal. Periodical postage paid at Nashville, TN
+
+and at additional mailing offices. POSTMASTER:
+Send address changes to the American Economic Re-
+
+view, 2014 Broadway, Suite 305, Nashville, TN
+37203.
+
+University of Chicago
+
+Counsel
+TERRY CALVANI
+
+The Competition Authority
+Dublin, Ireland
+Administrative Director
+Edda R. Leithner
+
+Convention Manager
+Marlene Hight
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC REVIEW
+Editor
+BEN S. BERNANKE
+
+MARCH 2003
+
+Co-Editors
+
+B. DOUGLAS BERNHEIM
+TIMOTHY J. BESLEY
+DAVID CARD
+RICHARD ROGERSON
+
+VOLUME 93, NUMBER 1
+Articles
+
+Macroeconomic Priorities
+
+Managing Editor
+LYNN FLEISHER
+
+Robert E. Lucas, Jr.
+
+1
+
+Why Don't Prices Rise During Periods of Peak
+Demand? Evidence from Scanner Data
+
+Board of Editors
+
+Judith A. Chevalier, Anil K Kashyap,
+
+JAMES ANDREONI
+
+and Peter E. Rossi
+
+JOSHUA D. ANGRIST
+
+15
+
+SUSAN ATHEY
+
+Micro Effects of Macro Announcements: Real-Time
+
+ANDREW ATKESON
+
+Price Discovery in Foreign Exchange
+Torben G. Andersen, Tim Bollerslev,
+
+A. CRAIG BURNSIDE
+COLIN CAMERER
+
+Francis X. Diebold, and Clara Vega38
+
+ANNE C. CASE
+DONALD DAVIS
+
+Stages of Diversification
+Jean Imbs and Romain Wacziarg 63
+
+ALLAN DRAZEN
+
+CHARLES ENGEL
+DENNIS N. EPPLE
+
+The Survival of the Welfare State
+
+ROBERT C. FEENSTRA
+
+John Hassler, Jose V. Rodrfguez Mora,
+Kjetil Storesletten, and Fabrizio Zilibotti87
+
+DANIEL FRIEDMAN
+JEFFREY C. FUHRER
+
+MARTIN S. GAYNOR
+DAVID GENESOVE
+
+GORDON H. HANSON
+BENJAMIN E. HERMALIN
+CHARLES A. HOLT
+HILARY HOYNES
+PETER N. IRELAND
+
+The Economic Costs of Conflict: A Case Study of the
+Basque Country
+Alberto Abadie and Javier Gardeazabal
+113
+Lying for Strategic Advantage: Rational and Boundedly
+Rational Misrepresentation of Intentions
+
+Vincent P. Crawford 133
+
+PATRICK KEHOE
+
+PETER J. KLENOW
+
+RACHEL E. KRANTON
+TRACY R. LEWIS
+
+ROBERT A. MARGO
+R. PRESTON McAFEE
+
+ENRIQUE G. MENDOZA
+
+The Evolution of Human Life Expectancy and Intelligence in Hunter-Gatherer Economies
+Arthur J. Robson and Hillard S. Kaplan
+
+150
+
+Gravity with Gravitas: A Solution to the Border Puzzle
+
+James E. Anderson and Eric van Wincoop
+
+170
+
+GILBERT E. METCALF
+
+STEPHEN MORRIS
+THOMAS J. NECHYBA
+
+Portfolio Choice and Trading in a Large 401(k) Plan
+Julie Agnew, Pierluigi Balduzzi,
+and Annika Sunden
+
+193
+
+Optimal Contracting with Subjective Evaluation
+W. Bentley MacLeod
+
+216
+
+RAGHURAM G. RAJAN
+
+MICHAEL R RANSOM
+JAMES B. REBITZER
+CARMEN M. REINHART
+PETER C. REISS
+
+MICHAEL H. RIORDAN
+ILYA SEGAL
+
+ROBERT W. STAIGER
+M. SCOTT TAYLOR
+DANIEL R. VINCENT
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+Shorter Papers
+Corporate Lobbying and Commitment Failure in Capital Taxation
+Nicolas Marceau and Michael Smart 241
+
+Access to Food and the Biological Standard of Living: Perspectives on the Nutritional Statu
+of Native Americans John Komlos 252
+Redistributive
+
+Promises
+
+and
+
+Sanjay
+
+the
+
+Adoption
+
+Jain
+
+and
+
+Sha
+
+Speed Limit Policies: The Output Gap and Optimal Monetary Policy Carl E. Walsh 265
+Does Aid Matter? Measuring the Effect of Student Aid on College Attendance and Completion
+Susan M. Dynarski 279
+Expert Opinion and Compensation: Evidence from a Musical Competition
+Victor A. Ginsburgh and Jan C. van Ours 289
+
+Choosing the Wrong Calling Plan? Ignorance and Learning Eugenio J. Miravete 297
+Energy, the Stock Market, and the Putty-Clay Investment Model Chao Wei 311
+Winter Blues: A SAD Stock Market Cycle
+Mark J. Kamstra, Lisa A. Kramer, and Maurice D. Levi 324
+Exchange-Rate Regimes and International Trade: Evidence from the Classical Gold Standard Era
+J. Ernesto L6pez-C6rdova and Christopher M. Meissner 344
+The Mismatch Between Life Insurance Holdings and Financial Vulnerabilities: Evidence from
+the Health and Retirement Study
+B. Douglas Bernheim, Lorenzo Forni, Jagadeesh Gokhale, and Laurence J. Kotlikoff 354
+
+Monetary and Nonmonetary Punishment in the Voluntary Contributions Mechanism
+David Masclet, Charles Noussair, Steven Tucker, and Marie-Claire Villeval 366
+
+Consumer Response to Tax Rebates Matthew D. Shapiro and Joel Slemrod 381
+Do Consumers React to Anticipated Income Changes? Evidence from the Alaska Permane
+Fund Chang-Tai Hsieh 397
+"3rd
+
+of
+
+tha
+
+Month": Do Social
+Melvin Stephens Jr. 406
+
+Jealousy and Equilibrium Overconsumption Bill Dupor and Wen-Fang Liu 423
+The Role of the Family in Immigrants' Labor-Market Activity: An Evaluation of Alternative
+Explanations: Comment
+Francine D. Blau, Lawrence M. Kahn, Joan Y. Moriarty, and Andre Portela Souza 429
+Organizational Design and Technology Choice under Intrafirm Bargaining: Comment
+Catherine C. de Fontenay and Joshua S. Gans 448
+Organizational Design and Technology Choice under Intrafirm Bargaining: Reply
+
+Lars A. Stole and Jeffrey Zwiebel 456
+Willingness To Pay and Willingness To Accept: How Much Can They Differ? Comment
+Edoh Y. Amiran and Daniel A. Hagen 458
+
+Willingness To Pay and Willingness To Accept: How Much Can They Differ? Reply
+
+W. Michael Hanemann 464
+
+Information on how to submit a manuscript is available online:
+(http://www.aeaweb.org/aer/submissions.html)
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+Number 104 of a series of photographs of past presidents of the Association
+
+This content downloaded from
+91.230.41.206 on Wed, 15 Feb 2023 08:26:35 UTC
+All use subject to https://about.jstor.org/terms
+
+

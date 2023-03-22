@@ -1,0 +1,133 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 68, No. 1 (Jan., 2001)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2695915
+Accessed: 17-02-2023 12:26 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:43 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 68(1) No. 234
+
+Moral Hazard and Renegotiation with Multiple Agents
+Shingo Ishiguro and Hideshi Itoh I
+Optimal Contracting with Private Knowledge of Wealth and Ability
+
+Tracy R. Lewis and David E. M. Sappington 21
+Performance, Promotion, and the Peter Principle
+
+James A. Fairburn and James M. Malcomson 45
+Lobbying and Welfare in a Representative Democracy
+Timothy Besley and Stephen Coate 67
+
+The Role of Market Size in the Formation of Jurisdictions Alessandra Casella 83
+
+A Theory of Constitutional Standards and Civil Liberty Roger Lagunoff 109
+Tiebout with Politics: Capital Tax Competition and Constitutional Choices
+
+Carlo Perroni and Kimberley A. Scharf 133
+Multiple-Object Auctions with Budget Constrained Bidders
+
+Jean-Pierre Benoit and Vijay Krishna 155
+
+Wealth Inequality and Asset Pricing Christian Gollier 181
+Using Elasticities to Derive Optimal Income Tax Rates Emmanuel Saez 205
+
+Travel
+
+Fund
+
+January 2001
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:43 UTC
+All use subject to https://about.jstor.org/terms
+
+231
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is published
+by The Review of Economic Studies Ltd., whose object is to encourage research in theoretical and applied
+economics, especially by young economists, and to publish the results in the Review of Economic Studies.
+Subscription Rates for 2001 are:
+Institutions (1 year) OECD ?100 (US $180) Non-OECD ?50 (US $90)
+
+Individuals (1 year) ?30 (US $54)
+Individuals (3 years) ?70 (US $126)
+Students (1 year) ?16 (US $29)
+Students (4 years) ?30 (US $54)
+
+Back Volumes from Vol. 60 are also available at these prices. Single issues cost ?12 (US $24). The
+index for Vols. 26-48 costs ?15 (US $30). Cheques should be made payable to The Review of Economic
+Studies Ltd., and sent to The Review of Economic Studies Ltd., Blackwell Publishers Journals, PO Box
+805, 108 Cowley Road, Oxford, OX4 1FH, U.K. Reprints of Vols. 1-59 can be obtained from Periodical
+Service Company, 1 1 Main Street, Germanstown, NY 12526, U.S.A.
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+MARK ARMSTRONG, Nuffield College, Oxford ORAZIo ATrANASIO, University College London
+
+JAMES Dow, London Business School
+Assistant Editors
+
+MICHELE PICCIONE, London School of Economics ENRIQUE SENTANA, CEMFI, Spain
+HARALD UHLIG, Humboldt University of Berlin
+Production Editor
+
+GARETH MYLES, University of Exeter
+Business Manager
+
+IAN TONKS, University of Bristol
+Foreign Editors
+
+ABHIJIT BANERJEE, Massachusetts Institute of STEPHEN MORRIS, Yale University
+Technology ROBERT PORTER, Northwestern University
+PATRICK BOLTON, Princeton University CANICE PRENDERGAST, University of
+GUIDO IMBENS, University of California, Chicago
+Los Angeles JOSE-VICTOR RIOS RULL, University of
+GEORGE MAILATH, University of Pennsylvania Pennsylvania
+Editorial Board
+
+HYUN SONG SHIN (Chairman), London School of Economics
+
+KARIM ABADIR, University of York ABHINAY MUTHOO, University of Essex
+MANUEL ARELLANO, CEMFI, Spain GEORG NOLDEKE, University of Bonn
+TIMOTHY BESLEY, London School of Economics JORGE PADILLA, CEMFI, Spain
+BRUNO BIAIS, University of Toulouse SVEN RADY, University of Munich
+TILMAN BORGERS, University College London ROHIT RAHI, London School of Economics
+MELVYN COLES, University of Essex JOHN VAN REENEN, University College London
+FRANCESCA CORNELLI, London Business School BERNARD SALANIE, ENSAE, France
+MARTIN CRIPPS, University of Washington in St. Louis KLAUS SCHMIDT, University of Munich
+HIDEHIKO ICHIMURA, University College London NEIL SHEPHARD, Nuffield College, Oxford
+PHILLIPE JEHIEL, University College London ERNST-LUDWIG VON THADDEN, University of
+GILAT LEVY, London School of Economics Lausanne
+
+OLIVER LINTON, London School of Economics JUUSO VALIMAKI, University of Southampton
+THOMAS MARIOTTI, London School of Economics GIOVANNI LUCA VIOLANTE, University College
+DAVID MARTIMORT, University of Toulouse London
+
+Copyright ? 2000, The Review of Economic Studies Limited
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of
+Economic Studies Ltd., Blackwell Publishers Journals, PO Box 805, 108 Cowley Road, Oxford OX4
+1FH, U.K.
+
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to
+Review of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue,
+Avenel, NJ 07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:43 UTC
+All use subject to https://about.jstor.org/terms
+
+

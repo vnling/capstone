@@ -1,0 +1,151 @@
+FARUK GUL AND WOLFGANG PESENDORFER: Expected Uncertain Utility Theory . . . . . . . . .
+
+1
+
+MIKHAIL GOLOSOV, JOHN HASSLER, PER KRUSELL, AND ALEH TSYVINSKI: Optimal Taxes on
+
+Fossil Fuel in General Equilibrium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FERNANDO ALVAREZ AND FRANCESCO LIPPI: Price Setting With Menu Cost for Multiproduct Firms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ATILA ABDULKADIROĞLU, JOSHUA ANGRIST, AND PARAG PATHAK:
+The Elite Illusion:
+Achievement Effects at Boston and New York Exam Schools . . . . . . . . . . . . . . . . . . . .
+PASCALINE DUPAS: Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence From a Field Experiment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ERIK MEYERSSON: Islamic Rule and the Empowerment of the Poor and Pious . . . . . . . . .
+PAULO BARELLI, SRIHARI GOVINDAN, AND ROBERT WILSON: Competition for a Majority . .
+MATTHEW GENTRY AND TONG LI: Identification in Auctions With Selective Entry . . . . . . .
+SUSANNE M. SCHENNACH: Entropic Latent Variable Integration via Simulation . . . . . . . . .
+
+41
+89
+137
+197
+229
+271
+315
+345
+
+NOTES AND COMMENTS:
+HIROAKI KAIDO AND ANDRES SANTOS: Asymptotically Efficient Estimation of Mod-
+
+els Defined by Convex Moment Inequalities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+YARON AZRIELI: Comment on “The Law of Large Demand for Information” . . . .
+
+387
+415
+
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+425
+427
+435
+443
+447
+457
+461
+
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2012–2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2012–2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . .
+
+VOL. 82, NO. 1 — January 2014
+
+14680262, 2014, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA821FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+DARON ACEMOGLU, Dept. of Economics, Massachusetts Institute of Technology, E52-380B, 50 Memorial
+Drive, Cambridge, MA 02142-1347, U.S.A.; daron@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+LIRAN EINAV, Dept. of Economics, Stanford University, 579 Serra Mall, Stanford, CA 94305-6072, U.S.A.;
+leinav@econometricsociety.org
+LARS PETER HANSEN, Dept. of Economics, University of Chicago, 1126 East 59th Street, Chicago, IL 60637,
+U.S.A.; lhansen@econometricsociety.org
+MATTHEW O. JACKSON, Dept. of Economics, Stanford University, 579 Serra Mall, Stanford, CA 94305-6072,
+U.S.A.; jacksonm@econometricsociety.org
+PHILIPPE JEHIEL, Dept. of Economics, Paris School of Economics, 48 Bd Jourdan, 75014 Paris, France;
+University College London, U.K.; jehiel@econometricsociety.org
+JOEL SOBEL, Dept. of Economics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA
+92093, U.S.A.; jsobel@econometricsociety.org
+ELIE TAMER, Dept. of Economics, Northwestern University, 2001 Sheridan Road, Evanston, IL 60208,
+U.S.A.; tamer@econometricsociety.org
+ASSOCIATE EDITORS
+DAVID MARTIMORT, Paris School of Economics–
+ALBERTO ABADIE, Harvard University
+JAAP ABBRING, Tilburg University
+EHESS
+ANDREW MCLENNAN, University of Queensland
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+FRANCESCA MOLINARI, Cornell University
+PIERPAOLO BATTIGALLI, Università Bocconi
+SUJOY MUKERJI, University of Oxford
+PATRICK BAYER, Duke University
+ULRICH MÜLLER, Princeton University
+DIRK BERGEMANN, Yale University
+WOJCIECH OLSZEWSKI, Northwestern University
+NICHOLAS BLOOM, Stanford University
+MICHAEL OSTROVSKY, Stanford University
+YEON-KOO CHE, Columbia University
+and Google
+PARAG PATHAK, Massachusetts Institute
+VICTOR CHERNOZHUKOV, Massachusetts
+Institute of Technology
+of Technology
+DARRELL DUFFIE, Stanford University
+JORIS PINKSE, Pennsylvania State University
+JEFFREY ELY, Northwestern University
+GIORGIO PRIMICERI, Northwestern University
+XAVIER GABAIX, New York University
+ERIC RENAULT, Brown University
+MIKHAIL GOLOSOV, Princeton University
+ANDRES SANTOS, University of California,
+PATRIK GUGGENBERGER, Pennsylvania
+San Diego
+State University
+SUSANNE M. SCHENNACH, Brown University
+FARUK GUL, Princeton University
+ANDREW SCHOTTER, New York University
+PHILIP HAILE, Yale University
+NEIL SHEPHARD, Harvard University
+YORAM HALEVY, University of British
+MARCIANO SINISCALCHI, Northwestern University
+Columbia
+JEROEN M. SWINKELS, Northwestern University
+CHRISTOPHER TABER, University of
+JOHANNES HÖRNER, Yale University
+MICHAEL JANSSON, University of California,
+Wisconsin–Madison
+EDWARD J. VYTLACIL, New York University
+Berkeley
+BAS J. M. WERKER, Tilburg University
+PETER KLENOW, Stanford University
+FELIX KUBLER, University of Zurich
+IVÁN WERNING, Massachusetts Institute
+JONATHAN LEVIN, Stanford University
+of Technology
+ASHER WOLINSKY, Northwestern University
+OLIVER LINTON, Cambridge University
+BART LIPMAN, Boston University
+TAO ZHA, Federal Reserve Bank of Atlanta
+THOMAS MARIOTTI, Toulouse School of
+and Emory University
+Economics
+EDITORIAL COORDINATOR: MARY BETH BELLANDO-ZANIBONI, Dept. of Economics, New York University, 19 West 4th Street, New York, NY 10012, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided on the last page.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2014, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA821FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

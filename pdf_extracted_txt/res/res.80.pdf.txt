@@ -1,0 +1,255 @@
+80(1) No. 282 pp. 1–427
+
+THE REVIEW OF
+
+THE REVIEW OF ECONOMIC STUDIES
+
+Progressive Screening: Long-Term Contracting with a Privately Known Stochastic Process
+Raphael Boleslavsky and Maher Said
+
+1
+
+Alex Boulatov, Terrence Hendershott and Dmitry Livdan
+
+35
+
+Informed Trading and Portfolio Returns
+Assigning Resources to Budget-Constrained Agents
+Yeon-Koo Che, Ian Gale and Jinwoo Kim
+
+73
+
+Arnaud Costinot, Jonathan Vogel and Su Wang
+
+109
+
+An Elementary Theory of Global Supply Chains
+The Effect of Immigration along the Distribution of Wages
+Christian Dustmann, Tommaso Frattini and Ian P. Preston
+
+145
+
+A Structural Approach to Identifying the Sources of Local Currency Price Stability
+Pinelopi Koujianou Goldberg and Rebecca Hellerstein
+
+175
+
+Luigi Guiso, Luigi Pistaferri and Fabiano Schivardi
+
+211
+
+Credit within the Firm
+Inventories, Markups, and Real Rigidities in Menu Cost Models
+Oleksiy Kryvtsov and Virgiliu Midrigan
+
+249
+
+Aggregating Information by Voting: The Wisdom of the Experts versus the Wisdom of
+the Masses
+Joseph C. McMurray
+
+277
+
+Quick Job Entry or Long-Term Human Capital Development? The Dynamic Effects of
+Alternative Training Schemes
+
+January 2013
+
+Print 0034-6527
+Online 1467-937X
+
+restud_80_1_Cover.indd 1
+
+Aderonke Osikominu
+
+313
+
+Esmeralda A. Ramalho and Richard J. Smith
+
+343
+
+Discrete Choice Non-Response
+
+Downloaded from https://academic.oup.com/restud/issue/80/1 by eFADA user on 17 February 2023
+
+Vol. 80(1) No. 282
+
+ECONOMIC
+STUDIES
+
+Robust Predictions in Infinite-Horizon Games—an Unrefinable Folk Theorem
+Jonathan Weinstein and Muhamet Yildiz
+
+365
+
+Alexander Wolitzky
+
+395
+
+Cooperation with Network Monitoring
+
+January 2013
+
+31-01-2013 17:28:04
+
+THE REVIEW OF ECONOMIC STUDIES
+Subscriptions rates
+A subscription to The Review of Economic Studies comprises 4 issues. Prices include postage by surface mail, or for
+subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
+Airmail rates are available on request.
+Annual Subscription Rate (Volume 80, 4 issues, 2013)
+
+The review was started in 1933 by a group of young British and American Economists. It is published by The
+Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied economics,
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+Institutional
+UK print edition and site-wide online access £382
+Non UK print edition nd site wide online access £446/$596/E448
+UK online access online £318
+Non UK online access only £372/$497/E373
+UK print edition online £350
+Non UK print edition only: £409/$547/E410
+
+EDITORIAL COMMITTEE
+Joint Managing Editors
+STÉPHANE BONHOMME, CEMFI
+FRANCESCO CASELLI, London School of Economics
+PHILIPP KIRCHER, London School of Economics,
+and University of Edinburgh
+
+MARCO OTTAVIANI, Bocconi University
+IMRAN RASUL, University College London
+DIMITRI VAYANOS, London School of Economics
+
+ANNIKA ANDREASSON, IIES, Stockholm University
+Secretary and Business Manager
+CHRISTOPHER BOWDLER, University of Oxford
+Foreign Editors
+POL ANTRAS, Harvard University
+PETER ARCIDIACONO, Duke University
+ANDREW ATKESON, University of California, Los Angeles
+MARCO BATTAGLINi, Princeton University
+V BHASKAR, University College London
+MATTHIAS DOEPKE, Northwestern University
+RAY FISMAN, Columbia University
+BURTON HOLLIFIELD, Carnegie Mellon University
+BOTOND KÖSZEGI, University of California, Berkeley
+ILAN KREMER, Stanford University
+GUIDO LORENZONI, Massachusetts Institute of Technology
+
+MARC MELITZ, Princeton University
+ULRICH MÜLLER, Princeton University
+AVIV NEVO, Northwestern University
+ALESSANDRO PAVAN, Northwestern University
+ILYA SEGAL, Stanford University
+MARCIANO SINISCALCHI, Northwestern University
+BRUNO STRULOVICI, Northwestern University
+PIERRE-OLIVIER WEILL, University of California,
+Los Angeles
+
+Editorial Board
+ANDREA PRAT (Chair), London School of Economics
+ALP ATAKAN, Koc University
+V BHASKAR, University College London
+THOMAS CHANEY, Toulouse University
+VALENTINA CORRADI, University of Warwick
+AMIL DASGUPTA, London School of Economics
+NICOLA FUCHS-SCHÜNDELN, Frankfurt University
+ANDREA GALEOTTI, University of Essex
+ALFRED GALICHON, École Polytechnique
+GINO GANCIA, CREI, UPF
+NICOLA GENNAIOLI, CREI, UPF
+ALEX GERSHKOV, Hebrew University of Jerusalem
+BÅRD HARSTAD, University of Oslo
+CHRISTIAN HELLWIG, Toulouse University,
+STEFFEN HUCK, University College London
+NAGORE IRIBERRI, Universitat Pompeu Fabra
+KEYU JIN, London School of Economics
+HENRIK KLEVEN, London School of Economics
+PETER KONDOR, Central European University
+MIKLÓS KOREN, Central European University
+DENIS KRISTENSEN, University College London
+
+FELIX KÜBLER, University of Zurich
+ALBERTO MARTIN, CREI, UPF
+GERARD PADRÓ MIQUEL, London School of Economics
+DANIEL PARAVISINI, London School of Economics
+ÁUREO DE PAULA, University College London
+GUILLAUME PLANTIN, Toulouse University
+HÉLÈNE REY, London Business School
+PHILIPP SCHMIDT-DENGLER, University of Mannheim
+KJETIL STORESLETTEN, University of Oslo
+ADAM SZEIDL, Central European University
+BALÁZS SZENTES, University College London
+SILVANA TENREYRO, London School of Economics
+OLIVIER TERCIEUX, Paris School of Economics
+MICHÈLE TERTILT, University of Mannheim
+MARKO TERVIÖ, Aalto University
+FREDERIC VERMEULEN, University of Leuven
+FABIAN WALDINGER, Warwick University
+GEORG WEIZSÄCKER, Humboldt University
+MIRKO WIEDERHOLT, Frankfurt University
+FABRIZIO ZILIBOTTI, University of Zurich
+
+Downloaded from https://academic.oup.com/restud/issue/80/1 by eFADA user on 17 February 2023
+
+Journal Manager
+
+Personal
+Print edition: £59/$101/E89
+All other rates are available at www.restud@oxfordjournals.org
+Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not
+refundable. Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more
+than FOUR months after publication or date of order, whichever is later. All subscriptions in Canada are subject to
+GST.
+Subscriptions in the EU may be subject to European VAT. If registered, please supply details to avoid unnecessary
+charges.
+For subscriptions that include online versions, a proportion of the subscription price may be subject to UK VAT.
+Personal rate subscriptions are only available if payment is made by personal cheque or credit card and delivery is to a
+private address.
+For further information, please contact: Journals Customer Service Department, Oxford University Press, Great
+Clarendon Street, Oxford OX2 6DP, UK. Email: jnls.cust.serv@oup.com. Tel (and answerphone outside normal working hours): +44 (0)1865 353907. Fax: +44 (0)1865 353485.
+In the US, please contact: Journals Customer Service Department, Oxford University Press, 2001 Evans Road, Cary,
+NC 27513, USA. Email: jnlorders@oup.com. Tel (and answerphone outside normal working hours): 800 852 7323
+(toll-free in USA/Canada). Fax: 919 677 1714.
+In Japan, please contact: Journals Customer Services, Oxford University Press, Tokyo 4-5-10-8F Shiba, Minato-ku,
+Tokyo 108-8386, Japan. Tel: +81 (0) 3 5444 5858. Fax: +81 (0) 3 3454 2929.
+Methods of payment. (i) Cheque (payable to Oxford University Press to Oxford University Press, Cashiers Office,
+Great Clarendon Street, Oxford OX2 6DP, UK) in GB£ sterling (drawn on a UK bank), in US$ Dollars (drawn on a
+US bank), or EUE Euros. (ii) Bank transfer to Barclays Bank Plc, Oxford Group Office, Oxford (bank sort code:
+20-65-18) (UK), overseas only Swift code BARC GB 22 (GB£ Sterling to account no. 70299332, IBAN
+GB89BARC20651870299332; US$ Dollars to account no. 66014600, IBAN GB27BARC20651866014600; EUE
+Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card (Mastercard, Visa, Switch or
+American Express).
+The Review of Economic Studies is published four times annually in January, April, July and October by Oxford
+University Press, Oxford, UK.
+Annual subscription price is £446/$596/E448. The Review of Economic Studies is distributed by agent named
+Air Business Ltd, c/o Worldnet Shipping Inc., 156-15, 146th Avenue, 2nd Floor, Jamaica, NY 11434, USA.
+US Postmaster: send address changes to The Review of Economic Studies, Air Business Ltd, c/o Worldnet Shipping
+Inc., 156-15, 146th Avenue, 2nd Floor, Jamaica, NY 11434, USA.
+Permissions
+For information on how to request permissions to reproduce articles/information from this journal, please visit www.
+oxfordjournals.org/permissions.
+Advertising
+Inquiries about advertising and inserts should be addressed to Advertising and Special Sales, Oxford Journals, Oxford
+University Press, Great Clarendon Street, Oxford, OX2 6DP, UK. Tel: +44 (0) 1865 354767; Fax +44 (0) 1865
+353774; E-mail: jnlsadvertising@oup.com
+Disclaimer
+The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this journal; the views and opinions expressed do not necessarily reflect those of the Publisher and
+Editors, neither does the publication of advertisements constitute any endorsement by the Publisher and Editor of the
+products advertised.
+© The Review of Economic Studies Ltd 2013
+All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
+form or by any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission
+of the Publishers, or a licence permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd,
+90 Tottenham Court Road, London W1P 9HE, or in the USA by the Copyright Clearance Center, 222 Rosewood
+Drive, Danvers, MA 01923.
+Typeset by Cenveo Publisher Services, Bangalore, India
+Printed by Bell and Bain Ltd, Glasgow, UK
+
+restud_80_1_Cover.indd 2
+
+31-01-2013 17:28:05
+
+

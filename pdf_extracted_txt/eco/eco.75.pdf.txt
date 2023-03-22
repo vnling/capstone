@@ -1,0 +1,153 @@
+VICTOR AGUIRREGABIRIA AND PEDRO MIRA: Sequential Estimation of Dynamic Discrete
+
+Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JOEL WATSON: Contract, Mechanism Design, and Technological Detail . . . . . . . . . . . . . . . .
+
+1
+55
+
+JEFFREY R. KLING, JEFFREY B. LIEBMAN, AND LAWRENCE F. KATZ: Experimental Analysis
+
+of Neighborhood Effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ERNST FEHR, ALEXANDER KLEIN, AND KLAUS M. SCHMIDT: Fairness and Contract Design .
+MARK SATTERTHWAITE AND ARTYOM SHNEYEROV: Dynamic Matching, Two-Sided Incomplete Information, and Participation Costs: Existence and Convergence to Perfect
+Competition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUSANNE M. SCHENNACH: Instrumental Variable Estimation of Nonlinear Errors-inVariables Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+83
+121
+
+155
+201
+
+NOTES AND COMMENTS:
+MATTHEW O. JACKSON AND HUGO F. SONNENSCHEIN:
+
+Overcoming Incentive Constraints by Linking Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SERGIO FIRPO: Efficient Semiparametric Estimation of Quantile Treatment Effects
+CHARALAMBOS D. ALIPRANTIS, GABRIELE CAMERA, AND DANIELA PUZZELLO: Contagion Equilibria in a Monetary Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+277
+
+ANNOUNCEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF ECONOMETRICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2005–2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+283
+289
+291
+299
+305
+309
+317
+321
+
+VOL. 75, NO. 1 — January, 2007
+
+241
+259
+
+14680262, 2007, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2007.00730.x by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+EDDIE DEKEL, Dept. of Economics, Northwestern University, 2003 Sheridan Rd., Evanston, IL 602082600, U.S.A., and Eitan Berglas School of Economics, Tel Aviv University, Tel Aviv 69978, Israel;
+dekel@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+STEVEN BERRY, Dept. of Economics, Yale University, 37 Hillhouse Ave./P.O. Box 8264, New Haven,
+CT 06520-8264, U.S.A.; berry@econometricsociety.org
+DAVID K. LEVINE, Dept. of Economics, Washington University in St. Louis, St. Louis, MO 63130-4899,
+U.S.A.; levine@econometricsociety.org
+WHITNEY K. NEWEY, Dept. of Economics, MIT, E52-262D, 50 Memorial Dr., Cambridge, MA 02142,
+U.S.A.; wnewey@mit.edu
+LARRY SAMUELSON, Dept. of Economics, University of Wisconsin, 1180 Observatory Dr., Madison,
+WI 53706-1320, U.S.A.; samuelson@econometricsociety.org
+HARALD UHLIG, Institut für Wirtschaftspolitik, School of Business and Economics, Humboldt University
+of Berlin, Spandauer Str. 1, 10178 Berlin, Germany; uhlig@econometricsociety.org
+ASSOCIATE EDITORS
+JOSEPH G. ALTONJI, Yale University
+DONALD W. K. ANDREWS, Yale University
+SUSAN ATHEY, Harvard University
+JUSHAN BAI, New York University
+MICHELE BOLDRIN, Washington University
+in St. Louis
+VINCENT P. CRAWFORD, University of California,
+San Diego
+J. DARRELL DUFFIE, Stanford University
+LARRY G. EPSTEIN, University of Rochester
+ITZHAK GILBOA, Tel Aviv University and Yale
+University
+FARUK GUL, Princeton University
+JINYONG HAHN, University of California,
+Los Angeles
+BRUCE E. HANSEN, University of Wisconsin–
+Madison
+GUIDO IMBENS, Harvard University
+MATTHEW O. JACKSON, Stanford University
+ATSUSHI KAJII, Kyoto University
+MICHAEL KEANE, University of Technology,
+Sydney
+YUICHI KITAMURA, Yale University
+PER KRUSELL, Princeton University and
+Stockholm University
+OLIVER LINTON, London School
+of Economics
+BARTON LIPMAN, Boston University
+THIERRY MAGNAC, IDEI-GREMAQ,
+Université des Sciences Sociales
+de Toulouse
+
+GEORGE J. MAILATH, Yale University
+DAVID MARTIMORT, IDEI-GREMAQ,
+Université des Sciences Sociales
+de Toulouse
+STEVEN A. MATTHEWS, University
+of Pennsylvania
+ROSA L. MATZKIN, Northwestern University
+BENNY MOLDOVANU, University of Bonn
+STEPHEN MORRIS, Princeton University
+LEE OHANIAN, University of California,
+Los Angeles
+THOMAS R. PALFREY, California Institute
+of Technology
+WOLFGANG PESENDORFER, Princeton
+University
+ERIC RENAULT, University of North Carolina,
+Chapel Hill
+PHILIP J. RENY, University of Chicago
+JEAN-MARC ROBIN, Université de Paris 1 and
+University College London
+UZI SEGAL, Boston College
+CHRIS SHANNON, University of California,
+Berkeley
+NEIL SHEPHARD, Oxford University
+RICHARD J. SMITH, University of Cambridge
+JAMES H. STOCK, Harvard University
+ELIE TAMER, Northwestern University
+CHRIS UDRY, Yale University
+ASHER WOLINSKY, Northwestern University
+WILLIAM R. ZAME, University of California,
+Los Angeles
+
+EDITORIAL ASSISTANT: YAEL LESHEM, Eitan Berglas School of Economics, Tel Aviv University, Tel
+Aviv 69978, Israel; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided in the last two pages.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2007, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0262.2007.00730.x by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

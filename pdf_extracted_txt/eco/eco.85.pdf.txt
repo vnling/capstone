@@ -1,0 +1,139 @@
+MANUEL ARELLANO AND STÉPHANE BONHOMME: Quantile Selection Models With an Ap-
+
+plication to Understanding Changes in Wage Inequality . . . . . . . . . . . . . . . . . . . . . . . . .
+MARCUS HAGEDORN, TZUO HANN LAW, AND IOURII MANOVSKII: Identifying Equilibrium
+Models of Labor Market Sorting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EDUARDO M. AZEVEDO AND DANIEL GOTTLIEB: Perfect Competition in Markets With
+Adverse Selection. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRK BERGEMANN, BENJAMIN BROOKS, AND STEPHEN MORRIS: First-Price Auctions With
+General Information Structures: Implications for Bidding and Revenue . . . . . . . . . .
+JIDONG ZHOU: Competitive Bundling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+JIA LI, VIKTOR TODOROV, AND GEORGE TAUCHEN: Jump Regressions . . . . . . . . . . . . . . . . . . .
+PER A. MYKLAND AND LAN ZHANG: Assessment of Uncertainty in High Frequency Data:
+The Observed Asymptotic Variance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A. BELLONI, V. CHERNOZHUKOV, I. FERNÁNDEZ-VAL, AND C. HANSEN: Program Evaluation
+and Causal Inference With High-Dimensional Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NOTES AND COMMENTS:
+LIKUAN QIN AND VADIM LINETSKY: Long-Term Risk: A Martingale Approach . . . . .
+FORTHCOMING PAPERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE SECRETARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE TREASURER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS 2015–2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ECONOMETRICA REFEREES 2015–2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REPORT OF THE EDITORS OF THE MONOGRAPH SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SUBMISSION OF MANUSCRIPTS TO THE ECONOMETRIC SOCIETY MONOGRAPH SERIES . . . . . . . . .
+
+VOL. 85, NO. 1 — January 2017
+
+1
+29
+67
+107
+145
+173
+197
+233
+299
+313
+315
+323
+329
+333
+345
+349
+
+14680262, 2017, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA851FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CONTENTS
+
+EDITOR
+JOEL SOBEL, Dept. of Economics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA
+92093, U.S.A.; jsobel@econometricsociety.org
+MANAGING EDITOR
+GERI MATTSON, 2002 Holly Neck Road, Baltimore, MD 21221, U.S.A.; mattsonpublishingservices@
+comcast.net
+CO-EDITORS
+DIRK BERGEMANN, Dept. of Economics, Yale University, 30 Hillhouse Avenue, New Haven, CT 065208281, U.S.A.; bergemann@econometricsociety.org
+LIRAN EINAV, Dept. of Economics, Stanford University, 579 Serra Mall, Stanford, CA 94305-6072, U.S.A.;
+leinav@econometricsociety.org
+ITZHAK GILBOA, Dept. of Economics and Decision Sciences, HEC, Paris, rue de la Libération, 78351 Jouy
+en Josas Cedex, France, and Eitan Berglas School of Economics, Tel Aviv University, Tel Aviv 69978,
+Israel; gilboa@econometricsociety.org
+ULRICH K. MÜLLER, Dept. of Economics, Princeton University, Fisher Hall, Princeton, NJ 08544-1021,
+U.S.A.; umueller@econometricsociety.org
+GIOVANNI L. VIOLANTE, Dept. of Economics, New York University, 19 W. 4th Street, New York, NY 100121119, U.S.A.; gviolante@econometricsociety.org
+FABRIZIO ZILIBOTTI, Dept. of Economics, University of Zurich, Schönberggasse 1, CH-8001 Zurich,
+Switzerland; zilibotti@econometricsociety.org
+ASSOCIATE EDITORS
+ALBERTO ABADIE, Massachusetts Institute of
+THOMAS MARIOTTI, Toulouse School of
+Technology
+Economics
+JAAP ABBRING, Tilburg University
+ANDREW MCLENNAN, University of Queensland
+MANUEL AMADOR, Federal Reserve Bank of
+FRANCESCA MOLINARI, Cornell University
+Minneapolis
+SUJOY MUKERJI, Queen Mary University of London
+SERENA NG, Columbia University
+MARCO BATTAGLINI, Cornell University
+PIERPAOLO BATTIGALLI, Università Bocconi
+WOJCIECH OLSZEWSKI, Northwestern University
+PATRICK BAYER, Duke University
+MICHAEL OSTROVSKY, Stanford University
+FRANCIS BLOCH, University Paris 1 and
+ELIAS PAPAIOANNOU, London Business School
+Paris School of Economics
+GIORGIO PRIMICERI, Northwestern University
+STEPHEN REDDING, Princeton University
+NICHOLAS BLOOM, Stanford University
+ERIC BUDISH, University of Chicago
+ERIC RENAULT, Brown University
+XIAOHONG CHEN, Yale University
+MARZENA ROSTEK, University of Wisconsin–Madison
+PASCALINE DUPAS, Stanford University
+ANDRES SANTOS, University of California,
+FEDERICO ECHENIQUE, California Institute of
+San Diego
+SUSANNE M. SCHENNACH, Brown University
+Technology
+ILYA R. SEGAL, Stanford University
+GUILLAUME FRÉCHETTE, New York University
+XAVIER GABAIX, Harvard University
+AZEEM M. SHAIKH, University of Chicago
+MIKHAIL GOLOSOV, Princeton University
+NEIL SHEPHARD, Harvard University
+PHILIP HAILE, Yale University
+TAYFUN SÖNMEZ, Boston College
+KEISUKE HIRANO, Pennsylvania State
+JEROEN M. SWINKELS, Northwestern University
+University
+CHRISTOPHER TABER, University of
+MICHAEL JANSSON, University of California,
+Wisconsin–Madison
+Berkeley
+VIKTOR TODOROV, Northwestern University
+SHAKEEB KHAN, Duke University
+NICOLAS VIEILLE, HEC Paris
+PETER KLENOW, Stanford University
+EDWARD J. VYTLACIL, Yale University
+FELIX KUBLER, University of Zurich
+PIERRE-OLIVIER WEILL, University of California,
+BART LIPMAN, Boston University
+Los Angeles
+HANNO LUSTIG, Stanford University
+BAS J. M. WERKER, Tilburg University
+MASSIMO MARINACCI, Università Bocconi
+LEEAT YARIV, California Institute of Technology
+PUBLICATIONS MANAGER: MARY BETH BELLANDO-ZANIBONI, Dept. of Economics, New York University, 19 West 4th Street, New York, NY 10012, U.S.A.; econometrica@econometricsociety.org
+Information on MANUSCRIPT SUBMISSION is provided on the last page.
+Information on MEMBERSHIP, SUBSCRIPTIONS, AND CLAIMS is provided in the inside back cover.
+
+14680262, 2017, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.3982/ECTA851FM by New York University, Wiley Online Library on [20/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+An International Society for the Advancement of Economic
+Theory in its Relation to Statistics and Mathematics
+Founded December 29, 1930
+Website: www.econometricsociety.org
+
+

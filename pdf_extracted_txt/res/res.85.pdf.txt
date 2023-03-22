@@ -1,0 +1,312 @@
+85(1) No. 302 pp. 1–694
+
+THE REVIEW OF
+
+Vol. 85(1) No. 302
+
+Younghwan In and Julian Wright
+
+558
+
+Distributional Comparative Statics
+Martin Kaae Jensen
+
+581
+
+Smooth Trading with Overconfidence and Market Power
+Albert S. Kyle, Anna A. Obizhaeva and Yajun Wang
+
+611
+
+Natural Amenities, Neighbourhood Dynamics, and Persistence in the Spatial Distribution of Income
+Sanghoon Lee and Jeffrey Lin
+
+663
+
+THE REVIEW OF ECONOMIC STUDIES
+
+Signaling Private Choices
+
+The Pruned State-Space System for Non-Linear DSGE Models: Theory and Empirical Applications
+Martin M. Andreasen, Jesús Fernández-Villaverde and Juan F. Rubio-Ramírez
+
+1
+
+The Perils of Nominal Targets
+Roc Armenter
+
+50
+
+S. Borağan Aruoba, Pablo Cuba-Borda and Frank Schorfheide
+
+87
+
+Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries
+Reconciling Hayek’s and Keynes’ Views of Recessions
+Paul Beaudry, Dana Galizia and Franck Portier
+
+119
+
+Housing Market Responses to Transaction Taxes: Evidence From Notches and Stimulus in the U.K.
+Michael Carlos Best and Henrik Jacobsen Kleven
+
+157
+
+Philip Bond and Gustav Sigurdsson
+
+194
+
+Ricardo J. Caballero and Emmanuel Farhi
+
+223
+
+Briana Chang
+
+275
+
+Gonzalo Cisternas
+
+307
+
+Eduardo Dávila and Anton Korinek
+
+352
+
+Commitment Contracts
+The Safety Trap
+Adverse Selection and Liquidity Distortion
+Two-Sided Learning and the Ratchet Principle
+Pecuniary Externalities in Economies with Financial Frictions
+The Effects of Banning Advertising in Junk Food Markets
+Pierre Dubois, Rachel Griffith and Martin O’Connell
+
+396
+
+Portfolio Choices, Firm Shocks, and Uninsurable Wage Risk
+Andreas Fagereng, Luigi Guiso and Luigi Pistaferri
+
+January 2018
+
+Print 0034-6527
+Online 1467-937X
+
+restud_85_1_Cover.indd 1
+
+437
+
+International Arbitrage and the Extensive Margin of Trade between Rich and Poor Countries
+Reto Foellmi, Christian Hepenstrick and Josef Zweimüller
+
+Downloaded from https://academic.oup.com/restud/issue/85/1 by eFADA user on 17 February 2023
+
+ECONOMIC
+STUDIES
+
+475
+
+Differential Taxation and Occupational Choice
+Renato Gomes, Jean-Marie Lozachmeur and Alessandro Pavan
+
+511
+
+contents continued
+
+January 2018
+
+20-12-2017 16:46:26
+
+THE REVIEW OF ECONOMIC STUDIES
+
+Subscriptions rates
+A subscription to The Review of Economic Studies comprises 4 issues. Prices include postage by surface mail, or for
+subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
+Airmail rates are available on request.
+Annual Subscription Rate (Volume 85, 4 issues, 2018)
+
+The review was started in 1933 by a group of young British and American Economists. It is published by The Review of Economic
+Studies Ltd, whose object is to encourage research in theoretical and applied economics, especially by young economists, and to
+publish the results in The Review of Economic Studies.
+
+Institutional
+UK print edition and site-wide online access £510
+Non UK print edition and site wide online access £569/$798/E599
+UK online access only £386
+Non UK online access only £431/$604/E454
+UK print edition only £470
+Non UK print edition only: £524/$736/E552
+
+EDITORIAL COMMITTEE
+Managing Editors
+NICOLA GENNAIOLI, Bocconi University
+VERONICA GUERRIERI, University of Chicago
+CHRISTIAN HELLWIG, University of Toulouse
+DIRK KRUEGER, University of Pennsylvania
+
+ÁUREO DE PAULA, University College London
+UTA SCHOENBERG, University College London
+ADAM SZEIDL, Central European University
+Journal Manager
+
+Secretary and Business Manager
+CATHERINE M. THOMAS, London School of Economics
+
+MANUEL AMADOR, University of Minnesota
+
+Foreign Editors
+MAGNE MOGSTAD, University of Chicago
+
+PETER ARCIDIACONO, Duke University
+
+GUILLERMO ORDONEZ, University of Pennsylvania
+
+FRANCISCO BUERA, University of California, Los Angeles
+
+ALESSANDRO PAVAN, Northwestern University
+
+SYLVAIN CHASSANG, New York University
+
+GIORGIO PRIMICERI, Northwestern University
+
+ARNAUD COSTINOT, Massachusetts Institute of Technology
+
+ANDRES SANTOS, University of California, San Diego
+
+MELISSA DELL, Harvard University
+
+STEFANIE STANTCHEVA, Harvard University
+
+DAVE DONALDSON, Massachusetts Institute of Technology
+
+JON STEINSSON, Columbia University
+
+PASCALINE DUPAS, Stanford University
+
+JOHANNES STROEBEL, New York University
+
+CHAO FU, Univerisity of Wisconsin at Madison
+
+BRUNO STRULOVICI, Northwestern University
+
+PETER HANSEN, University of North Carolina
+
+ANDREW SWEETING, University of Maryland
+
+NAVIN KARTIK, Columbia University
+
+EBONYA WASHINGTON, Yale University
+
+PATRICK KLINE, University of California, Berkeley
+
+PIERRE YARED, Columbia University
+Editorial Board
+
+PHILIPP KIRCHER (Chair), European University Institute and University of Edinburgh
+JOHANNES ABELER, Oxford University
+ALP ATAKAN, Koc University
+DAVIDE CANTONI, Ludwig-Maximilian University
+THOMAS CHANEY, University of Toulouse
+SYNGJOO CHOI, University College London
+NICOLAS COEURDACIER, Sciences Po
+DAVID DORN, University of Zurich
+MIKE ELSBY, University of Edinburgh
+RUBEN ENIKOLOPOV, Universitat Pompeu Fabra and New
+Economic School
+NICOLA FUCHS-SCHÜNDELN, Goethe University Frankfurt
+ALESSANDRO GAVAZZA, London School of Economics
+JEANNE HAGENBACH, Sciences Po
+MARINA HALAC, University of Warwick
+BÅRD HARSTAD, University of Oslo
+XAVIER d’HAULTFOEUILLE, CREST
+NAGORE IRIBERRI, University of the Basque Country,
+EHU-UPV
+TORU KITAGAWA, University College London
+PETER KONDOR, Central European University
+MIKLÓS KOREN, Central European University
+DENNIS KRISTENSEN, University College London
+CAMILLE LANDAIS, London School of Economics
+STEPHAN LAUERMANN, Bonn University
+JEREMY LISE, University College London
+KATRINE LOKEN, University of Bergen
+
+restud_85_1_Cover.indd 2
+
+KALINA MANOVA, University of Oxford
+ALBERTO MARTIN, CREI, Universitat Pompeu Fabra
+IAN MARTIN, London School of Economics
+MONICA MARTINEZ-BRAVO, CEMFI
+FILIP MATEJKA, CERGE-EI
+GUY MICHAELS, London School of Economics
+KURT MITMAN, IIES, Stockholm University
+ANDREAS MOXNES, University of Oslo
+MARTIN OEHMKE, London School of Economics
+GERARD PADRÓ I MIQUEL, London School of Economics
+ELIAS PAPAIOANNOU, London Business School
+DANIEL PARAVISINI, London School of Economics
+MARIA PETROVA, IPEG Barcelona
+GIACOMO PONZETTO, CREI, Universitat Pompeu Fabra
+IMRAN RASUL, University College London
+EDOUARD SCHAAL, CREI, Universitat Pompeu Fabra
+FLORIAN SCHEUER, University of Zurich
+PHILIPP SCHMIDT-DENGLER, University of Vienna
+JAKUB STEINER, CERGE-EI
+BALÁZS SZENTES, University College London
+OLIVIER TERCIEUX, Paris School of Economics
+MICHELE TERTILT, University of Mannheim
+DIMITRI VAYANOS, London School of Economics
+FABIAN WALDINGER, University of Warwick
+MIRKO WIEDERHOLT, Goethe University Frankfurt
+TAKURO YAMASHITA, University of Toulouse
+
+Downloaded from https://academic.oup.com/restud/issue/85/1 by eFADA user on 17 February 2023
+
+ANNIKA ANDREASSON, IIES, Stockholm University
+
+Personal
+Print edition: £69/$116/E102
+All other rates are available at https://academic.oup.com/restud
+Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not refundable.
+Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more than FOUR months after
+publication or date of order, whichever is later. All subscriptions in Canada are subject to GST.
+Subscriptions in the EU may be subject to European VAT. If registered, please supply details to avoid unnecessary charges.
+For subscriptions that include online versions, a proportion of the subscription price may be subject to UK VAT. Personal rate
+subscriptions are only available if payment is made by personal cheque or credit card and delivery is to a private address.
+For further information, please contact: Journals Customer Service Department, Oxford University Press, Great Clarendon Street,
+Oxford OX2 6DP, UK. Email: jnls.cust.serv@oup.com. Tel (and answerphone outside normal working hours):
++44 (0)1865 353907. Fax: +44 (0)1865 353485.
+In the US, please contact: Journals Customer Service Department, Oxford University Press, 2001 Evans Road, Cary,
+NC 27513, USA. Email: jnlorders@oup.com. Tel (and answerphone outside normal working hours): 800 852 7323 (toll-free in USA/
+Canada). Fax: 919 677 1714.
+In Japan, please contact: Journals Customer Services, Oxford University Press, Tokyo 4-5-10-8F Shiba, Minato-ku, Tokyo 108-8386,
+Japan. Tel: +81 (0) 3 5444 5858. Fax: +81 (0) 3 3454 2929.
+Methods of payment. (i) Cheque (payable to Oxford University Press to Oxford University Press, Cashiers Office, Great Clarendon
+Street, Oxford OX2 6DP, UK) in GB£ sterling (drawn on a UK bank), in US$ Dollars (drawn on a US bank), or EUE Euros. (ii) Bank
+transfer to Barclays Bank Plc, Oxford Group Office, Oxford (bank sort code: 20-65-18) (UK), overseas only Swift code BARC GB 22
+(GB£ Sterling to account no. 70299332, IBAN GB89BARC20651870299332; US$ Dollars to account no. 66014600, IBAN
+GB27BARC20651866014600; EUE Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card
+(Mastercard, Visa, Switch or American Express).
+The Review of Economic Studies, ISSN 0034-6527, is published four times annually in January, April, July and October by Oxford
+University Press, Oxford, UK and distributed in the USA by UKP Worldwide, 3390 Rand Road, South Plainfield, NJ 07080.
+Annual subscription price is £569/$798/E599. Periodicals postage paid at South Plainfield, NJ.
+US Postmaster: send address changes to The Review of Economic Studies, c/o 3390 Rand Road, South Plainfield, NJ 07080.
+Permissions
+For information on how to request permissions to reproduce articles/information from this journal, please
+visit www.oxfordjournals.org/permissions.
+Advertising
+Inquiries about advertising and inserts should be addressed to Advertising and Special Sales, Oxford Journals, Oxford University Press,
+Great Clarendon Street, Oxford, OX2 6DP, UK. Tel: +44 (0) 1865 354767; Fax +44 (0) 1865 353774; E-mail: jnlsadvertising@oup.com
+Disclaimer
+The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this
+journal; the views and opinions expressed do not necessarily reflect those of the Publisher and Editors, neither does the publication of
+advertisements constitute any endorsement by the Publisher and Editor of the products advertised.
+Subscription records are maintained at Oxford University Press, UK.
+© The Review of Economic Studies Ltd 2018
+All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any
+means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission of the Publishers, or a licence
+permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd, 90 Tottenham Court Road, London W1P 9HE,
+or in the USA by the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923.
+Typeset by Cenveo Publisher Services, Bangalore, India
+Printed by Bell and Bain Ltd, Glasgow, UK
+
+20-12-2017 16:46:27
+
+

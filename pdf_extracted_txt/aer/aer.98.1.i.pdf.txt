@@ -1,0 +1,437 @@
+American Economic Association
+
+Front Matter
+Source: The American Economic Review, Vol. 98, No. 1 (Mar., 2008)
+Published by: American Economic Association
+Stable URL: https://www.jstor.org/stable/29729961
+Accessed: 15-02-2023 08:27 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Economic Association is collaborating with JSTOR to digitize, preserve and extend
+access to The American Economic Review
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:27:59 UTC
+All use subject to https://about.jstor.org/terms
+
+The American
+Economic Review
+ARTICLES
+THOMAS J. SARGENT
+Evolution and Intelligent Design
+
+THIERRY POST, MARTIJN J. VAN DEN ASSEM, GUIDO BALTUSSEN,
+
+AND RICHARD H. THALER
+
+Deal or No Deal? Decision Making under Risk in a Large-Payoff Game Show
+
+ROBERT J. AUMANN AND JACQUES H. DREZE
+Rational Expectations in Games
+
+ISA HAFALIR AND VIJAY KRISHNA
+Asymmetric Auctions with Resale
+
+JOHN N. FRIEDMAN AND RICHARD T. HOLDEN
+Optimal Gerrymandering: Sometimes Pack, But Never Crack
+
+RICARDO ALONSO, WOUTER DESSEIN, AND NIKO MATOUSCHEK
+When Does Coordination Require Centralization?
+
+PHILIP A. HAILE, ALI HORTA?SU, AND GRIGORY KOSENOK
+
+On the Empirical Content of Quantal Response Equilibrium
+
+MARCO BATTAGLINI AND STEPHEN COATE
+A Dynamic Theory of Public Spending, Taxation, and Debt
+
+JAMES B. BUSHNELL, ERIN T. MANSUR, AND CELESTE SARAVIA
+Vertical Arrangements, Market Structure, and Competition:
+An Analysis of Restructured US Electricity Markets
+
+DARON ACEMOGLU AND JAMES A. ROBINSON
+Persistence of Power, Elites, and Institutions
+
+IRIS BOHNET, FIONA GREIG, BENEDIKT HERRMANN, AND RICHARD ZECKHAUSER
+Betrayal Aversion: Evidence from Brazil, China, Oman, Switzerland, Turkey,
+and the United States
+
+EBONYA L. WASHINGTON
+
+Female Socialization:
+
+How Daughters Affect Their Legislator Fathers' Voting on Women's Issues
+
+ERIC D. GOULD, OMER MOAV, AND AVISIMHON
+The Mystery of Monogamy
+
+RICARDO J. CABALLERO, EMMANUEL FARHI, AND PIERRE-OLIVIER GOURINCHAS
+An Equilibrium Model of "Global Imbalances" and Low Interest Rates
+
+LUCIA FOSTER, JOHN HALTIWANGER, AND CHAD SYVERSON
+Reallocation, Firm Turnover, and Efficiency:
+Selection on Productivity or Profitability?
+SHORTER PAPERS P Angehni and A Generale, V Cerra and S C Saxena, J Guryan and M S Kearney,
+M Flavin and S Nakagawa, J P Montero, J Steinsson, R Dessi, F Kojima
+
+MARCH 2008
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:27:59 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC ASSOCIATION
+Founded in 1885
+EXECUTIVE COMMITTEE
+Elected Officers and Members
+
+President
+AVINASH K DIXIT, Princeton University
+
+President-elect
+ANGUS DEATON, Princeton University
+
+Vice-Presidents
+KATHARINE G ABRAHAM University of Maryland
+MAURICE OBSTFELD, University of California at Berkeley
+
+Members
+? Typeset by American Economic Association Pub
+
+lications Pittsburgh Pennsylvania USA
+
+? Printed at RR Donnelley Company Eldridge
+
+Iowa USA
+
+? Registered in the US Patent and Trademark Office?
+
+? Copyright ? 1998 1999 2000 2001 2002 2003
+2004 2005 2006 2007 2008 by the American Eco
+nomic Association Permission to make digital or
+hard copies of part or all ot American Economic
+Association publications for personal or classroom
+use is granted without fee provided that copies
+are not distributed for profit or direct commercial
+
+advantage and that copies show this notice on the
+first page or initial screen of a display along with
+the full citation including the name of the author
+Copyrights for components of this work owned by
+
+others than AEA must be honored Abstracting
+
+with credit is permitted The author has the right to
+
+repubhsh post on servers redistribute to lists and
+
+use any component of this work in other works For
+
+others to do so requires prior specific permission
+and/or a fee Permissions may be requested from the
+
+American Economic Association 2014 Broadway
+Suite 305 Nashville TN 37203
+? No responsibility for the views expressed by authors
+
+in this Rex lew is assumed by the editors or the pub
+
+lishers The American Economic Association
+
+SUSAN M COLLINS University of Michigan
+LAWRENCE F KATZ, Harvard University
+ANNE C CASE, Princeton University
+DAVID H R?MER University of California at Berkeley
+SUSAN C ATHEY, Harvard University
+JANICE C EBERLY, Northwestern University
+
+Ex Officio Members
+GEORGE A AKERLOF, University of California at Berkeley
+THOMAS J SARGENT, New York University
+
+Appointed Members
+Editor, The American Economic Review
+ROBERT A MOFFITT Johns Hopkins University
+
+Editor, The Journal of Economic Literature
+ROGER H GORDON, University of California at San Diego
+
+Editor, The Journal of Economic Perspectives
+ANDREI SHLEIFER, Harvard University
+
+Editor, American Economic Journal Applied Economics
+ESTHER DUFLO, Massachusetts Institute of Technology
+
+Editor, American Economic Journal Economic Policy
+ALAN J AUERBACH, University of California at Berkeley
+
+Editor, American Economic Journal Macroeconomics
+OLIVIER BLANCHARD, Massachusetts Institute of Technology
+
+Editor, American Economic Journal Microeconomics
+ANDREW POSTLEWAITE, University of Pennsylvania
+
+Correspondence relating to advertising business
+matters permissions to quote back issues subscnp
+tions and changes of address should be sent to the
+
+American Economic Association 2014 Broadway
+Suite 305 Nashville TN 37203 Change of address
+
+notice must be received at least six (6) weeks prior
+to the publication month A membership or sub
+scnption paid twice is automatically extended for
+an additional year unless otherwise requested
+
+Secretary -Treasurer
+JOHN J SIEGFRIED, Vanderbilt University
+
+OTHER OFFICERS
+Editor, Resources for Economists
+WILLLIAM GOFFE, State University of New York at Oswego
+
+Director of AEA Publication Services and
+Managing Director ofEconLit Production and Marketing
+DRUCILLA EKWURZEL Pittsburgh
+
+THE AMERICAN ECONOMIC REVIEW (ISSN
+
+Managing Director ofEconLit Product Design and Content
+
+is published five times a year (March May June
+September December) by the American Economic
+
+Executive Director
+
+0002 8282) March 2008 Vol 98 No 1 The AER
+
+Association 2014 Broadway Suite 305 Nashville
+
+TN 37203 Annual fees for regular membership of
+which 30 percent is for a year s subscription to this
+
+journal are $64 00 $77 00 or $90 00 depending
+
+on income A membership also includes subscnp
+tions to The Journal of Economic Literature and
+The Joutnal of Economic Perspectives In coun
+tries other than the USA add $15 00 per jour
+nal for extra postage Periodical postage paid at
+Nashville TN and at additional mailing offices
+
+POSTMASTER Send address changes to The
+American Economic Review 2014 Broadway
+Suite 305 Nashville TN 37203
+
+STEVEN L HUSTED, University of Pittsburgh
+
+WILLIAM W DAMON, Vanderbilt University
+
+Counsel
+
+TERRY CALVANI, Freshfields Bruckhaus Dennger LLP
+
+Washington, DC
+
+ADMINISTRATORS
+Administrative Director
+REGINA H MONTGOMERY
+
+Convention Manager
+MARLENE HIGHT
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:27:59 UTC
+All use subject to https://about.jstor.org/terms
+
+THE AMERICAN ECONOMIC REVIEW
+Editor
+
+ROBERT A. MOFFITT
+Co-Editors
+JEREMY BULOW
+VINCENT CRAWFORD
+MARK GERTLER
+PINELOPI KOUJIANOU
+
+March 2008
+VOLUME 98, NUMBER 1
+
+GOLDBERG
+
+RICHARD ROGERSON
+Managing Editor
+JANE EMILY VOROS
+Assistant Managing Editor
+
+STEVEN M. STELLING
+
+Board of Editors
+ANDREW ATKESON
+
+ABHIJIT BANERJEE
+
+BRUCE BLONIGEN
+RALPH BRAID
+COLIN CAMERER
+GARY CHARNESS
+
+JUDITH CHEVALIER
+STEPHEN COATE
+
+DORA COSTA
+
+MIGUEL COSTA-GOMES
+
+RACHEL CROSON
+DANIEL DIERMEIER
+JANICE C. EBERLY
+
+CHARLES ENGEL
+
+Articles
+Evolution and Intelligent Design
+
+Deal or No Deal? Decision Making under Risk in a
+Large-Payoff Game Show
+Thierry Post, Martijn J. van den Assem,
+
+Guido Baltussen, and Richard H. Thaler 38
+Rational Expectations in Games
+
+Robert J. Aumann and Jacques H. Dreze 72
+Asymmetric Auctions with Resale
+
+Isa Hafalir and Vijay Krishna 87
+
+HANMING FANG
+
+SIMON GILCHRIST
+DAVID GREEN
+CHRISTIAN HELLWIG
+MING HUANG
+PATRICK KEHOE
+BOTOND K?SZEGI
+DIRK KRUEGER
+JOHN LEAHY
+JONATHAN LEVIN
+JAMES LEVINSOHN
+JOHN A. LIST
+
+SHELLY LUNDBERG
+
+KAIVAN MUNSHI
+
+ROHINI PANDE
+
+NINA PAVCNIK
+
+MONICA PIAZZESI
+FRANK SCHORFHEIDE
+PETER SCHOTT
+HOLGER SIEG
+ANDRZEJ SKRZYPACZ
+
+LONES SMITH
+JOEL SOBEL
+STEVEN STERN
+
+Thomas J. Sargent 5
+
+Optimal Gerrymandering: Sometimes Pack, But
+
+Never Crack
+
+John N. Friedman and Richard T. Holden 113
+When Does Coordination Require Centralization?
+Ricardo Alonso, Wouter Dessein,
+
+and Niko Matouschek 145
+
+On the Empirical Content of Quantal Response
+
+Equilibrium Philip A. Haile, Ali Horta?su,
+and Grigory Kosenok 180
+
+A Dynamic Theory of Public Spending, Taxation,
+
+and Debt
+
+Marco Battaglini and Stephen Coate 201
+Vertical Arrangements, Market Structure, and
+
+Competition: An Analysis of Restructured US
+Electricity Markets
+James B. Bushneil, Erin T. Mansur,
+
+CHRISTOPHER TIMMINS
+
+CHRISTOPHER UDRY
+JOHN C. WILLIAMS
+
+and Celeste Sar avia 237
+
+Persistence of Power, Elites, and Institutions
+
+Baron Acemoglu and James A. Robinson 267
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:27:59 UTC
+All use subject to https://about.jstor.org/terms
+
+Betrayal Aversion: Evidence from Brazil, China, Oman, Switzerland, Turkey, and the
+
+United States
+
+Iris Bohnet, Fiona Greig, Benedikt Herrmann, and Richard Zeckhauser 294
+Female Socialization: How Daughters Affect Their Legislator Fathers' Voting on Women's
+
+Issues EbonyaL. Washington 311
+
+The Mystery of Monogamy Eric D. Gould, Omer Moav, andAvi Simhon 333
+An Equilibrium Model of "Global Imbalances" and Low Interest Rates
+Ricardo J. Caballero, Emmanuel Farhi, and Pierre-Olivier Gourinchas 358
+Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?
+
+Lucia Foster, John Haltiwanger, and Chad Syverson 394
+
+Shorter Papers
+On the Evolution of Firm Size Distributions
+
+Paolo Angelini and Andrea Generale 426
+Growth Dynamics: The Myth of Economic Recovery
+
+Valerie Cerra and Sweta Chaman Saxena 439
+
+Gambling at Lucky Stores: Empirical Evidence from State Lottery Sales
+
+Jonathan Guryan and Melissa S. Kearney 458
+A Model of Housing in the Presence of Adjustment Costs: A Structural Interpretation of
+
+Habit Persistence
+
+Marjorie Flavin and Shinobu Nakagawa 474
+A Simple Auction Mechanism for the Optimal Allocation of the Commons
+
+Juan-Pablo Montero 496
+
+The Dynamic Behavior of the Real Exchange Rate in Sticky Price Models
+
+Jon S te ins son 519
+
+Collective Memory, Cultural Transmission, and Investments Roberta Dessi 534
+
+Bureaucrats or Politicians? Comment Fuhito Kojima 561
+Information on how to submit a manuscript is available online:
+http://www.aeaweb.org/aer/submissions.html
+
+It is the policy of The American Economic Review to publish papers only if the data used in
+the analysis are clearly and precisely documented and are readily available to any researcher
+for purposes of replication. Details of the computations sufficient to permit replication must be
+provided. The Editor should be notified at the time of submission if the data used in a paper
+are proprietary or if, for some other reason, the requirements above cannot be met.
+
+This content downloaded from 91.230.41.206 on Wed, 15 Feb 2023 08:27:59 UTC
+All use subject to https://about.jstor.org/terms
+
+

@@ -1,0 +1,280 @@
+86(1) No. 306 pp. 1–455
+
+THE REVIEW OF
+
+THE REVIEW OF ECONOMIC STUDIES
+
+Innovation and Top Income Inequality
+Philippe Aghion, Ufuk Akcigit, Antonin Bergeaud, Richard Blundell and David Hemous
+
+1
+
+The Elusive Pro-Competitive Effects of Trade
+Costas Arkolakis, Arnaud Costinot, Dave Donaldson and Andrés Rodríguez-Clare
+
+46
+
+Strategy-proofness in the Large
+Eduardo M. Azevedo and Eric Budish
+
+81
+
+Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules
+Pierre Azoulay, Joshua S. Graff Zivin, Danielle Li and Bhaven N. Sampat
+
+117
+
+An Empirical Model of Wage Dispersion with Sorting
+Jesper Bagger and Rasmus Lentz
+
+153
+
+Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labour Market Outcomes
+in Norway
+Marianne Bertrand, Sandra E. Black, Sissel Jensen and Adriana Lleras-Muney
+
+191
+
+The Price Effects of Cash Versus In-Kind Transfers
+Jesse M. Cunha, Giacomo De Giorgi and Seema Jayachandran
+
+240
+
+Alessandro Dovis
+
+282
+
+Benjamin Enke and Florian Zimmermann
+
+313
+
+Pablo D. Fajgelbaum, Eduardo Morales, Juan Carlos Suárez Serrato and Owen Zidar
+
+333
+
+Efficient Sovereign Default
+Correlation Neglect in Belief Formation
+State Taxes and Spatial Misallocation
+Inference on Directionally Differentiable Functions
+Zheng Fang and Andres Santos
+
+377
+
+Adriano A. Rampini and S. Viswanathan
+
+413
+
+Financial Intermediary Capital
+
+January 2019
+
+Print 0034-6527
+Online 1467-937X
+
+restud_86_1_Cover.indd 1
+
+Downloaded from https://academic.oup.com/restud/issue/86/1 by eFADA user on 17 February 2023
+
+Vol. 86(1) No. 306
+
+ECONOMIC
+STUDIES
+
+January 2019
+
+22-12-2018 15:41:22
+
+THE REVIEW OF ECONOMIC STUDIES
+
+Subscriptions rates
+A subscription to The Review of Economic Studies comprises 6 issues. Prices include postage by surface mail, or for
+subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
+Airmail rates are available on request.
+Annual Subscription Rate (Volume 86, 6 issues, 2019)
+
+The review was started in 1933 by a group of young British and American Economists. It is published by The Review of Economic
+Studies Ltd, whose object is to encourage research in theoretical and applied economics, especially by young economists, and to
+publish the results in The Review of Economic Studies.
+
+Institutional
+UK print edition and site-wide online access £561
+Non UK print edition and site wide online access £620/$876/E659
+UK online access only £430
+Non UK online access only £475/$672/E505
+UK print edition only £517
+Non UK print edition only: £571/$807/E607
+
+EDITORIAL COMMITTEE
+Managing Editors
+Dirk Krueger, University of Pennsylvania
+Áureo de Paula, University College London
+Uta Schoenberg, University College London
+Adam Szeidl, Central European University
+
+Andrea Galeotti, London Business School
+Nicola Gennaioli, Bocconi University
+Veronica Guerrieri, University of Chicago
+Christian Hellwig, University of Toulouse
+
+Journal Manager
+
+Secretary and Business Manager
+Catherine M. Thomas, London School of Economics
+
+Manuel Amador, University of Minnesota
+
+Foreign Editors
+Francesca Molinari, Cornell University
+
+Francisco Buera, Washington University in St. Louis
+
+Guillermo Ordonez, University of Pennsylvania
+
+Sylvain Chassang, New York University
+
+Andres Santos, University of California, Los Angeles
+
+Arnaud Costinot, Massachusetts Institute of Technology
+
+Stefanie Stantcheva, Harvard University
+
+Melissa Dell, Harvard University
+
+Jon Steinsson, University of California, Berkeley
+
+Pascaline Dupas, Stanford University
+
+Johannes Stroebel, New York University
+
+Chao Fu, Univerisity of Wisconsin at Madison
+
+Bruno Strulovici, Northwestern University
+
+Marina Halac, Yale University
+
+Andrew Sweeting, University of Maryland
+
+Peter Hansen, University of North Carolina
+
+Ebonya Washington, Yale University
+
+Navin Kartik, Columbia University
+
+Alexander Wolitzky, MIT
+
+Patrick Kline, University of California, Berkeley
+
+Pierre Yared, Columbia University
+Editorial Board
+
+Philipp Kircher (Chair), European University Institute and University of Edinburgh
+Johannes Abeler, Oxford University
+Alp Atakan, Koc University
+Davide Cantoni, Ludwig-Maximilian University
+Thomas Chaney, Sciences Po
+Nicolas Coeurdacier, Sciences Po
+Francesco Decarolis, Bocconi University
+Swati Dhingra, London School of Economics
+David Dorn, University of Zurich
+Mike Elsby, University of Edinburgh
+Ruben Enikolopov, Universitat Pompeu Fabra and New
+Economic School
+Nicola Fuchs-Schündeln, Goethe University Frankfurt
+Alessandro Gavazza, London School of Economics
+Jeanne Hagenbach, Sciences Po
+Bård Harstad, University of Oslo
+Xavier d’Haultfoeuille, CREST
+Nagore Iriberri, University of the Basque Country,
+EHU-UPV
+Toru Kitagawa, University College London
+Peter Kondor, London School of Economics
+Miklós Koren, Central European University
+Dennis Kristensen, University College London
+Stephan Lauermann, Bonn University
+Katrine Loken, University of Bergen
+Kalina Manova, University College London
+Alberto Martin, CREI, Universitat Pompeu Fabra
+
+restud_86_1_Cover.indd 2
+
+Ian Martin, London School of Economics
+Monica Martinez-Bravo, CEMFI
+Filip Matejka, CERGE-EI
+Guy Michaels, London School of Economics
+Kurt Mitman, IIES, Stockholm University
+Andreas Moxnes, University of Oslo
+Martin Oehmke, London School of Economics
+Elias Papaioannou, London Business School
+Daniel Paravisini, London School of Economics
+Eduardo Perez-Richet, Sciences Po
+Maria Petrova, IPEG Barcelona
+Giacomo Ponzetto, CREI, Universitat Pompeu Fabra
+Christoph Rothe, University of Mannheim
+Edouard Schaal, CREI, Universitat Pompeu Fabra
+Florian Scheuer, University of Zurich
+Philipp Schmidt-Dengler, University of Vienna
+Johannes Spinnewijn, London School of Economics
+Jakub Steiner, CERGE-EI
+Vincent Sterk, University College London
+Olivier Tercieux, Paris School of Economics
+Michele Tertilt, University of Mannheim
+Dimitri Vayanos, London School of Economics
+Fabian Waldinger, University of Munich
+Mirko Wiederholt, Sciences Po
+Takuro Yamashita, University of Toulouse
+Noam Yuchtman, London School of Economics
+
+Downloaded from https://academic.oup.com/restud/issue/86/1 by eFADA user on 17 February 2023
+
+Ann Law, London School of Economics
+
+Personal
+Print edition: £71/$119/E105
+All other rates are available at https://academic.oup.com/restud
+Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not refundable.
+Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more than FOUR months after
+publication or date of order, whichever is later. All subscriptions in Canada are subject to GST.
+Subscriptions in the EU may be subject to European VAT. If registered, please supply details to avoid unnecessary charges.
+For subscriptions that include online versions, a proportion of the subscription price may be subject to UK VAT. Personal rate
+subscriptions are only available if payment is made by personal cheque or credit card and delivery is to a private address.
+For further information, please contact: Journals Customer Service Department, Oxford University Press, Great Clarendon Street,
+Oxford OX2 6DP, UK. Email: jnls.cust.serv@oup.com. Tel (and answerphone outside normal working hours):
++44 (0)1865 353907. Fax: +44 (0)1865 353485.
+In the US, please contact: Journals Customer Service Department, Oxford University Press, 2001 Evans Road, Cary,
+NC 27513, USA. Email: jnlorders@oup.com. Tel (and answerphone outside normal working hours): 800 852 7323 (toll-free in USA/
+Canada). Fax: 919 677 1714.
+In Japan, please contact: Journals Customer Services, Oxford University Press, Tokyo 4-5-10-8F Shiba, Minato-ku, Tokyo 108-8386,
+Japan. Tel: +81 (0) 3 5444 5858. Fax: +81 (0) 3 3454 2929.
+Methods of payment. (i) Cheque (payable to Oxford University Press to Oxford University Press, Cashiers Office, Great Clarendon
+Street, Oxford OX2 6DP, UK) in GB£ sterling (drawn on a UK bank), in US$ Dollars (drawn on a US bank), or EUE Euros. (ii) Bank
+transfer to Barclays Bank Plc, Oxford Group Office, Oxford (bank sort code: 20-65-18) (UK), overseas only Swift code BARC GB 22
+(GB£ Sterling to account no. 70299332, IBAN GB89BARC20651870299332; US$ Dollars to account no. 66014600, IBAN
+GB27BARC20651866014600; EUE Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card
+(Mastercard, Visa, Switch or American Express).
+The Review of Economic Studies, ISSN 0034-6527, is published six times annually in January, March, May, July, October and
+November by Oxford University Press, Oxford, UK and distributed in the USA by UKP Worldwide, 3390 Rand Road, South Plainfield,
+NJ 07080.
+Annual subscription price is £620/$876/E659. Periodicals postage paid at South Plainfield, NJ.
+US Postmaster: send address changes to The Review of Economic Studies, c/o 3390 Rand Road, South Plainfield, NJ 07080.
+Permissions
+For information on how to request permissions to reproduce articles/information from this journal, please visit
+https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions.
+Advertising
+Inquiries about advertising and inserts should be addressed to Advertising and Special Sales, Oxford Journals, Oxford University Press,
+Great Clarendon Street, Oxford, OX2 6DP, UK. Tel: +44 (0) 1865 354767; Fax +44 (0) 1865 353774; E-mail: jnlsadvertising@oup.com
+Disclaimer
+The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this
+journal; the views and opinions expressed do not necessarily reflect those of the Publisher and Editors, neither does the publication of
+advertisements constitute any endorsement by the Publisher and Editor of the products advertised.
+Subscription records are maintained at Oxford University Press, UK.
+© The Review of Economic Studies Ltd 2019
+All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any
+means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission of the Publishers, or a licence
+permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd, 90 Tottenham Court Road, London W1P 9HE,
+or in the USA by the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923.
+Typeset by Cenveo Publisher Services, Bangalore, India
+Printed by Bell and Bain Ltd, Glasgow, UK
+
+22-12-2018 15:41:22
+
+

@@ -1,0 +1,187 @@
+Front Matter
+Source: The Quarterly Journal of Economics , Feb., 1994, Vol. 109, No. 1 (Feb., 1994)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2118425
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
+The Quarterly Journal of Economics
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:38:22 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY
+
+JOURNAL OF
+ECONOMICS
+FOUNDED 1886
+
+Volume CIX February 1994 Issue 1
+ARTICLES
+Measuring the Cyclicality of Real Wages: How Important Is Composition
+
+Bias? .. Gary Solon, Robert Barsky, and Jonathan A. Parker 1
+Employment-Based Health Insurance and Job Mobility: Is There
+
+Evidence of Job-Lock? ........................... Brigitte C. Madrian 27
+The Saving of the Elderly in Micro and Macro Data ........ David N. Weil 55
+Saving, Growth, and Liquidity Constraints ............... Tullio Jappelli
+and Marco Pagano 83
+How Does Future Income Affect Current Consumption?
+Christopher D. Carroll 111
+Fiscal Paradise: Foreign Tax Havens and American Business
+
+James R. Hines, Jr., and Eric M. Rice 149
+Autonomy and Incentives in Chinese State Enterprises
+Theodore Groves, Yongmiao Hong, John McMillan,
+and Barry Naughton 183
+
+Litigation Settlement and Collusion ................. Robert C. Marshall,
+Michael J. Meurer, and Jean-Francois Richard 211
+Permanent and Transitory Components of GNP and Stock Prices
+John H. Cochrane 241
+The Effects of Labor Unions on Employment, Wages, and Days of
+Operation: Coal Mining in West Virginia ........ .... William M. Boal
+and John Pencavel 267
+
+SHORT PAPERS
+The Stability of Economic Integration and Endogenous Growth
+Michael B. Devereux and Beverly J. Lapham 299
+Economic Integration and Endogenous Growth: An Addendum
+Luis Rivera-Batiz and Paul M. Romer 307
+
+PUBLISHED FOR HARVARD UNIVERSITY
+BY THE MIT PRESS, CAMBRIDGE, MASSACHUSETTS
+QJE 109(1) 1-308 (1994)
+ISSN
+
+0033-5533
+
+No.
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:38:22 UTC
+All use subject to https://about.jstor.org/terms
+
+436
+
+The Quarterly Journal of Economics
+Board of Editors
+
+Olivier J. Blanchard Lawrence F. Katz Andrei Shleifer
+Associate Editors
+
+George Akerlof Rudiger Dornbusch Michael H. Riordan
+Alberto Alesina Robert Gibbons Kenneth Rogoff
+Abhijit Banerjee Claudia Goldin David Romer
+George J. Borjas Gene Grossman Julio Rotemberg
+Colin Camerer Alan B. Krueger Jeremy Stein
+In association with the Harvard Department of Economics and Invited Readers.
+Assistant Editor
+
+Harriet E. Hoffman
+The Quarterly Journal of Economics (ISSN 0033-5533) is published four times per year
+
+(February, May, August, November) by The MIT Press, 55 Hayward Street, Cambridge,
+Massachusetts 02142. Volume 109, Number 1 (February 1994). Copyright ? 1994 by the
+President and Fellows of Harvard College and The Massachusetts Institute of Technology. All
+rights reserved. Reproduction or translation of any part of the work beyond that permitted by
+Sections 107 or 108 of the United States Copyright Law without the permission of the copyright
+owner is unlawful. Second Class Postage paid at Boston, MA and at additional postal offices.
+The contents of this Journal are included by the following:
+Abstracts of Location Analysis, America: History and Life, Business Periodicals Index, Current
+
+Contents/Social and Behavioral Sciences, Current Mathematical Publications, Economic Literature Index, Expanded Academic Index, Historical Abstracts, Human Resources Abstracts, Index
+of Economic Articles, Journal of Economic Literature, Mathematical Reviews, MathSci, Sage
+Public Administration Abstracts, Sage Urban Studies Abstracts, Social Sciences Citation Index,
+Social Sciences Index, Social Work Research & Abstracts, Wilson Business Abstracts, and Work
+Related Abstracts.
+Permission to photocopy articles for internal or personal use or the internal or personal use
+of specific clients is granted by the copyright owner for libraries and other users registered with
+the Copyright Clearance Center (CCC), provided that the per-copy fee of $4.00 is paid directly to
+CCC, 222 Rosewood Drive, Danvers, MA 01923. The fee code for users of the CCC's
+Transactional Reporting Service is 0033-5533/94 $4.00. For those organizations that have been
+granted a photocopy license with CCC, a separate system of payment has been arranged. Address
+all other inquiries to Subsidiary Rights Manager, MIT Press Journals, 55 Hayward St.,
+Cambridge, MA 02142.
+Subscription Rates: Students/Retired: $20.00, Individuals $34.00, Institutions $95.00.
+Outside the U.S. $14.00 for postage and handling. Canadians add additional 7% GST. Current
+issues are $25.00. Back issues are: Individuals $12.50, Institutions $25.00. Outside the U.S. add
+$5.00 per issue for postage and handling. Canadians add additional 7% GST. Mail subscription
+and address changes to MIT Press Journals, 55 Hayward St., Cambridge, MA 02142. (617)
+253-2889; e-mail: journals-orders@mit.edu. To be honored free of charge, claims for missing
+copies must be made immediately upon receipt of the next published issue. Prices subject to
+change without notice.
+Postmaster: Send address changes to The Quarterly Journal of Economics, MIT Press
+Journals, 55 Hayward Street, Cambridge, MA 02142.
+Advertising and mailing list inquiries may be addressed to: Marketing Manager, MIT
+Press Journals, 55 Hayward Street, Cambridge, MA 02142. (617) 253-2866. E-mail: journalsinfo.mit.edu.
+Books, periodicals, and manuscripts should be addressed to THE QUARTERLY JOURNAL OF ECONOMICS, Littauer Center, Harvard University, Cambridge, Massachusetts
+02138. Three copies of manuscripts should be submitted in clear double-spaced typewritten copy.
+Manuscripts of more than thirty-five double-spaced typed pages in length are not ordinarily
+considered for publication. Copies of manuscripts that have not been accepted for publication are
+not ordinarily returned to the author. Offprints may be ordered by authors prior to publication,
+prepaid.
+Business Correspondence should be addressed to The MIT Press Journals, 55 Hayward
+Street, Cambridge, MA 02142.
+
+COPYRIGHT ? 1994 BY THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE AND
+THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+
+PRINTED IN UNITED STATES OF AMERICA
+
+E) This publication is printed on acid-free paper.
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:38:22 UTC
+All use subject to https://about.jstor.org/terms
+
+THE
+
+QUARTERLY JOURNAL
+OF ECONOMICS
+
+ARTICLES
+Measuring the Cyclicality of Real Wages: How Important Is Composition
+
+Bias? .. Gary Solon, Robert Barsky, and Jonathan A. Parker 1
+Employment-Based Health Insurance and Job Mobility: Is There
+
+Evidence of Job-Lock? ........................... Brigitte C. Madrian 27
+The Saving of the Elderly in Micro and Macro Data ........ David N. Weil 55
+Saving, Growth, and Liquidity Constraints ............... Tullio Jappelli
+and Marco Pagano 83
+How Does Future Income Affect Current Consumption?
+Christopher D. Carroll 111
+Fiscal Paradise: Foreign Tax Havens and American Business
+James R. Hines, Jr., and Eric M. Rice 149
+Autonomy and Incentives in Chinese State Enterprises
+Theodore Groves, Yongmiao Hong, John McMillan,
+and Barry Naughton 183
+
+Litigation Settlement and Collusion ................. Robert C. Marshall,
+Michael J. Meurer, and Jean-Francois Richard 211
+Permanent and Transitory Components of GNP and Stock Prices
+John H. Cochrane 241
+The Effects of Labor Unions on Employment, Wages, and Days of
+Operation: Coal Mining in West Virginia ....... ..... William M. Boal
+and John Pencavel 267
+
+SHORT PAPERS
+The Stability of Economic Integration and Endogenous Growth
+Michael B. Devereux and Beverly J. Lapham 299
+Economic Integration and Endogenous Growth: An Addendum
+Luis Rivera-Batiz and Paul M. Romer 307
+
+This content downloaded from
+91.230.41.206 on Thu, 16 Feb 2023 06:38:22 UTC
+All use subject to https://about.jstor.org/terms
+
+

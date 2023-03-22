@@ -1,0 +1,161 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 67, No. 1 (Jan., 2000)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2567024
+Accessed: 17-02-2023 12:26 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:54 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 67(1) No. 230
+
+Communication and Coordination in Social Networks Michael Suk-Young Chwe 1
+Basins of Attraction, Long-Run Stochastic Stability, and the Speed of Step-by-Step
+Evolution Glenn Ellison 17
+
+Noisy Contagion Without Mutation In Ho Lee and Akos Valentinyi 47
+Contagion
+
+Stephen
+
+Morris
+
+57
+
+Information Acquisition in Financial Markets Gadi Barlevy and Pietro Veronesi 79
+Self-Fulfilling Debt Crises Harold L. Cole and Timothy J. Kehoe 91
+(S, s) Inventory Policies in General Equilibrium
+
+Jonas D. M. Fisher and Andreas Hornstein 117
+Enterprise, Inequality and Economic Development
+Huw Lloyd-Ellis and Dan Bernhardt 147
+
+Voting as Communicating Thomas Piketty 169
+Exchange Rate Dynamics in a Multilateral Target Zone Angel Serrat 193
+
+January 2000
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:54 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+The Review was started in 1933 by a group of young British and American Economists. It is
+published by The Review of Economic Studies Ltd., whose object is to encourage research in
+
+theoretical and applied economics, especially by young economists, and to publish the results in the
+Review of Economic Studies.
+The Review also administers a travel fund to enable young economists or econometricians
+travelling either to or from the U.K. to present papers at conferences and workshops. Applications
+should be made to the Business Manager, Prof. Ian Tonks, Department of Economics, University
+of Bristol, Bristol, BS8 ITH.
+Subscription Rates for 2000 are:
+
+Institutions (1 year) OECD ?100 (US $180) Non-OECD ?50 (UJS $90)
+Individuals (1 year) ?30 (US $54)
+Individuals (3 years) ?70 (US $126)
+Students (1 year) ?16 (US $29)
+Students (4 years) ?30 (US $54)
+
+Back Volumes from Vol. 60 are also available at these prices. Single issues cost ?12 (US $24).
+The index for Vols. 26-48 costs ?15 (US $30). Cheques should be made payable to The Review of
+Economic Studies Ltd., and sent to The Review of Economic Studies Ltd., Blackwell Publishers
+Journals, PO Box 805, 108 Cowley Road, Oxford, OX4 1FH, U.K. Reprints of Vols. 1-59 can be
+obtained from Periodical Service Company, 11 Main Street, Germanstown, NY 12526, U.S.A.
+Editorial Committee
+
+Joint Managing Editors M. ARMSTRONG 0. ATTANASIO J. Dow
+Assistant Editors M. PICCIONE E. SENTANA H. UHLIG
+
+Production Editor G. D. MYLES
+Foreign Editors A. BANERJEE P. BOLTON G. IMBENS
+
+G. MAILATH S. MORRIS R. PORTER C. PRENDERGAST J.-V. Rios RULL
+
+Business Manager I. TONKS
+Editorial Board
+
+H. S. SHIN (Chairman)
+K. ABADIR
+
+M. DEWATRIPONT
+
+M. MEYER
+
+M. ARELLANO
+
+J. GALI
+
+G. NOLDEKE
+
+E. VON THADDEN
+
+T. BESLEY
+
+P. JEHIEL
+
+J. PADILLA
+
+J. VALIMAKI
+
+T. BORGERS
+
+0. LINTON
+
+S. RADY
+
+G. VIOLANTE
+
+M. COLES
+
+E. G. J. LUTTMER
+
+R. RAHI
+
+F. CORNELLI
+
+D. MARTIMORT
+
+J. VAN REENEN
+
+M. CRIPPS
+
+C. MEGHIR
+
+B. SALANIE
+
+N. SHEPHARD
+
+Copyright g 2000, The Review of Economic Studies Limited
+
+The appearance of the fee codes in this journal indicates the copyright owner's consent that copies
+of the article may be made for personal or internal use on the following conditions. The copier must
+pay the stated per-copy fee through the Copyright Clearance Center Inc., P.O. Box 8891, Boston,
+Mass 02114, U.S.A. for copying beyond that permitted by Sections 107 and 108 of the U.S. Copyright
+Law. For territories outside North America, permission should be sought direct from the copyright
+holder. These conditions are waived in the case of production of teaching materials for educational
+purposes. This consent does not extend to other kinds of copying, such as copying for general
+distribution, for advertising and promotional purposes, for creating new collective works, or for
+resale.
+
+"REVIEW OF ECONOMIC STUDIES" (ISSN 0034-6527) is published quarterly by The Review of Economic
+Studies Ltd., Blackwell Publishers Journals, PO Box 805, 108 Cowley Road, Oxford OX4 1FH, U.K.
+Details of the annual subscription rates are given above and include airmail delivery to the U.S.A.
+U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
+of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
+07001, U.S.A. (U.S. mailing agent).
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:54 UTC
+All use subject to https://about.jstor.org/terms
+
+

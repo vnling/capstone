@@ -2,3 +2,4 @@
 .tmp.drivedownload/*
 Pandas Lectures/*
 .ipynb_checkpoints/*
+.DS_Store

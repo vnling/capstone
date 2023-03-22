@@ -1,0 +1,180 @@
+Front Matter
+Source: The Review of Economic Studies, Vol. 71, No. 1 (Jan., 2004)
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/3700707
+Accessed: 17-02-2023 12:26 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
+to The Review of Economic Studies
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:03 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF
+
+ECONOMIC
+Vol. 71(1) No. 246
+
+STUDIES
+
+Investment Incentives in Procurement Auctions
+
+Leandro Arozamena and Estelle Cantillon 1
+
+How Efficiently is Capital Allocated? Evidence from the Knitted Garment Industr
+
+in Tirupur Abhijit Banerjee and Kaivan Munshi 19
+
+A Pure Theory of Job Security and Labour Income Risk G
+Filtering Returns for Unspecified Biases in Priors when Testing
+
+Theory
+
+Peter
+
+Bossaerts
+
+63
+
+Does One Soros Make a Difference
+and Small Traders Giancarlo Co
+and Hyun Song Shin 87
+
+Voting on Majority Rules Matthias Messner and Mattias K. Polborn 115
+Market News in Commodity Price Theory: Application to the Ethiopian Grain
+Market
+
+Theresa
+
+Osborne
+
+133
+
+Committee Design with Endogenous Information Nicola Persico 165
+Persistence of Employment Fluctuations: A Model of Recurring Job Loss
+Michael J. Pries 193
+
+Is Grameen Lending Efficient? Repayment Incentives and Insurance in
+
+Economies Ashok S. Rai and Tomas Sjostrim 217
+
+Supermarket Choice and Supermarket Competition in Market E
+Howard Smith 235
+
+Mass Media Competition, Political Competition, and Public Policy
+
+David Strimberg 265
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:03 UTC
+All use subject to https://about.jstor.org/terms
+
+THE REVIEW OF ECONOMIC STUDIES
+
+The Review was started in 1933 by a group of young British and American Economists. It is publis
+The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied ec
+especially by young economists, and to publish the results in The Review of Economic Studies.
+
+EDITORIAL COMMITTEE
+
+Joint Managing Editors
+
+MAITREESH GHATAK, London School of Economics BERNARD SALANII, CREST-
+
+Juuso V3LIMAKI, Helsinki School of Economics and University of Southampt
+
+FABRIZIO ZILIBOTTI, lIES, Stockholm University and University College Lond
+
+Secretary and Business Manager
+CHRISTOPHER WALLACE, Trinity College, Oxford
+
+Foreign Editors
+KIMINORI of
+MATSUYAMA, Northwestern
+ABHIJIT BANERJEE, Massachusetts Institute
+Technology
+
+University
+
+MARTIN CRIPPS, Washington University
+
+STEPHEN MORRIS, Yale University
+
+GARY B. GORTON, University ofPennsylvania
+
+JOSlI-VICTOR RfOS-RULL,
+
+PINELOPI KOUJIANOU GOLDBERG, Yale University
+
+University of Pennsylvania
+
+GEORGE MAILATH, University of Pennsylvania
+
+Editorial Board
+
+MARK ARMSTRONG (Chairman), University College London
+JEROME ADDA, University College London ABHINAY MUTHOO, University of Essex
+MANUEL ARELLANO, CEMFI
+
+DAVID MYATT, St. Catherine's College, Oxford
+
+ORAZIO ATTANASIO, University College LondonBENT NIELSEN, Nuffield College, Oxford
+
+TIMOTHY BESLEY, London School of Economics MARCO OTTAVIANI, London Business School
+BRUNO BIAIS, University of Toulouse
+
+MARTIN PESENDORFER, London School of Economics
+
+XIAOHONG CHEN, New York University
+
+ANDREA PRAT, London School of Economics
+
+ANTONIO CICCONE, Universitat Pompeu Fabra SVEN RADY, University of Munich
+MELVYN COLES, University of Essex
+
+ROHIT RAHI, Lorndon School of Economics
+
+FRANCESCA CORNELLI, London Business School
+
+ENRIQUE SENTANA, CEMFI
+
+ERIK EYSTER, London School of Economics
+
+NEIL SHEPHARD, Nuffield College, Oxford
+
+RACHEL GRIFFITH, Institute for Fiscal Studies and HYUN SONG SHIN, London School of Economics
+University College London
+DENIS GROMB, London Business School
+JOHN HASSLER, IIES, Stockholm University
+
+PHILIPPE JEHIEL, CERAS, Paris and University
+
+College London
+GILAT LEVY, London School of Economics
+
+OLIVER B. LINTON, London School qf Economics
+
+RAN SPIEGLER, Tel Aviv University
+
+KJETIL STORESLETTEN, University of Oslo,
+
+IIES, Stockholm University and CEPR
+HARALD UHLIG, Humboldt University of Berlin
+
+JAUME VENTURA, CREI, Universitat Pompeu Fabra
+GIANLUCA VIOLANTE, New York University and
+University College London
+
+THOMAS MARIOTTI, London School of Economics
+
+Please see inside the back cover of this issue for information on the Review website (www.restud.com),
+subscription rates and submission of articles.
+
+This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:03 UTC
+All use subject to https://about.jstor.org/terms
+
+
