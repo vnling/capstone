@@ -1,0 +1,72 @@
+EDITOR
+GUIDO W. IMBENS, Stanford University
+
+MANAGING EDITOR
+GERI MATTSON
+MARY BETH BELLANDO-ZANIBONI, Yale University
+
+CO-EDITORS
+ORIANA BANDIERA, London School of Economics and Political Science
+DAVE DONALDSON, Massachusetts Institute of Technology
+MARINA HALAC, Yale University
+KATE HO, Princeton University
+CHARLES I. JONES, Stanford University
+BARTON L. LIPMAN, Boston University
+ASHER WOLINSKY, Northwestern University
+
+ASSOCIATE EDITORS
+MARINA AGRANOV, California Institute of Technology 
+IVANA KOMUNJER, Georgetown University
+DAVID AHN, Washington University in St. Louis
+FELIX KUBLER, University of Zurich
+TREB ALLEN, Dartmouth College
+ELIANA LA FERRARA, Università Bocconi
+EDUARDO AZEVEDO, University of Pennsylvania
+STEPHAN LAUERMANN, Universität Bonn
+MARCO BASSETTO, Federal Reserve Bank of Minneapolis
+JIA LI, Singapore Management University
+QINGMIN LIU, Columbia University
+LORENZO CALIENDO, Yale University
+ELENA MANRESA, New York University
+GABRIEL CARROLL, University of Toronto
+NOUR MEDDAHI, Toulouse School of Economics
+KATHERINE CASEY, Stanford University
+MORITZ MEYER-TER-VEHN, University of California, Los Angeles
+MATIAS D. CATTANEO, Princeton University
+ANNA MIKUSHEVA, Massachusetts Institute of Technology
+DENIS CHETVERIKOV, University of California, Los Angeles
+ERNESTO DAL BÓ, University of California, Berkeley
+BENJAMIN MOLL, London School of Economics
+ANDRIY NORETS, Brown University
+JAN DE LOECKER, KU Leuven
+MARZENA ROSTEK, University of Wisconsin–Madison
+REBECCA DIAMOND, Stanford University
+ZHENG MICHAEL SONG, The Chinese University of Hong Kong
+DAVID DILLENBERGER, University of Pennsylvania
+ERAN SHMAYA, Stony Brook University
+CHRIS EDMOND, University of Melbourne
+MATTHEW ELLIOTT, Cambridge University
+JÓN STEINSSON, University of California, Berkeley
+BENJAMIN FABER, University of California, Berkeley
+JOHANNES STROEBEL, New York University
+JESÚS FERNÁNDEZ-VILLAVERDE, University of Pennsylvania
+BRUNO STRULOVICI, Northwestern University
+TOMASZ STRZALECKI, Harvard University
+CLAUDIO FERRAZ, University of British Columbia and Pontifícia Universidade Católica do Rio
+VASILIS SYRGKANIS, Stanford University
+ALEH TSYVINSKI, Yale University
+GUILLAUME FRÉCHETTE, New York University
+JOHN VAN REENEN, London School of Economics
+AMANDA FRIEDENBERG, University of Michigan
+LAURA VELDKAMP, Columbia University
+XAVIER GABAIX, Harvard University
+FRANK VERBOVEN, KU Leuven
+RACHEL GRIFFITH, University of Manchester
+RAKESH VOHRA, University of Pennsylvania
+LOUKAS KARABARBOUNIS, University of Minnesota
+MATTHEW J. WISWALL, University of Wisconsin–Madison
+JAKUB KASTL, Princeton University
+DAVID YANAGIZAWA-DROTT, University of Zürich
+PATRICK KLINE, University of California, Berkeley
+ALI YURUKOGLU, Stanford University
+MICHAL KOLESÁR, Princeton University

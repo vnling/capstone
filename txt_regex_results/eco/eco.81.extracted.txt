@@ -1,0 +1,66 @@
+EDITOR
+DARON ACEMOGLU, Massachusetts Institute of Technology
+
+MANAGING EDITOR
+GERI MATTSON
+
+CO-EDITORS
+LARS PETER HANSEN, University of Chicago
+MATTHEW O. JACKSON, Stanford University
+PHILIPPE JEHIEL, Paris School of Economics
+JEAN-MARC ROBIN, Sciences Po
+JOEL SOBEL, University of California, San Diego
+ELIE TAMER, Harvard University
+
+ASSOCIATE EDITORS
+ALBERTO ABADIE, Harvard University
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+PATRICK BAYER, Duke University
+DIRK BERGEMANN, Yale University
+NICHOLAS BLOOM, Stanford University
+YEON-KOO CHE, Columbia University
+VICTOR CHERNOZHUKOV, Massachusetts Institute of Technology
+DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+JIANQING FAN, Princeton University
+XAVIER GABAIX, New York University
+MIKHAIL GOLOSOV, Princeton University
+PATRIK GUGGENBERGER, University of California, San Diego
+FARUK GUL, Princeton University
+PHILIP HAILE, Yale University
+YORAM HALEVY, University of British Columbia
+JOHANNES HÖRNER, Yale University
+MICHAEL JANSSON, University of California, Berkeley
+PETER KLENOW, Stanford University
+FELIX KUBLER, University of Zurich
+JONATHAN LEVIN, Stanford University 
+OLIVER LINTON, Cambridge University
+BART LIPMAN, Boston University
+THOMAS MARIOTTI, Toulouse School of Economics (GREMAQ and IDEI)
+DAVID MARTIMORT, Paris School of Economics–EHESS
+ROSA L. MATZKIN, University of California, Los Angeles
+ANDREW MCLENNAN, University of Queensland
+FRANCESCA MOLINARI, Cornell University
+SUJOY MUKERJI, University of Oxford
+ULRICH MÜLLER, Princeton University
+WOJCIECH OLSZEWSKI, Northwestern University
+MICHAEL OSTROVSKY, Stanford University
+JORIS PINKSE, Pennsylvania State University
+BENJAMIN POLAK, Yale University
+ERIC RENAULT, Brown University
+SUSANNE M. SCHENNACH, Brown University
+ANDREW SCHOTTER, New York University
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute of Technology
+ASHER WOLINSKY, Northwestern University
+TAO ZHA, Federal Reserve Bank of Atlanta and Emory University
+
+EDITORIAL COORDINATOR 
+MARY BETH BELLANDO-ZANIBONI, New York University

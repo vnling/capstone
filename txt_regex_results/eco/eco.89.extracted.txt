@@ -1,0 +1,76 @@
+EDITOR
+GUIDO W. IMBENS, Stanford University
+
+MANAGING EDITOR
+GERI MATTSON
+
+CO-EDITORS
+ORIANA BANDIERA, London School of Economics and Political Science
+DAVE DONALDSON, Massachusetts Institute of Technology
+CHARLES I. JONES, Stanford University
+BARTON L. LIPMAN, Boston University
+ALESSANDRO LIZZERI, Princeton University
+AVIV NEVO, The Perelman Center for Political Science and Economics
+ASHER WOLINSKY, Northwestern University
+
+ASSOCIATE EDITORS
+LOUKAS KARABARBOUNIS, University of Minnesota
+ALBERTO ABADIE, Massachusetts Institute ofTechnology
+JAKUB KASTL, Princeton University
+JAAP ABBRING, Tilburg University
+PATRICK KLINE, University of California, Berkeley
+DAVID AHN, Washington University in St. Louis
+FELIX KUBLER, University of Zurich
+TREB ALLEN, Dartmouth College
+ELIANA LA FERRARA, Università Bocconi
+ISAIAH ANDREWS, Harvard University
+STEPHAN LAUERMANN, Universität Bonn
+EDUARDO AZEVEDO, University of Pennsylvania
+JIA LI, Duke University
+MARCO BASSETTO, Federal Reserve Bank of Minneapolis
+HANNO LUSTIG, Stanford University
+NOUR MEDDAHI, Toulouse School of Economics
+NICHOLAS BLOOM, Stanford University
+MORITZ MEYER-TER-VEHN, University of California, Los Angeles
+ERIC BUDISH, University of Chicago
+ANNA MIKUSHEVA, Massachusetts Institute of Technology
+LORENZO CALIENDO, Yale University
+MATIAS D. CATTANEO, Princeton University
+SERENA NG, Columbia University
+DENIS CHETVERIKOV, University of California, Los Angeles
+ANDRIY NORETS, Brown University
+ELIAS PAPAIOANNOU, London Business School
+ERNESTO DAL BÓ, University of California, Berkeley
+MARZENA ROSTEK, University of Wisconsin–Madison
+ANDRES SANTOS, University of California, Los Angeles
+MELISSA DELL, Harvard University
+TODD SARVER, Duke University
+REBECCA DIAMOND, Stanford University
+CHRIS EDMOND, University of Melbourne
+ILYA R. SEGAL, Stanford University
+BENJAMIN FABER, University of California, Berkeley
+ZHENG MICHAEL SONG, The Chinese University of Hong Kong
+JESÚS FERNÁNDEZ-VILLAVERDE, University of Pennsylvania
+JOHANNES STROEBEL, New York University
+CLAUDIO FERRAZ, University of British Columbia and Pontifícia Universidade Católica do Rio
+BRUNO STRULOVICI, Northwestern University
+TOMASZ STRZALECKI, Harvard University
+GUILLAUME FRÉCHETTE, New York University
+VIKTOR TODOROV, Northwestern University
+AMANDA FRIEDENBERG, University of Arizona
+ALEH TSYVINSKI, Yale University
+XAVIER GABAIX, Harvard University
+NICOLAS VIEILLE, HEC Paris
+RACHEL GRIFFITH, University of Manchester
+RAKESH VOHRA, University of Pennsylvania
+KEISUKE HIRANO, The Pennsylvania State University
+BAS J. M. WERKER, Tilburg University
+MATTHEW J. WISWALL, University of Wisconsin–Madison
+KATE HO, Princeton University
+ALEXANDER WOLITZKY, Massachusetts Institute of Technology
+STEFAN HODERLEIN, Amazon
+DANNY YAGAN, University of California, Berkeley
+MICHAEL JANSSON, University of California, Berkeley
+
+PUBLICATIONS MANAGER
+MARY BETH BELLANDO-ZANIBONI, Yale University

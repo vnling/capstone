@@ -1,0 +1,62 @@
+EDITOR
+DARON ACEMOGLU, Massachusetts Institute of Technology
+
+MANAGING EDITOR
+GERI MATTSON
+
+CO-EDITORS
+LARS PETER HANSEN, University of Chicago
+MATTHEW O. JACKSON, Stanford University
+PHILIPPE JEHIEL, Paris School of Economics
+WOLFGANG PESENDORFER, Princeton University
+JEAN-MARC ROBIN, Sciences Po
+JAMES H. STOCK, Harvard University
+
+ASSOCIATE EDITORS
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+DIRK BERGEMANN, Yale University
+YEON-KOO CHE, Columbia University
+XIAOHONG CHEN, Yale University
+VICTOR CHERNOZHUKOV, Massachusetts Institute of Technology
+DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+JIANQING FAN, Princeton University
+MIKHAIL GOLOSOV, Princeton University
+PATRIK GUGGENBERGER, University of California, San Diego
+FARUK GUL, Princeton University
+PHILIP A. HAILE, Yale University
+YORAM HALEVY, University of British Columbia
+JOHANNES HÖRNER, Yale University
+MICHAEL JANSSON, University of California, Berkeley
+FELIX KUBLER, University of Zurich
+JONATHAN LEVIN, Stanford University
+OLIVER LINTON, Cambridge University
+BART LIPMAN, Boston University
+THIERRY MAGNAC, Toulouse School of Economics (GREMAQ and IDEI)
+THOMAS MARIOTTI, Toulouse School of Economics (GREMAQ and IDEI)
+DAVID MARTIMORT, Paris School of Economics–EHESS
+ROSA L. MATZKIN, University of California, Los Angeles
+ANDREW MCLENNAN, University of Queensland
+SUJOY MUKERJI, University of Oxford
+ULRICH MÜLLER, Princeton University
+LEE OHANIAN, University of California, Los Angeles
+WOJCIECH OLSZEWSKI, Northwestern University
+MICHAEL OSTROVSKY, Stanford University
+JORIS PINKSE, Pennsylvania State University
+BENJAMIN POLAK, Yale University
+SUSANNE M. SCHENNACH, University of Chicago
+ANDREW SCHOTTER, New York University
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+ELIE TAMER, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute of Technology
+ASHER WOLINSKY, Northwestern University
+
+EDITORIAL COORDINATOR
+MARY BETH BELLANDO-ZANIBONI, New York University

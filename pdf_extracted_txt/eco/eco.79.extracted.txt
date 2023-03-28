@@ -1,0 +1,61 @@
+EDITOR
+STEPHEN MORRIS, Princeton University
+
+MANAGING EDITOR
+GERI MATTSON
+
+CO-EDITORS
+DARON ACEMOGLU, MIT
+PHILIPPE JEHIEL, Paris School of Economics
+WOLFGANG PESENDORFER, Princeton University
+JEAN-MARC ROBIN, Sciences Po
+JAMES H. STOCK, Harvard University
+
+ASSOCIATE EDITORS
+YACINE AÏT-SAHALIA, Princeton University
+JOSEPH G. ALTONJI, Yale University
+JAMES ANDREONI, University of California, San Diego
+JUSHAN BAI, Columbia University
+MARCO BATTAGLINI, Princeton University
+PIERPAOLO BATTIGALLI, Università Bocconi
+DIRK BERGEMANN, Yale University
+YEON-KOO CHE, Columbia University
+XIAOHONG CHEN, Yale University
+VICTOR CHERNOZHUKOV, Massachusetts Institute of Technology
+J. DARRELL DUFFIE, Stanford University
+JEFFREY ELY, Northwestern University
+HALUK ERGIN, Duke University
+JIANQING FAN, Princeton University
+MIKHAIL GOLOSOV, Yale University
+FARUK GUL, Princeton University
+JINYONG HAHN, University of California, Los Angeles
+PHILIP A. HAILE, Yale University
+JOHANNES HORNER, Yale University
+MICHAEL JANSSON, University of California, Berkeley
+PER KRUSELL, Stockholm University
+FELIX KUBLER, University of Zurich
+OLIVER LINTON, London School of Economics
+BART LIPMAN, Boston University 
+THIERRY MAGNAC, Toulouse School of Economics (GREMAQ and IDEI)
+DAVID MARTIMORT, IDEI-GREMAQ, Université des Sciences Sociales de Toulouse, Paris School of Economics
+STEVEN A. MATTHEWS, University of Pennsylvania
+ROSA L. MATZKIN, University of California, Los Angeles
+SUJOY MUKERJI, University of Oxford
+LEE OHANIAN, University of California, Los Angeles
+WOJCIECH OLSZEWSKI, Northwestern University
+NICOLA PERSICO, New York University
+JORIS PINKSE, Pennsylvania State University
+BENJAMIN POLAK, Yale University
+PHILIP J. RENY, University of Chicago
+SUSANNE M. SCHENNACH, University of Chicago
+ANDREW SCHOTTER, New York University
+NEIL SHEPHARD, University of Oxford
+MARCIANO SINISCALCHI, Northwestern University
+JEROEN M. SWINKELS, Northwestern University
+ELIE TAMER, Northwestern University
+EDWARD J. VYTLACIL, Yale University
+IVÁN WERNING, Massachusetts Institute of Technology
+ASHER WOLINSKY, Northwestern University
+
+EDITORIAL ASSISTANT
+MARY BETH BELLANDO, Princeton University

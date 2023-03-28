@@ -1,0 +1,72 @@
+EDITOR
+GUIDO W. IMBENS, Stanford University
+
+MANAGING EDITOR
+GERI MATTSON
+
+CO-EDITORS
+DAVE DONALDSON, Massachusetts Institute of Technology
+CHARLES I. JONES, Stanford University
+BARTON L. LIPMAN, Boston University
+ALESSANDRO LIZZERI, Princeton University
+ULRICH K. MÜLLER, Princeton University
+AVIV NEVO, The Perelman Center for Political Science and Economics
+ASHER WOLINSKY, Northwestern University
+
+ASSOCIATE EDITORS
+STEFAN HODERLEIN, Amazon
+ALBERTO ABADIE, Massachusetts Institute of Technology
+MICHAEL JANSSON, University of California, Berkeley
+JAKUB KASTL, Princeton University
+JAAP ABBRING, Tilburg University
+TREB ALLEN, Dartmouth College
+PATRICK KLINE, University of California, Berkeley
+MANUEL AMADOR, Federal Reserve Bank of Minneapolis and University of Minnesota
+FELIX KUBLER, University of Zurich
+JIA LI, Duke University
+HANNO LUSTIG, Stanford University
+ANDRES ARADILLAS-LOPEZ, The Pennsylvania State University
+MASSIMO MARINACCI, Università Bocconi
+ANDREW MCLENNAN, University of Queensland
+MARCO BASSETTO, Federal Reserve Bank of Minneapolis
+SERENA NG, Columbia University
+ANDRIY NORETS, Brown University
+FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+ELIAS PAPAIOANNOU, London Business School
+MARZENA ROSTEK, University of Wisconsin–Madison
+NICHOLAS BLOOM, Stanford University
+ERIC BUDISH, University of Chicago
+ANDRES SANTOS, University of California, Los Angeles
+LORENZO CALIENDO, Yale University
+MATIAS D. CATTANEO, Princeton University
+TODD SARVER, Duke University
+XIAOHONG CHEN, Yale University
+ILYA R. SEGAL, Stanford University
+DENIS CHETVERIKOV, University of California, Los Angeles
+AZEEM M. SHAIKH, University of Chicago
+NEIL SHEPHARD, Harvard University
+ZHENG MICHAEL SONG, The Chinese University of Hong Kong
+ERNESTO DAL BÓ, University of California, Berkeley
+MELISSA DELL, Harvard University
+TOMASZ STRZALECKI, Harvard University
+REBECCA DIAMOND, Stanford University
+VIKTOR TODOROV, Northwestern University
+PASCALINE DUPAS, Stanford University
+ALEH TSYVINSKI, Yale University
+BENJAMIN FABER, University of California, Berkeley
+NICOLAS VIEILLE, HEC Paris
+JESÚS FERNÁNDEZ-VILLAVERDE, University of Pennsylvania
+RAKESH VOHRA, University of Pennsylvania
+PIERRE-OLIVIER WEILL, University of California,Los Angeles
+GUILLAUME FRÉCHETTE, New York University
+BAS J. M. WERKER, Tilburg University
+AMANDA FRIEDENBERG, University of Arizona
+XAVIER GABAIX, Harvard University
+MATTHEW J. WISWALL, University of Wisconsin–Madison
+MARINA HALAC, Yale University
+ALEXANDER WOLITZKY, Massachusetts Institute of Technology
+KEISUKE HIRANO, The Pennsylvania State University
+LEEAT YARIV, Princeton University
+
+PUBLICATIONS MANAGER
+MARY BETH BELLANDO-ZANIBONI, Yale University
