@@ -1,129 +1,41 @@
-90(1) No. 330 pp. 1–498
-
-THE REVIEW OF
-
-Vol. 90(1) No. 330
-
-Todd Keister and Daniel Sanches
-Behaviour within a Clinical Trial and Implications for Mammography Guidelines
-Amanda E. Kowalski
-How Do Inheritances Shape Wealth Inequality? Theory and Evidence from Sweden
-Arash Nekoei and David Seim
-
-404
-432
-463
-
 THE REVIEW OF ECONOMIC STUDIES
 
-Should Central Banks Issue Digital Currency?
+Subscriptions rates
+A subscription to The Review of Economic Studies comprises 6 issues. Prices include postage by surface mail, or for
+subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
+Airmail rates are available on request.
+Annual Subscription Rate (Volume 89, 6 issues, 2022)
 
-Immigration and Redistribution
-Alberto Alesina, Armando Miano, and Stefanie Stantcheva
-
-1
-
-Measuring Belief-dependent Preferences without Data on Beliefs
-Charles Bellemare and Alexander Sebald
-
-40
-
-What is a Good School, and Can Parents Tell? Evidence on the Multidimensionality of
-School Output
-Diether W. Beuermann, C. Kirabo Jackson, Laia Navarro-Sola, and Francisco Pardo
-
-65
-
-Are Marriage-Related Taxes and Social Security Benefits Holding Back Female Labour Supply?
-Margherita Borella, Mariacristina De Nardi, and Fang Yang
-
-102
-
-A World Equilibrium Model of the Oil Market
-Gideon Bornstein, Per Krusell, and Sergio Rebelo
-
-132
-
-Racial Diversity and Racial Policy Preferences: The Great Migration and Civil Rights
-Alvaro Calderon, Vasiliki Fouka, and Marco Tabellini
-
-165
-
-Simple Adaptive Size-Exact Testing for Full-Vector and Subvector Inference in Moment
-Inequality Models
-Gregory Cox and Xiaoxia Shi
-
-201
-
-Innovation and Strategic Network Formation
-Krishna Dasaratha
-
-229
-
-Maryam Farboodi, Gregor Jarosch, and Robert Shimer
-
-261
-
-Affordable Housing and City Welfare
-Jack Favilukis, Pierre Mabille, and Stijn Van Nieuwerburgh
-
-293
-
-Slicing the Pie: Quantifying the Aggregate and Distributional Effects of Trade
-Simon Galle, Andrés Rodríguez-Clare, and Moises Yi
-
-331
-
-The Emergence of Market Structure
-
-January 2023
-
-Featured Article
-Using Bid Rotation and Incumbency to Detect Collusion: A Regression Discontinuity Approach
-Kei Kawai, Jun Nakabayashi, Juan Ortner, and Sylvain Chassang
-
-Downloaded from https://academic.oup.com/restud/issue/90/1 by eFADA user on 17 February 2023
-
-ECONOMIC
-STUDIES
-
-376
-
-contents continued
-
-Print 0034-6527
-Online 1467-937X
-
-restud_90_1_Cover.indd 1
-
-January 2023
-
-03-01-2023 12:14:48
-
-THE REVIEW OF ECONOMIC STUDIES
 The review was started in 1933 by a group of young British and American Economists. It is published by The Review of Economic
 Studies Ltd, whose object is to encourage research in theoretical and applied economics, especially by young economists, and to
 publish the results in The Review of Economic Studies.
+
+Institutional
+UK print edition and site-wide online access £634
+Non UK print edition and site wide online access £700/$990/E744
+UK online access only £486
+Non UK online access only £537/$760/E570
+UK print edition only £585
+Non UK print edition only: £646/$911/E686
+
 EDITORIAL COMMITTEE
 Chairman
 NICOLA FUCHS-SCHÜNDELN, Goethe University Frankfurt
-Joint Managing Editors
-THOMAS CHANEY, University of Southern California and
-Sciences Po
+THOM AS CHANEY, Sciences Po
 ANDREA GALEOTTI, London Business School
 BÅRD HARSTAD, University of Oslo
-NIR JAIMOVICH, University of California, San Diego
+NIR JAIM OVICH, University of Zurich
 
+Joint Managing Editors
 KATRINE LOKEN, Norwegian School of Economics
-KURT MITMAN, IIES, Stockholm University
-FRANCESCA MOLINAR I, Cornell University
-ELIAS PAPAIOANNOU, London Business School
-NOAM YUCHTMAN, London School of Economics
+KURT MITM AN, IIES, Stockholm University
+FRANCESCA MOLINARI, Cornell University
 
 Data Editor
 MIKLOS KOREN, Central European University
 Secretary and Business Manager
 GREGORY THWAITES, Nottingham University
+
 MIKE ELSBY, University of Edinburgh
 
 Board of Directors
@@ -137,30 +49,29 @@ MICHÈLE TERTILT, University of Mannheim
 
 FABIAN WALDINGER, University of Munich
 
-Foreign Editors
-MATTEO MAGGIORI, Stanford Graduate School of Business
-MANUEL AMADOR, University of Minnesota
-ANNA MIKUSHEVA, MIT
-JULIANE BEGENAU, Stanford Graduate School of Business
-GUILLERMO ORDONEZ, University of Pennsylvania
-EMILY BREZA, Harvard University
-MIKKEL PLAGBORG-MOLLER, Princeton University
-GABRIEL CHODOROW-REICH, Harvard University
-JOSHUA SCHWARTZSTEIN, Harvard Business School
+MANUEL AM ADOR, University of Minnesota
+EM ILY BREZA, Harvard University
+MELISSA DELL, Harvard University
 CHAO FU, Univerisity of Wisconsin at Madison
-JOHANNES STROEBEL, New York University
-MYRTO KALOUPTSIDI, Harvard University
-JOSEPH VAVRA, University of Chicago, Booth School of Business
+MYRTO KALOUP TSIDI, Harvard University
 NAVIN KARTIK, Columbia University
-ALEXANDER WOLITZKY, MIT
 PATRICK KLINE, University of California, Berkeley
-TAKURO YAMASHITA, Osaka University
-FUHITO KOJIMA, University of Tokyo
+FUHITO KOJIM A, University of Tokyo
+
+Foreign Editors
+ANNA MIKUSHEVA, MIT
+GUILLERM O ORDONEZ, University of Pennsylvania
+MIKKEL PLAGBORG-MOLLER, Princeton University
+JOSHUA SCHWARTZSTEIN, Harvard Business School
+JON STEINSSON, University of California, Berkeley
+JOHANNES STROEBEL, New York University
+ALEXANDER WOLITZKY, MIT
+
 Editorial Board
 JOHANNES ABELER, University of Oxford
-ABI ADAMS-PRASSL, University of Oxford
+ABI ADAM S-PRASSL, University of Oxford
 TEODORA BONEVA, University of Bonn
-TIMO BOPPART, IIES, Stockholm University
+TIM O BOP P ART, IIES, Stockholm University
 GHARAD BRYAN, London School of Economics
 KONRAD BURCHARDI, IIES, Stockholm University
 MICHAEL CALLEN, London School of Economics
@@ -169,7 +80,7 @@ FRANCESCO DECAROLIS, Bocconi University
 JAN DE LOECKER, KU Leuven
 SWATI DHINGRA, London School of Economics
 MATTHEW ELLIOTT, University of Cambridge
-RUBEN ENIKOLOPOV, Universitat Pompeu Fabra and
+RUBEN ENIKOLOP OV, Universitat Pompeu Fabra and
 New Economic School
 LUCA FORNARO, CREI, Universitat Pompeu Fabra
 JOACHIM FREYBERGER, University of Bonn
@@ -180,54 +91,54 @@ XAVIER d’HAULTFOEUILLE, CREST
 XAVIER JARAVEL, London School of Economics
 TORU KITAGAWA, University College London
 TERRI KNEELAND, University College London
-STEPHAN LAUERMANN, University of Bonn
-THOMAS LE BARBANCHON, Bocconi University
+STEP HAN LAUERM ANN, University of Bonn
+THOM AS LE BARBANCHON, Bocconi University
 ATTILA LINDNER, University College London
-
-restud_90_1_Cover.indd 2
-
 JOAN LLULL, Universitat Autònoma de Barcelona
+
+restud_89_1_Cover.indd 2
+
 KALINA MANOVA, University College London
 FILIP MATEJKA, CERGE-EI
-BENJAMIN MOLL, London School of Economics
+BENJAM IN MOLL, London School of Economics
 ANDREAS MOXNES, University of Oslo
-MARTIN OEHMKE, London School of Economics
+MARTIN OEHM KE, London School of Economics
 ANTONIO PENTA, Universitat Pompeu Fabra
 EDUARDO PEREZ-RICHET, Sciences Po
 PIA PINGER, University of Cologne
-GIACOMO PONZETTO, CREI, Universitat Pompeu Fabra
+GIACOM O PONZETTO, CREI, Universitat Pompeu Fabra
+CHRISTOP H ROTHE, University of Mannheim
 MAR REGUANT, Northwestern University
-FEDERICA ROMEI, University of Oxford
-CHRISTOPH ROTHE, University of Mannheim
+FEDERICA ROM EI, University of Oxford
 EDOUARD SCHAAL, CREI, Universitat Pompeu Fabra
 FLORIAN SCHEUER, University of Zurich
 UTA SCHOENBERG, University College London
-JOHANNES SPINNEWIJN, London School of Economics
+JOHANNES SP INNEWIJN, London School of Economics
 JAKUB STEINER, CERGE-EI
 VINCENT STERK, University College London
 ADAM SZEIDL, Central European University
 VICTORIA VANASCO, CREI
 MARTIN WEIDNER, University of Oxford
+TAKURO YAM ASHITA, Toulouse School of Economics
 DAVID YANAGIZAWA-DROTT, University of Zurich
+NOAM YUCHTM AN, London School of Economics
 SHENGXING ZHANG, London School of Economics
-FLORIAN ZIMMERMAN, briq and University of Bonn
+FLORIAN ZIM M ERM AN, briq and University of Bonn
 
-Downloaded from https://academic.oup.com/restud/issue/90/1 by eFADA user on 17 February 2023
+Downloaded from https://academic.oup.com/restud/issue/89/1 by eFADA user on 17 February 2023
 
 Journal Manager
 ANN LAW, London School of Economics
 
-Subscriptions rates
-A subscription to The Review of Economic Studies comprises 6 issues. Prices include postage by surface mail, or for
-subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
-Airmail rates are available on request.
-Subscription and single issue pricing information is available at https://academic.oup.com/restud/subscribe
+Personal
+Print edition: £79/$128/E116
+All other rates are available at https://academic.oup.com/restud
 Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not refundable.
 Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more than FOUR months after
 publication or date of order, whichever is later. All subscriptions in Canada are subject to GST.
 Subscriptions in the EU may be subject to European VAT. If registered, please supply details to avoid unnecessary charges.
 For subscriptions that include online versions, a proportion of the subscription price may be subject to UK VAT. Personal rate
-subscriptions are only available if payment is made by personal credit card and delivery is to a private address.
+subscriptions are only available if payment is made by personal cheque or credit card and delivery is to a private address.
 For further information, please contact: Journals Customer Service Department, Oxford University Press, Great Clarendon Street,
 Oxford OX2 6DP, UK. Email: jnls.cust.serv@oup.com. Tel (and answerphone outside normal working hours):
 +44 (0)1865 353907. Fax: +44 (0)1865 353485.
@@ -236,10 +147,12 @@ NC 27513, USA. Email: jnlorders@oup.com. Tel (and answerphone outside normal wor
 Canada). Fax: 919 677 1714.
 In Japan, please contact: Journals Customer Services, Oxford University Press, Tokyo 4-5-10-8F Shiba, Minato-ku, Tokyo 108-8386,
 Japan. Tel: +81 (0) 3 5444 5858. Fax: +81 (0) 3 3454 2929.
-Methods of payment. (i) Bank transfer to Barclays Bank Plc, Oxford Group Office, Oxford (bank sort code: 20-65-18) (UK), overseas
-only Swift code BARC GB 22 (GB£ Sterling to account no. 70299332, IBAN GB89BARC20651870299332; US$ Dollars to account
-no. 66014600, IBAN GB27BARC20651866014600; EUE Euros to account no. 78923655, IBAN GB16BARC20651878923655).
-(ii) Credit card (Mastercard, Visa, Switch or American Express).
+Methods of payment. (i) Cheque (payable to Oxford University Press to Oxford University Press, Cashiers Office, Great Clarendon
+Street, Oxford OX2 6DP, UK) in GB£ sterling (drawn on a UK bank), in US$ Dollars (drawn on a US bank), or EUE Euros. (ii) Bank
+transfer to Barclays Bank Plc, Oxford Group Office, Oxford (bank sort code: 20-65-18) (UK), overseas only Swift code BARC GB 22
+(GB£ Sterling to account no. 70299332, IBAN GB89BARC20651870299332; US$ Dollars to account no. 66014600, IBAN
+GB27BARC20651866014600; EUE Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card
+(Mastercard, Visa, Switch or American Express).
 The Review of Economic Studies, ISSN 0034-6527, is published six times annually in January, March, May, July, October and
 November by Oxford University Press, Oxford, UK and distributed in the USA by UKP Worldwide, 3390 Rand Road, South Plainfield,
 NJ 07080.
@@ -256,7 +169,7 @@ The Publisher and Editors cannot be held responsible for errors or any consequen
 journal; the views and opinions expressed do not necessarily reflect those of the Publisher and Editors, neither does the publication of
 advertisements constitute any endorsement by the Publisher and Editor of the products advertised.
 Subscription records are maintained at Oxford University Press, UK.
-© The Review of Economic Studies Ltd 2023
+© The Review of Economic Studies Ltd 2022
 All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any
 means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission of the Publishers, or a licence
 permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd, 90 Tottenham Court Road, London W1P 9HE,
@@ -264,6 +177,6 @@ or in the USA by the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA
 Typeset by KnowledgeWorks Global Ltd, Bangalore, India
 Printed by Bell and Bain Ltd, Glasgow, UK
 
-03-01-2023 12:14:49
+10-01-2022 15:54:12
 
 

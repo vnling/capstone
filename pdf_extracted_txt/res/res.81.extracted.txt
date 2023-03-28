@@ -1,126 +1,35 @@
-80(1) No. 282 pp. 1–427
-
-THE REVIEW OF
-
 THE REVIEW OF ECONOMIC STUDIES
-
-Progressive Screening: Long-Term Contracting with a Privately Known Stochastic Process
-Raphael Boleslavsky and Maher Said
-
-1
-
-Alex Boulatov, Terrence Hendershott and Dmitry Livdan
-
-35
-
-Informed Trading and Portfolio Returns
-Assigning Resources to Budget-Constrained Agents
-Yeon-Koo Che, Ian Gale and Jinwoo Kim
-
-73
-
-Arnaud Costinot, Jonathan Vogel and Su Wang
-
-109
-
-An Elementary Theory of Global Supply Chains
-The Effect of Immigration along the Distribution of Wages
-Christian Dustmann, Tommaso Frattini and Ian P. Preston
-
-145
-
-A Structural Approach to Identifying the Sources of Local Currency Price Stability
-Pinelopi Koujianou Goldberg and Rebecca Hellerstein
-
-175
-
-Luigi Guiso, Luigi Pistaferri and Fabiano Schivardi
-
-211
-
-Credit within the Firm
-Inventories, Markups, and Real Rigidities in Menu Cost Models
-Oleksiy Kryvtsov and Virgiliu Midrigan
-
-249
-
-Aggregating Information by Voting: The Wisdom of the Experts versus the Wisdom of
-the Masses
-Joseph C. McMurray
-
-277
-
-Quick Job Entry or Long-Term Human Capital Development? The Dynamic Effects of
-Alternative Training Schemes
-
-January 2013
-
-Print 0034-6527
-Online 1467-937X
-
-restud_80_1_Cover.indd 1
-
-Aderonke Osikominu
-
-313
-
-Esmeralda A. Ramalho and Richard J. Smith
-
-343
-
-Discrete Choice Non-Response
-
-Downloaded from https://academic.oup.com/restud/issue/80/1 by eFADA user on 17 February 2023
-
-Vol. 80(1) No. 282
-
-ECONOMIC
-STUDIES
-
-Robust Predictions in Infinite-Horizon Games—an Unrefinable Folk Theorem
-Jonathan Weinstein and Muhamet Yildiz
-
-365
-
-Alexander Wolitzky
-
-395
-
-Cooperation with Network Monitoring
-
-January 2013
-
-31-01-2013 17:28:04
-
-THE REVIEW OF ECONOMIC STUDIES
 Subscriptions rates
 A subscription to The Review of Economic Studies comprises 4 issues. Prices include postage by surface mail, or for
 subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
 Airmail rates are available on request.
-Annual Subscription Rate (Volume 80, 4 issues, 2013)
+Annual Subscription Rate (Volume 81, 4 issues, 2014)
 
 The review was started in 1933 by a group of young British and American Economists. It is published by The
 Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied economics,
 especially by young economists, and to publish the results in The Review of Economic Studies.
 
 Institutional
-UK print edition and site-wide online access £382
-Non UK print edition nd site wide online access £446/$596/E448
-UK online access online £318
+UK print edition and site-wide online access £398
+Non UK print edition and site wide online access £465/$621/E466
+UK online access only £318
 Non UK online access only £372/$497/E373
-UK print edition online £350
-Non UK print edition only: £409/$547/E410
+UK print edition only £366
+Non UK print edition only: £428/$572/E429
 
 EDITORIAL COMMITTEE
 Joint Managing Editors
+JEROME ADDA, European University Institute
 STÉPHANE BONHOMME, CEMFI
 FRANCESCO CASELLI, London School of Economics
 PHILIPP KIRCHER, London School of Economics,
 and University of Edinburgh
 
-MARCO OTTAVIANI, Bocconi University
-IMRAN RASUL, University College London
-DIMITRI VAYANOS, London School of Economics
+BOTOND KÖSZEGI, Central European
+University
+MICHELE TERTILT, University of Mannheim
+DIMITRI VAYANOS, London School of
+Economics
 
 ANNIKA ANDREASSON, IIES, Stockholm University
 Secretary and Business Manager
@@ -130,69 +39,80 @@ POL ANTRAS, Harvard University
 PETER ARCIDIACONO, Duke University
 ANDREW ATKESON, University of California, Los Angeles
 MARCO BATTAGLINi, Princeton University
-V BHASKAR, University College London
+ARNAUD COSTINOT, Massachusetts Institute of
+Technology
 MATTHIAS DOEPKE, Northwestern University
+PASCALINE DUPAS, Stanford University
 RAY FISMAN, Columbia University
-BURTON HOLLIFIELD, Carnegie Mellon University
-BOTOND KÖSZEGI, University of California, Berkeley
+MIKHAIL GOLOSOV, Princeton University
+GITA GOPINATH, Harvard University
+BRYAN GRAHAM, University of California, Berkeley
 ILAN KREMER, Stanford University
-GUIDO LORENZONI, Massachusetts Institute of Technology
 
-MARC MELITZ, Princeton University
+GUIDO LORENZONI, Massachusetts Institute of
+Technology
 ULRICH MÜLLER, Princeton University
-AVIV NEVO, Northwestern University
 ALESSANDRO PAVAN, Northwestern University
 ILYA SEGAL, Stanford University
-MARCIANO SINISCALCHI, Northwestern University
+MARCIANO SINISCALCHI, Northwestern
+University
 BRUNO STRULOVICI, Northwestern University
+ANDREW SWEETING, Duke University
+STIJN VAN NIEUWERBURGH, New York University
 PIERRE-OLIVIER WEILL, University of California,
 Los Angeles
 
 Editorial Board
-ANDREA PRAT (Chair), London School of Economics
+KJETIL STORESLETTEN (Chair), University of Oslo
 ALP ATAKAN, Koc University
-V BHASKAR, University College London
 THOMAS CHANEY, Toulouse University
-VALENTINA CORRADI, University of Warwick
+SYNGJOO CHOI, University College London
 AMIL DASGUPTA, London School of Economics
-NICOLA FUCHS-SCHÜNDELN, Frankfurt University
+MIKE ELSBY, University of Edinburgh
+NICOLA FUCHS-SCHÜNDELN, Goethe University Frankfurt
 ANDREA GALEOTTI, University of Essex
 ALFRED GALICHON, École Polytechnique
-GINO GANCIA, CREI, UPF
-NICOLA GENNAIOLI, CREI, UPF
+GINO GANCIA, CREI, Universitat Pompeu Fabra
+ALESSANDRO GAVAZZA, London School of Economics
+NICOLA GENNAIOLI, CREI, Universitat Pompeu Fabra
 ALEX GERSHKOV, Hebrew University of Jerusalem
+MARINA HALAC, University of Warwick
 BÅRD HARSTAD, University of Oslo
-CHRISTIAN HELLWIG, Toulouse University,
-STEFFEN HUCK, University College London
+CHRISTIAN HELLWIG, Toulouse University
 NAGORE IRIBERRI, Universitat Pompeu Fabra
 KEYU JIN, London School of Economics
 HENRIK KLEVEN, London School of Economics
 PETER KONDOR, Central European University
 MIKLÓS KOREN, Central European University
-DENIS KRISTENSEN, University College London
-
+DENNIS KRISTENSEN, University College London
 FELIX KÜBLER, University of Zurich
-ALBERTO MARTIN, CREI, UPF
-GERARD PADRÓ MIQUEL, London School of Economics
+
+restud_81_1_Cover.indd 2
+
+JEREMY LISE, University College London
+KATRINE LOKEN, University of Bergen
+ALBERTO MARTIN, CREI, Universitat Pompeu Fabra
+GUY MICHAELS, London School of Economics
+GERARD PADRÓ MIQUEL, London School of
+Economics
 DANIEL PARAVISINI, London School of Economics
 ÁUREO DE PAULA, University College London
 GUILLAUME PLANTIN, Toulouse University
+IMRAN RASUL, University College London
 HÉLÈNE REY, London Business School
 PHILIPP SCHMIDT-DENGLER, University of Mannheim
-KJETIL STORESLETTEN, University of Oslo
 ADAM SZEIDL, Central European University
 BALÁZS SZENTES, University College London
 SILVANA TENREYRO, London School of Economics
 OLIVIER TERCIEUX, Paris School of Economics
-MICHÈLE TERTILT, University of Mannheim
 MARKO TERVIÖ, Aalto University
 FREDERIC VERMEULEN, University of Leuven
-FABIAN WALDINGER, Warwick University
+FABIAN WALDINGER, University of Warwick
 GEORG WEIZSÄCKER, Humboldt University
-MIRKO WIEDERHOLT, Frankfurt University
+MIRKO WIEDERHOLT, Goethe University Frankfurt
 FABRIZIO ZILIBOTTI, University of Zurich
 
-Downloaded from https://academic.oup.com/restud/issue/80/1 by eFADA user on 17 February 2023
+Downloaded from https://academic.oup.com/restud/issue/81/1 by eFADA user on 17 February 2023
 
 Journal Manager
 
@@ -224,7 +144,7 @@ Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card (
 American Express).
 The Review of Economic Studies is published four times annually in January, April, July and October by Oxford
 University Press, Oxford, UK.
-Annual subscription price is £446/$596/E448. The Review of Economic Studies is distributed by agent named
+Annual subscription price is £465/$621/E466. The Review of Economic Studies is distributed by agent named
 Air Business Ltd, c/o Worldnet Shipping Inc., 156-15, 146th Avenue, 2nd Floor, Jamaica, NY 11434, USA.
 US Postmaster: send address changes to The Review of Economic Studies, Air Business Ltd, c/o Worldnet Shipping
 Inc., 156-15, 146th Avenue, 2nd Floor, Jamaica, NY 11434, USA.
@@ -239,7 +159,7 @@ Disclaimer
 The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this journal; the views and opinions expressed do not necessarily reflect those of the Publisher and
 Editors, neither does the publication of advertisements constitute any endorsement by the Publisher and Editor of the
 products advertised.
-© The Review of Economic Studies Ltd 2013
+© The Review of Economic Studies Ltd 2014
 All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
 form or by any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission
 of the Publishers, or a licence permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd,
@@ -248,8 +168,6 @@ Drive, Danvers, MA 01923.
 Typeset by Cenveo Publisher Services, Bangalore, India
 Printed by Bell and Bain Ltd, Glasgow, UK
 
-restud_80_1_Cover.indd 2
-
-31-01-2013 17:28:05
+24-01-2014 11:27:34
 
 

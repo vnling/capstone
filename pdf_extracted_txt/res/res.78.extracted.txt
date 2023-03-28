@@ -1,113 +1,20 @@
-79(1) No. 278 pp. 1–417
-
-THE REVIEW OF
-
 THE REVIEW OF ECONOMIC STUDIES
-
-Trade, Firms, and Wages: Theory and Evidence
-Mary Amiti and Donald R. Davis
-
-1
-
-Education Choices in Mexico: Using a Structural Model and a Randomized
-Experiment to Evaluate PROGRESA
-Orazio P. Attanasio, Costas Meghir and Ana Santiago
-
-37
-
-Shifting the Blame: On Delegation and Responsibility
-Björn Bartling and Urs Fischbacher
-
-67
-
-Nathaniel Baum-Snow and Ronni Pavan
-
-88
-
-Understanding the City Size Wage Gap
-Social Networks and the Dynamics of Labour Market Outcomes: Evidence
-from Refugees Resettled in the U.S.
-Lori A. Beaman
-
-128
-
-Pierre-André Chiappori, Olivier Donni and Ivana Komunjer
-
-162
-
-Learning from a Piece of Pie
-Buying Shares and/or Votes for Corporate Control
-Eddie Dekel and Asher Wolinsky
-
-196
-
-Estimating a Dynamic Adverse-Selection Model: Labour-Force Experience
-and the Changing Gender Earnings Gap 1968–1997
-George-Levi Gayle and Limor Golan
-
-227
-
-Dynamic Contracts with Moral Hazard and Adverse Selection
-Alex Gershkov and Motty Perry
-
-268
-
-Prices, Plant Size, and Product Quality
-
-January 2012
-
-Print 0034-6527
-Online 1467-937X
-
-Maurice Kugler and Eric Verhoogen
-
-307
-
-Endogenous Information Acquisition in Coordination Games
-David P. Myatt and Chris Wallace
-
-340
-
-Eliciting Welfare Preferences from Behavioural Data Sets
-Ariel Rubinstein and Yuval Salant
-
-375
-
-Todd Schoellman
-
-388
-
-Education Quality and Development Accounting
-
-January 2012
-
-Downloaded from https://academic.oup.com/restud/issue/79/1 by eFADA user on 17 February 2023
-
-Vol. 79(1) No. 278
-
-ECONOMIC
-STUDIES
-
-THE REVIEW OF ECONOMIC STUDIES
 The review was started in 1933 by a group of young British and American Economists. It is published by The
 Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied economics,
 especially by young economists, and to publish the results in The Review of Economic Studies.
 EDITORIAL COMMITTEE
 Joint Managing Editors
-Stéphane Bonhomme, CEMFI
-Francesco Caselli, London School of Economics
-Marco Ottaviani, Northwestern University
-
-Philipp Kircher, London School of Economics
-Imran Rasul, University College London
-Dimitri Vayanos, London School of Economics
+Francesco caselli, London School of Economics
+Philipp kircher, University of Oxford
+Marco ottaviani, Northwestern University
+Imran rasul, University College London
+Enrique Sentana, CEMFI
 
 Annika Andreasson, IIES, Stockholm University
 Secretary and Business Manager
-Christopher Bowdler, University of Oxford
+Christopher Wallace, University of Oxford
 Foreign Editors
-Pol Antras, Harvard University
-Peter Arcidiacono, Duke University
+Donald Andrews, Yale University
 Andrew Atkeson, University of California, Los Angeles
 Marco Battaglini, Princeton University
 Matthias Doepke, Northwestern University
@@ -115,70 +22,72 @@ Ray Fisman, Columbia University
 Burton Hollifield, Carnegie Mellon University
 Botond Köszegi, University of California, Berkley
 Ilan Kremer, Stanford Univesity
+David Lee, Princeton University
+Jonathan Levin, Stanford University
+
 Guido Lorenzoni, Massachusetts Institute of
 Technology
-
 Marc Melitz, Princeton University
-Ulrich Müller, Princeton University
 Aviv Nevo, Northwestern University
-Alessandro Pavan, Northwestern University
+Martin Schneider, Stanford University
 Ilya Segal, Stanford University
 Marciano Siniscalchi, Northwestern University
 Pierre-Olivier Weill, University of California,
 Los Angeles
-Muhamet Yildiz, Massachusetts Institute of
-Technology
+Muhamet Yildiz, Massachusetts Institute of Technology
 
 Editorial Board
 Andrea Prat (Chair), London School of Economics
 Jaap Abbring, Tilburg University
-Alp Atakan, Koc University
+Jerome Adda, University College London
+Mark Armstrong, University College London
 V Bhaskar, University College London
 Bruno Biais, Toulouse University
+Stéphane Bonhomme, CEMFI
 Valentina Corradi, University of Warwick
 Amil Dasgupta, London School of Economics
-Nicola Fuchs-Schündeln, Frankfurt University
 Andrea Galeotti, University of Essex
-Alfred Galichon, École Polytechnique
 Gino Gancia, CREI, UPF
+Luis Garicano, London School of Economics
 Nicola Gennaioli, CREI, UPF
 Alex Gershkov, Hebrew University of Jerusalem
+Maitreesh Ghatak, London School of Economics
+Rachel Griffith, Institute for Fiscal Studies
+John Hassler, IIES, Stockholm University
 Christian Hellwig, University of California,
 Los Angeles/Toulouse University
 Steffen Huck, University College London
-Nagore Iriberri, Universitat Pompeu Fabra
 Henrik Kleven, London School of Economics
-Miklós Koren, Central European University
-Felix Kübler, University of Zurich
 
+Felix Kübler, University of Zurich
+Simon Lee, University College London
 Gerard Padró Miquel, London School of Economics
+David Myatt, University of Oxford
 Bent Nielsen, University of Oxford
-Áureo de Paula, University College London
+Martin Pesendorfer, London School of Economics
 Guillaume Plantin, Toulouse University
 Hélène Rey, London Business School
-Philipp Schmidt-Dengler, London School of Economics
+Bernard Salanié, Columbia University
 Kjetil Storesletten, University of Oslo
-Adam Szeidl, Central European University
 Balázs Szentes, University College London
 Silvana Tenreyro, London School of Economics
 Michèle Tertilt, University of Mannheim
 Marko Terviö, Aalto University
 Juuso Välimäki, Aalto University
+Dimitri Vayanos, London School of Economics
 Frederic Vermeulen, Tilburg University
-Fabian Waldinger, Warwick University
-Christopher Wallace, University of Leicester
-Georg Weizsäcker, University College, London
+Georg Weizsäcker, London School of Economics
 Fabrizio Zilibotti, University of Zurich
 
 Institutional
-UK print edition and site-wide online access £382
-Non UK print edition nd site wide online access £446/$596/€448
-UK online access online £318
-Non UK online access only £372/$497/€373
-UK print edition online £350
-Non UK print edition only: £409/$547/€510
+UK print edition and site-wide online access £341
+Non UK print edition nd site wide online access £413/$533/€400
+UK online access online £284
+Non UK online access only £344/$444/€333
+UK print edition online £312
+Non UK print edition only: £378/$488/€366
 Personal
-Print edition: £59/$101/€89
+Print edition: £54/$93/€81,
 All other rates are available at www.restud@oxfordjournals.org
 Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not
 refundable. Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more
@@ -205,7 +114,7 @@ Euros to account no. 78923655, IBAN GB16BARC20651878923655). (iii) Credit card (
 American Express).
 The Review of Economic Studies is published four times annually in January, April, July and October by Oxford
 University Press, Oxford, UK.
-Annual subscription price is £446/$596/€448. The Review of Economic Studies is distributed by Mercury International,
+Annual subscription price is £344/$444/€333. The Review of Economic Studies is distributed by Mercury International,
 365 Blair Road, Avenel, NJ 07001, USA. Periodicals postage paid at Rahway, NJ and at additional entry points.
 US Postmaster: send address changes to The Review of Economic Studies, c/o Mercury International, 365 Blair Road,
 Avenel, NJ 07001, USA.
@@ -220,7 +129,7 @@ Disclaimer
 The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this journal; the views and opinions expressed do not necessarily reflect those of the Publisher and
 Editors, neither does the publication of advertisements constitute any endorsement by the Publisher and Editor of the
 products advertised.
-© The Review of Economic Studies Ltd 2012
+© The Review of Economic Studies Ltd 2011
 All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
 form or by any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission
 of the Publishers, or a licence permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd,
@@ -229,7 +138,7 @@ Drive, Danvers, MA 01923.
 Typeset by TNQ Books and Journals Pvt. Ltd., Chennai, India
 Printed by Bell and Bain Ltd, Glasgow, UK
 
-Downloaded from https://academic.oup.com/restud/issue/79/1 by eFADA user on 17 February 2023
+Downloaded from https://academic.oup.com/restud/issue/78/1 by eFADA user on 17 February 2023
 
 Journal Manager
 
@@ -237,6 +146,6 @@ Subscriptions rates
 A subscription to The Review of Economic Studies comprises 4 issues. Prices include postage by surface mail, or for
 subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
 Airmail rates are available on request.
-Annual Subscription Rate (Volume 79, 4 issues, 2012)
+Annual Subscription Rate (Volume 78, 4 issues, 2011)
 
 

@@ -1,130 +1,29 @@
-81(1) No. 286 pp. 1–500
-
-THE REVIEW OF
-
 THE REVIEW OF ECONOMIC STUDIES
-
-Bargaining and Reputation in Search Markets
-
-January 2014
-
-Print 0034-6527
-Online 1467-937X
-
-restud_81_1_Cover.indd 1
-
-Alp E. Atakan and Mehmet Ekmekci
-
-1
-
-Contractual Incompleteness, Unemployment, and Labour Market Segmentation
-Steffen Altmann, Armin Falk, Andreas Grunewald and David Huffman
-
-30
-
-Getting Parents Involved: A Field Experiment in Deprived Schools
-Francesco Avvisati, Marc Gurgand, Nina Guyon and Eric Maurin
-
-57
-
-Rent-sharing, Holdup, and Wages: Evidence from Matched Panel Data
-David Card, Francesco Devicienti and Agata Maida
-
-84
-
-Cycles and Instability in a Rock–Paper–Scissors Population Game: A Continuous Time Experiment
-Timothy N. Cason, Daniel Friedman and Ed Hopkins
-
-112
-
-Household Choices and Child Development
-Daniela Del Boca, Christopher Flinn and Matthew Wiswall
-
-137
-
-International Trade and Labour Income Risk in the U.S.
-Pravin Krishna and Mine Zeynep Senses
-
-186
-
-Parental Leave and Mothers’ Careers: The Relative Importance of Job Protection and Cash Benefits
-Rafael Lalive, Analía Schlosser, Andreas Steinhauer and Josef Zweimüller
-
-219
-
-Resale and Rent-Seeking: An Application to Ticket Markets
-Phillip Leslie and Alan Sorensen
-
-266
-
-Self-Organization for Collective Action: An Experimental Study of Voting on Sanction Regimes
-Thomas Markussen, Louis Putterman and Jean-Robert Tyran
-
-301
-
-Higher Order Risk Attitudes, Demographics, and Financial Decisions
-Charles N. Noussair, Stefan T. Trautmann and Gijs van de Kuilen
-
-325
-
-Exogenous Information, Endogenous Information, and Optimal Monetary Policy
-Luigi Paciello and Mirko Wiederholt
-
-356
-
-Pride and Prejudice: Using Ethnic-Sounding Names and Inter-Ethnic Marriages to Identify Labour
-Market Discrimination
-Yona Rubinstein and Dror Brenner
-
-389
-
-A Major in Science? Initial Beliefs and Final Outcomes for College Major and Dropout
-Ralph Stinebrickner and Todd R. Stinebrickner
-
-426
-
-Downloaded from https://academic.oup.com/restud/issue/81/1 by eFADA user on 17 February 2023
-
-Vol. 81(1) No. 286
-
-ECONOMIC
-STUDIES
-
-Individual Learning and Cooperation in Noisy Repeated Games
-Yuichi Yamamoto
-
-473
-
-January 2014
-
-24-01-2014 11:27:33
-
-THE REVIEW OF ECONOMIC STUDIES
 Subscriptions rates
 A subscription to The Review of Economic Studies comprises 4 issues. Prices include postage by surface mail, or for
 subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
 Airmail rates are available on request.
-Annual Subscription Rate (Volume 81, 4 issues, 2014)
+Annual Subscription Rate (Volume 82, 4 issues, 2015)
 
 The review was started in 1933 by a group of young British and American Economists. It is published by The
 Review of Economic Studies Ltd, whose object is to encourage research in theoretical and applied economics,
 especially by young economists, and to publish the results in The Review of Economic Studies.
+EDITORIAL COMMITTEE
 
 Institutional
-UK print edition and site-wide online access £398
-Non UK print edition and site wide online access £465/$621/E466
-UK online access only £318
-Non UK online access only £372/$497/E373
-UK print edition only £366
-Non UK print edition only: £428/$572/E429
+UK print edition and site-wide online access £416
+Non UK print edition and site wide online access £485/$654/E491
+UK online access only £333
+Non UK online access only £388/$523/E393
+UK print edition only £383
+Non UK print edition only: £447/$602/E452
 
-EDITORIAL COMMITTEE
 Joint Managing Editors
-JEROME ADDA, European University Institute
-STÉPHANE BONHOMME, CEMFI
-FRANCESCO CASELLI, London School of Economics
-PHILIPP KIRCHER, London School of Economics,
-and University of Edinburgh
+JEROME ADDA, Bocconi University
+STÉPHANE BONHOMME, University of Chicago
+GITA GOPINATH, Harvard University
+CHRISTIAN HELLWIG, Toulouse University
+PHILIPP KIRCHER, University of Edinburgh
 
 BOTOND KÖSZEGI, Central European
 University
@@ -136,89 +35,88 @@ ANNIKA ANDREASSON, IIES, Stockholm University
 Secretary and Business Manager
 CHRISTOPHER BOWDLER, University of Oxford
 Foreign Editors
-POL ANTRAS, Harvard University
-PETER ARCIDIACONO, Duke University
-ANDREW ATKESON, University of California, Los Angeles
-MARCO BATTAGLINi, Princeton University
-ARNAUD COSTINOT, Massachusetts Institute of
-Technology
-MATTHIAS DOEPKE, Northwestern University
-PASCALINE DUPAS, Stanford University
-RAY FISMAN, Columbia University
-MIKHAIL GOLOSOV, Princeton University
-GITA GOPINATH, Harvard University
-BRYAN GRAHAM, University of California, Berkeley
-ILAN KREMER, Stanford University
-
-GUIDO LORENZONI, Massachusetts Institute of
-Technology
 ULRICH MÜLLER, Princeton University
+PETER ARCIDIACONO, Duke University
 ALESSANDRO PAVAN, Northwestern University
+ANDREW ATKESON, University of California, Los Angeles
+FRANCESCO BUERA, University of California,
 ILYA SEGAL, Stanford University
-MARCIANO SINISCALCHI, Northwestern
-University
-BRUNO STRULOVICI, Northwestern University
-ANDREW SWEETING, Duke University
-STIJN VAN NIEUWERBURGH, New York University
-PIERRE-OLIVIER WEILL, University of California,
 Los Angeles
-
+MARCIANO SINISCALCHI, Northwestern University
+ARNAUD COSTINOT, Massachusetts Institute of
+BRUNO STRULOVICI, Northwestern University
+Technology
+ANDREW SWEETING, Duke University
+DAVE DONALDSON, Massachusetts Institute of
+STIJN VAN NIEUWERBURGH, New York University
+Technology
+EBONYA WASHINGTON, Yale University
+PASCALINE DUPAS, Stanford University
+PIERRE-OLIVIER WEILL, University of California,
+MIKHAIL GOLOSOV, Princeton University
+Los Angeles
+BRYAN GRAHAM, University of California, Berkeley
+PIERRE YARED, Columbia University
+GUIDO LORENZONI, Massachusetts Institute of Technology
 Editorial Board
 KJETIL STORESLETTEN (Chair), University of Oslo
-ALP ATAKAN, Koc University
-THOMAS CHANEY, Toulouse University
-SYNGJOO CHOI, University College London
-AMIL DASGUPTA, London School of Economics
-MIKE ELSBY, University of Edinburgh
-NICOLA FUCHS-SCHÜNDELN, Goethe University Frankfurt
-ANDREA GALEOTTI, University of Essex
-ALFRED GALICHON, École Polytechnique
-GINO GANCIA, CREI, Universitat Pompeu Fabra
-ALESSANDRO GAVAZZA, London School of Economics
-NICOLA GENNAIOLI, CREI, Universitat Pompeu Fabra
-ALEX GERSHKOV, Hebrew University of Jerusalem
-MARINA HALAC, University of Warwick
-BÅRD HARSTAD, University of Oslo
-CHRISTIAN HELLWIG, Toulouse University
-NAGORE IRIBERRI, Universitat Pompeu Fabra
-KEYU JIN, London School of Economics
-HENRIK KLEVEN, London School of Economics
-PETER KONDOR, Central European University
-MIKLÓS KOREN, Central European University
-DENNIS KRISTENSEN, University College London
-FELIX KÜBLER, University of Zurich
-
-restud_81_1_Cover.indd 2
-
 JEREMY LISE, University College London
+ALP ATAKAN, Koc University
+FRANCESCO CASELLI, London School of Economics
 KATRINE LOKEN, University of Bergen
+THOMAS CHANEY, Toulouse University
 ALBERTO MARTIN, CREI, Universitat Pompeu Fabra
+SYNGJOO CHOI, University College London
+IAN MARTIN, London School of Economics
+AMIL DASGUPTA, London School of Economics
 GUY MICHAELS, London School of Economics
+DAVID DORN, University of Zurich
 GERARD PADRÓ MIQUEL, London School of
+MIKE ELSBY, University of Edinburgh
 Economics
+NICOLA FUCHS-SCHÜNDELN, Goethe University Frankfurt
+ELIAS PAPAIOANNOU, London Business School
+ANDREA GALEOTTI, University of Essex
 DANIEL PARAVISINI, London School of Economics
+ALFRED GALICHON, École Polytechnique
 ÁUREO DE PAULA, University College London
-GUILLAUME PLANTIN, Toulouse University
+GINO GANCIA, CREI, Universitat Pompeu Fabra
+GUILLAUME PLANTIN, Sciences Po University
+ALESSANDRO GAVAZZA, London School of Economics
 IMRAN RASUL, University College London
+NICOLA GENNAIOLI, Bocconi University
 HÉLÈNE REY, London Business School
+ALEX GERSHKOV, Hebrew University of Jerusalem
 PHILIPP SCHMIDT-DENGLER, University of Mannheim
+MARINA HALAC, University of Warwick
+UTA SCHOENBERG, University College London
+BÅRD HARSTAD, University of Oslo
 ADAM SZEIDL, Central European University
+NAGORE IRIBERRI, Universitat Pompeu Fabra
 BALÁZS SZENTES, University College London
+KEYU JIN, London School of Economics
 SILVANA TENREYRO, London School of Economics
+HENRIK KLEVEN, London School of Economics
 OLIVIER TERCIEUX, Paris School of Economics
+PETER KONDOR, Central European University
 MARKO TERVIÖ, Aalto University
+MIKLÓS KOREN, Central European University
 FREDERIC VERMEULEN, University of Leuven
+DENNIS KRISTENSEN, University College London
 FABIAN WALDINGER, University of Warwick
+FELIX KÜBLER, University of Zurich
 GEORG WEIZSÄCKER, Humboldt University
+STEPHAN LAUERMANN, Bonn University
 MIRKO WIEDERHOLT, Goethe University Frankfurt
-FABRIZIO ZILIBOTTI, University of Zurich
 
-Downloaded from https://academic.oup.com/restud/issue/81/1 by eFADA user on 17 February 2023
+restud_82_1_Cover.indd 2
+
+Downloaded from https://academic.oup.com/restud/issue/82/1 by eFADA user on 17 February 2023
 
 Journal Manager
 
 Personal
-Print edition: £59/$101/E89
+Print edition: £62/$106/E93
 All other rates are available at www.restud@oxfordjournals.org
 Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not
 refundable. Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more
@@ -260,7 +158,7 @@ Disclaimer
 The Publisher and Editors cannot be held responsible for errors or any consequences arising from the use of information contained in this journal; the views and opinions expressed do not necessarily reflect those of the Publisher and
 Editors, neither does the publication of advertisements constitute any endorsement by the Publisher and Editor of the
 products advertised.
-© The Review of Economic Studies Ltd 2014
+© The Review of Economic Studies Ltd 2015
 All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
 form or by any means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission
 of the Publishers, or a licence permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd,
@@ -268,7 +166,8 @@ of the Publishers, or a licence permitting restricted copying issued in the UK b
 Drive, Danvers, MA 01923.
 Typeset by Cenveo Publisher Services, Bangalore, India
 Printed by Bell and Bain Ltd, Glasgow, UK
+RESTUD08201M
 
-24-01-2014 11:27:34
+20-12-2014 11:04:01
 
 

@@ -1,63 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 65, No. 1 (Jan., 1998)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2567000
-Accessed: 17-02-2023 12:27 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:38 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REV-IEW OF
-
-ECONOMIC
-Vol. 65(1) No. 222 STUDIES
-
-Standard Auctions with Financially Constrained Bidders
-Yeon-Koo Che and Ian Gale I
-
-Economic Dynamics with Learning: New Stability Results
-George W. Evans and Seppo Honkapohja 23
-
-The Effect of Work Experience on Female Wages and Labour Supply
-Sumru Altug and Robert A. Miller 45
-
-Optimal Pricing with Costly Adjustment: Evidence from Retail-Grocery Stores
-Margaret E. Slade 87
-
-Measurement Error with Accounting Constraints: Point and Interval Estimation for
-Latent Data with an Application to U.K. Gross Domestic Product
-
-Richard J. Smith. Martin R. Weale and Steven E. Satchell 109
-Informational Constraints and the Overlapping Generations Model: Folk and AntiFolk
-
-Theorems
-
-V.
-
-Bhaskar
-
-135
-
-Innovation and Bureaucracy Under Soft and Hard Budget Constraints
-Yingyi Qian and Chenggang Xu 151
-
-A General Characterization of Optimal Income Tax Enforcemenit
-Parkash Chander and Louis L. Wilde 165
-
-January 1998
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:38 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is
 published by The Review of Economic Studies Ltd., whose object is to encourage research in
 theoretical and applied economics, especially by young economists, and to publish the results in the

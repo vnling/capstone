@@ -1,58 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 66, No. 1, Special Issue: Contracts (Jan., 1999)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2566944
-Accessed: 17-02-2023 12:27 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 66(1) No. 226
-
-STUDIES
-
-SPECIAL ISSUE: CONTRACTS
-Introduction
-
-1
-
-The Theory of Moral Hazard and Unobservable Behaviour: Part I J. A. Mirrlees 3
-
-Nash Equilibrium and Welfare Optimality Eric Maskin 23
-Implementation and Renegotiation Eric Maskin and John Moore 39
-
-Complexity and Renegotiation: A Foundation for Incomplete Contracts Ilya Segal 57
-Unforeseen Contingencies and Incomplete Contracts Eric Maskin and Jean Tirole 83
-Foundations of Incomplete Contracts Oliver Hart and John Moore 115
-
-Two Remarks on the Property-Rights Literature Eric Maskin and Jean Tirole 139
-Price Discrimination by a Many-Product Firm Mark Armstrong 151
-Managerial Incentive Problems: A Dynamic Perspective Bengt Holmstrom 169
-
-The Economics of Career Concerns, Part I: Comparing Information Structures
-Mathias Dewatripont, Ian Jewitt and Jean Tirole 183
-
-The Economics of Career Concerns, Part II: Application to Missions and
-Accountability of Government Agencies
-Mathias Dewatripont, Ian Jewitt and Jean Tirole 199
-
-January 1999
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is
 published by The Review of Economic Studies Ltd., whose object is to encourage research in
 theoretical and applied economics, especially by young economists, and to publish the results in the
@@ -112,22 +58,6 @@ Details of the annual subscription rates are given above and include airmail del
 U.S. Mailing: Periodicals postage paid at Rahway, New Jersey. Postmaster: send address corrections to Review
 of Economic Studies, c/o Mercury Airfreight International Ltd., 2323 E. F. Randolph Avenue, Avenel, NJ
 07001, U.S.A. (U.S. mailing agent).
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
-All use subject to https://about.jstor.org/terms
-
-Change of Address
-
-From the 1st January, 1999 the address for correspondence has changed to:
-Dr. H. S. Shin
-
-Review of Economic Studies
-
-Nuffield College
-New Road
-Oxford
-OXI INF
-U.K.
 
 This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:21 UTC
 All use subject to https://about.jstor.org/terms

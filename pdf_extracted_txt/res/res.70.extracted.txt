@@ -1,50 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 70, No. 1 (Jan., 2003)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/3648608
-Accessed: 17-02-2023 12:26 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:19 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 70(1) No. 242
-
-STUDIES
-
-Stage Financing and the Role of Convertible Securities
-Francesca Comelli and Oved Yosha 1
-
-Nonparametric Estimation of Sample Selection Models
-Mitali Das, Whitney K. Newey and Francis Vella 33
-Contracting Productivity Growth Patrick Francois and Joanne Roberts 59
-Group Formation in Risk-Sharing Arrangements
-
-Garance Genicot and Debraj Ray 87
-Empirical Implications of Equilibrium Bidding in First-Price, Symmetric, Common Value Auctions Kenneth Hendricks, Joris Pinkse and Robert H. Porter 115
-
-Incomplete Simultaneous Discrete Response Model with Multiple Equilibria
-Elie Tamer 147
-
-Productivity Dynamics with Technology Choice: An Application
-Assembly Johannes Van Biesebroeck 167
-
-January 2003
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:19 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 
 The Review was started in 1933 by a group of young British and American Economists. It is p
 The Review of Economic Studies Ltd, whose object is to encourage research in theoretical and appli

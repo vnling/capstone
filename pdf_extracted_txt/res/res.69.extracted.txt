@@ -1,53 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies , Jan., 2002, Vol. 69, No. 1 (Jan., 2002)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2695950
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to
-The Review of Economic Studies
-
-This content downloaded from
-31.215.134.233 on Fri, 17 Feb 2023 12:26:31 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 69(1) No. 238 STUDIES
-
-Escaping Nash Inflation In-Koo Cho, Noah Williams and Thomas J. Sargent I
-Labour Relations and Asset Returns Jean-Pierre Danthine and John B. Donaldson 41
-The Sullying Effect of Recessions Gadi Barlevy 65
-On Endogenously Staggered Prices V. Bhaskar 97
-An Optimal IPO Mechanism
-Bruno Biais, Peter Bossaerts and Jean-Charles Rochet 117
-Taste Variation in Discrete Choice Models
-Andrew Chesher and J.M.C. Santos Silva 147
-
-Using Stock Price Information to Regulate Firms Antoine Faure-Grimaud 169
-On the Evaluation of Economic Mobility Peter Gottschalk and Enrico Spolaore 191
-Informal Insurance Arrangements with Limited Commitment: Theory and Evidence
-from Village Economies
-Ethan Ligon, Jonathan P. Thomas and Tim Worrall 209
-Trade Liberalization, Exit, and Productivity Improvements: Evidence from
-Chilean Plants Nina Pavcnik
-
-245
-
-Nonlinear Pricing with Random Participation
-Jean-Charles Rochet and Lars A. Stole 277
-
-January 2002
-This content downloaded from
-31.215.134.233 on Fri, 17 Feb 2023 12:26:31 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is published
 by The Review of Economic Studies Ltd., whose object is to encourage research in theoretical and applied
 economics, especially by young economists, and to publish the results in the Review of Economic Studies.

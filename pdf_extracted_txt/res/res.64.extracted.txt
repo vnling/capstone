@@ -1,49 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 64, No. 1 (Jan., 1997)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2971737
-Accessed: 17-02-2023 12:27 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:49 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 64(1) No. 218 STUDIES
-
-A Competitive Theory of Employment Dynamics Randall Gouge and Ian King 1
-
-Rationality, Nash Equilibrium and Backwards Induction in Perfect Information
-Games
-
-Elchanan
-
-Ben-Porath
-
-23
-
-Data Markets and the Production of Surveys Tomas Philipson 47
-Increasing Returns in Infinite-Horizon Economies Chris Shannon 73
-A Competitive Distribution of Auctions Michael Peters 97
-
-Countably Additive Subjective Probabilities Maxwell B. Stinchcombe 125
-A Note on Portfolio Dominance Christian Gollier 147
-
-January 1997
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:49 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is
 published by The Review of Economic Studies Ltd., whose object is to encourage research in
 theoretical and applied economics, especially by young economists, and to publish the results in the

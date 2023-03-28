@@ -1,54 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 63, No. 1 (Jan., 1996)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2298111
-Accessed: 17-02-2023 12:27 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:59 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 63(1) No. 214 STUDIES
-
-A Theory of Collective Reputations (with applications to th
-tion and to firm quality) Jean Tirole I
-
-A Characterization of Game-Theoretic Solution
-Theorems Matthew 0. Jackson and Sanjay Srivastava 23
-
-Comparing the Robustness of Trading Systems to Higher-Order Unce
-Hyun Song Shin 39
-
-Multilateral Bargaining Vijay Krishna and Roberto Serrano 61
-
-Strategic Trade Policy Design with Asymmetric Information and Public C
-S. Lael Brainard and David Martimort 81
-
-A New Approach to Evaluating Trade Policy
-James E. Anderson and J. Peter Neary 107
-
-Interaction between Endogenous Human Capital and Technological Change
-Theo S. Eicher 127
-
-Semiparametric Estimation for Regression Models for Panel Data
-Joel L. Horowitz and Marianthi Markatou 145
-
-January 1996
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:27:59 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is
 published by The Review of Economic Studies Ltd., whose object is to encourage research in
 theoretical and applied economics, especially by young economists, and to publish the results in the

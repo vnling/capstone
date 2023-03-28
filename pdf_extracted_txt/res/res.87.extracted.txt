@@ -1,106 +1,8 @@
-88(1) No. 318 pp. 1–520
-
-THE REVIEW OF
-
-THE REVIEW OF ECONOMIC STUDIES
-
-Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth
-Ufuk Akcigit, Douglas Hanley and Nicolas Serrano-Velarde
-
-1
-
-Balance Sheet Channel with Information-Trading Frictions in Secondary Markets
-Vladimir Asriyan
-
-44
-
-Aaron L. Bodoh-Creed, Jörn Boehnke and Brent Hickman
-
-91
-
-How Efficient are Decentralized Auction Platforms?
-The Macroeconomics of Microfinance
-Francisco J. Buera, Joseph P. Kaboski and Yongseok Shin
-
-126
-
-Benjamin Bushong, Matthew Rabin and Joshua Schwartzstein
-
-162
-
-A Model of Relative Thinking
-Monetary Policy and the Predictability of Nominal Exchange Rates
-M. S. Eichenbaum, B. K. Johannsen and S. T. Rebelo
-
-192
-
-Cross-Sectional Patterns of Mortgage Debt during the Housing Boom: Evidence and
-Implications
-Christopher L. Foote, Lara Loewenstein and Paul S. Willen
-
-229
-
-Bank Capital Redux: Solvency, Liquidity, and Crisis
-Òscar Jordà, Björn Richter, Moritz Schularick and Alan M. Taylor
-
-260
-
-A Theory of Strategic Uncertainty and Cultural Diversity
-Willemien Kets and Alvaro Sandroni
-
-287
-
-The Cyclicality of Sales and Aggregate Price Flexibility
-Oleksiy Kryvtsov and Nicolas Vincent
-
-334
-
-Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness
-Steven D. Levitt
-
-378
-
-Suphanit Piyapromdee
-
-406
-
-The Impact of Immigration on Wages, Internal Migration, and Welfare
-
-January 2021
-
-Print 0034-6527
-Online 1467-937X
-
-restud_88_1_Cover.indd 1
-
-Downloaded from https://academic.oup.com/restud/issue/88/1 by eFADA user on 17 February 2023
-
-Vol. 88(1) No. 318
-
-ECONOMIC
-STUDIES
-
-Abatement Strategies and the Cost of Environmental Regulation: Emission Standards on the
-European Car Market
-Mathias Reynaert
-
-454
-
-David Schindler and Mark Westcott
-
-489
-
-Shocking Racial Attitudes: Black G.I.s in Europe
-
-January 2021
-
-01-02-2021 18:02:20
-
-Subscriptions rates
+Subscriptions rates
 A subscription to The Review of Economic Studies comprises 6 issues. Prices include postage by surface mail, or for
 subscribers in the USA and Canada by airfreight, or in India, Japan, Australia and New Zealand, by Air Speeded Post.
 Airmail rates are available on request.
-Annual Subscription Rate (Volume 88, 6 issues, 2021)
+Annual Subscription Rate (Volume 87, 6 issues, 2020)
 
 THE REVIEW OF ECONOMIC STUDIES
 The review was started in 1933 by a group of young British and American Economists. It is published by The Review of Economic
@@ -108,12 +10,12 @@ Studies Ltd, whose object is to encourage research in theoretical and applied ec
 publish the results in The Review of Economic Studies.
 
 Institutional
-UK print edition and site-wide online access £604
-Non UK print edition and site wide online access £667/$943/E709
-UK online access only £463
-Non UK online access only £511/$724/E543
-UK print edition only £557
-Non UK print edition only: £615/$868/E653
+UK print edition and site-wide online access £589
+Non UK print edition and site wide online access £651/$920/E692
+UK online access only £452
+Non UK online access only £499/$706/E530
+UK print edition only £543
+Non UK print edition only: £600/$847/E637
 
 EDITORIAL COMMITTEE
 Managing Editors
@@ -121,6 +23,7 @@ Thomas Chaney, Sciences Po
 Andrea Galeotti, London Business School
 Nicola Gennaioli, Bocconi University
 Veronica Guerrieri, University of Chicago
+Dirk Krueger, University of Pennsylvania
 
 Kurt Mitman, IIES, Stockholm University
 Francesca Molinari, Cornell University
@@ -130,78 +33,80 @@ Journal Manager
 
 Secretary and Business Manager
 Catherine M. Thomas, London School of Economics
-Foreign Editors
+
 Manuel Amador, University of Minnesota
 
-Anna Mikusheva, MIT
-
-Melissa Dell, Harvard University
-
-Guillermo Ordonez, University of Pennsylvania
-
-Chao Fu, Univerisity of Wisconsin at Madison
-
+Foreign Editors
 Mar Reguant, Northwestern University
 
-Marina Halac, Yale University
+Francisco Buera, Washington University in St. Louis
 
 Andres Santos, University of California, Los Angeles
 
-Myrto Kalouptsidi, Harvard University
+Sylvain Chassang, New York University
 
 Joshua Schwartzstein, Harvard Business School
 
-Navin Kartik, Columbia University
+Melissa Dell, Harvard University
+
+Stefanie Stantcheva, Harvard University
+
+Chao Fu, Univerisity of Wisconsin at Madison
 
 Jon Steinsson, University of California, Berkeley
 
-Patrick Kline, University of California, Berkeley
+Marina Halac, Yale University
 
 Johannes Stroebel, New York University
 
-Fuhito Kojima, University of Tokyo
+Peter Hansen, University of North Carolina
+
+Ebonya Washington, Yale University
+
+Navin Kartik, Columbia University
 
 Alexander Wolitzky, MIT
-Editorial Board
 
-Nicola Fuchs-Schündeln (Chair), Goethe University Frankfurt
-Johannes Abeler, University of Oxford
-Abi Adams-Prassl, University of Oxford
+Patrick Kline, University of California, Berkeley
+
+Pierre Yared, Columbia University
+
+Guillermo Ordonez, University of Pennsylvania
+
+Editorial Board
+Philipp Kircher (Chair), European University Institute and University of Edinburgh
+Johannes Abeler, Oxford University
 Timo Boppart, IIES, Stockholm University
-Pedro Bordalo, Saïd Business School, University of Oxford
-Gharad Bryan, London School of Economics
-Konrad Burchardi, IIES, Stockholm University
-Michael Callen, London School of Economics
-Davide Cantoni, Ludwig-Maximilians-Universität München
+Davide Cantoni, Ludwig-Maximilian University
+Nicolas Coeurdacier, Sciences Po
 Francesco Decarolis, Bocconi University
 Swati Dhingra, London School of Economics
-Matthew Elliott, University of Cambridge
 Mike Elsby, University of Edinburgh
 Ruben Enikolopov, Universitat Pompeu Fabra and
 New Economic School
-Luca Fornaro, CREI, Universitat Pompeu Fabra
-Joachim Freyberger, University of Bonn
-Daniel Garrett, Toulouse School of Economics
+Nicola Fuchs-Schündeln, Goethe University Frankfurt
 Alessandro Gavazza, London School of Economics
 Jeanne Hagenbach, Sciences Po
+Bård Harstad, University of Oslo
 Xavier d’Haultfoeuille, CREST
-Christian Hellwig, Toulouse School of Economics
+Christian Hellwig, University of Toulouse
 Nagore Iriberri, University of the Basque Country,
 EHU-UPV
-Nir Jaimovich, University of Zurich
 Xavier Jaravel, London School of Economics
 Toru Kitagawa, University College London
 Terri Kneeland, University College London
+Peter Kondor, London School of Economics
 Miklós Koren, Central European University
-Stephan Lauermann, University of Bonn
+Dennis Kristensen, University College London
+Stephan Lauermann, Bonn University
 Attila Lindner, University College London
-Thomas Le Barbanchon, Bocconi University
-
-restud_88_1_Cover.indd 2
-
 Joan Llull, Universitat Autònoma de Barcelona
 Katrine Loken, University of Bergen
 Kalina Manova, University College London
+Alberto Martin, CREI, Universitat Pompeu Fabra
+
+restud_87_1_Cover.indd 2
+
 Monica Martinez-Bravo, CEMFI
 Filip Matejka, CERGE-EI
 Guy Michaels, London School of Economics
@@ -209,6 +114,7 @@ Benjamin Moll, London School of Economics
 Andreas Moxnes, University of Oslo
 Martin Oehmke, London School of Economics
 Elias Papaioannou, London Business School
+Daniel Paravisini, London School of Economics
 Áureo de Paula, University College London
 Antonio Penta, Universitat Pompeu Fabra
 Eduardo Perez-Richet, Sciences Po
@@ -220,22 +126,22 @@ Florian Scheuer, University of Zurich
 Johannes Spinnewijn, London School of Economics
 Jakub Steiner, CERGE-EI
 Vincent Sterk, University College London
+Olivier Tercieux, Paris School of Economics
 Michèle Tertilt, University of Mannheim
-Victoria Vanasco, CREI
+Dimitri Vayanos, London School of Economics
 Fabian Waldinger, University of Munich
 Martin Weidner, University College London
 Mirko Wiederholt, Sciences Po
-Takuro Yamashita, Toulouse School of Economics
+Takuro Yamashita, University of Toulouse
 David Yanagizawa-Drott, University of Zurich
 Noam Yuchtman, London School of Economics
-Shengxing Zhang, London School of Economics
 
-Downloaded from https://academic.oup.com/restud/issue/88/1 by eFADA user on 17 February 2023
+Downloaded from https://academic.oup.com/restud/issue/87/1 by eFADA user on 17 February 2023
 
 Ann Law, London School of Economics
 
 Personal
-Print edition: £77/$128/E113
+Print edition: £75/$125/E110
 All other rates are available at https://academic.oup.com/restud
 Full prepayment, in the correct currency, is required for all orders. Orders are regarded as firm and payments are not refundable.
 Subscriptions are accepted and entered on a complete volume basis. Claims cannot be considered more than FOUR months after
@@ -260,7 +166,7 @@ GB27BARC20651866014600; EUE Euros to account no. 78923655, IBAN GB16BARC20651878
 The Review of Economic Studies, ISSN 0034-6527, is published six times annually in January, March, May, July, October and
 November by Oxford University Press, Oxford, UK and distributed in the USA by UKP Worldwide, 3390 Rand Road, South Plainfield,
 NJ 07080.
-Annual subscription price is £667/$943/E709. Periodicals postage paid at South Plainfield, NJ.
+Annual subscription price is £620/$876/E659. Periodicals postage paid at South Plainfield, NJ.
 US Postmaster: send address changes to The Review of Economic Studies, c/o 3390 Rand Road, South Plainfield, NJ 07080.
 Permissions
 For information on how to request permissions to reproduce articles/information from this journal, please visit
@@ -273,7 +179,7 @@ The Publisher and Editors cannot be held responsible for errors or any consequen
 journal; the views and opinions expressed do not necessarily reflect those of the Publisher and Editors, neither does the publication of
 advertisements constitute any endorsement by the Publisher and Editor of the products advertised.
 Subscription records are maintained at Oxford University Press, UK.
-© The Review of Economic Studies Ltd 2021
+© The Review of Economic Studies Ltd 2020
 All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any
 means, electronic, mechanical, photocopying, recording, or otherwise without prior written permission of the Publishers, or a licence
 permitting restricted copying issued in the UK by the Copyright Licensing Agency Ltd, 90 Tottenham Court Road, London W1P 9HE,
@@ -281,6 +187,6 @@ or in the USA by the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA
 Typeset by Cenveo Publisher Services, Bangalore, India
 Printed by Bell and Bain Ltd, Glasgow, UK
 
-01-02-2021 18:02:21
+20-12-2019 17:10:22
 
 

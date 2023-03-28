@@ -1,61 +1,4 @@
-Front Matter
-Source: The Review of Economic Studies, Vol. 68, No. 1 (Jan., 2001)
-Published by: Oxford University Press
-Stable URL: https://www.jstor.org/stable/2695915
-Accessed: 17-02-2023 12:26 UTC
-JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
-range of content in a trusted digital archive. We use information technology and tools to increase productivity and
-facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
-https://about.jstor.org/terms
-
-Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access
-to The Review of Economic Studies
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:43 UTC
-All use subject to https://about.jstor.org/terms
-
-THE REVIEW OF
-
-ECONOMIC
-Vol. 68(1) No. 234
-
-Moral Hazard and Renegotiation with Multiple Agents
-Shingo Ishiguro and Hideshi Itoh I
-Optimal Contracting with Private Knowledge of Wealth and Ability
-
-Tracy R. Lewis and David E. M. Sappington 21
-Performance, Promotion, and the Peter Principle
-
-James A. Fairburn and James M. Malcomson 45
-Lobbying and Welfare in a Representative Democracy
-Timothy Besley and Stephen Coate 67
-
-The Role of Market Size in the Formation of Jurisdictions Alessandra Casella 83
-
-A Theory of Constitutional Standards and Civil Liberty Roger Lagunoff 109
-Tiebout with Politics: Capital Tax Competition and Constitutional Choices
-
-Carlo Perroni and Kimberley A. Scharf 133
-Multiple-Object Auctions with Budget Constrained Bidders
-
-Jean-Pierre Benoit and Vijay Krishna 155
-
-Wealth Inequality and Asset Pricing Christian Gollier 181
-Using Elasticities to Derive Optimal Income Tax Rates Emmanuel Saez 205
-
-Travel
-
-Fund
-
-January 2001
-
-This content downloaded from 31.215.134.233 on Fri, 17 Feb 2023 12:26:43 UTC
-All use subject to https://about.jstor.org/terms
-
-231
-
-THE REVIEW OF ECONOMIC STUDIES
+THE REVIEW OF ECONOMIC STUDIES
 The Review was started in 1933 by a group of young British and American Economists. It is published
 by The Review of Economic Studies Ltd., whose object is to encourage research in theoretical and applied
 economics, especially by young economists, and to publish the results in the Review of Economic Studies.
