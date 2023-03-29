@@ -1,6 +1,6 @@
 Editor
-Pinelopi Koujianou
-Goldberg
+Pinelopi Koujianou Goldberg
+
 Coeditors
 mark aguiar
 roland bÉnabou
@@ -58,7 +58,6 @@ Eric Verhoogen
 Leeat Yariv
 
 Managing Editor
-
 Steven M. Stelling
 
 Associate Managing Editor

@@ -1,6 +1,6 @@
 Editor
-Pinelopi Koujianou
-Goldberg
+Pinelopi Koujianou Goldberg
+
 Coeditors
 marianne bertrand
 martin eichenbaum
@@ -9,13 +9,14 @@ LUIGI PISTAFERRI
 Debraj Ray
 larry samuelson
 andrzej skrzypacz
+
 Managing Editor
 Steven M. Stelling
+
 Assistant Managing Editor
 Kelly Markel
 
 Board of Editors
-
 Mark Aguiar
 Pol Antràs
 Sandra Black

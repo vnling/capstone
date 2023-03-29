@@ -1,7 +1,7 @@
 Editor
 Erzo F.P. Luttmer
-Coeditors
 
+Coeditors
 Isaiah Andrews
 Sylvain Chassang
 Arnaud Costinot
@@ -88,7 +88,6 @@ Jeff Wooldridge
 Pierre Yared
 
 Data Editor
-
 Lars Vilhuber
 
 Managing Editor

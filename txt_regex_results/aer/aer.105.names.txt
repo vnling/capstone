@@ -1,6 +1,6 @@
 Editor
-Pinelopi Koujianou
-Goldberg
+Pinelopi Koujianou Goldberg
+
 Coeditors
 mark aguiar
 roland bÉnabou
@@ -10,14 +10,15 @@ john leahy
 LUIGI PISTAFERRI
 Debraj Ray
 larry samuelson
+
 Managing Editor
 Steven M. Stelling
+
 Assistant Managing Editors
 Kelly Markel
 MatThew A. Roberson
 
 Board of Editors
-
 Manuel amador
 marcO bassetto
 Craig Burnside

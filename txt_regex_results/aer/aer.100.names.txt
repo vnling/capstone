@@ -1,16 +1,19 @@
 Editor
 Robert A. Moffitt
+
 Co-Editors
 Mark Gertler
-Pinelopi Koujianou
-Goldberg
+Pinelopi Koujianou Goldberg
 Dirk Krueger
 Alessandro Lizzeri
 Joel Sobel
+
 Managing Editor
 Jane Emily Voros
+
 Acting Managing Editor
 Steven M. Stelling
+
 Board of Editors
 Pol antrÀs
 Ralph Braid

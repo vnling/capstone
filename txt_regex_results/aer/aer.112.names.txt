@@ -2,7 +2,6 @@ Editor
 Esther Duflo
 
 Coeditors
-
 Isaiah Andrews
 Sylvain Chassang
 Stefano DellaVigna
@@ -44,7 +43,6 @@ Ying Fan
 Patrick Francois
 Simone Galperti
 Daniel Gottlieb
-
 Eric Gould
 Paul Grieco
 Michael Grubb
@@ -71,7 +69,6 @@ Brent Neiman
 Ryan Oprea
 Philip Oreopoulos
 Juan Ortner
-
 Amanda Pallais
 Antonio Penta
 Eduardo Perez-Richet
@@ -100,7 +97,7 @@ Jeff Wooldridge
 Pierre Yared
 
 Managing Editor
-
 Steven M. Stelling
+
 Assistant Managing Editor
 Ariana Mapua

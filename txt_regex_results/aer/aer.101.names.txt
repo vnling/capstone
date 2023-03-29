@@ -1,14 +1,16 @@
 Editor
-Pinelopi Koujianou
-Goldberg
+Pinelopi Koujianou Goldberg
+
 Coeditors
 martin eichenbaum
 hilary hoynes
 Dirk Krueger
 Alessandro Lizzeri
 larry samuelson
+
 Managing Editor
 Steven M. Stelling
+
 Board of Editors
 Pol Antràs
 Ralph Braid
