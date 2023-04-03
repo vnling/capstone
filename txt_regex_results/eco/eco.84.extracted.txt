@@ -7,7 +7,7 @@ GERI MATTSON
 CO-EDITORS
 DIRK BERGEMANN, Yale University
 LIRAN EINAV, Stanford University
-ITZHAK GILBOA, HEC Paris and Tel Aviv University
+ITZHAK GILBOA, HEC Paris,Tel Aviv University
 ELIE TAMER, Harvard University
 GIOVANNI L. VIOLANTE, Princeton University
 FABRIZIO ZILIBOTTI, Yale University
@@ -26,7 +26,7 @@ PIERPAOLO BATTIGALLI, Università Bocconi
 WOJCIECH OLSZEWSKI, Northwestern University
 PATRICK BAYER, Duke University
 MICHAEL OSTROVSKY, Stanford University
-FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+FRANCIS BLOCH, University Paris 1,Paris School of Economics
 PARAG PATHAK, Massachusetts Institute of Technology
 NICHOLAS BLOOM, Stanford University
 JORIS PINKSE, Pennsylvania State University

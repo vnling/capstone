@@ -1,0 +1,63 @@
+Stéphane Bonhomme,Joint Managing Editors,CEMFI
+Francesco Caselli,Joint Managing Editors,London School of Economics
+Marco Ottaviani,Joint Managing Editors,Northwestern University
+Philipp Kircher,Joint Managing Editors,London School of Economics
+Imran Rasul,Joint Managing Editors,University College London
+Dimitri Vayanos,Joint Managing Editors,London School of Economics
+Annika Andreasson,Journal Manager,IIES, Stockholm University
+Christopher Bowdler,Secretary And Business Manager,University of Oxford
+Pol Antras,Foreign Editors,Harvard University
+Peter Arcidiacono,Foreign Editors,Duke University
+Andrew Atkeson,Foreign Editors,University of California, Los Angeles
+Marco Battaglini,Foreign Editors,Princeton University
+Matthias Doepke,Foreign Editors,Northwestern University
+Ray Fisman,Foreign Editors,Columbia University
+Burton Hollifield,Foreign Editors,Carnegie Mellon University
+Botond Köszegi,Foreign Editors,University of California, Berkley
+Ilan Kremer,Foreign Editors,Stanford Univesity
+Guido Lorenzoni,Foreign Editors,Massachusetts Institute of Technology
+Marc Melitz,Foreign Editors,Princeton University
+Ulrich Müller,Foreign Editors,Princeton University
+Aviv Nevo,Foreign Editors,Northwestern University
+Alessandro Pavan,Foreign Editors,Northwestern University
+Ilya Segal,Foreign Editors,Stanford University
+Marciano Siniscalchi,Foreign Editors,Northwestern University
+Pierre-Olivier Weill,Foreign Editors,University of California, Los Angeles
+Muhamet Yildiz,Foreign Editors,Massachusetts Institute of Technology
+Andrea Prat (Chair),Editorial Board,London School of Economics
+Jaap Abbring,Editorial Board,Tilburg University
+Alp Atakan,Editorial Board,Koc University
+V Bhaskar,Editorial Board,University College London
+Bruno Biais,Editorial Board,Toulouse University
+Valentina Corradi,Editorial Board,University of Warwick
+Amil Dasgupta,Editorial Board,London School of Economics
+Nicola Fuchs-Schündeln,Editorial Board,Frankfurt University
+Andrea Galeotti,Editorial Board,University of Essex
+Alfred Galichon,Editorial Board,École Polytechnique
+Gino Gancia,Editorial Board,CREI, UPF
+Nicola Gennaioli,Editorial Board,CREI, UPF
+Alex Gershkov,Editorial Board,Hebrew University of Jerusalem
+Christian Hellwig,Editorial Board,University of California, Los Angeles/Toulouse University
+Steffen Huck,Editorial Board,University College London
+Nagore Iriberri,Editorial Board,Universitat Pompeu Fabra
+Henrik Kleven,Editorial Board,London School of Economics
+Miklós Koren,Editorial Board,Central European University
+Felix Kübler,Editorial Board,University of Zurich
+Gerard Padró Miquel,Editorial Board,London School of Economics
+Bent Nielsen,Editorial Board,University of Oxford
+Áureo De Paula,Editorial Board,University College London
+Guillaume Plantin,Editorial Board,Toulouse University
+Hélène Rey,Editorial Board,London Business School
+Philipp Schmidt-Dengler,Editorial Board,London School of Economics
+Kjetil Storesletten,Editorial Board,University of Oslo
+Adam Szeidl,Editorial Board,Central European University
+Balázs Szentes,Editorial Board,University College London
+Silvana Tenreyro,Editorial Board,London School of Economics
+Michèle Tertilt,Editorial Board,University of Mannheim
+Marko Terviö,Editorial Board,Aalto University
+Juuso Välimäki,Editorial Board,Aalto University
+Frederic Vermeulen,Editorial Board,Tilburg University
+Fabian Waldinger,Editorial Board,Warwick University
+Christopher Wallace,Editorial Board,University of Leicester
+Georg Weizsäcker,Editorial Board,University College, London
+Fabrizio Zilibotti,Editorial Board,University of Zurich

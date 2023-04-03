@@ -1,0 +1,50 @@
+Stephen Morris,Editor,Princeton University
+Geri Mattson,Managing Editor,
+Daron Acemoglu,Co-Editors,MIT
+Steven Berry,Co-Editors,Yale University
+Whitney K. Newey,Co-Editors,MIT
+Wolfgang Pesendorfer,Co-Editors,Princeton University
+Larry Samuelson,Co-Editors,Yale University
+Harald Uhlig,Co-Editors,University of Chicago
+Yacine Aït-Sahalia,Associate Editors,Princeton University
+Joseph G. Altonji,Associate Editors,Yale University
+James Andreoni,Associate Editors,University of California, San Diego
+Donald W. K. Andrews,Associate Editors,Yale University
+Jushan Bai,Associate Editors,New York University
+Marco Battaglini,Associate Editors,Princeton University
+Pierpaolo Battigalli,Associate Editors,Università Bocconi
+Dirk Bergemann,Associate Editors,Yale University
+Michele Boldrin,Associate Editors,Washington University in St. Louis
+Victor Chernozhukov,Associate Editors,Massachusetts Institute of Technology
+J. Darrell Duffie,Associate Editors,Stanford University
+Jeffrey Ely,Associate Editors,Northwestern University
+Larry G. Epstein,Associate Editors,Boston University
+Haluk Ergin,Associate Editors,Washington University in St. Louis
+Faruk Gul,Associate Editors,Princeton University
+Jinyong Hahn,Associate Editors,University of California, Los Angeles
+Philip A. Haile,Associate Editors,Yale University
+Philippe Jehiel,Associate Editors,Paris School of Economics
+Yuichi Kitamura,Associate Editors,Yale University
+Per Krusell,Associate Editors,Princeton University,Stockholm University
+Oliver Linton,Associate Editors,London School of Economics
+Bart Lipman,Associate Editors,Boston University
+Thierry Magnac,Associate Editors,Toulouse School of Economics
+George J. Mailath,Associate Editors,University of Pennsylvania
+David Martimort,Associate Editors,IDEI-GREMAQ, Université des Sciences Sociales de Toulouse
+Steven A. Matthews,Associate Editors,University of Pennsylvania
+Rosa L. Matzkin,Associate Editors,University of California, Los Angeles
+Lee Ohanian,Associate Editors,University of California, Los Angeles
+Wojciech Olszewski,Associate Editors,Northwestern University
+Eric Renault,Associate Editors,University of North Carolina
+Philip J. Reny,Associate Editors,University of Chicago
+Jean-Marc Robin,Associate Editors,Université de Paris 1,University College London
+Susanne M. Schennach,Associate Editors,University of Chicago
+Uzi Segal,Associate Editors,Boston College
+Chris Shannon,Associate Editors,University of California, Berkeley
+Neil Shephard,Associate Editors,Oxford University
+Marciano Siniscalchi,Associate Editors,Northwestern University
+Jeroen M. Swinkels,Associate Editors,Washington University in St. Louis
+Elie Tamer,Associate Editors,Northwestern University
+Iván Werning,Associate Editors,Massachusetts Institute of Technology
+Asher Wolinsky,Associate Editors,Northwestern University
+Mary Beth Bellando,Editorial Assistant,Princeton University

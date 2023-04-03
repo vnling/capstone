@@ -1,0 +1,86 @@
+Thomas Chaney,Managing Editors,Sciences Po
+Andrea Galeotti,Managing Editors,London Business School
+Nicola Gennaioli,Managing Editors,Bocconi University
+Veronica Guerrieri,Managing Editors,University of Chicago
+Kurt Mitman,Managing Editors,IIES, Stockholm University
+Francesca Molinari,Managing Editors,Cornell University
+Uta Schoenberg,Managing Editors,University College London
+Adam Szeidl,Managing Editors,Central European University
+Ann Law,Journal Manager,London School of Economics
+Catherine M. Thomas,Secretary And Business Manager,London School of Economics
+Manuel Amador,Foreign Editors,University of Minnesota
+Anna Mikusheva,Foreign Editors,MIT
+Melissa Dell,Foreign Editors,Harvard University
+Guillermo Ordonez,Foreign Editors,University of Pennsylvania
+Chao Fu,Foreign Editors,Univerisity of Wisconsin at Madison
+Mar Reguant,Foreign Editors,Northwestern University
+Marina Halac,Foreign Editors,Yale University
+Andres Santos,Foreign Editors,University of California, Los Angeles
+Myrto Kalouptsidi,Foreign Editors,Harvard University
+Joshua Schwartzstein,Foreign Editors,Harvard Business School
+Navin Kartik,Foreign Editors,Columbia University
+Jon Steinsson,Foreign Editors,University of California, Berkeley
+Patrick Kline,Foreign Editors,University of California, Berkeley
+Johannes Stroebel,Foreign Editors,New York University
+Fuhito Kojima,Foreign Editors,University of Tokyo
+Alexander Wolitzky,Foreign Editors,MIT
+Nicola Fuchs-Schündeln (Chair),Editorial Board,Goethe University Frankfurt
+Johannes Abeler,Editorial Board,University of Oxford
+Abi Adams-Prassl,Editorial Board,University of Oxford
+Timo Boppart,Editorial Board,IIES, Stockholm University
+Pedro Bordalo,Editorial Board,Saïd Business School, University of Oxford
+Gharad Bryan,Editorial Board,London School of Economics
+Konrad Burchardi,Editorial Board,IIES, Stockholm University
+Michael Callen,Editorial Board,London School of Economics
+Davide Cantoni,Editorial Board,Ludwig-Maximilians-Universität München
+Francesco Decarolis,Editorial Board,Bocconi University
+Swati Dhingra,Editorial Board,London School of Economics
+Matthew Elliott,Editorial Board,University of Cambridge
+Mike Elsby,Editorial Board,University of Edinburgh
+Ruben Enikolopov,Editorial Board,Universitat Pompeu Fabra and New Economic School
+Luca Fornaro,Editorial Board,CREI, Universitat Pompeu Fabra
+Joachim Freyberger,Editorial Board,University of Bonn
+Daniel Garrett,Editorial Board,Toulouse School of Economics
+Alessandro Gavazza,Editorial Board,London School of Economics
+Jeanne Hagenbach,Editorial Board,Sciences Po
+Xavier D’Haultfoeuille,Editorial Board,CREST
+Christian Hellwig,Editorial Board,Toulouse School of Economics
+Nagore Iriberri,Editorial Board,University of the Basque Country, EHU-UPV
+Nir Jaimovich,Editorial Board,University of Zurich
+Xavier Jaravel,Editorial Board,London School of Economics
+Toru Kitagawa,Editorial Board,University College London
+Terri Kneeland,Editorial Board,University College London
+Miklós Koren,Editorial Board,Central European University
+Stephan Lauermann,Editorial Board,University of Bonn
+Attila Lindner,Editorial Board,University College London
+Thomas Le Barbanchon,Editorial Board,Bocconi University
+Joan Llull,Editorial Board,Universitat Autònoma de Barcelona
+Katrine Loken,Editorial Board,University of Bergen
+Kalina Manova,Editorial Board,University College London
+Monica Martinez-Bravo,Editorial Board,CEMFI
+Filip Matejka,Editorial Board,CERGE-EI
+Guy Michaels,Editorial Board,London School of Economics
+Benjamin Moll,Editorial Board,London School of Economics
+Andreas Moxnes,Editorial Board,University of Oslo
+Martin Oehmke,Editorial Board,London School of Economics
+Elias Papaioannou,Editorial Board,London Business School
+Áureo De Paula,Editorial Board,University College London
+Antonio Penta,Editorial Board,Universitat Pompeu Fabra
+Eduardo Perez-Richet,Editorial Board,Sciences Po
+Maria Petrova,Editorial Board,IPEG Barcelona
+Giacomo Ponzetto,Editorial Board,CREI, Universitat Pompeu Fabra
+Christoph Rothe,Editorial Board,University of Mannheim
+Edouard Schaal,Editorial Board,CREI, Universitat Pompeu Fabra
+Florian Scheuer,Editorial Board,University of Zurich
+Johannes Spinnewijn,Editorial Board,London School of Economics
+Jakub Steiner,Editorial Board,CERGE-EI
+Vincent Sterk,Editorial Board,University College London
+Michèle Tertilt,Editorial Board,University of Mannheim
+Victoria Vanasco,Editorial Board,CREI
+Fabian Waldinger,Editorial Board,University of Munich
+Martin Weidner,Editorial Board,University College London
+Mirko Wiederholt,Editorial Board,Sciences Po
+Takuro Yamashita,Editorial Board,Toulouse School of Economics
+David Yanagizawa-Drott,Editorial Board,University of Zurich
+Noam Yuchtman,Editorial Board,London School of Economics
+Shengxing Zhang,Editorial Board,London School of Economics

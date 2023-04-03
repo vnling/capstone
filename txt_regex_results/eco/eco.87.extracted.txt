@@ -20,13 +20,13 @@ MASSIMO MARINACCI, Università Bocconi
 JAAP ABBRING, Tilburg University
 TREB ALLEN, Dartmouth College
 ANDREW MCLENNAN, University of Queensland
-MANUEL AMADOR, Federal Reserve Bank of Minneapolis and University of Minnesota
+MANUEL AMADOR, Federal Reserve Bank of Minneapolis,University of Minnesota
 FRANCESCA MOLINARI, Cornell University
 SUJOY MUKERJI, Queen Mary University of London
 SERENA NG, Columbia University
 ANDRES ARADILLAS-LOPEZ, The Pennsylvania State University
 ANDRIY NORETS, Brown University
-FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+FRANCIS BLOCH, University Paris 1,Paris School of Economics
 WOJCIECH OLSZEWSKI, Northwestern University
 ELIAS PAPAIOANNOU, London Business School
 NICHOLAS BLOOM, Stanford University
@@ -53,7 +53,7 @@ VIKTOR TODOROV, Northwestern University
 PHILIP HAILE, Yale University
 MARINA HALAC, Yale University
 ALEH TSYVINSKI, Yale University
-KEISUKE HIRANO, The Pennsylvania State University and ISER
+KEISUKE HIRANO, The Pennsylvania State University,ISER
 NICOLAS VIEILLE, HEC Paris
 RAKESH VOHRA, University of Pennsylvania
 STEFAN HODERLEIN, Boston College

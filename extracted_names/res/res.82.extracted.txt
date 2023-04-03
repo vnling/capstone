@@ -1,0 +1,77 @@
+Jerome Adda,Joint Managing Editors,Bocconi University
+Stéphane Bonhomme,Joint Managing Editors,University of Chicago
+Gita Gopinath,Joint Managing Editors,Harvard University
+Christian Hellwig,Joint Managing Editors,Toulouse University
+Philipp Kircher,Joint Managing Editors,University of Edinburgh
+Botond Köszegi,Joint Managing Editors,Central European University
+Michele Tertilt,Joint Managing Editors,University of Mannheim
+Dimitri Vayanos,Joint Managing Editors,London School of Economics
+Annika Andreasson,Journal Manager,IIES, Stockholm University
+Christopher Bowdler,Secretary And Business Manager,University of Oxford
+Ulrich Müller,Foreign Editors,Princeton University
+Peter Arcidiacono,Foreign Editors,Duke University
+Alessandro Pavan,Foreign Editors,Northwestern University
+Andrew Atkeson,Foreign Editors,University of California, Los Angeles
+Francesco Buera,Foreign Editors,University of California, Los Angeles
+Ilya Segal,Foreign Editors,Stanford University
+Marciano Siniscalchi,Foreign Editors,Northwestern University
+Arnaud Costinot,Foreign Editors,Massachusetts Institute of Technology
+Bruno Strulovici,Foreign Editors,Northwestern University
+Andrew Sweeting,Foreign Editors,Duke University
+Dave Donaldson,Foreign Editors,Massachusetts Institute of Technology
+Stijn Van Nieuwerburgh,Foreign Editors,New York University
+Ebonya Washington,Foreign Editors,Yale University
+Pascaline Dupas,Foreign Editors,Stanford University
+Pierre-Olivier Weill,Foreign Editors,University of California, Los Angeles
+Mikhail Golosov,Foreign Editors,Princeton University
+Bryan Graham,Foreign Editors,University of California, Berkeley
+Pierre Yared,Foreign Editors,Columbia University
+Guido Lorenzoni,Foreign Editors,Massachusetts Institute of Technology
+Kjetil Storesletten (Chair),Editorial Board,University of Oslo
+Jeremy Lise,Editorial Board,University College London
+Alp Atakan,Editorial Board,Koc University
+Francesco Caselli,Editorial Board,London School of Economics
+Katrine Loken,Editorial Board,University of Bergen
+Thomas Chaney,Editorial Board,Toulouse University
+Alberto Martin,Editorial Board,CREI, Universitat Pompeu Fabra
+Syngjoo Choi,Editorial Board,University College London
+Ian Martin,Editorial Board,London School of Economics
+Amil Dasgupta,Editorial Board,London School of Economics
+Guy Michaels,Editorial Board,London School of Economics
+David Dorn,Editorial Board,University of Zurich
+Gerard Padró Miquel,Editorial Board,London School of Economics
+Mike Elsby,Editorial Board,University of Edinburgh
+Nicola Fuchs-Schündeln,Editorial Board,Goethe University Frankfurt
+Elias Papaioannou,Editorial Board,London Business School
+Andrea Galeotti,Editorial Board,University of Essex
+Daniel Paravisini,Editorial Board,London School of Economics
+Alfred Galichon,Editorial Board,École Polytechnique
+Áureo De Paula,Editorial Board,University College London
+Gino Gancia,Editorial Board,CREI, Universitat Pompeu Fabra
+Guillaume Plantin,Editorial Board,Sciences Po University
+Alessandro Gavazza,Editorial Board,London School of Economics
+Imran Rasul,Editorial Board,University College London
+Nicola Gennaioli,Editorial Board,Bocconi University
+Hélène Rey,Editorial Board,London Business School
+Alex Gershkov,Editorial Board,Hebrew University of Jerusalem
+Philipp Schmidt-Dengler,Editorial Board,University of Mannheim
+Marina Halac,Editorial Board,University of Warwick
+Uta Schoenberg,Editorial Board,University College London
+Bård Harstad,Editorial Board,University of Oslo
+Adam Szeidl,Editorial Board,Central European University
+Nagore Iriberri,Editorial Board,Universitat Pompeu Fabra
+Balázs Szentes,Editorial Board,University College London
+Keyu Jin,Editorial Board,London School of Economics
+Silvana Tenreyro,Editorial Board,London School of Economics
+Henrik Kleven,Editorial Board,London School of Economics
+Olivier Tercieux,Editorial Board,Paris School of Economics
+Peter Kondor,Editorial Board,Central European University
+Marko Terviö,Editorial Board,Aalto University
+Miklós Koren,Editorial Board,Central European University
+Frederic Vermeulen,Editorial Board,University of Leuven
+Dennis Kristensen,Editorial Board,University College London
+Fabian Waldinger,Editorial Board,University of Warwick
+Felix Kübler,Editorial Board,University of Zurich
+Georg Weizsäcker,Editorial Board,Humboldt University
+Stephan Lauermann,Editorial Board,Bonn University
+Mirko Wiederholt,Editorial Board,Goethe University Frankfurt

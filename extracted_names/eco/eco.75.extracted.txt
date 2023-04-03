@@ -1,0 +1,50 @@
+Eddie Dekel,Editor,Northwestern University
+Geri Mattson,Managing Editor,
+Steven Berry,Co-Editors,Yale University
+David K. Levine,Co-Editors,Washington University in St. Louis
+Whitney K. Newey,Co-Editors,MIT
+Larry Samuelson,Co-Editors,University of Wisconsin
+Harald Uhlig,Co-Editors,Humboldt University of Berlin
+Joseph G. Altonji,Associate Editors,Yale University
+Donald W. K. Andrews,Associate Editors,Yale University
+Susan Athey,Associate Editors,Harvard University
+Jushan Bai,Associate Editors,New York University
+Michele Boldrin,Associate Editors,Washington University in St. Louis
+Vincent P. Crawford,Associate Editors,University of California, San Diego
+J. Darrell Duffie,Associate Editors,Stanford University
+Larry G. Epstein,Associate Editors,University of Rochester
+Itzhak Gilboa,Associate Editors,Tel Aviv University,Yale University
+Faruk Gul,Associate Editors,Princeton University
+Jinyong Hahn,Associate Editors,University of California, Los Angeles
+Bruce E. Hansen,Associate Editors,University of Wisconsin–Madison
+Guido Imbens,Associate Editors,Harvard University
+Matthew O. Jackson,Associate Editors,Stanford University
+Atsushi Kajii,Associate Editors,Kyoto University
+Michael Keane,Associate Editors,University of Technology,Sydney
+Yuichi Kitamura,Associate Editors,Yale University
+Per Krusell,Associate Editors,Princeton University,Stockholm University
+Oliver Linton,Associate Editors,London School of Economics
+Barton Lipman,Associate Editors,Boston University
+Thierry Magnac,Associate Editors,IDEI-GREMAQ, Université des Sciences Sociales de Toulouse
+George J. Mailath,Associate Editors,Yale University
+David Martimort,Associate Editors,IDEI-GREMAQ, Université des Sciences Sociales de Toulouse
+Steven A. Matthews,Associate Editors,University of Pennsylvania
+Rosa L. Matzkin,Associate Editors,Northwestern University
+Benny Moldovanu,Associate Editors,University of Bonn
+Stephen Morris,Associate Editors,Princeton University
+Lee Ohanian,Associate Editors,University of California, Los Angeles
+Thomas R. Palfrey,Associate Editors,California Institute of Technology
+Wolfgang Pesendorfer,Associate Editors,Princeton University
+Eric Renault,Associate Editors,University of North Carolina, Chapel Hill
+Philip J. Reny,Associate Editors,University of Chicago
+Jean-Marc Robin,Associate Editors,Université de Paris 1,University College London
+Uzi Segal,Associate Editors,Boston College
+Chris Shannon,Associate Editors,University of California, Berkeley
+Neil Shephard,Associate Editors,Oxford University
+Richard J. Smith,Associate Editors,University of Cambridge
+James H. Stock,Associate Editors,Harvard University
+Elie Tamer,Associate Editors,Northwestern University
+Chris Udry,Associate Editors,Yale University
+Asher Wolinsky,Associate Editors,Northwestern University
+William R. Zame,Associate Editors,University of California, Los Angeles
+Yael Leshem,Editorial Assistant,Tel Aviv University

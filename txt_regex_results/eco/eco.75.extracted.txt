@@ -20,7 +20,7 @@ MICHELE BOLDRIN, Washington University in St. Louis
 VINCENT P. CRAWFORD, University of California, San Diego
 J. DARRELL DUFFIE, Stanford University
 LARRY G. EPSTEIN, University of Rochester
-ITZHAK GILBOA, Tel Aviv University and Yale University
+ITZHAK GILBOA, Tel Aviv University,Yale University
 FARUK GUL, Princeton University
 JINYONG HAHN, University of California, Los Angeles
 BRUCE E. HANSEN, University of Wisconsin–Madison
@@ -29,7 +29,7 @@ MATTHEW O. JACKSON, Stanford University
 ATSUSHI KAJII, Kyoto University
 MICHAEL KEANE, University of Technology,Sydney
 YUICHI KITAMURA, Yale University
-PER KRUSELL, Princeton University and Stockholm University
+PER KRUSELL, Princeton University,Stockholm University
 OLIVER LINTON, London School of Economics
 BARTON LIPMAN, Boston University
 THIERRY MAGNAC, IDEI-GREMAQ, Université des Sciences Sociales de Toulouse
@@ -44,7 +44,7 @@ THOMAS R. PALFREY, California Institute of Technology
 WOLFGANG PESENDORFER, Princeton University
 ERIC RENAULT, University of North Carolina, Chapel Hill
 PHILIP J. RENY, University of Chicago
-JEAN-MARC ROBIN, Université de Paris 1 and University College London
+JEAN-MARC ROBIN, Université de Paris 1,University College London
 UZI SEGAL, Boston College
 CHRIS SHANNON, University of California, Berkeley
 NEIL SHEPHARD, Oxford University

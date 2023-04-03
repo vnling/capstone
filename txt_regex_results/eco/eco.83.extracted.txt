@@ -7,7 +7,7 @@ GERI MATTSON
 CO-EDITORS
 DIRK BERGEMANN, Yale University
 LIRAN EINAV, Stanford University
-ITZHAK GILBOA, HEC Paris and Tel Aviv University
+ITZHAK GILBOA, HEC Paris,Tel Aviv University
 LARS PETER HANSEN, University of Chicago
 JOEL SOBEL, University of California, San Diego
 ELIE TAMER, Harvard University
@@ -26,7 +26,7 @@ PIERPAOLO BATTIGALLI, Università Bocconi
 MICHAEL OSTROVSKY, Stanford University
 PATRICK BAYER, Duke University
 PARAG PATHAK, Massachusetts Institute of Technology
-FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+FRANCIS BLOCH, University Paris 1,Paris School of Economics
 JORIS PINKSE, Pennsylvania State University
 NICHOLAS BLOOM, Stanford University
 GIORGIO PRIMICERI, Northwestern University
@@ -59,7 +59,7 @@ BAS J. M. WERKER, Tilburg University
 MASSIMO MARINACCI, Università Bocconi
 ASHER WOLINSKY, Northwestern University
 THOMAS MARIOTTI, Toulouse School of Economics
-TAO ZHA, Federal Reserve Bank of Atlanta and Emory University
+TAO ZHA, Federal Reserve Bank of Atlanta,Emory University
 DAVID MARTIMORT, Paris School of Economics–EHESS
 
 PUBLICATIONS MANAGER

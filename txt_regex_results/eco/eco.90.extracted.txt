@@ -49,7 +49,7 @@ BENJAMIN FABER, University of California, Berkeley
 JESÚS FERNÁNDEZ-VILLAVERDE, University of Pennsylvania
 BRUNO STRULOVICI, Northwestern University
 TOMASZ STRZALECKI, Harvard University
-CLAUDIO FERRAZ, University of British Columbia and Pontifícia Universidade Católica do Rio
+CLAUDIO FERRAZ, University of British Columbia,Pontifícia Universidade Católica do Rio
 VIKTOR TODOROV, Northwestern University
 ALEH TSYVINSKI, Yale University
 GUILLAUME FRÉCHETTE, New York University
@@ -63,7 +63,7 @@ RAKESH VOHRA, University of Pennsylvania
 KEISUKE HIRANO, The Pennsylvania State University
 BAS J. M. WERKER, Tilburg University
 MATTHEW J. WISWALL, University of Wisconsin–Madison
-STEFAN HODERLEIN, Emory University and Amazon
+STEFAN HODERLEIN, Emory University,Amazon
 ALEXANDER WOLITZKY, Massachusetts Institute of Technology
 LOUKAS KARABARBOUNIS, University of Minnesota
 DANNY YAGAN, University of California, Berkeley

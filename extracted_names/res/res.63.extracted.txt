@@ -1,0 +1,39 @@
+M. Arellano,Joint Managing Editors 
+P. Bolton,Joint Managing Editors 
+H. S. Shin,Joint Managing Editors 
+M. Armstrong,Assistant Editors 
+O. Attanasio,Assistant Editors 
+K. Schmidt,Assistant Editors 
+J. A. Beath,Production Editor 
+R. Benabou,Foreign Editors 
+J. Cochrane,Foreign Editors 
+D. Diamond,Foreign Editors 
+B. Honore,Foreign Editors 
+G. Mailath,Foreign Editors 
+R. Porter,Foreign Editors 
+A. Hamlin,Business Manager
+C. R. Bean,Editorial Board (Chairman)
+K. Abadir,Editorial Board
+M. Dewatripont,Editorial Board
+M. Meyer,Editorial Board
+E. Von Thadden,Editorial Board
+P. Aghion,Editorial Board
+J. Dow,Editorial Board
+J. H. Moore,Editorial Board
+J. Thomas,Editorial Board
+G. Bertola,Editorial Board
+C. Harris,Editorial Board
+D. Quah,Editorial Board
+J. Tirole,Editorial Board
+T. Besley,Editorial Board
+I. Jewitt,Editorial Board
+P. Rey,Editorial Board
+J. Vickers,Editorial Board
+T. Borgers,Editorial Board
+P. Klemperer,Editorial Board
+A. Roell,Editorial Board
+H. Uhlig,Editorial Board
+D. Canning,Editorial Board
+C. Meghir,Editorial Board
+E. Sentana,Editorial Board
+P. Weil,Editorial Board

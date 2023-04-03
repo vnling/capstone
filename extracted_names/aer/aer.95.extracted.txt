@@ -1,0 +1,46 @@
+Robert A. Moffitt,Editor
+Ben Bernanke,Co-Editors
+B. Douglas Bernheim,Co-Editors
+Timothy J. Besley,Co-Editors
+Jeremy Bulow,Co-Editors
+David Card,Co-Editors
+Judith Chevalier,Co-Editors
+Mark Gertler,Co-Editors
+Richard Rogerson,Co-Editors
+Jane Emily Voros,Managing Editor 
+Michelle Deblasi,Assistant Managing Editor 
+Susan Athey,Board Of Editors 
+Andrew Atkeson,Board Of Editors 
+Mark Bils,Board Of Editors 
+A. Craig Burnside,Board Of Editors 
+Colin Camerer,Board Of Editors 
+Anne C. Case,Board Of Editors 
+Stephen Coate,Board Of Editors 
+Janice C. Eberly,Board Of Editors 
+Charles Engel,Board Of Editors 
+Robert C. Feenstra,Board Of Editors 
+Daniel Friedman,Board Of Editors 
+Simon Gilchrist,Board Of Editors 
+John C. Heaton,Board Of Editors 
+Benjamin E. Hermalin,Board Of Editors 
+Hilary Hoynes,Board Of Editors 
+Thomas N. Hubbard,Board Of Editors 
+Peter N. Ireland,Board Of Editors 
+Patrick Kehoe,Board Of Editors 
+Peter J. Klenow,Board Of Editors 
+Rachel E. Kranton,Board Of Editors 
+Thomas Lemieux,Board Of Editors 
+John A. List,Board Of Editors 
+Giovanni Maggi,Board Of Editors 
+R. Preston Mcafee,Board Of Editors 
+Enrique G. Mendoza,Board Of Editors 
+Gilbert E. Metcalf,Board Of Editors 
+Stephen Morris,Board Of Editors 
+Thomas J. Nechyba,Board Of Editors 
+James B. Rebitzer,Board Of Editors 
+Carmen M. Reinhart,Board Of Editors 
+Ilya Segal,Board Of Editors 
+Lones Smith,Board Of Editors 
+Steven Tadelis,Board Of Editors 
+M. Scott Taylor,Board Of Editors 
+Daniel R. Vincent,Board Of Editors 

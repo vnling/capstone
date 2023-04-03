@@ -6,7 +6,7 @@ GERI MATTSON
 
 CO-EDITORS
 DIRK BERGEMANN, Yale University
-ITZHAK GILBOA, HEC Paris and Tel Aviv University
+ITZHAK GILBOA, HEC Paris,Tel Aviv University
 ULRICH K. MÜLLER, Princeton University
 AVIV NEVO, The Perelman Center for Political Science and Economics
 GIOVANNI L. VIOLANTE, Princeton University
@@ -21,7 +21,7 @@ FELIX KUBLER, University of Zurich
 JAAP ABBRING, Tilburg University
 TREB ALLEN, Dartmouth College
 BART LIPMAN, Boston University
-MANUEL AMADOR, Federal Reserve Bank of Minneapolis and University of Minnesota
+MANUEL AMADOR, Federal Reserve Bank of Minneapolis,University of Minnesota
 HANNO LUSTIG, Stanford University
 MASSIMO MARINACCI, Università Bocconi
 ANDRES ARADILLAS-LOPEZ, The Pennsylvania State University
@@ -29,7 +29,7 @@ ANDREW MCLENNAN, University of Queensland
 FRANCESCA MOLINARI, Cornell University
 SUJOY MUKERJI, Queen Mary University of London
 PATRICK BAYER, Duke University
-FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+FRANCIS BLOCH, University Paris 1,Paris School of Economics
 SERENA NG, Columbia University
 WOJCIECH OLSZEWSKI, Northwestern University
 NICHOLAS BLOOM, Stanford University
@@ -59,7 +59,7 @@ PHILIP HAILE, Yale University
 RAKESH VOHRA, University of Pennsylvania
 MARINA HALAC, Columbia University
 EDWARD J. VYTLACIL, Yale University
-KEISUKE HIRANO, The Pennsylvania State University and ISER
+KEISUKE HIRANO, The Pennsylvania State University,ISER
 PIERRE-OLIVIER WEILL, University of California, Los Angeles
 MICHAEL JANSSON, University of California, Berkeley
 BAS J. M. WERKER, Tilburg University

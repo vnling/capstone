@@ -1,0 +1,60 @@
+Joel Sobel,Editor,University of California, San Diego
+Geri Mattson,Managing Editor,
+Dirk Bergemann,Co-Editors,Yale University
+Liran Einav,Co-Editors,Stanford University
+Itzhak Gilboa,Co-Editors,HEC Paris,Tel Aviv University
+Elie Tamer,Co-Editors,Harvard University
+Giovanni L. Violante,Co-Editors,Princeton University
+Fabrizio Zilibotti,Co-Editors,Yale University
+Alberto Abadie,Associate Editors,Harvard University
+Andrew Mclennan,Associate Editors,University of Queensland
+Jaap Abbring,Associate Editors,Tilburg University
+Francesca Molinari,Associate Editors,Cornell University
+Manuel Amador,Associate Editors,Federal Reserve Bank of Minneapolis
+Sujoy Mukerji,Associate Editors,Queen Mary University at London
+Ulrich Müller,Associate Editors,Princeton University
+Marco Battaglini,Associate Editors,Cornell University
+Serena Ng,Associate Editors,Columbia University
+Pierpaolo Battigalli,Associate Editors,Università Bocconi
+Wojciech Olszewski,Associate Editors,Northwestern University
+Patrick Bayer,Associate Editors,Duke University
+Michael Ostrovsky,Associate Editors,Stanford University
+Francis Bloch,Associate Editors,University Paris 1,Paris School of Economics
+Parag Pathak,Associate Editors,Massachusetts Institute of Technology
+Nicholas Bloom,Associate Editors,Stanford University
+Joris Pinkse,Associate Editors,Pennsylvania State University
+Yeon-Koo Che,Associate Editors,Columbia University
+Giorgio Primiceri,Associate Editors,Northwestern University
+Xiaohong Chen,Associate Editors,Yale University
+Eric Renault,Associate Editors,Brown University
+Pascaline Dupas,Associate Editors,Stanford University
+Marzena Rostek,Associate Editors,University of Wisconsin–Madison
+Jeffrey Ely,Associate Editors,Northwestern University
+Andres Santos,Associate Editors,University of California, San Diego
+Guillaume Fréchette,Associate Editors,New York University
+Susanne M. Schennach,Associate Editors,Brown University
+Xavier Gabaix,Associate Editors,New York University
+Mikhail Golosov,Associate Editors,Princeton University
+Andrew Schotter,Associate Editors,New York University
+Philip Haile,Associate Editors,Yale University
+Ilya R. Segal,Associate Editors,Stanford University
+Johannes Hörner,Associate Editors,Yale University
+Azeem M. Shaikh,Associate Editors,University of Chicago
+Michael Jansson,Associate Editors,University of California, Berkeley
+Neil Shephard,Associate Editors,Harvard University
+Marciano Siniscalchi,Associate Editors,Northwestern University
+Jeroen M. Swinkels,Associate Editors,Northwestern University
+Shakeeb Khan,Associate Editors,Duke University
+Peter Klenow,Associate Editors,Stanford University
+Christopher Taber,Associate Editors,University of Wisconsin–Madison
+Felix Kubler,Associate Editors,University of Zurich
+Edward J. Vytlacil,Associate Editors,Yale University
+Jonathan Levin,Associate Editors,Stanford University
+Bart Lipman,Associate Editors,Boston University
+Pierre-Olivier Weill,Associate Editors,University of California, Los Angeles
+Hanno Lustig,Associate Editors,Stanford University
+Bas J. M. Werker,Associate Editors,Tilburg University
+Massimo Marinacci,Associate Editors,Università Bocconi
+Thomas Mariotti,Associate Editors,Toulouse School of Economics
+Asher Wolinsky,Associate Editors,Northwestern University
+Mary Beth Bellando-Zaniboni,Publications Manager,New York University

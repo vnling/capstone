@@ -1,0 +1,65 @@
+Guido W. Imbens,Editor,Stanford University
+Geri Mattson,Managing Editor,
+Mary Beth Bellando-Zaniboni,Managing Editor,Yale University
+Oriana Bandiera,Co-Editors,London School of Economics and Political Science
+Dave Donaldson,Co-Editors,Massachusetts Institute of Technology
+Marina Halac,Co-Editors,Yale University
+Kate Ho,Co-Editors,Princeton University
+Charles I. Jones,Co-Editors,Stanford University
+Barton L. Lipman,Co-Editors,Boston University
+Asher Wolinsky,Co-Editors,Northwestern University
+Marina Agranov,Associate Editors,California Institute of Technology
+Ivana Komunjer,Associate Editors,Georgetown University
+David Ahn,Associate Editors,Washington University in St. Louis
+Felix Kubler,Associate Editors,University of Zurich
+Treb Allen,Associate Editors,Dartmouth College
+Eliana La Ferrara,Associate Editors,Università Bocconi
+Eduardo Azevedo,Associate Editors,University of Pennsylvania
+Stephan Lauermann,Associate Editors,Universität Bonn
+Marco Bassetto,Associate Editors,Federal Reserve Bank of Minneapolis
+Jia Li,Associate Editors,Singapore Management University
+Qingmin Liu,Associate Editors,Columbia University
+Lorenzo Caliendo,Associate Editors,Yale University
+Elena Manresa,Associate Editors,New York University
+Gabriel Carroll,Associate Editors,University of Toronto
+Nour Meddahi,Associate Editors,Toulouse School of Economics
+Katherine Casey,Associate Editors,Stanford University
+Moritz Meyer-Ter-Vehn,Associate Editors,University of California, Los Angeles
+Matias D. Cattaneo,Associate Editors,Princeton University
+Anna Mikusheva,Associate Editors,Massachusetts Institute of Technology
+Denis Chetverikov,Associate Editors,University of California, Los Angeles
+Ernesto Dal Bó,Associate Editors,University of California, Berkeley
+Benjamin Moll,Associate Editors,London School of Economics
+Andriy Norets,Associate Editors,Brown University
+Jan De Loecker,Associate Editors,KU Leuven
+Marzena Rostek,Associate Editors,University of Wisconsin–Madison
+Rebecca Diamond,Associate Editors,Stanford University
+Zheng Michael Song,Associate Editors,The Chinese University of Hong Kong
+David Dillenberger,Associate Editors,University of Pennsylvania
+Eran Shmaya,Associate Editors,Stony Brook University
+Chris Edmond,Associate Editors,University of Melbourne
+Matthew Elliott,Associate Editors,Cambridge University
+Jón Steinsson,Associate Editors,University of California, Berkeley
+Benjamin Faber,Associate Editors,University of California, Berkeley
+Johannes Stroebel,Associate Editors,New York University
+Jesús Fernández-Villaverde,Associate Editors,University of Pennsylvania
+Bruno Strulovici,Associate Editors,Northwestern University
+Tomasz Strzalecki,Associate Editors,Harvard University
+Claudio Ferraz,Associate Editors,University of British Columbia,Pontifícia Universidade Católica do Rio
+Vasilis Syrgkanis,Associate Editors,Stanford University
+Aleh Tsyvinski,Associate Editors,Yale University
+Guillaume Fréchette,Associate Editors,New York University
+John Van Reenen,Associate Editors,London School of Economics
+Amanda Friedenberg,Associate Editors,University of Michigan
+Laura Veldkamp,Associate Editors,Columbia University
+Xavier Gabaix,Associate Editors,Harvard University
+Frank Verboven,Associate Editors,KU Leuven
+Rachel Griffith,Associate Editors,University of Manchester
+Rakesh Vohra,Associate Editors,University of Pennsylvania
+Loukas Karabarbounis,Associate Editors,University of Minnesota
+Matthew J. Wiswall,Associate Editors,University of Wisconsin–Madison
+Jakub Kastl,Associate Editors,Princeton University
+David Yanagizawa-Drott,Associate Editors,University of Zürich
+Patrick Kline,Associate Editors,University of California, Berkeley
+Ali Yurukoglu,Associate Editors,Stanford University
+Michal Kolesár,Associate Editors,Princeton University

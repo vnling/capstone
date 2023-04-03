@@ -1,0 +1,43 @@
+Mark Armstrong,Joint Managing Editors,Nuffield College, Oxford
+Orazio Attanasio,Joint Managing Editors,University College London
+James Dow,Joint Managing Editors,London Business School
+Michele Piccione,Assistant Editors,London School of Economics
+Enrique Sentana,Assistant Editors,CEMFI, Spain
+Harald Uhlig,Assistant Editors,Humboldt University of Berlin
+Gareth Myles,Production Editor,University of Exeter
+Ian Tonks,Business Manager,University of Bristol
+Giovanni L. Violante,Web Editor,University College London
+Susan Athey,Foreign Editors,Stanford University
+George Mailath,Foreign Editors,University of Pennsylvania
+Abhijit Banerjee,Foreign Editors,Massachusetts Institute of Technology
+Stephen Morris,Foreign Editors,Yale University
+Jose-Victor Rios-Rull,Foreign Editors,University of Pennsylvania
+Patrick Bolton,Foreign Editors,Princeton University
+Pinelopi Koujianou Goldberg,Foreign Editors,Yale University
+Hyun Song Shin (Chairman),Editorial Board,London School of Economics
+Manuel Arellano,Editorial Board,CEMFI, Spain
+Timothy Besley,Editorial Board,London School of Economics
+Bruno Biais,Editorial Board,University of Toulouse
+Antonio Ciccone,Editorial Board,University Pompeu Fabra
+Melvyn Coles,Editorial Board,University of Essex
+Francesca Cornelli,Editorial Board,London Business School
+Martin Cripps,Editorial Board,University of Washington in St Louis
+Dennis Gromb,Editorial Board,London Business School
+Hidehiko Ichimura,Editorial Board,University College London
+Phillippe Jehiel,Editorial Board,University College London
+Anke Kessler,Editorial Board,University of Bonn
+Gilat Levy,Editorial Board,London School of Economics
+Oliver Linton,Editorial Board,London School of Economics
+Thomas Mariotti,Editorial Board,London School of Economics
+David Martimort,Editorial Board,University of Toulouse
+Abhinay Muthoo,Editorial Board,University of Essex
+Marco Ottaviani,Editorial Board,London Business School
+Andrea Prat,Editorial Board,London School of Economics
+Sven Rady,Editorial Board,University of Munich
+Rohit Rahi,Editorial Board,London School of Economics
+John Van Reenen,Editorial Board,University College London
+Bernard Salanit,Editorial Board,CREST, France
+Klaus Schmidt,Editorial Board,University of Munich
+Neil Shephard,Editorial Board,Nuffield College, Oxford
+Juuso Valimaki,Editorial Board,University of Southampton
+Fabrizio Ziliborri,Editorial Board,Stockholm University

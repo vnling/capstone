@@ -1,0 +1,53 @@
+Daron Acemoglu,Editor,Massachusetts Institute of Technology
+Geri Mattson,Managing Editor,
+Lars Peter Hansen,Co-Editors,University of Chicago
+Matthew O. Jackson,Co-Editors,Stanford University
+Philippe Jehiel,Co-Editors,Paris School of Economics
+Wolfgang Pesendorfer,Co-Editors,Princeton University
+Jean-Marc Robin,Co-Editors,Sciences Po
+James H. Stock,Co-Editors,Harvard University
+Yacine Aït-Sahalia,Associate Editors,Princeton University
+Joseph G. Altonji,Associate Editors,Yale University
+Jushan Bai,Associate Editors,Columbia University
+Marco Battaglini,Associate Editors,Princeton University
+Pierpaolo Battigalli,Associate Editors,Università Bocconi
+Dirk Bergemann,Associate Editors,Yale University
+Yeon-Koo Che,Associate Editors,Columbia University
+Xiaohong Chen,Associate Editors,Yale University
+Victor Chernozhukov,Associate Editors,Massachusetts Institute of Technology
+Darrell Duffie,Associate Editors,Stanford University
+Jeffrey Ely,Associate Editors,Northwestern University
+Jianqing Fan,Associate Editors,Princeton University
+Mikhail Golosov,Associate Editors,Princeton University
+Patrik Guggenberger,Associate Editors,University of California, San Diego
+Faruk Gul,Associate Editors,Princeton University
+Philip A. Haile,Associate Editors,Yale University
+Yoram Halevy,Associate Editors,University of British Columbia
+Johannes Hörner,Associate Editors,Yale University
+Michael Jansson,Associate Editors,University of California, Berkeley
+Felix Kubler,Associate Editors,University of Zurich
+Jonathan Levin,Associate Editors,Stanford University
+Oliver Linton,Associate Editors,Cambridge University
+Bart Lipman,Associate Editors,Boston University
+Thierry Magnac,Associate Editors,Toulouse School of Economics (GREMAQ and IDEI)
+Thomas Mariotti,Associate Editors,Toulouse School of Economics (GREMAQ and IDEI)
+David Martimort,Associate Editors,Paris School of Economics–EHESS
+Rosa L. Matzkin,Associate Editors,University of California, Los Angeles
+Andrew Mclennan,Associate Editors,University of Queensland
+Sujoy Mukerji,Associate Editors,University of Oxford
+Ulrich Müller,Associate Editors,Princeton University
+Lee Ohanian,Associate Editors,University of California, Los Angeles
+Wojciech Olszewski,Associate Editors,Northwestern University
+Michael Ostrovsky,Associate Editors,Stanford University
+Joris Pinkse,Associate Editors,Pennsylvania State University
+Benjamin Polak,Associate Editors,Yale University
+Susanne M. Schennach,Associate Editors,University of Chicago
+Andrew Schotter,Associate Editors,New York University
+Neil Shephard,Associate Editors,University of Oxford
+Marciano Siniscalchi,Associate Editors,Northwestern University
+Jeroen M. Swinkels,Associate Editors,Northwestern University
+Elie Tamer,Associate Editors,Northwestern University
+Edward J. Vytlacil,Associate Editors,Yale University
+Iván Werning,Associate Editors,Massachusetts Institute of Technology
+Asher Wolinsky,Associate Editors,Northwestern University
+Mary Beth Bellando-Zaniboni,Editorial Coordinator,New York University

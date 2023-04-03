@@ -27,7 +27,7 @@ ULRICH MÜLLER, Princeton University
 DIRK BERGEMANN, Yale University
 WOJCIECH OLSZEWSKI, Northwestern University
 NICHOLAS BLOOM, Stanford University
-MICHAEL OSTROVSKY, Stanford University and Google
+MICHAEL OSTROVSKY, Stanford University,Google
 YEON-KOO CHE, Columbia University
 PARAG PATHAK, Massachusetts Institute of Technology
 VICTOR CHERNOZHUKOV, Massachusetts Institute of Technology
@@ -60,7 +60,7 @@ JONATHAN LEVIN, Stanford University
 ASHER WOLINSKY, Northwestern University
 OLIVER LINTON, Cambridge University
 BART LIPMAN, Boston University
-TAO ZHA, Federal Reserve Bank of Atlanta and Emory University
+TAO ZHA, Federal Reserve Bank of Atlanta,Emory University
 THOMAS MARIOTTI, Toulouse School of Economics
 
 EDITORIAL COORDINATOR

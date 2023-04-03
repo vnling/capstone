@@ -1,0 +1,46 @@
+Stephen Morris,Editor,Princeton University
+Geri Mattson,Managing Editor,
+Daron Acemoglu,Co-Editors,MIT
+Steven Berry,Co-Editors,Yale University
+David K. Levine,Co-Editors,Washington University in St. Louis
+Whitney K. Newey,Co-Editors,MIT
+Larry Samuelson,Co-Editors,Yale University
+Harald Uhlig,Co-Editors,University of Chicago
+Yacine Aït-Sahalia,Associate Editors,Princeton University
+Joseph G. Altonji,Associate Editors,Yale University
+Donald W. K. Andrews,Associate Editors,Yale University
+Jushan Bai,Associate Editors,New York University
+Michele Boldrin,Associate Editors,Washington University in St. Louis
+J. Darrell Duffie,Associate Editors,Stanford University
+Jeffrey Ely,Associate Editors,Northwestern University
+Larry G. Epstein,Associate Editors,Boston University
+Faruk Gul,Associate Editors,Princeton University
+Jinyong Hahn,Associate Editors,University of California, Los Angeles
+Philip Haile,Associate Editors,Yale University
+Bruce E. Hansen,Associate Editors,University of Wisconsin–Madison
+Guido Imbens,Associate Editors,Harvard University
+Philippe Jehiel,Associate Editors,Paris School of Economics,University College London
+Michael Keane,Associate Editors,University of Technology, Sydney
+Yuichi Kitamura,Associate Editors,Yale University
+Per Krusell,Associate Editors,Princeton University,Stockholm University
+Oliver Linton,Associate Editors,London School of Economics
+Barton Lipman,Associate Editors,Boston University
+Thierry Magnac,Associate Editors,Toulouse School of Economics
+George J. Mailath,Associate Editors,University of Pennsylvania
+David Martimort,Associate Editors,IDEI-GREMAQ, Université des Sciences Sociales de Toulouse
+Steven A. Matthews,Associate Editors,University of Pennsylvania
+Rosa L. Matzkin,Associate Editors,University of California, Los Angeles
+Benny Moldovanu,Associate Editors,University of Bonn
+Lee Ohanian,Associate Editors,University of California, Los Angeles
+Wojciech Olszewski,Associate Editors,Northwestern University
+Wolfgang Pesendorfer,Associate Editors,Princeton University
+Eric Renault,Associate Editors,University of North Carolina, Chapel Hill
+Philip J. Reny,Associate Editors,University of Chicago
+Jean-Marc Robin,Associate Editors,Université de Paris 1,University College London
+Uzi Segal,Associate Editors,Boston College
+Chris Shannon,Associate Editors,University of California, Berkeley
+Neil Shephard,Associate Editors,Oxford University
+Marciano Siniscalchi,Associate Editors,Northwestern University
+Elie Tamer,Associate Editors,Northwestern University
+Asher Wolinsky,Associate Editors,Northwestern University
+Mary Beth Bellando,Editorial Assistant,Princeton University

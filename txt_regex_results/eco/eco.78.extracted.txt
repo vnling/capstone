@@ -7,7 +7,7 @@ GERI MATTSON
 CO-EDITORS
 DARON ACEMOGLU, MIT
 WOLFGANG PESENDORFER, Princeton University
-JEAN-MARC ROBIN, Université Paris 1 Panthéon–Sorbonne and University College London
+JEAN-MARC ROBIN, Université Paris 1 Panthéon–Sorbonne,University College London
 LARRY SAMUELSON, Yale University
 JAMES H. STOCK, Harvard University
 HARALD UHLIG, University of Chicago
@@ -30,8 +30,8 @@ FARUK GUL, Princeton University
 JINYONG HAHN, University of California, Los Angeles
 PHILIP A. HAILE, Yale University
 MICHAEL JANSSON, University of California, Berkeley
-PHILIPPE JEHIEL, Paris School of Economics and University College London
-PER KRUSELL, Princeton University and Stockholm University
+PHILIPPE JEHIEL, Paris School of Economics,University College London
+PER KRUSELL, Princeton University,Stockholm University
 FELIX KUBLER, University of Zurich
 OLIVER LINTON, London School of Economics
 BART LIPMAN, Boston University

@@ -1,0 +1,33 @@
+Andrew Atkeson,Coeditors
+Melissa Dell,Coeditors
+Emir Kamenica,Coeditors
+Greg Kaplan,Coeditors
+John List,Coeditors
+Lance Lochner,Coeditors
+Esteban Rossi-Hansberg,Coeditors
+Azeem Shaikh,Coeditors
+Chad Syverson,Coeditors
+Alexander Cappelen,Associate Editors
+Zoe Cullen,Associate Editors
+Anna Dreber Almenberg,Associate Editors
+Andrea Eisfeldt,Associate Editors
+Pablo Fajgelbaum,Associate Editors
+Claudio Ferraz,Associate Editors
+Cecile Gaubert,Associate Editors
+David Green,Associate Editors
+Jennifer La’O,Associate Editors
+Edwin Leuven,Associate Editors
+Lee Lockwood,Associate Editors
+Yusufcan Masatlioglu,Associate Editors
+Ezra Oberfield,Associate Editors
+Parag Pathak,Associate Editors
+Joseph Shapiro,Associate Editors
+Johannes Stroebel,Associate Editors
+Wilbert Van Der Klaauw,Associate Editors
+Christopher Walters,Associate Editors
+Chenzi Xu,Associate Editors
+Guo Xu,Associate Editors
+Connie Fritsche,Managing Editor
+Ed Martin,Production Editor
+Samuel Abers,Editorial Assistants
+Annie Dhal,Editorial Assistants

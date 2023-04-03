@@ -21,7 +21,7 @@ JAKUB KASTL, Princeton University
 JAAP ABBRING, Tilburg University
 TREB ALLEN, Dartmouth College
 PATRICK KLINE, University of California, Berkeley
-MANUEL AMADOR, Federal Reserve Bank of Minneapolis and University of Minnesota
+MANUEL AMADOR, Federal Reserve Bank of Minneapolis,University of Minnesota
 FELIX KUBLER, University of Zurich
 JIA LI, Duke University
 HANNO LUSTIG, Stanford University
@@ -31,7 +31,7 @@ ANDREW MCLENNAN, University of Queensland
 MARCO BASSETTO, Federal Reserve Bank of Minneapolis
 SERENA NG, Columbia University
 ANDRIY NORETS, Brown University
-FRANCIS BLOCH, University Paris 1 and Paris School of Economics
+FRANCIS BLOCH, University Paris 1,Paris School of Economics
 ELIAS PAPAIOANNOU, London Business School
 MARZENA ROSTEK, University of Wisconsin–Madison
 NICHOLAS BLOOM, Stanford University

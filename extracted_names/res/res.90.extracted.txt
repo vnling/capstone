@@ -1,0 +1,89 @@
+Chairman,Editorial Committee,
+Nicola Fuchs-Schündeln,Editorial Committee,Goethe University Frankfurt
+Thomas Chaney,Joint Managing Editors,University of Southern California and Sciences Po
+Andrea Galeotti,Joint Managing Editors,London Business School
+Bård Harstad,Joint Managing Editors,University of Oslo
+Nir Jaimovich,Joint Managing Editors,University of California, San Diego
+Katrine Loken,Joint Managing Editors,Norwegian School of Economics
+Kurt Mitman,Joint Managing Editors,IIES, Stockholm University
+Francesca Molinar I,Joint Managing Editors,Cornell University
+Elias Papaioannou,Joint Managing Editors,London Business School
+Noam Yuchtman,Joint Managing Editors,London School of Economics
+Miklos Koren,Data Editor,Central European University
+Gregory Thwaites,Secretary And Business Manager,Nottingham University
+Board Of Directors,Secretary And Business Manager,
+Mike Elsby,Secretary And Business Manager,University of Edinburgh
+Maria Petrova,Secretary And Business Manager,IPEG Barcelona
+Monica Martinez-Bravo,Secretary And Business Manager,CEMFI
+Michèle Tertilt,Secretary And Business Manager,University of Mannheim
+Áureo De Paula,Secretary And Business Manager,University College London
+Fabian Waldinger,Secretary And Business Manager,University of Munich
+Matteo Maggiori,Foreign Editors,Stanford Graduate School of Business
+Manuel Amador,Foreign Editors,University of Minnesota
+Anna Mikusheva,Foreign Editors,MIT
+Juliane Begenau,Foreign Editors,Stanford Graduate School of Business
+Guillermo Ordonez,Foreign Editors,University of Pennsylvania
+Emily Breza,Foreign Editors,Harvard University
+Mikkel Plagborg-Moller,Foreign Editors,Princeton University
+Gabriel Chodorow-Reich,Foreign Editors,Harvard University
+Joshua Schwartzstein,Foreign Editors,Harvard Business School
+Chao Fu,Foreign Editors,Univerisity of Wisconsin at Madison
+Johannes Stroebel,Foreign Editors,New York University
+Myrto Kalouptsidi,Foreign Editors,Harvard University
+Joseph Vavra,Foreign Editors,University of Chicago, Booth School of Business
+Navin Kartik,Foreign Editors,Columbia University
+Alexander Wolitzky,Foreign Editors,MIT
+Patrick Kline,Foreign Editors,University of California, Berkeley
+Takuro Yamashita,Foreign Editors,Osaka University
+Fuhito Kojima,Foreign Editors,University of Tokyo
+Johannes Abeler,Editorial Board,University of Oxford
+Abi Adams-Prassl,Editorial Board,University of Oxford
+Teodora Boneva,Editorial Board,University of Bonn
+Timo Boppart,Editorial Board,IIES, Stockholm University
+Gharad Bryan,Editorial Board,London School of Economics
+Konrad Burchardi,Editorial Board,IIES, Stockholm University
+Michael Callen,Editorial Board,London School of Economics
+Davide Cantoni,Editorial Board,Ludwig-Maximilians-Universität München
+Francesco Decarolis,Editorial Board,Bocconi University
+Jan De Loecker,Editorial Board,KU Leuven
+Swati Dhingra,Editorial Board,London School of Economics
+Matthew Elliott,Editorial Board,University of Cambridge
+Ruben Enikolopov,Editorial Board,Universitat Pompeu Fabra and New Economic School
+Luca Fornaro,Editorial Board,CREI, Universitat Pompeu Fabra
+Joachim Freyberger,Editorial Board,University of Bonn
+Daniel Garrett,Editorial Board,Toulouse School of Economics
+Nicola Gennaioli,Editorial Board,Bocconi University
+Jeanne Hagenbach,Editorial Board,Sciences Po
+Xavier D’Haultfoeuille,Editorial Board,CREST
+Xavier Jaravel,Editorial Board,London School of Economics
+Toru Kitagawa,Editorial Board,University College London
+Terri Kneeland,Editorial Board,University College London
+Stephan Lauermann,Editorial Board,University of Bonn
+Thomas Le Barbanchon,Editorial Board,Bocconi University
+Attila Lindner,Editorial Board,University College London
+Joan Llull,Editorial Board,Universitat Autònoma de Barcelona
+Kalina Manova,Editorial Board,University College London
+Filip Matejka,Editorial Board,CERGE-EI
+Benjamin Moll,Editorial Board,London School of Economics
+Andreas Moxnes,Editorial Board,University of Oslo
+Martin Oehmke,Editorial Board,London School of Economics
+Antonio Penta,Editorial Board,Universitat Pompeu Fabra
+Eduardo Perez-Richet,Editorial Board,Sciences Po
+Pia Pinger,Editorial Board,University of Cologne
+Giacomo Ponzetto,Editorial Board,CREI, Universitat Pompeu Fabra
+Mar Reguant,Editorial Board,Northwestern University
+Federica Romei,Editorial Board,University of Oxford
+Christoph Rothe,Editorial Board,University of Mannheim
+Edouard Schaal,Editorial Board,CREI, Universitat Pompeu Fabra
+Florian Scheuer,Editorial Board,University of Zurich
+Uta Schoenberg,Editorial Board,University College London
+Johannes Spinnewijn,Editorial Board,London School of Economics
+Jakub Steiner,Editorial Board,CERGE-EI
+Vincent Sterk,Editorial Board,University College London
+Adam Szeidl,Editorial Board,Central European University
+Victoria Vanasco,Editorial Board,CREI
+Martin Weidner,Editorial Board,University of Oxford
+David Yanagizawa-Drott,Editorial Board,University of Zurich
+Shengxing Zhang,Editorial Board,London School of Economics
+Florian Zimmerman,Editorial Board,briq and University of Bonn
+Ann Law,Journal Manager,London School of Economics

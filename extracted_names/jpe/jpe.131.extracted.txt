@@ -1,0 +1,42 @@
+Magne Mogstad,Editor
+Andrew Atkeson,Coeditors
+Greg Kaplan,Coeditors
+Mark Bils,Coeditors
+John List,Coeditors
+Leonardo Bursztyn,Coeditors
+Lance Lochner,Coeditors
+Melissa Dell,Coeditors
+Esteban Rossi-Hansberg,Coeditors
+Rachel Griffith,Coeditors
+Azeem Shaikh,Coeditors
+Emir Kamenica,Coeditors
+Alexander Cappelen,Associate Editors
+Zoë Cullen,Associate Editors
+Anna Dreber Almenberg,Associate Editors
+Andrea Eisfeldt,Associate Editors
+Pablo Fajgelbaum,Associate Editors
+Claudio Ferraz,Associate Editors
+Cecile Gaubert,Associate Editors
+Daniel Gottlieb,Associate Editors
+David Green,Associate Editors
+Jennifer La’O,Associate Editors
+Edwin Leuven,Associate Editors
+Lee Lockwood,Associate Editors
+Yusufcan Masatlioglu,Associate Editors
+Ezra Oberfield,Associate Editors
+Parag Pathak,Associate Editors
+Ricardo Perez-Truglia,Associate Editors
+AyşEgül Sahin,Associate Editors
+Joseph Shapiro,Associate Editors
+Kjetil Storesletten,Associate Editors
+Johannes Stroebel,Associate Editors
+Wilbert Van Der Klaauw,Associate Editors
+Christopher Walters,Associate Editors
+David Yanagizawa-Drott,Associate Editors
+Chenzi Xu,Associate Editors
+Guo Xu,Associate Editors
+Connie Fritsche,Managing Editor
+Ed Martin,Production Editor
+Hanna Kime,Editorial Assistant
+Student Assistant,Editorial Assistant
+Annie Dhal,Editorial Assistant

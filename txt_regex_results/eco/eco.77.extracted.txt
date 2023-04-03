@@ -32,7 +32,7 @@ JINYONG HAHN, University of California, Los Angeles
 PHILIP A. HAILE, Yale University
 PHILIPPE JEHIEL, Paris School of Economics
 YUICHI KITAMURA, Yale University
-PER KRUSELL, Princeton University and Stockholm University
+PER KRUSELL, Princeton University,Stockholm University
 OLIVER LINTON, London School of Economics
 BART LIPMAN, Boston University
 THIERRY MAGNAC, Toulouse School of Economics
@@ -44,7 +44,7 @@ LEE OHANIAN, University of California, Los Angeles
 WOJCIECH OLSZEWSKI, Northwestern University
 ERIC RENAULT, University of North Carolina
 PHILIP J. RENY, University of Chicago
-JEAN-MARC ROBIN, Université de Paris 1 and University College London
+JEAN-MARC ROBIN, Université de Paris 1,University College London
 SUSANNE M. SCHENNACH, University of Chicago
 UZI SEGAL, Boston College
 CHRIS SHANNON, University of California, Berkeley

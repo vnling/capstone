@@ -4,4 +4,4 @@ Pandas Lectures/*
 .ipynb_checkpoints/*
 .DS_Store
 capstone/lib
-create_files_util.sh
+files_util.sh

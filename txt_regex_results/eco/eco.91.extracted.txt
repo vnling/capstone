@@ -52,7 +52,7 @@ JOHANNES STROEBEL, New York University
 JESÚS FERNÁNDEZ-VILLAVERDE, University of Pennsylvania
 BRUNO STRULOVICI, Northwestern University
 TOMASZ STRZALECKI, Harvard University
-CLAUDIO FERRAZ, University of British Columbia and Pontifícia Universidade Católica do Rio
+CLAUDIO FERRAZ, University of British Columbia,Pontifícia Universidade Católica do Rio
 VASILIS SYRGKANIS, Stanford University
 ALEH TSYVINSKI, Yale University
 GUILLAUME FRÉCHETTE, New York University
