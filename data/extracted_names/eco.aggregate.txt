@@ -1,0 +1,971 @@
+Eddie Dekel
+Geri Mattson
+Steven Berry
+David K. Levine
+Whitney K. Newey
+Larry Samuelson
+Harald Uhlig
+Joseph G. Altonji
+Donald W. K. Andrews
+Susan Athey
+Jushan Bai
+Michele Boldrin
+Vincent P. Crawford
+J. Darrell Duffie
+Larry G. Epstein
+Itzhak Gilboa
+Faruk Gul
+Jinyong Hahn
+Bruce E. Hansen
+Guido Imbens
+Matthew O. Jackson
+Atsushi Kajii
+Michael Keane
+Yuichi Kitamura
+Per Krusell
+Oliver Linton
+Barton Lipman
+Thierry Magnac
+George J. Mailath
+David Martimort
+Steven A. Matthews
+Rosa L. Matzkin
+Benny Moldovanu
+Stephen Morris
+Lee Ohanian
+Thomas R. Palfrey
+Wolfgang Pesendorfer
+Eric Renault
+Philip J. Reny
+Jean-Marc Robin
+Uzi Segal
+Chris Shannon
+Neil Shephard
+Richard J. Smith
+James H. Stock
+Elie Tamer
+Chris Udry
+Asher Wolinsky
+William R. Zame
+Yael Leshem
+Stephen Morris
+Geri Mattson
+Daron Acemoglu
+Steven Berry
+David K. Levine
+Whitney K. Newey
+Larry Samuelson
+Harald Uhlig
+Yacine Aït-Sahalia
+Joseph G. Altonji
+Donald W. K. Andrews
+Jushan Bai
+Michele Boldrin
+J. Darrell Duffie
+Jeffrey Ely
+Larry G. Epstein
+Faruk Gul
+Jinyong Hahn
+Philip Haile
+Bruce E. Hansen
+Guido Imbens
+Philippe Jehiel
+Michael Keane
+Yuichi Kitamura
+Per Krusell
+Oliver Linton
+Barton Lipman
+Thierry Magnac
+George J. Mailath
+David Martimort
+Steven A. Matthews
+Rosa L. Matzkin
+Benny Moldovanu
+Lee Ohanian
+Wojciech Olszewski
+Wolfgang Pesendorfer
+Eric Renault
+Philip J. Reny
+Jean-Marc Robin
+Uzi Segal
+Chris Shannon
+Neil Shephard
+Marciano Siniscalchi
+Elie Tamer
+Asher Wolinsky
+Mary Beth Bellando
+Stephen Morris
+Geri Mattson
+Daron Acemoglu
+Steven Berry
+Whitney K. Newey
+Wolfgang Pesendorfer
+Larry Samuelson
+Harald Uhlig
+Yacine Aït-Sahalia
+Joseph G. Altonji
+James Andreoni
+Donald W. K. Andrews
+Jushan Bai
+Marco Battaglini
+Pierpaolo Battigalli
+Dirk Bergemann
+Michele Boldrin
+Victor Chernozhukov
+J. Darrell Duffie
+Jeffrey Ely
+Larry G. Epstein
+Haluk Ergin
+Faruk Gul
+Jinyong Hahn
+Philip A. Haile
+Philippe Jehiel
+Yuichi Kitamura
+Per Krusell
+Oliver Linton
+Bart Lipman
+Thierry Magnac
+George J. Mailath
+David Martimort
+Steven A. Matthews
+Rosa L. Matzkin
+Lee Ohanian
+Wojciech Olszewski
+Eric Renault
+Philip J. Reny
+Jean-Marc Robin
+Susanne M. Schennach
+Uzi Segal
+Chris Shannon
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Elie Tamer
+Iván Werning
+Asher Wolinsky
+Mary Beth Bellando
+Stephen Morris
+Geri Mattson
+Daron Acemoglu
+Wolfgang Pesendorfer
+Jean-Marc Robin
+Larry Samuelson
+James H. Stock
+Harald Uhlig
+Yacine Aït-Sahalia
+Joseph G. Altonji
+James Andreoni
+Jushan Bai
+Marco Battaglini
+Pierpaolo Battigalli
+Dirk Bergemann
+Xiaohong Chen
+Victor Chernozhukov
+J. Darrell Duffie
+Jeffrey Ely
+Haluk Ergin
+Mikhail Golosov
+Faruk Gul
+Jinyong Hahn
+Philip A. Haile
+Michael Jansson
+Philippe Jehiel
+Per Krusell
+Felix Kubler
+Oliver Linton
+Bart Lipman
+Thierry Magnac
+George J. Mailath
+David Martimort
+Steven A. Matthews
+Rosa L. Matzkin
+Lee Ohanian
+Wojciech Olszewski
+Nicola Persico
+Benjamin Polak
+Philip J. Reny
+Susanne M. Schennach
+Uzi Segal
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Elie Tamer
+Edward J. Vytlacil
+Iván Werning
+Asher Wolinsky
+Mary Beth Bellando
+Stephen Morris
+Geri Mattson
+Daron Acemoglu
+Philippe Jehiel
+Wolfgang Pesendorfer
+Jean-Marc Robin
+James H. Stock
+Yacine Aït-Sahalia
+Joseph G. Altonji
+James Andreoni
+Jushan Bai
+Marco Battaglini
+Pierpaolo Battigalli
+Dirk Bergemann
+Yeon-Koo Che
+Xiaohong Chen
+Victor Chernozhukov
+J. Darrell Duffie
+Jeffrey Ely
+Haluk Ergin
+Jianqing Fan
+Mikhail Golosov
+Faruk Gul
+Jinyong Hahn
+Philip A. Haile
+Johannes Horner
+Michael Jansson
+Per Krusell
+Felix Kubler
+Oliver Linton
+Bart Lipman
+Thierry Magnac
+David Martimort
+Steven A. Matthews
+Rosa L. Matzkin
+Sujoy Mukerji
+Lee Ohanian
+Wojciech Olszewski
+Nicola Persico
+Joris Pinkse
+Benjamin Polak
+Philip J. Reny
+Susanne M. Schennach
+Andrew Schotter
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Elie Tamer
+Edward J. Vytlacil
+Iván Werning
+Asher Wolinsky
+Mary Beth Bellando
+Daron Acemoglu
+Geri Mattson
+Lars Peter Hansen
+Matthew O. Jackson
+Philippe Jehiel
+Wolfgang Pesendorfer
+Jean-Marc Robin
+James H. Stock
+Yacine Aït-Sahalia
+Joseph G. Altonji
+Jushan Bai
+Marco Battaglini
+Pierpaolo Battigalli
+Dirk Bergemann
+Yeon-Koo Che
+Xiaohong Chen
+Victor Chernozhukov
+Darrell Duffie
+Jeffrey Ely
+Jianqing Fan
+Mikhail Golosov
+Patrik Guggenberger
+Faruk Gul
+Philip A. Haile
+Yoram Halevy
+Johannes Hörner
+Michael Jansson
+Felix Kubler
+Jonathan Levin
+Oliver Linton
+Bart Lipman
+Thierry Magnac
+Thomas Mariotti
+David Martimort
+Rosa L. Matzkin
+Andrew Mclennan
+Sujoy Mukerji
+Ulrich Müller
+Lee Ohanian
+Wojciech Olszewski
+Michael Ostrovsky
+Joris Pinkse
+Benjamin Polak
+Susanne M. Schennach
+Andrew Schotter
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Elie Tamer
+Edward J. Vytlacil
+Iván Werning
+Asher Wolinsky
+Mary Beth Bellando-Zaniboni
+Daron Acemoglu
+Geri Mattson
+Lars Peter Hansen
+Matthew O. Jackson
+Philippe Jehiel
+Jean-Marc Robin
+Joel Sobel
+Elie Tamer
+Alberto Abadie
+Yacine Aït-Sahalia
+Joseph G. Altonji
+Jushan Bai
+Marco Battaglini
+Pierpaolo Battigalli
+Patrick Bayer
+Dirk Bergemann
+Nicholas Bloom
+Yeon-Koo Che
+Victor Chernozhukov
+Darrell Duffie
+Jeffrey Ely
+Jianqing Fan
+Xavier Gabaix
+Mikhail Golosov
+Patrik Guggenberger
+Faruk Gul
+Philip Haile
+Yoram Halevy
+Johannes Hörner
+Michael Jansson
+Peter Klenow
+Felix Kubler
+Jonathan Levin
+Oliver Linton
+Bart Lipman
+Thomas Mariotti
+David Martimort
+Rosa L. Matzkin
+Andrew Mclennan
+Francesca Molinari
+Sujoy Mukerji
+Ulrich Müller
+Wojciech Olszewski
+Michael Ostrovsky
+Joris Pinkse
+Benjamin Polak
+Eric Renault
+Susanne M. Schennach
+Andrew Schotter
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Edward J. Vytlacil
+Iván Werning
+Asher Wolinsky
+Tao Zha
+Mary Beth Bellando-Zaniboni
+Daron Acemoglu
+Geri Mattson
+Liran Einav
+Lars Peter Hansen
+Matthew O. Jackson
+Philippe Jehiel
+Joel Sobel
+Elie Tamer
+David Martimort
+Alberto Abadie
+Jaap Abbring
+Andrew Mclennan
+Jushan Bai
+Marco Battaglini
+Francesca Molinari
+Pierpaolo Battigalli
+Sujoy Mukerji
+Patrick Bayer
+Ulrich Müller
+Dirk Bergemann
+Wojciech Olszewski
+Nicholas Bloom
+Michael Ostrovsky
+Yeon-Koo Che
+Parag Pathak
+Victor Chernozhukov
+Darrell Duffie
+Joris Pinkse
+Jeffrey Ely
+Giorgio Primiceri
+Xavier Gabaix
+Eric Renault
+Mikhail Golosov
+Andres Santos
+Patrik Guggenberger
+Susanne M. Schennach
+Faruk Gul
+Andrew Schotter
+Philip Haile
+Neil Shephard
+Yoram Halevy
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Christopher Taber
+Johannes Hörner
+Michael Jansson
+Edward J. Vytlacil
+Bas J. M. Werker
+Peter Klenow
+Felix Kubler
+Iván Werning
+Jonathan Levin
+Asher Wolinsky
+Oliver Linton
+Bart Lipman
+Tao Zha
+Thomas Mariotti
+Mary Beth Bellando-Zaniboni
+Daron Acemoglu
+Geri Mattson
+Dirk Bergemann
+Liran Einav
+Itzhak Gilboa
+Lars Peter Hansen
+Joel Sobel
+Elie Tamer
+Andrew Mclennan
+Alberto Abadie
+Jaap Abbring
+Francesca Molinari
+Manuel Amador
+Sujoy Mukerji
+Ulrich Müller
+Marco Battaglini
+Wojciech Olszewski
+Pierpaolo Battigalli
+Michael Ostrovsky
+Patrick Bayer
+Parag Pathak
+Francis Bloch
+Joris Pinkse
+Nicholas Bloom
+Giorgio Primiceri
+Yeon-Koo Che
+Eric Renault
+Xiaohong Chen
+Andres Santos
+Pascaline Dupas
+Susanne M. Schennach
+Jeffrey Ely
+Xavier Gabaix
+Andrew Schotter
+Mikhail Golosov
+Azeem M. Shaikh
+Philip Haile
+Neil Shephard
+Johannes Hörner
+Marciano Siniscalchi
+Michael Jansson
+Jeroen M. Swinkels
+Christopher Taber
+Peter Klenow
+Felix Kubler
+Edward J. Vytlacil
+Jonathan Levin
+Pierre-Olivier Weill
+Oliver Linton
+Bart Lipman
+Bas J. M. Werker
+Massimo Marinacci
+Asher Wolinsky
+Thomas Mariotti
+Tao Zha
+David Martimort
+Mary Beth Bellando-Zaniboni
+Joel Sobel
+Geri Mattson
+Dirk Bergemann
+Liran Einav
+Itzhak Gilboa
+Elie Tamer
+Giovanni L. Violante
+Fabrizio Zilibotti
+Alberto Abadie
+Andrew Mclennan
+Jaap Abbring
+Francesca Molinari
+Manuel Amador
+Sujoy Mukerji
+Ulrich Müller
+Marco Battaglini
+Serena Ng
+Pierpaolo Battigalli
+Wojciech Olszewski
+Patrick Bayer
+Michael Ostrovsky
+Francis Bloch
+Parag Pathak
+Nicholas Bloom
+Joris Pinkse
+Yeon-Koo Che
+Giorgio Primiceri
+Xiaohong Chen
+Eric Renault
+Pascaline Dupas
+Marzena Rostek
+Jeffrey Ely
+Andres Santos
+Guillaume Fréchette
+Susanne M. Schennach
+Xavier Gabaix
+Mikhail Golosov
+Andrew Schotter
+Philip Haile
+Ilya R. Segal
+Johannes Hörner
+Azeem M. Shaikh
+Michael Jansson
+Neil Shephard
+Marciano Siniscalchi
+Jeroen M. Swinkels
+Shakeeb Khan
+Peter Klenow
+Christopher Taber
+Felix Kubler
+Edward J. Vytlacil
+Jonathan Levin
+Bart Lipman
+Pierre-Olivier Weill
+Hanno Lustig
+Bas J. M. Werker
+Massimo Marinacci
+Thomas Mariotti
+Asher Wolinsky
+Mary Beth Bellando-Zaniboni
+Joel Sobel
+Geri Mattson
+Dirk Bergemann
+Liran Einav
+Itzhak Gilboa
+Ulrich K. Müller
+Giovanni L. Violante
+Fabrizio Zilibotti
+Alberto Abadie
+Thomas Mariotti
+Jaap Abbring
+Andrew Mclennan
+Manuel Amador
+Francesca Molinari
+Sujoy Mukerji
+Serena Ng
+Marco Battaglini
+Pierpaolo Battigalli
+Wojciech Olszewski
+Patrick Bayer
+Michael Ostrovsky
+Francis Bloch
+Elias Papaioannou
+Giorgio Primiceri
+Stephen Redding
+Nicholas Bloom
+Eric Budish
+Eric Renault
+Xiaohong Chen
+Marzena Rostek
+Pascaline Dupas
+Andres Santos
+Federico Echenique
+Susanne M. Schennach
+Ilya R. Segal
+Guillaume Fréchette
+Xavier Gabaix
+Azeem M. Shaikh
+Mikhail Golosov
+Neil Shephard
+Philip Haile
+Tayfun Sönmez
+Keisuke Hirano
+Jeroen M. Swinkels
+Christopher Taber
+Michael Jansson
+Viktor Todorov
+Shakeeb Khan
+Nicolas Vieille
+Peter Klenow
+Edward J. Vytlacil
+Felix Kubler
+Pierre-Olivier Weill
+Bart Lipman
+Hanno Lustig
+Bas J. M. Werker
+Massimo Marinacci
+Leeat Yariv
+Mary Beth Bellando-Zaniboni
+Joel Sobel
+Geri Mattson
+Dirk Bergemann
+Itzhak Gilboa
+Ulrich K. Müller
+Aviv Nevo
+Giovanni L. Violante
+Fabrizio Zilibotti
+Shakeeb Khan
+Alberto Abadie
+Peter Klenow
+Felix Kubler
+Jaap Abbring
+Treb Allen
+Bart Lipman
+Manuel Amador
+Hanno Lustig
+Massimo Marinacci
+Andres Aradillas-Lopez
+Andrew Mclennan
+Francesca Molinari
+Sujoy Mukerji
+Patrick Bayer
+Francis Bloch
+Serena Ng
+Wojciech Olszewski
+Nicholas Bloom
+Elias Papaioannou
+Eric Budish
+Stephen Redding
+Xiaohong Chen
+Eric Renault
+Ernesto Dal Bó
+Marzena Rostek
+Andres Santos
+Pascaline Dupas
+Ilya R. Segal
+Federico Echenique
+Azeem M. Shaikh
+Jesús Fernández-Villaverde
+Neil Shephard
+Tayfun Sönmez
+Christopher Taber
+Guillaume Fréchette
+Amanda Friedenberg
+Viktor Todorov
+Xavier Gabaix
+Mikhail Golosov
+Nicolas Vieille
+Philip Haile
+Rakesh Vohra
+Marina Halac
+Edward J. Vytlacil
+Keisuke Hirano
+Pierre-Olivier Weill
+Michael Jansson
+Bas J. M. Werker
+Leeat Yariv
+Mary Beth Bellando-Zaniboni
+Joel Sobel
+Geri Mattson
+Barton L. Lipman
+Alessandro Lizzeri
+Ulrich K. Müller
+Aviv Nevo
+Giovanni L. Violante
+Fabrizio Zilibotti
+Jia Li
+Alberto Abadie
+Hanno Lustig
+Massimo Marinacci
+Jaap Abbring
+Treb Allen
+Andrew Mclennan
+Manuel Amador
+Francesca Molinari
+Sujoy Mukerji
+Serena Ng
+Andres Aradillas-Lopez
+Andriy Norets
+Francis Bloch
+Wojciech Olszewski
+Elias Papaioannou
+Nicholas Bloom
+Stephen Redding
+Eric Budish
+Marzena Rostek
+Xiaohong Chen
+Andres Santos
+Ernesto Dal Bó
+Todd Sarver
+Ilya R. Segal
+Pascaline Dupas
+Federico Echenique
+Azeem M. Shaikh
+Neil Shephard
+Zheng Michael Song
+Jesús Fernández-Villaverde
+Guillaume Fréchette
+Tayfun Sönmez
+Amanda Friedenberg
+Christopher Taber
+Xavier Gabaix
+Viktor Todorov
+Philip Haile
+Marina Halac
+Aleh Tsyvinski
+Keisuke Hirano
+Nicolas Vieille
+Rakesh Vohra
+Stefan Hoderlein
+Pierre-Olivier Weill
+Michael Jansson
+Bas J. M. Werker
+Patrick Kline
+Leeat Yariv
+Felix Kubler
+Mary Beth Bellando-Zaniboni
+Guido W. Imbens
+Geri Mattson
+Dave Donaldson
+Charles I. Jones
+Barton L. Lipman
+Alessandro Lizzeri
+Ulrich K. Müller
+Aviv Nevo
+Asher Wolinsky
+Stefan Hoderlein
+Alberto Abadie
+Michael Jansson
+Jakub Kastl
+Jaap Abbring
+Treb Allen
+Patrick Kline
+Manuel Amador
+Felix Kubler
+Jia Li
+Hanno Lustig
+Andres Aradillas-Lopez
+Massimo Marinacci
+Andrew Mclennan
+Marco Bassetto
+Serena Ng
+Andriy Norets
+Francis Bloch
+Elias Papaioannou
+Marzena Rostek
+Nicholas Bloom
+Eric Budish
+Andres Santos
+Lorenzo Caliendo
+Matias D. Cattaneo
+Todd Sarver
+Xiaohong Chen
+Ilya R. Segal
+Denis Chetverikov
+Azeem M. Shaikh
+Neil Shephard
+Zheng Michael Song
+Ernesto Dal Bó
+Melissa Dell
+Tomasz Strzalecki
+Rebecca Diamond
+Viktor Todorov
+Pascaline Dupas
+Aleh Tsyvinski
+Benjamin Faber
+Nicolas Vieille
+Jesús Fernández-Villaverde
+Rakesh Vohra
+Pierre-Olivier Weill
+Guillaume Fréchette
+Bas J. M. Werker
+Amanda Friedenberg
+Xavier Gabaix
+Matthew J. Wiswall
+Marina Halac
+Alexander Wolitzky
+Keisuke Hirano
+Leeat Yariv
+Mary Beth Bellando-Zaniboni
+Guido W. Imbens
+Geri Mattson
+Oriana Bandiera
+Dave Donaldson
+Charles I. Jones
+Barton L. Lipman
+Alessandro Lizzeri
+Aviv Nevo
+Asher Wolinsky
+Loukas Karabarbounis
+Alberto Abadie
+Jakub Kastl
+Jaap Abbring
+Patrick Kline
+David Ahn
+Felix Kubler
+Treb Allen
+Eliana La Ferrara
+Isaiah Andrews
+Stephan Lauermann
+Eduardo Azevedo
+Jia Li
+Marco Bassetto
+Hanno Lustig
+Nour Meddahi
+Nicholas Bloom
+Moritz Meyer-Ter-Vehn
+Eric Budish
+Anna Mikusheva
+Lorenzo Caliendo
+Matias D. Cattaneo
+Serena Ng
+Denis Chetverikov
+Andriy Norets
+Elias Papaioannou
+Ernesto Dal Bó
+Marzena Rostek
+Andres Santos
+Melissa Dell
+Todd Sarver
+Rebecca Diamond
+Chris Edmond
+Ilya R. Segal
+Benjamin Faber
+Zheng Michael Song
+Jesús Fernández-Villaverde
+Johannes Stroebel
+Claudio Ferraz
+Bruno Strulovici
+Tomasz Strzalecki
+Guillaume Fréchette
+Viktor Todorov
+Amanda Friedenberg
+Aleh Tsyvinski
+Xavier Gabaix
+Nicolas Vieille
+Rachel Griffith
+Rakesh Vohra
+Keisuke Hirano
+Bas J. M. Werker
+Matthew J. Wiswall
+Kate Ho
+Alexander Wolitzky
+Stefan Hoderlein
+Danny Yagan
+Michael Jansson
+Mary Beth Bellando-Zaniboni
+Guido W. Imbens
+Geri Mattson
+Oriana Bandiera
+Dave Donaldson
+Kate Ho
+Charles I. Jones
+Barton L. Lipman
+Alessandro Lizzeri
+Asher Wolinsky
+Jaap Abbring
+Ivana Komunjer
+Marina Agranov
+Felix Kubler
+David Ahn
+Eliana La Ferrara
+Treb Allen
+Stephan Lauermann
+Eduardo Azevedo
+Jia Li
+Marco Bassetto
+Qingmin Liu
+Nour Meddahi
+Lorenzo Caliendo
+Moritz Meyer-Ter-Vehn
+Gabriel Carroll
+Anna Mikusheva
+Matias D. Cattaneo
+Denis Chetverikov
+Benjamin Moll
+Andriy Norets
+Ernesto Dal Bó
+Elias Papaioannou
+Marzena Rostek
+Jan De Loecker
+Andres Santos
+Rebecca Diamond
+Zheng Michael Song
+David Dillenberger
+Chris Edmond
+Johannes Stroebel
+Benjamin Faber
+Jesús Fernández-Villaverde
+Bruno Strulovici
+Tomasz Strzalecki
+Claudio Ferraz
+Viktor Todorov
+Aleh Tsyvinski
+Guillaume Fréchette
+John Van Reenen
+Amanda Friedenberg
+Laura Veldkamp
+Xavier Gabaix
+Nicolas Vieille
+Rachel Griffith
+Rakesh Vohra
+Keisuke Hirano
+Bas J. M. Werker
+Matthew J. Wiswall
+Stefan Hoderlein
+Alexander Wolitzky
+Loukas Karabarbounis
+Danny Yagan
+Jakub Kastl
+Patrick Kline
+Ali Yurukoglu
+Mary Beth Bellando-Zaniboni Yale University
+Guido W. Imbens
+Geri Mattson
+Mary Beth Bellando-Zaniboni
+Oriana Bandiera
+Dave Donaldson
+Marina Halac
+Kate Ho
+Charles I. Jones
+Barton L. Lipman
+Asher Wolinsky
+Marina Agranov
+Ivana Komunjer
+David Ahn
+Felix Kubler
+Treb Allen
+Eliana La Ferrara
+Eduardo Azevedo
+Stephan Lauermann
+Marco Bassetto
+Jia Li
+Qingmin Liu
+Lorenzo Caliendo
+Elena Manresa
+Gabriel Carroll
+Nour Meddahi
+Katherine Casey
+Moritz Meyer-Ter-Vehn
+Matias D. Cattaneo
+Anna Mikusheva
+Denis Chetverikov
+Ernesto Dal Bó
+Benjamin Moll
+Andriy Norets
+Jan De Loecker
+Marzena Rostek
+Rebecca Diamond
+Zheng Michael Song
+David Dillenberger
+Eran Shmaya
+Chris Edmond
+Matthew Elliott
+Jón Steinsson
+Benjamin Faber
+Johannes Stroebel
+Jesús Fernández-Villaverde
+Bruno Strulovici
+Tomasz Strzalecki
+Claudio Ferraz
+Vasilis Syrgkanis
+Aleh Tsyvinski
+Guillaume Fréchette
+John Van Reenen
+Amanda Friedenberg
+Laura Veldkamp
+Xavier Gabaix
+Frank Verboven
+Rachel Griffith
+Rakesh Vohra
+Loukas Karabarbounis
+Matthew J. Wiswall
+Jakub Kastl
+David Yanagizawa-Drott
+Patrick Kline
+Ali Yurukoglu
+Michal Kolesár

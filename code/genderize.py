@@ -1,5 +1,5 @@
 """
-takes a comma-separated data file name as command line arg
+takes a file name as command line arg, file should be comma-separated data 
 the first element in each line in the file should be a name
 generates a result file with the original name and the genderize result for the first name
 """
@@ -8,7 +8,7 @@ import sys
 import requests
 
 data_file = sys.argv[1]
-result_file = 'all_current_genderize_result.csv'
+result_file = sys.argv[2]
 
 with open(data_file, 'r', encoding='utf-8') as f:
     with open(result_file, 'a', encoding='utf-8') as g:

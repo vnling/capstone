@@ -1,0 +1,200 @@
+Matthew O. Jackson
+Per Krusell
+Jaap Abbring
+Marciano Siniscalchi
+Uzi Segal
+Yacine Aït-Sahalia
+Victor Chernozhukov
+Ulrich K. Müller
+Amanda Friedenberg
+Matias D. Cattaneo
+Michael Ostrovsky
+Rosa L. Matzkin
+George J. Mailath
+Barton Lipman
+Dirk Bergemann
+Rakesh Vohra
+Claudio Ferraz
+Rachel Griffith
+Andrew Schotter
+Giovanni L. Violante
+Serena Ng
+Patrick Bayer
+Michael Jansson
+Guido Imbens
+Michele Boldrin
+Eddie Dekel
+Lee Ohanian
+Elie Tamer
+James Andreoni
+Joel Sobel
+Ilya R. Segal
+Matthew Elliott
+Jan De Loecker
+Shakeeb Khan
+Joseph G. Altonji
+Hanno Lustig
+Anna Mikusheva
+Stephan Lauermann
+Matthew J. Wiswall
+Peter Klenow
+James H. Stock
+Sujoy Mukerji
+Stephen Morris
+Thierry Magnac
+Steven A. Matthews
+Marina Halac
+Danny Yagan
+Steven Berry
+Stefan Hoderlein
+Jianqing Fan
+Todd Sarver
+Bruno Strulovici
+Richard J. Smith
+Neil Shephard
+David Dillenberger
+Atsushi Kajii
+Michal Kolesár
+Elena Manresa
+Xiaohong Chen
+Bruce E. Hansen
+Bart Lipman
+Gabriel Carroll
+Mary Beth Bellando
+Tao Zha
+Tomasz Strzalecki
+Vincent P. Crawford
+Parag Pathak
+Pierpaolo Battigalli
+Guillaume Fréchette
+Frank Verboven
+Tayfun Sönmez
+Nicholas Bloom
+Dave Donaldson
+Pierre-Olivier Weill
+Jeroen M. Swinkels
+Ulrich Müller
+Johannes Hörner
+Jakub Kastl
+Darrell Duffie
+Loukas Karabarbounis
+Patrick Kline
+Moritz Meyer-Ter-Vehn
+Susan Athey
+Lars Peter Hansen
+Alberto Abadie
+Alessandro Lizzeri
+Charles I. Jones
+David K. Levine
+Rebecca Diamond
+Chris Shannon
+Eliana La Ferrara
+Joris Pinkse
+Philip Haile
+Andres Aradillas-Lopez
+Nour Meddahi
+Jonathan Levin
+Michael Keane
+Nicola Persico
+Felix Kubler
+Yael Leshem
+Chris Udry
+Keisuke Hirano
+Itzhak Gilboa
+Andres Santos
+Susanne M. Schennach
+Jinyong Hahn
+Jeffrey Ely
+Benjamin Moll
+Mikhail Golosov
+Fabrizio Zilibotti
+Federico Echenique
+Faruk Gul
+Oriana Bandiera
+Benjamin Polak
+Eduardo Azevedo
+Laura Veldkamp
+Stephen Redding
+Thomas Mariotti
+Zheng Michael Song
+William R. Zame
+Donald W. K. Andrews
+Ali Yurukoglu
+Johannes Horner
+Benny Moldovanu
+Nicolas Vieille
+Christopher Taber
+Manuel Amador
+Liran Einav
+Alexander Wolitzky
+Asher Wolinsky
+Marina Agranov
+Eric Renault
+Philip J. Reny
+Larry G. Epstein
+Francesca Molinari
+John Van Reenen
+Larry Samuelson
+David Martimort
+Andrew Mclennan
+J. Darrell Duffie
+Mary Beth Bellando-Zaniboni
+Aviv Nevo
+Marco Bassetto
+Jesús Fernández-Villaverde
+Viktor Todorov
+Giorgio Primiceri
+Daron Acemoglu
+Francis Bloch
+Johannes Stroebel
+Marzena Rostek
+Melissa Dell
+Iván Werning
+Barton L. Lipman
+Whitney K. Newey
+Yoram Halevy
+Kate Ho
+Wojciech Olszewski
+Massimo Marinacci
+Chris Edmond
+David Yanagizawa-Drott
+Yeon-Koo Che
+Jia Li
+Katherine Casey
+Elias Papaioannou
+Jushan Bai
+Benjamin Faber
+Harald Uhlig
+Wolfgang Pesendorfer
+Eric Budish
+Bas J. M. Werker
+Thomas R. Palfrey
+Jean-Marc Robin
+Xavier Gabaix
+Philippe Jehiel
+Azeem M. Shaikh
+Patrik Guggenberger
+Andriy Norets
+Qingmin Liu
+Ernesto Dal Bó
+Eran Shmaya
+Lorenzo Caliendo
+Ivana Komunjer
+Jón Steinsson
+Marco Battaglini
+Haluk Ergin
+Denis Chetverikov
+Guido W. Imbens
+Yuichi Kitamura
+Philip A. Haile
+Edward J. Vytlacil
+Isaiah Andrews
+David Ahn
+Vasilis Syrgkanis
+Pascaline Dupas
+Oliver Linton
+Geri Mattson
+Leeat Yariv
+Aleh Tsyvinski
+Mary Beth Bellando-Zaniboni Yale University
+Treb Allen

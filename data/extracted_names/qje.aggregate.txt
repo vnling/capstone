@@ -1,0 +1,844 @@
+Olivier J. Blanchard
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Rudiger Dornbusch
+Michael H. Riordan
+Alberto Alesina
+Robert Gibbons
+Kenneth Rogoff
+Abhijit Banerjee
+Claudia Goldin
+David Romer
+George J. Borjas
+Gene Grossman
+Julio Rotemberg
+Colin Camerer
+Alan B. Krueger
+Jeremy Stein
+Harriet E. Hoffman
+Olivier J. Blanchard
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Rudiger Dornbusch
+Michael H. Riordan
+Alberto Alesina
+Robert Gibbons
+Kenneth Rogoff
+Abhijit Banerjee
+Claudia Goldin
+David Romer
+George J. Borjas
+Gene Grossman
+Julio Rotemberg
+Colin Camerer
+Alan B. Krueger
+Jeremy Stein
+Harriet E. Hoffman
+Olivier J. Blanchard
+Lawrence F. Katz
+Andrei Schleifer
+George Akerlof
+Robert Gibbons
+David Romer
+Alberto Alesina
+Claudia Goldin
+Julio Rotemberg
+George J. Borjas
+Gene Grossman
+Jeremy Stein
+Colin Camerer
+Oliver Hart
+Richard Thaler
+Janet Currie
+Alan B. Krueger
+Michael Woodford
+Rudiger Dornbusch
+Michael H. Riordan
+Alwyn Young
+Harriet E. Hoffman
+Olivier J. Blanchard
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Rudiger Dornbusch
+David Romer
+Alberto Alesina
+Robert Gibbons
+Julio Rotemberg
+Roland Benabou
+Claudia Goldin
+Jeremy Stein
+George J. Boijas
+Gene Grossman
+Richard Thaler
+Colin Camerer
+Oliver Hart
+Michael Woodford
+Janet Currie
+James Hines
+Alwyn Young
+Harriet E. Hoffman
+Olivier J. Blanchard
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Rudiger Dornbusch
+Raghuram Rajan
+Alberto Alesina
+Robert Gibbons
+David Romer
+Roland B6Nabou
+Claudia Goldin
+Julio Rotemberg
+George J. Borjas
+Gene Grossman
+Jeremy Stein
+John Bound
+Oliver Hart
+Richard Thaler
+Colin Camerer
+James Hines
+Michael Woodford
+Janet Currie
+Michael Kremer
+Alwyn Young
+Harriet E. Hoffman
+Alberto Alesina
+Edward L. Glaeser
+Lawrence F. Katz
+Daron Acemoglu
+Janet Currie
+Steven Levitt
+George Akerlof
+Claudia Goldin
+Roberto Perotti
+David Baron
+Gene Grossman
+Raghuram Rajan
+Roland Benabou
+Oliver Hart
+Jeremy Stein
+John Bound
+James Hines
+Richard Thaler
+Colin Camerer
+Charles Jones
+Michael Woodford
+Judith Chevalier
+Michael Kremer
+Alwyn Young
+Harriet E. Hoffman
+Alberto Alesina
+Edward L. Glaeser
+Lawrence F. Katz
+Daron Acemoglu
+Janet Currie
+Steven Levitt
+George Akerlof
+Claudia Goldin
+Roberto Perotti
+David Baron
+Gene Grossman
+Raghuram Rajan
+Roland Benabou
+Oliver Hart
+Jeremy Stein
+John Bound
+James Hines
+Richard Thaler
+Colin Camerer
+Charles Jones
+Michael Woodford
+Judith Chevalier
+Michael Kremer
+Alwyn Young
+Harriet E. Hoffman
+Alberto Alesina
+Edward L. Glaeser
+Lawrence F. Katz
+Daron Acemoglu
+Janet Currie
+Michael Kremer
+George Akerlof
+Dennis Epple
+Roberto Perotti
+Susan C. Athey
+Ernst Fehr
+Raghuram Rajan
+David Baron
+Claudia Goldin
+Jeremy Stein
+John Bound
+Gene Grossman
+Richard Thaler
+Andrew Caplin
+Oliver Hart
+Michael Waldman
+Judith Chevalier
+Charles Jones
+Alwyn Young
+Harriet E. Hoffman
+Alberto Alesina
+Edward L. Glaeser
+Lawrence F. Katz
+Daron Acemoglu
+Janet Currie
+Michael Kremer
+George Akerlof
+Dennis Epple
+Roberto Perotti
+Susan C. Athey
+Ernst Fehr
+Raghuram Rajan
+David Baron
+Claudia Goldin
+Jeremy Stein
+John Bound
+Gene Grossman
+Richard Thaler
+Andrew Caplin
+Oliver Hart
+Michael Waldman
+Judith Chevalier
+Charles Jones
+Alwyn Young
+Harriet E. Hoffman
+Edward L. Glaeser
+Alberto Alesina
+Lawrence F. Katz
+George Akerlof
+Susan C. Athey
+David Baron
+Marianne Bertrand
+John Bound
+Andrew Caplin
+Judith Chevalier
+Janet Currie
+Dennis Epple
+Ernst Fehr
+Claudia Goldin
+Oliver Hart
+Charles Jones
+Michael Kremer
+Eliana La Ferrara
+Bruce Sacerdote
+Jeremy Stein
+Richard Thaler
+Jaume Ventura
+Michael Waldman
+Alwyn Young
+Harriet E. Hoffman
+Alberto Alesina
+Edward L. Glaeser
+Lawrence F. Katz
+George Akerlof
+Janet Currie
+Eliana La Ferrara
+Susan C. Athey
+William Easterly
+Robert Margo
+David Baron
+Dennis Epple
+Bruce Sacerdote
+Marianne Bertrand
+Ernst Fehr
+Jeremy Stein
+John Bound
+Claudia Goldin
+Richard Thaler
+Andrew Caplin
+Charles Jones
+Michael Waldman
+Michael Kremer
+Alwyn Young
+Harriet E. Hoffman
+Robert J. Barro
+Edward L. Glaeser
+Lawrence F. Katz
+George Akerlof
+William Easterly
+Eliana La Ferrara
+Susan C. Athey
+Glenn Ellison
+Robert Margo
+David Baron
+Dennis Epple
+Bruce Sacerdote
+Marianne Bertrand
+Ernst Fehr
+Jeremy Stein
+John Bound
+Claudia Goldin
+Richard Thaler
+Andrew Caplin
+Charles Jones
+Michael Waldma
+Janet Currie
+Michael Kremer
+Alwyn Young
+Harriet E. Hoffman
+Robert J. Barro
+Edward L. Glaeser
+Lawrence F. Katz
+George Akerlof
+Janet Currie
+Michael Kremer
+Pol Antras
+William Easterly
+Eliana La Ferrara
+Susan C. Athey
+Glenn Ellison
+Robert Margo
+David Baron
+Ernst Fehr
+Edward O'Donoghue
+Marianne Bertrand
+Claudia Goldin
+Bruce Sacerdote
+John Bound
+Charles Jones
+Jeremy Stein
+Andrew Caplin
+Narayana Kocherlakota
+Michael Waldman
+Harriet E. Hoffman
+Edward L. Glaeser
+Robert J. Barro
+Lawrence F. Katz
+George Akerlof
+Alberto Alesina
+Pol Antr?S
+Susan C. Athey
+Andrew Atkeson
+Marianne Bertrand
+Timothy Besley
+John Bound
+Andrew Caplin
+Janet Currie
+William Easterly
+Glenn Ellison
+Ernst Fehr
+Claudia Goldin
+Charles Jones
+Michael Kremer
+Robert Margo
+Edward O'Donoghue
+Bruce Sacerdote
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Edward L. Glaeser
+Lawrence F. Katz
+George Akerlof
+Alberto Alesina
+Pol Antras
+Susan C. Athey
+Andrew Atkeson
+Marianne Bertrand
+Timothy Besley
+John Bound
+Andrew Caplin
+Janet Currie
+William Easterly
+Glenn Ellison
+Ernst Fehr
+Claudia Goldin
+Charles Jones
+Peter Klenow
+Michael Kremer
+Robert Margo
+Edward O'Donoghue
+Bruce Sacerdote
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+George Akerlof
+Stephen Coate
+Peter Klenow
+Alberto Alesina
+Janet Currie
+Robert Margo
+Pol Antràs
+Glenn Ellison
+Edward Miguel
+Andrew Atkeson
+Ernst Fehr
+Edward O'Donoghue
+Marianne Bertrand
+Drew Fudenberg
+Esteban Rossi-Hansberg
+Timothy Besley
+Claudia Goldin
+Bruce Sacerdote
+David Card
+Charles Jones
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+George Akerlof
+Alberto Alesina
+Pol Antras
+Andrew Atkeson
+Marianne Bertrand
+Timothy Besley
+David Card
+Francesco Caselli
+Stephen Coate
+Janet Currie
+Glenn Ellison
+Ernst Fehr
+Drew Fudenberg
+Claudia Goldin
+Charles Jones
+Peter Klenow
+Erzo F.P. Luttmer
+Robert Margo
+Edward Miguel
+Edward O'Donoghue
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Jeremy C. Stein
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+George Akerlof
+Alberto Alesina
+Pol Antràs
+Andrew Atkeson
+Marianne Bertrand
+Timothy Besley
+David Card
+Francesco Caselli
+Stephen Coate
+Janet Currie
+Glenn Ellison
+Ernst Fehr
+Drew Fudenberg
+Claudia Goldin
+Charles Jones
+Peter Klenow
+Erzo F.P. Luttmer
+Robert Margo
+Edward Miguel
+Edward O’Donoghue
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Jeremy C. Stein
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+Jeremy C. Stein
+George Akerlof
+Alberto Alesina
+Pol Antràs
+Andrew Atkeson
+Timothy Besley
+David Card
+Stephen Coate
+Janet Currie
+Glenn Ellison
+Ernst Fehr
+Drew Fudenberg
+Claudia Goldin
+Erik Hurst
+Robert Jensen
+Charles Jones
+Peter Klenow
+Erzo F. P. Luttmer
+Robert Margo
+Edward Miguel
+Edward O’Donoghue
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Hans-Joachim Voth
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Alberto Alesina
+Pol Antràs
+Andrew Atkeson
+Timothy Besley
+Nicholas Bloom
+David Card
+Stephen Coate
+Janet Currie
+Glenn Ellison
+Ernst Fehr
+Drew Fudenberg
+Claudia Goldin
+Erik Hurst
+Robert Jensen
+Charles Jones
+Peter Klenow
+Erzo F. P. Luttmer
+Robert Margo
+Edward Miguel
+Edward O’Donoghue
+Lasse Pedersen
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Amir Suﬁ
+Hans-Joachim Voth
+Michael Waldman
+Trina Ott
+Robert J. Barro
+Elhanan Helpman
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Alberto Alesina
+Pol Antràs
+Andrew Atkeson
+Timothy Besley
+Nicholas Bloom
+David Card
+Stephen Coate
+Janet Currie
+Glenn Ellison
+Ernst Fehr
+Drew Fudenberg
+Claudia Goldin
+Erik Hurst
+Robert Jensen
+Charles Jones
+Peter Klenow
+Erzo F. P. Luttmer
+Robert Margo
+Edward Miguel
+Edward O’Donoghue
+Lasse Pedersen
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Amir Suﬁ
+Hans-Joachim Voth
+Michael Waldman
+Trina Ott
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Alberto Alesina
+Andrew Atkeson
+Timothy Besley
+Nicholas Bloom
+David Card
+Stephen Coate
+Dave Donaldson
+Pascaline Dupas
+Armin Falk
+Drew Fudenberg
+Xavier Gabaix
+Claudia Goldin
+Seema Jayachandran
+Robert Jensen
+Charles Jones
+Erzo F. P. Luttmer
+Emi Nakamura
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Lasse Pedersen
+Valerie Ramey
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Amir Suﬁ
+Hans-Joachim Voth
+Ebonya Washington
+Trina Ott
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Andrew Atkeson
+Timothy Besley
+Nicholas Bloom
+David Card
+Sylvain Chassang
+Dave Donaldson
+Pascaline Dupas
+Armin Falk
+Drew Fudenberg
+Xavier Gabaix
+Claudia Goldin
+Seema Jayachandran
+Robert Jensen
+Charles Jones
+Erzo F. P. Luttmer
+Gerard Padró I Miquel
+Emi Nakamura
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Lasse Pedersen
+Valerie Ramey
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Amir Suﬁ
+Hans-Joachim Voth
+Ebonya Washington
+Trina Ott
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Andrew Atkeson
+Timothy Besley
+Nicholas Bloom
+David Card
+Sylvain Chassang
+Dave Donaldson
+Pascaline Dupas
+Armin Falk
+Drew Fudenberg
+Xavier Gabaix
+Claudia Goldin
+Seema Jayachandran
+Robert Jensen
+Charles Jones
+Erzo F. P. Luttmer
+Gerard Padró I Miquel
+Emi Nakamura
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Lasse Pedersen
+Valerie Ramey
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Amir Sufi
+Hans-Joachim Voth
+Ebonya Washington
+Trina Ott
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+George Akerlof
+Andrew Atkeson
+Nicholas Barberis
+Timothy Besley
+Nicholas Bloom
+David Card
+Sylvain Chassang
+Dave Donaldson
+Pascaline Dupas
+Armin Falk
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+Seema Jayachandran
+Robert Jensen
+Charles Jones
+Erzo F. P. Luttmer
+Gerard Padró I Miquel
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Valerie Ramey
+Esteban Rossi-Hansberg
+Bruce Sacerdote
+Jon Steinsson
+Tomasz Strzalecki
+Amir Sufi
+Hans-Joachim Voth
+Ebonya Washington
+Thomas H. Baranga
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+Andrew Atkeson
+David Atkin
+Nicholas Barberis
+Timothy Besley
+Nicholas Bloom
+David Card
+Sylvain Chassang
+Pascaline Dupas
+Armin Falk
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+Seema Jayachandran
+Charles Jones
+Erzo F. P. Luttmer
+Gerard Padró I Miquel
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Valerie Ramey
+Stephen Redding
+Bruce Sacerdote
+Jesse M. Shapiro
+Stefanie Stantcheva
+Jon Steinsson
+Tomasz Strzalecki
+Amir Sufi
+Hans-Joachim Voth
+Ebonya Washington
+Journal Manager – Production
+Thomas H. Baranga
+Pol Antràs
+Robert J. Barro
+Lawrence F. Katz
+Andrei Shleifer
+Stefanie Stantcheva
+Andrew Atkeson
+David Atkin
+Nicholas Barberis
+Timothy Besley
+Nicholas Bloom
+David Card
+Sylvain Chassang
+Pascaline Dupas
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+Seema Jayachandran
+Gerard Padró I Miquel
+Brent Neiman
+Matthew Notowidigdo
+Nathan Nunn
+Edward O’Donoghue
+Emily Oster
+Valerie Ramey
+Stephen Redding
+Bruce Sacerdote
+Jesse M. Shapiro
+Jón Steinsson
+Tomasz Strzalecki
+Amir Sufi
+Silvana Tenreyro
+John Van Reenen
+Hans-Joachim Voth
+Ebonya Washington
+Thomas H. Baranga
+Robert J. Barro
+Lawrence F. Katz
+Nathan Nunn
+Andrei Shleifer
+Stefanie Stantcheva
+Isaiah Andrews
+Andrew Atkeson
+David Atkin
+Nicholas Barberis
+Timothy Besley
+Nicholas Bloom
+Pascaline Dupas
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+Gerard Padró I Miquel
+Brent Neiman
+Matthew Notowidigdo
+Nathan Nunn
+Edward O’Donoghue
+Emily Oster
+Amanda Pallais
+Valerie Ramey
+Stephen Redding
+Bruce Sacerdote
+Jesse M. Shapiro
+Jón Steinsson
+Tomasz Strzalecki
+Amir Sufi
+Silvana Tenreyro
+John Van Reenen
+Hans-Joachim Voth
+Ebonya Washington
+David Yanagizawa-Drott
+Thomas H. Baranga
+Robert J. Barro
+Lawrence F. Katz
+Nathan Nunn
+Andrei Shleifer
+Stefanie Stantcheva
+Sule Alan
+David Atkin
+Nicholas Barberis
+Sascha O. Becker
+Timothy Besley
+Nicholas Bloom
+Frederico Finan
+Xavier Gabaix
+Matthew Gentzkow
+Claudia Goldin
+Loukas Karabarbounis
+Gerard Padró I Miquel
+Brent Neiman
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Amanda Pallais
+Valerie Ramey
+Stephen Redding
+Bruce Sacerdote
+Jesse M. Shapiro
+Alp Simsek
+Jón Steinsson
+Tomasz Strzalecki
+Silvana Tenreyro
+John Van Reenen
+Ebonya Washington
+David Yanagizawa-Drott
+Florian Zimmermann
+Thomas H. Baranga
+Robert J. Barro
+Lawrence F. Katz
+Nathan Nunn
+Andrei Shleifer
+Stefanie Stantcheva
+Sule Alan
+David Atkin
+Ned Augenblick
+David Baqaee
+Nicholas Barberis
+Natalie Bau
+Sascha O. Becker
+Nicholas Bloom
+Frederico Finan
+Xavier Gabaix
+Peter Ganong
+Matthew Gentzkow
+Claudia Goldin
+Loukas Karabarbounis
+Trevon Logan
+Matthew Notowidigdo
+Edward O’Donoghue
+Emily Oster
+Amanda Pallais
+Valerie Ramey
+Stephen Redding
+Bruce Sacerdote
+Jesse M. Shapiro
+Alp Simsek
+Jón Steinsson
+Tomasz Strzalecki
+John Van Reenen
+Reed Walker
+Ebonya Washington
+David Yanagizawa-Drott
+Florian Zimmermann
+Thomas H. Baranga
