@@ -5,3 +5,5 @@ Pandas Lectures/*
 .DS_Store
 capstone/lib
 files_util.sh
+notes.txt
+aggregate.sh
