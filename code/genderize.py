@@ -13,7 +13,7 @@ result_file = sys.argv[2]
 with open(data_file, 'r', encoding='utf-8') as f:
     with open(result_file, 'a', encoding='utf-8') as g:
         for line in f:
-            full_name = line.split(',')[0]
+            full_name = line.split(',')[12]
             first_name = full_name.split(' ')[0]
             url = 'https://api.genderize.io?name=' + first_name 
             r = requests.get(url)
