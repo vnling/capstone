@@ -12,7 +12,6 @@ F. Cornelli
 V. Bhaskar
 P. Rey
 J. Padilla
-Board Of Directors
 Joseph Vavra
 Phillippe Jehiel
 Thomas Chaney
@@ -44,7 +43,7 @@ Melissa Dell
 P. Bolton
 Joan Llull
 Edouard Schaal
-Hyun Song Shin (Chairman)
+Hyun Song Shin
 Klaus Schmidt
 Gilat Levy
 Ray Fisman
@@ -120,7 +119,7 @@ Enrique Sentana
 Gerard Padró I Miquel
 Juuso Välimäki
 Andrea Galeotti
-Andrea Prat (Chair)
+Andrea Prat
 J. A. Beath
 Kjetil Storesletten
 G. Violante
@@ -140,7 +139,7 @@ Antonio Penta
 Fabian Waldinger
 Guy Michaels
 Bruno Biais
-Kjetil Storesletten (Chair)
+Kjetil Storesletten
 Emi Nakamura
 Jose-Victor Rios-Rull
 Ian Martin
@@ -172,7 +171,7 @@ Xavier D’Haultfoeuille
 Kurt Mitman
 Camille Landais
 Bernard S Alanié
-Mark Armstrong (Chairman)
+Mark Armstrong
 Catherine M. Thomas
 J.-V. Rios Rull
 John Hassler
@@ -216,7 +215,7 @@ Eduardo Perez-Richet
 Federica Romei
 G. Bertola
 Bàrd Harstad
-Philipp Kircher (Chair)
+Philipp Kircher
 David Yanagizawa-Drott
 H. Uhlig
 Victoria Vanasco
@@ -242,7 +241,6 @@ Elias Papaioannou
 Gregory Thwaites
 Burton Hollifield
 M. Cripps
-Chairman
 Stéphane Bonhomme
 I. Jewitt
 Runo Strulovici
@@ -280,9 +278,8 @@ M. Meyer
 J. Tirole
 G. D. Myles
 Ian Tonks
-Economics
 Gerard Padró Miquel
-Francesca Molinar I
+Francesca Molinar
 G. Imbens
 Felix Kubler
 Fuhito Kojima
@@ -307,12 +304,11 @@ Johannes Stroebel
 Henrik Kleven
 Shengxing Zhang
 S. Morris
-Nicola Fuchs-Schündeln (Chair)
+Nicola Fuchs-Schündeln
 Peter Arcidiacono
 Magne Mogstad
 Maitreesh Ghatak
 C. Meghir
-University
 C. Prendagast
 Francesca Molinari
 Ebonya Washington
@@ -370,7 +366,6 @@ B. Honore
 Narayana Kocherlakota
 Matthew Elliott
 Marco Battaglini
-Los Angeles
 Stephan Lauermann
 Nicolas Coeurdacier
 E. Sentana
