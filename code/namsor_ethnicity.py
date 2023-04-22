@@ -9,7 +9,7 @@ url = "https://v2.namsor.com/NamSorAPIv2/api2/json/diasporaBatch"
 with open(data_file, 'r', encoding='utf-8') as f:
     with open(result_file, 'a', encoding='utf-8') as g:
         for line in f:
-            full_name = line.split(',')[0]
+            full_name = line.split(',')[12]
             first_name = full_name.split(' ')[0]
             last_name = full_name.split(' ')[-1]
 
@@ -21,7 +21,7 @@ with open(data_file, 'r', encoding='utf-8') as f:
                 }
             ]}
             headers = {
-                "X-API-KEY": "198b6fb1cdaefbeb2c91841419dceb59",
+                "X-API-KEY": "",
                 "Accept": "application/json",
                 "Content-Type": "application/json"
             }
