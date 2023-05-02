@@ -71,3 +71,38 @@ author_papers = authors.join(papers.set_index('PaperId'), on=['PaperId'], how='i
 editor_papers = editors.join(papers.set_index('PaperId'), on=['PaperId'], how='inner', lsuffix='_left')
 author_papers.to_csv(f"{journal}_author_papers.csv", columns=['AuthorId', 'PaperId', 'Year', 'OriginalAuthor_left', 'NormalizedName', 'DisplayName'])
 editor_papers.to_csv(f"{journal}_editor_papers.csv", columns=['AuthorId', 'PaperId', 'Year', 'Name', 'NormalizedName'])
+
+
+"""
+citations - part 1
+"""
+reference = pd.read_csv("./PaperReferences.txt", sep="\t", names = ['CitesFrom', 'BeingCited'], memory_map=True)
+author_papers = pd.read_csv(f"{journal}_author_papers.csv")
+editor_papers = pd.read_csv(f"{journal}_editor_papers.csv")
+
+reference = reference.rename(columns={'BeingCited': 'PaperId'})
+
+author_citations = author_papers.join(reference.set_index('PaperId'), on='PaperId', how='left')
+editor_citations = editor_papers.join(reference.set_index('PaperId'), on='PaperId', how='left')
+
+author_citations.to_csv(f"{journal}_author_inter_citations.csv")
+editor_citations.to_csv(f"{journal}_editor_inter_citations.csv")
+
+"""
+citations - part 2
+"""
+papers = pd.read_csv("./Papers.txt", sep="\t", names=['PaperId','PaperRank', 'Doi','DocType','PaperTitle','OriginalTitle','BookTitle','Year','Date','OnlineDate','Publisher','JournalId','ConferenceSeriesId','ConferenceInstanceId', 'Volume','Issue','FirstPage','LastPage','ReferenceCount','PaperCitationCount','EstimatedCitation','OriginalVenue','FamilyId','FamilyRank', 'N/A','CreatedDate'])
+author_papers = pd.read_csv(f"{journal}_author_inter_citations.csv")
+editor_papers = pd.read_csv(f"{journal}_editor_inter_citations.csv")
+
+papers = papers.rename(columns={'PaperId': 'CitesFrom'})
+
+author_citations = author_papers.join(papers.set_index('CitesFrom'), on='CitesFrom', how='left', lsuffix='_paper', rsuffix='_citation')
+editor_citations = editor_papers.join(papers.set_index('CitesFrom'), on='CitesFrom', how='left', lsuffix='_paper', rsuffix='_citation')
+author_citations = author_citations.dropna(subset=['CitesFrom'])
+editor_citations = editor_citations.dropna(subset=['CitesFrom'])
+
+author_citations.to_csv(f"{journal}_author_citations.csv", 
+                        columns=['AuthorId','PaperId','Year_paper','OriginalAuthor_left','CitesFrom','Year_citation'])
+editor_citations.to_csv(f"{journal}_editor_citations.csv", 
+                        columns=['AuthorId','PaperId','Year_paper','Name','CitesFrom','Year_citation'])
