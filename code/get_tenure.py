@@ -15,12 +15,10 @@ for i in range(issue_num_start, issue_num_end+1):
     with open(filepath, 'r') as input:
         for line in input:
             line = line.rstrip()
-            if line in academics and year == academics[line][-1][1] + 1:
-                academics[line][-1][1] += 1
-            elif line not in academics:
+            if line in academics:
+                academics[line][-1][1] = year
+            else:
                 academics[line] = [[year, year]]
-            else: #there was an interval
-                academics[line].append([year, year])
 
 result = open(output_file, 'w')
 for key in academics.keys():
